@@ -1,0 +1,25 @@
+---
+title: Lägga till formulärfält i en otaggad PDF-fil
+description: Den här on-demand-sessionen går vidare till att skapa manuella formulärfält och ytterligare egenskaper för formulärfält
+role: User
+product: adobe acrobat
+level: Experienced
+thumbnail: KT-8613.jpg
+kt: 8613
+exl-id: 73e0e348-126b-440b-a90e-061911781b76
+source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+workflow-type: tm+mt
+source-wordcount: '79'
+ht-degree: 0%
+
+---
+
+# Lägga till formulärfält i en otaggad PDF-fil
+
+Den här on-demand-sessionen går vidare till att skapa manuella formulärfält och ytterligare formulärfältsegenskaper.
+
+Klicka [här](../assets/accessibilitysession6.zip) för att ladda ned en zip-fil med handfilerna för den här sessionen.
+
+Markera bilden om du vill visa videon på en separat flik i webbläsaren.
+
+[![Session 6 Video](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
