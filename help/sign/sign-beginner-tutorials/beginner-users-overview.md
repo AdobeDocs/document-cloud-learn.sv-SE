@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,28 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
     <a href="send-to-multiple-recipients.md"><strong>Skicka till flera mottagare</strong></a>
     </div>
     <em>Skicka ett dokument för e-signatur till fler än en av dem i exakt den ordning du vill</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Komma igång med Adobe Sign för nya avsändare" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Komma igång med Adobe Sign för nya avsändare</strong></a>
+    </div>
+    <em>Den här omfattande självstudiekursen är en bra startpunkt för nya avsändare i Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
