@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="Varifrån kommer PDF-filer?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Arbeta var som helst med Acrobat webben" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Varifrån kommer PDF-filer?</strong></a>
+    <a href="acrobatweb.md"><strong>Arbeta var som helst med Acrobat webben</strong></a>
     </div>
-    <em>Förstå varifrån PDF-filer kommer och hur de används</em>
+    <em>Lär dig hur du hanterar förfrågningar från affärsdokument var som helst med Acrobat webbverktyg i webbläsaren</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <a href="fill-and-sign.md"><strong>Fylla i och signera ett PDF-formulär</strong></a>
     </div>
     <em>Fyll i och signera ett PDF-formulär snabbt</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="Varifrån kommer PDF-filer?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>Varifrån kommer PDF-filer?</strong></a>
+    </div>
+    <em>Förstå varifrån PDF-filer kommer och hur de används</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
