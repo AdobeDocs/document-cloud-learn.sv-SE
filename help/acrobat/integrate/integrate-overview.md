@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer, direkt i [Microsoft 365](
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="Skapa PDF-filer i [!DNL Office] för webben" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>Skapa PDF-filer i [!DNL Office] för webben</strong></a>
+    </div>
+    <em>Lär dig hur du skapar PDF-filer utan att någonsin lämna ditt [!DNL Microsoft Office] för webbprogram</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="Arbeta med dina [!DNL SharePoint]-filer" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer, direkt i [Microsoft 365](
     <em>Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF-samarbete i [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer, direkt i [Microsoft 365](
     <em>Samarbeta och samarbeta med kollegor genom att granska, kommentera och granska PDF:er utan att någonsin behöva lämna [!DNL Microsoft Teams]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Konvertera e-postmeddelanden och bifogade filer till PDF i Outlook" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer, direkt i [Microsoft 365](
     <a href="edge.md"><strong>Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Lär dig hur du arkiverar webbsidor till PDF direkt med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Avstånd" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
