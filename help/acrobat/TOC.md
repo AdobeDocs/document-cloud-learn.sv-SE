@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
+source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 11%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 11%
 + 60-sekunders Acrobat {#60-second}
    + [Översikt](60-second/60-second-overview.md)
    + [Kombinera filer i en och samma PDF](60-second/combine-to-one-pdf.md)
-   + [Redigera PDF med Acrobat Web](60-second/edit.md)
+   + [Redigera PDF med Acrobat på webben](60-second/edit.md)
    + [Söka i flera PDF-filer samtidigt](60-second/search.md)
    + [Skapa en PDF av foton på ett ögonblick](60-second/photo.md)
    + [Konvertera en PPT-fil till PDF på telefonen](60-second/phone.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
    + [Översikt](integrate/integrate-overview.md)
    + [Skapa PDF från [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Skapa PDF-filer i [!DNL Office] för webben](integrate/createofficeweb.md)
-   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [PDF-samarbete i [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Arbeta med dina SharePoint-filer](integrate/acrobatandsp.md)
    + [Konvertera e-postmeddelanden och bifogade filer till PDF i Outlook](integrate/outlook.md)
    + [Skapa PDF-innehåll när du bläddrar med Microsoft Edge](integrate/edge.md)
