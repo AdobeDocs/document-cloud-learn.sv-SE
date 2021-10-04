@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: edc1584ce9b7190781e93a4d9a2cc7434a721ec2
+source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 11%
@@ -67,9 +67,9 @@ ht-degree: 11%
    + [Skapa PDF-filer i [!DNL Office] för webben](integrate/createofficeweb.md)
    + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Arbeta med dina SharePoint-filer](integrate/acrobatandsp.md)
-   + [Adobe Acrobat för Google Drive](integrate/acrobatandgoogle.md)
    + [Konvertera e-postmeddelanden och bifogade filer till PDF i Outlook](integrate/outlook.md)
    + [Skapa PDF-innehåll när du bläddrar med Microsoft Edge](integrate/edge.md)
+   + [Adobe Acrobat för Google Drive](integrate/acrobatandgoogle.md)
 + Bransch {#by-industry}
    + [Översikt](industry/industry-overview.md)
    + Offentlig sektor {#gov}
