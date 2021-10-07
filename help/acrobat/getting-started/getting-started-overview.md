@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '382'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Getting Started Image](../assets/Hero-GettingStarted.png)
 
-Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegvisa självstudiekurserna. Allt från att skapa ett dokument till att skydda dina PDF-filer - innehållet är utformat för att underlätta för dig att delta i PDF-arbetsflöden.
+Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegvisa självstudiekurserna. Allt från att skapa ett dokument till att skydda dina PDF-filer är det här innehållet utformat för att underlätta för dig att komma in i arbetsflödena i PDF.
 
 ## Acrobat självstudiekurser
 
@@ -25,7 +25,7 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Bekanta dig med Acrobat DC-gränssnittet" src="../assets/Interface.jpg" />
+      <img alt="Lär känna Acrobat DC-gränssnittet" src="../assets/Interface.jpg" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Bekanta dig med gränssnittet i Acrobat DC </strong></a>
@@ -44,6 +44,18 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Arbeta med Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeta med Microsoft 365</strong></a>
+    </div>
+    <em>Öka produktiviteten och arbetsflödena för affärsdokument med Acrobat och [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="Samarbeta i realtid" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,16 +65,14 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <em>Flytta dina projekt framåt genom att samla in kommentarer, samarbeta om svar och följa upp förloppet för dina dokument i realtid, var du än är</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files till PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Kombinera filer till PDF-filer</strong></a>
+     <a href="combine-to-pdf.md"><strong>Kombinera filer till PDF</strong></a>
     </div>
-    <em>Kombinera många olika filtyper i en och samma PDF</em>
+    <em>Kombinera många olika typer av filer till en enda PDF</em>
     <br>
   </td>
   <td>
@@ -72,9 +82,11 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <div>
     <a href="create-pdf.md"><strong>Skapa PDF-filer</strong></a>
     </div>
-    <em>Skapa PDF-filer av alla slags dokument</em>
+    <em>Skapa PDF från alla slags dokument</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Kommentera PDF-filer i Acrobat DC" src="../assets/Comment.jpg" />
@@ -84,29 +96,29 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     </div>
     <em>Lägga till kommentarer i en PDF-fil och dela den sedan med andra</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
-      <img alt="Redigera en PDF-fil i Acrobat DC" src="../assets/Edit.jpg" />
+      <img alt="Redigera en PDF i Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Redigera en PDF-fil i Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Redigera en PDF i Acrobat DC</strong></a>
     </div>
     <em>Redigera text och bilder i PDF-filer</em>
     <br>
   </td>
    <td>
     <a href="export-pdf.md">
-      <img alt="Exportera en PDF-fil till redigerbara format" src="../assets/Export.jpg" />
+      <img alt="Exportera ett PDF till redigerbara format" src="../assets/Export.jpg" />
     </a>
     <div>
-    <a href="export-pdf.md"><strong>Exportera en PDF-fil till redigerbara format</strong></a>
+    <a href="export-pdf.md"><strong>Exportera ett PDF till redigerbara format</strong></a>
     </div>
-    <em>Lär dig hur du exporterar PDF-filer till redigerbara format</em>
+    <em>Lär dig hur du exporterar dina PDF-filer till redigerbara format</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Skapa ifyllbara formulär" src="../assets/Form.jpg" />
@@ -114,11 +126,9 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <div>
     <a href="create-fillable-forms.md"><strong>Skapa ifyllbara formulär</strong></a>
     </div>
-    <em>Gör om ett dokument som skapats i ett annat program till ett ifyllbart PDF-formulär</em>
+    <em>Gör om ett dokument som har skapats i ett annat program till ett ifyllbart PDF-formulär</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Skanna och OCR" src="../assets/Scan.jpg" />
@@ -126,7 +136,7 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <div>
     <a href="scan-and-ocr.md"><strong>Skanna och OCR</strong></a>
     </div>
-    <em>Minska antalet stora filer och optimera PDF:erna utan att kompromissa med kvaliteten vid utbyte, publicering eller arkivering</em>
+    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten på delning, publicering eller arkivering</em>
     <br>
   </td>
   <td>
@@ -136,9 +146,11 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <div>
     <a href="organize.md"><strong>Ordna sidor</strong></a>
     </div>
-    <em>Lägga till, ersätta, extrahera, rotera, ta bort och flytta sidor i en PDF-fil</em>
+    <em>Lägga till, ersätta, extrahera, rotera, ta bort och flytta sidor i PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Protect en PDF-fil med ett lösenord" src="../assets/Protect.jpg" />
@@ -146,11 +158,9 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <div>
     <a href="password-protect.md"><strong>Protect en PDF-fil med ett lösenord</strong></a>
     </div>
-    <em>Lägg till ett lösenord i PDF-filen för att skydda andra från att öppna eller redigera filen</em>
+    <em>Lägg till ett lösenord till PDF för att skydda andra från att öppna eller redigera filen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Fylla i och signera ett PDF-formulär" src="../assets/FillSign.jpg" />
@@ -161,19 +171,14 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
     <em>Fyll i och signera ett PDF-formulär snabbt</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="Varifrån kommer PDF-filer?" src="../assets/WherePDFs.jpg" />
+      <img alt="Varifrån kommer PDF?" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Varifrån kommer PDF-filer?</strong></a>
+    <a href="where-do-pdfs-come-from.md"><strong>Varifrån kommer PDF?</strong></a>
     </div>
-    <em>Förstå varifrån PDF-filer kommer och hur de används</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Avstånd" src="../assets/Whitespacer.png" />
-    <div>
+    <em>Förstå varifrån PDF kommer och deras användningsområden</em>
     <br>
   </td>
 </tr>
