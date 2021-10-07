@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksamheten igång genom att konvertera, redigera, dela och signera PDF:er. Här hittar du ett stort antal utbildningsalternativ som utformats för att snabbt få både nybörjare och avancerade användare att komma igång med Adobe Acrobat.
+Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksamheten igång genom att konvertera, redigera, dela och signera PDF. Här hittar du ett stort antal utbildningsalternativ som utformats för att snabbt få både nybörjare och avancerade användare att komma igång med Adobe Acrobat.
 
 ## Utbildningsvägar
 
@@ -62,7 +62,7 @@ Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksa
     <div>
     <a href="integrate/integrate-overview.md"><strong>Integrera</strong></a>
     </div>
-    <em>Lägg till Acrobat i era befintliga system, processer och tillämpningar</em>
+    <em>Lägg till Acrobat i era befintliga affärssystem, processer och tillämpningar</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksa
     <div>
     <a href="mobile/mobile-overview.md"><strong>Mobila enheter</strong></a>
     </div>
-    <em>Skapa, fyll i och signera PDF-filer på din mobila enhet</em>
+    <em>Skapa, fyll i och signera PDF på din mobila enhet</em>
     <br>
   </td>  
   <td>
