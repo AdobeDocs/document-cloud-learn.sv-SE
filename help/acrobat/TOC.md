@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 11%
+source-wordcount: '295'
+ht-degree: 14%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 11%
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samarbeta i realtid](getting-started/collaborate.md)
    + [Kombinera filer till PDF](getting-started/combine-to-pdf.md)
-   + [Skapa PDF-filer](getting-started/create-pdf.md)
-   + [Kommentera PDF-filer i Acrobat DC](getting-started/comment-on-pdf-files.md)
-   + [Redigera en PDF i Acrobat DC](getting-started/edit-pdf.md)
+   + [Skapa en PDF](getting-started/create-pdf.md)
+   + [Kommentera på en PDF](getting-started/comment-on-pdf-files.md)
+   + [Redigera en PDF-fil](getting-started/edit-pdf.md)
    + [Exportera ett PDF till redigerbara format](getting-started/export-pdf.md)
    + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
    + [Skanna och OCR](getting-started/scan-and-ocr.md)
    + [Ordna sidor](getting-started/organize.md)
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
-   + [Fylla i och signera ett PDF-formulär](getting-started/fill-and-sign.md)
+   + [Fyll i och signera PDF-formulär](getting-started/fill-and-sign.md)
    + [Varifrån kommer PDF?](getting-started/where-do-pdfs-come-from.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](advanced-tasks/advanced-tasks-overview.md)

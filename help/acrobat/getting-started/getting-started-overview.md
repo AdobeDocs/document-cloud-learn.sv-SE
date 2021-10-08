@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 4%
+source-wordcount: '375'
+ht-degree: 6%
 
 ---
 
@@ -80,7 +80,7 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
       <img alt="Skapa PDF-filer" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>Skapa PDF-filer</strong></a>
+    <a href="create-pdf.md"><strong>Skapa en PDF</strong></a>
     </div>
     <em>Skapa PDF från alla slags dokument</em>
     <br>
@@ -92,7 +92,7 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
       <img alt="Kommentera PDF-filer i Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Kommentera PDF-filer i Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Kommentera på en PDF</strong></a>
     </div>
     <em>Lägga till kommentarer i en PDF-fil och dela den sedan med andra</em>
     <br>
@@ -102,7 +102,7 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
       <img alt="Redigera en PDF i Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Redigera en PDF i Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Redigera en PDF-fil</strong></a>
     </div>
     <em>Redigera text och bilder i PDF-filer</em>
     <br>
@@ -166,7 +166,7 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
       <img alt="Fylla i och signera ett PDF-formulär" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fylla i och signera ett PDF-formulär</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>Fyll i och signera ett PDF-formulär snabbt</em>
     <br>
