@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,5 @@ Utveckla program som är integrerade med Acrobat och Adobe Reader med JavaScript
 
 ## Adobe Document Services API:er
 
-[API:er för inbäddad visning och hantering av PDF-filer](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;}
+[API:er för inbäddad visning och redigering av självstudiekurser för PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;} 
+[Adobe Document Services](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
