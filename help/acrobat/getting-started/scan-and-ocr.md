@@ -1,12 +1,12 @@
 ---
 title: Skanna och OCR
-description: Konvertera skannade dokument eller bilder av dokument till sökbara, redigerbara PDF-filer och justera kvaliteten på den färdiga filen
+description: Konvertera skannade dokument eller bilder av dem till sökbara, redigerbara PDF-filer och justera kvaliteten på den färdiga filen
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: fad21a78306eb79a9046747022a4c8f47304fae9
+source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 # Skanna och OCR
 
-Konvertera skannade dokument eller bilder av dokument till sökbara, redigerbara PDF-filer och justera kvaliteten på den färdiga filen i Acrobat DC.
+Konvertera skannade dokument eller bilder av dem till sökbara, redigerbara PDF-filer och justera kvaliteten på den färdiga filen.
 
 >[!TIP]
 >
->Om du vill OCR-konvertera flera PDF-filer kan du prova att använda Actionen Wizard [a1/>.](../advanced-tasks/action.md)
+>Om du vill använda OCR-filer med flera PDF kan du försöka med att använda [Action Wizard](../advanced-tasks/action.md).
 
-1. Välj **[!UICONTROL Skanna och OCR]** från [!UICONTROL Verktyg]-centret.
+1. Välj **[!UICONTROL Skanna och OCR]** från [!UICONTROL Verktyg] i mitten eller på den högra panelen.
 
    ![Skanna steg 1](../assets/Scan_1.png)
 
@@ -33,7 +33,7 @@ Konvertera skannade dokument eller bilder av dokument till sökbara, redigerbara
 
 1. Välj **[!UICONTROL Skannat dokument]** eller **[!UICONTROL Kamerabild]** för att förbättra dokumentet.
 
-1. Klicka på **[!UICONTROL Förbättra]** för att rensa upp bilden.
+1. Välj **[!UICONTROL Förbättra]** för att rensa upp bilden.
 
    ![Skanna steg 3](../assets/Scan_3.png)
 
@@ -45,6 +45,6 @@ Konvertera skannade dokument eller bilder av dokument till sökbara, redigerbara
 
 Filen är nu en sökbar, redigerbar PDF-fil.
 
-Klicka för att ladda ned en PDF-fil med självstudiekursen *Skanna och OCR*.
+Klicka för att ladda ned en PDF till *Skanna och OCR* självstudiekurs.
 
 [![Självstudiekurs för att hämta skanning och OCR](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
