@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 14%
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 14%
    + [Arbeta var som helst med Acrobat webben](getting-started/acrobatweb.md)
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samarbeta i realtid](getting-started/collaborate.md)
-   + [Kombinera filer till PDF](getting-started/combine-to-pdf.md)
+   + [Combine Files till PDF](getting-started/combine-to-pdf.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kommentera på en PDF](getting-started/comment-on-pdf-files.md)
    + [Redigera en PDF-fil](getting-started/edit-pdf.md)
@@ -67,7 +67,7 @@ ht-degree: 14%
    + [Översikt](integrate/integrate-overview.md)
    + [Skapa PDF från [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Skapa PDF i [!DNL Office] för webben](integrate/createofficeweb.md)
-   + [Samarbeta i PDF i [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [PDF samarbetar inom [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Arbeta med dina SharePoint-filer](integrate/acrobatandsp.md)
    + [Konvertera e-postmeddelanden och bilagor till PDF i Outlook](integrate/outlook.md)
    + [Skapa PDF-innehåll när du surfar med Microsoft Edge](integrate/edge.md)
