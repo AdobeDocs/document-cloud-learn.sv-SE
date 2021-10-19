@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 6%
 
 ---
@@ -25,10 +25,10 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegv
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Lär känna Acrobat DC-gränssnittet" src="../assets/Interface.jpg" />
+      <img alt="Allmänt om arbetsytan" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Bekanta dig med gränssnittet i Acrobat DC </strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Allmänt om arbetsytan</strong></a>
     </div>
     <em>Se hur Adobe Acrobat DC-gränssnittet gör det enkelt att komma åt filer och verktyg på datorn, webben och mobila enheter</em>
     <br>

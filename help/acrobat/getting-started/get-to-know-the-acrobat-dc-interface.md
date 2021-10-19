@@ -1,20 +1,20 @@
 ---
-title: Bekanta dig med Acrobat DC-gränssnittet
-description: Lär dig hur Acrobat DC gör det enkelt att komma åt filer och verktyg på datorn, webben och mobila enheter
+title: Allmänt om arbetsytan
+description: Läs om hur Acrobat DC gör det enkelt att komma åt filer och verktyg på datorn, webben och mobila enheter
 role: User
 product: adobe acrobat
 level: Beginner
-thumbnail: 23590.jpg
+thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
-# Bekanta dig med gränssnittet i Acrobat DC 
+# Allmänt om arbetsytan
 
-Se hur Adobe Acrobat DC-gränssnittet gör det enkelt att komma åt filer och verktyg på datorn, webben och mobila enheter med hjälp av en enhetlig hemvyupplevelse.
+Se hur Acrobat DC gränssnitt gör det enkelt att komma åt filer och verktyg på datorer, webben och mobila enheter med en enhetlig arbetsyta.
 
->[!VIDEO](https://video.tv.adobe.com/v/23590?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
