@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [Översikt](getting-started/getting-started-overview.md)
    + [Bas för arbetsyta](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Arbeta var som helst med Acrobat webben](getting-started/acrobatweb.md)
+   + [Produktivitet i farten](getting-started/productivity.md)
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Samarbeta i realtid](getting-started/collaborate.md)
    + [Combine Files till PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 10%
    + [Skanna och OCR](getting-started/scan-and-ocr.md)
    + [Ordna sidor](getting-started/organize.md)
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
-   + [Fyll i och signera PDF-formulär](getting-started/fill-and-sign.md)
+   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
    + [Varifrån kommer PDF?](getting-started/where-do-pdfs-come-from.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](advanced-tasks/advanced-tasks-overview.md)
@@ -63,7 +64,7 @@ ht-degree: 10%
 + Kunskapsbyggare {#skill-builders}
    + [Översikt](skill-builder/skill-builder-overview.md)
    + [Webbinarier](skill-builder/skill-builder-webinars.md)
-+ Integrera {#integrations}
++ Integreringar {#integrations}
    + [Översikt](integrate/integrate-overview.md)
    + [Skapa PDF från [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Skapa PDF i [!DNL Office] för webben](integrate/createofficeweb.md)
@@ -72,7 +73,7 @@ ht-degree: 10%
    + [Konvertera e-postmeddelanden och bilagor till PDF i Outlook](integrate/outlook.md)
    + [Skapa PDF-innehåll när du surfar med Microsoft Edge](integrate/edge.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ Bransch {#by-industry}
++ Branscher och avdelningar {#by-industry}
    + [Översikt](industry/industry-overview.md)
    + Offentlig sektor {#gov}
       + [Översikt](industry/gov/gov-overview.md)
