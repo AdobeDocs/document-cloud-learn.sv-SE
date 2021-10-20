@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
+source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -82,7 +82,7 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>Branscher och avdelningar</strong></a>
     </div>
-    <em>Utforska exempel från branscher och avdelningar och recept som omdefinierar vad som är möjligt med e-signaturer</em>
+    <em>Utforska exempel och recept från olika branscher och avdelningar och lär dig vad som är möjligt med e-signaturer</em>
     <br>
   </td>
 </tr>
