@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 5%
 
 ---
 
@@ -57,20 +57,20 @@ Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksa
 <tr>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="Integrera" src="assets/acrobat_title_integrate.png" />
+      <img alt="Integreringar" src="assets/acrobat_title_integrate.png" />
     </a>
     <div>
-    <a href="integrate/integrate-overview.md"><strong>Integrera</strong></a>
+    <a href="integrate/integrate-overview.md"><strong>Integreringar</strong></a>
     </div>
     <em>Lägg till Acrobat i era befintliga affärssystem, processer och tillämpningar</em>
     <br>
   </td>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="Bransch" src="assets/acrobat_title_industry.png" />
+      <img alt="Branscher och avdelningar" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="industry/industry-overview.md"><strong>Bransch</strong></a>
+    <a href="industry/industry-overview.md"><strong>Branscher och avdelningar</strong></a>
     </div>
     <em>Upptäck hur företag i verkligheten använder 100 % digitalt</em>
     <br>
