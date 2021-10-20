@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 6%
@@ -75,7 +75,7 @@ ht-degree: 6%
       + [Hämta ett elektroniskt ID från Intesi Group (Advanced)](digitalid/intesi-advanced.md)
       + [Hämta ett elektroniskt ID från Intesi Group (Qualified)](digitalid/intesi-qualified.md)
       + [Signera med Intesi Group](digitalid/intesi-sign.md)
-+ Integrera {#integrations}
++ Integreringar {#integrations}
    + [Översikt](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Fylla i och signera i Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
@@ -83,7 +83,7 @@ ht-degree: 6%
       + [Skicka för signering i SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Spårning i SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Skicka dokument för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Automatisering av dokument med Adobe Sign för Microsoft Power Platform](integrations/documentautomation.md)
+      + [Automatisering av dokument med Adobe Sign for Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Skapa en dokumentmall](integrations/create-an-agreement-template.md)
       + [Konfigurera datamappning](integrations/set-up-data-mapping.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
       + [Skicka påminnelser med hjälp av konfigurationsguiden för Adobe Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder.md)
       + [Skicka meddelanden med Adobe Sign för Microsoft Dynamics och Marketo](integrations/marketo-dynamics-sms.md)
       + [Skicka påminnelser med Adobe Sign för Microsoft Dynamics 365 och Marketo](integrations/marketo-dynamics-reminder.md)
-+ Bransch och avdelning {#expand}
++ Branscher och avdelningar {#expand}
    + [Översikt](sign-usecase/expand-inspire-overview.md)
    + Kunskapsbyggaren {#innovation}
       + [Webbinarier](sign-usecase/innovation-series.md)
@@ -124,5 +124,5 @@ ht-degree: 6%
    + [Översikt](deploy-overview.md)
 + Mobila enheter {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + Självstudiekurser för mobiler {#mobile-tutorials}
+   + Mobila självstudiekurser {#mobile-tutorials}
       + [Flytande läge i Adobe Sign](mobile/liquidmode.md)

@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -67,20 +67,20 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
   </td>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Integrera" src="assets/AS_Title_Integrate.png" />
+      <img alt="Integreringar" src="assets/AS_Title_Integrate.png" />
     </a>
     <div>
-    <a href="integrations/integrations-overview.md"><strong>Integrera</strong></a>
+    <a href="integrations/integrations-overview.md"><strong>Integreringar</strong></a>
     </div>
     <em>Lägg till Adobe Sign direkt i andra program som redan används av er organisation</em>
     <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Bransch och avdelning" src="assets/AS_Title_Industry.png" />
+      <img alt="Branscher och avdelningar" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Bransch och avdelning</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Branscher och avdelningar</strong></a>
     </div>
     <em>Utforska exempel från branscher och avdelningar och recept som omdefinierar vad som är möjligt med e-signaturer</em>
     <br>
