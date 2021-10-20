@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '385'
 ht-degree: 4%
 
 ---
@@ -44,13 +44,13 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta stegvisa själv
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Arbeta med Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="Produktivitet i farten" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeta med Microsoft 365</strong></a>
+     <a href="productivity.md"><strong>Produktivitet i farten</strong></a>
     </div>
-    <em>Öka produktiviteten och arbetsflödena för affärsdokument med Acrobat och [!DNL Microsoft 365]</em>
+    <em>Gör mer direkt på surfplattan eller mobiltelefonen med Acrobat Reader mobilapp</em>
     <br>
   </td>
 </tr>

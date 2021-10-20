@@ -1,5 +1,5 @@
 ---
-title: Integrera översikt
+title: Integrering - översikt
 description: Lär dig hur du lägger till Adobe Sign i befintliga system, processer och program
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# Integrera översikt
+# Integreringar - översikt
 
 ![Signera Integrera bild](../assets/Hero-Integrate.png)
 
@@ -23,7 +23,7 @@ Du kan använda Adobe Sign i andra program som din organisation redan använder,
 >[!NOTE]
 > Om du har problem med att komma åt någon av dessa funktioner, bör du kontakta organisationens administratör för att kontrollera att integreringen är aktiverad.
 
-## Självstudiekurser för Microsoft-integreringar
+## Självstudiekurser om Microsoft-integreringar
 
 <table style="table-layout:fixed">
 <tr>
@@ -44,7 +44,7 @@ Du kan använda Adobe Sign i andra program som din organisation redan använder,
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Skicka för signering i Outlook</strong></a>
     </div>
-    <em>Skicka ett dokument för underskrift direkt i Microsoft Outlook</em>
+    <em>Skicka ett dokument för underskrift direkt inifrån Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Du kan använda Adobe Sign i andra program som din organisation redan använder,
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>Spårning i SharePoint Online</strong></a>
     </div>
-    <em>Spåra ett avtals förlopp direkt i Microsoft SharePoint</em>
+    <em>Spåra ett avtals förlopp direkt i Microsoft Sharepoint</em>
     <br>
   </td>
   <td>
@@ -76,15 +76,15 @@ Du kan använda Adobe Sign i andra program som din organisation redan använder,
     <div>
     <a href="adobe-sign-teams-mortgage.md"><strong>Skicka dokument för signering i [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Skicka dokument för underskrift direkt inom [!DNL Microsoft Teams]</em>
+    <em>Skicka dokument för underskrift direkt inifrån [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Automatisering av dokument med Adobe Sign för Microsoft Power Platform" src="../assets/SF-Button.png" />
+      <img alt="Automatisering av dokument med Adobe Sign for Microsoft Power Platform" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Automatisering av dokument med Adobe Sign för Microsoft Power Platform</strong></a>
+    <a href="documentautomation.md"><strong>Automatisering av dokument med Adobe Sign for Microsoft Power Platform</strong></a>
     </div>
     <em>Lär dig hur du aktiverar och använder Adobe Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power Apps</em>
     <br>
