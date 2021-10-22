@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 15%
+source-wordcount: '170'
+ht-degree: 12%
 
 ---
 
@@ -24,17 +24,17 @@ ht-degree: 15%
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="Starta" src="../assets/Develop_Getting-Started.png" />
+      <img alt="Skapa ett utvecklarkonto" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Komma igång</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Skapa ett utvecklarkonto</strong></a>
     </div>
-    <em>Skapa ditt utvecklarkonto nu för att komma igång</em>
+    <em>Lär dig hur du kommer igång med ett utvecklarkonto</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Lär dig mer" src="../assets/Develop_Learn.png" />
+      <img alt="Se vad du kan göra" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Se vad du kan göra</strong></a>
