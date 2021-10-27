@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: a81b5f4f9c60ecdcf95e4d5555c32e98b031a6ed
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![60-sekunders Acrobat Image](../assets/Hero-60sec.png)
 
-60-sekunders Acrobat har självstudiekurser i bitstorlek som hjälper dig att lära dig ett nytt trick i Acrobat DC på en minut eller mindre. Dessa tips hjälper dig att skaffa dig nya kunskaper i PDF-filer genom att låsa upp några av Acrobat guldkorn. Du kan titta på den ena för att få ett snabbt svar, eller titta på fem för att öka dokumentets produktivitet - och ändå få tid över till kaffebrytning.
+60-sekunders Acrobat har självstudiekurser i bitstorlek som hjälper dig att lära dig ett nytt trick i Acrobat DC på en minut eller mindre. Dessa tips hjälper dig att skaffa dig nya färdigheter för att arbeta med PDF-filer genom att frigöra några av Acrobat guldkorn. Du kan titta på den ena för att få ett snabbt svar, eller titta på fem för att öka dokumentets produktivitet - och ändå få tid över till kaffebrytning.
 
 ## 60-sekunders självstudiekurser för Acrobat
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="Kombinera filer i en och samma PDF" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="Kombinera filer till en PDF" src="../assets/60sec_Combine_1280.jpg" />
     </a>
     <div>
-    <a href="combine-to-one-pdf.md"><strong>Kombinera filer i en och samma PDF</strong></a>
+    <a href="combine-to-one-pdf.md"><strong>Kombinera filer till en PDF</strong></a>
     </div>
-    <em>Skapa snabbt ett nytt dokument genom att kombinera olika filtyper i en och samma PDF</em>
+    <em>Skapa snabbt ett nytt dokument genom att kombinera flera olika typer av filer till en enda PDF</em>
     <br>
   </td>
   <td>
@@ -41,15 +41,15 @@ ht-degree: 0%
     <div>
     <a href="edit.md"><strong>Redigera PDF med Acrobat Web</strong></a>
     </div>
-    <em>Gör enkla redigeringar av text och bilder utan att ens behöva ladda ned PDF-filen</em>
+    <em>Redigera text och bilder enkelt utan att ens behöva ladda ned PDF</em>
     <br>
   </td>
   <td>
     <a href="search.md">
-      <img alt="Söka i flera PDF-filer samtidigt" src="../assets/60sec_Search_1280.jpg" />
+      <img alt="Sök efter flera PDF-filer samtidigt" src="../assets/60sec_Search_1280.jpg" />
     </a>
     <div>
-     <a href="search.md"><strong>Söka i flera PDF-filer samtidigt</strong></a>
+     <a href="search.md"><strong>Sök efter flera PDF-filer samtidigt</strong></a>
     </div>
     <em>Starta en sökning i en PDF-fil, öppna sedan Avancerad sökning och sök i en hel mapp med PDF-filer</em>
     <br>
@@ -58,12 +58,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="photo.md">
-      <img alt="Skapa en PDF av foton på ett ögonblick" src="../assets/60sec_Photo_1280.jpg" />
+      <img alt="Skapa en PDF med foton på ett ögonblick" src="../assets/60sec_Photo_1280.jpg" />
     </a>
     <div>
-    <a href="photo.md"><strong>Skapa en PDF av foton på ett ögonblick</strong></a>
+    <a href="photo.md"><strong>Skapa en PDF med foton på ett ögonblick</strong></a>
     </div>
-    <em>Läs om hur du bara drar och släpper en massa JPG-filer på Acrobat-ikonen för att skapa en PDF-fil</em>
+    <em>Lär dig hur du bara drar och släpper ett gäng JPG på Acrobat-ikonen för att skapa en PDF</em>
     <br>
   </td>
   <td>
@@ -73,17 +73,49 @@ ht-degree: 0%
     <div>
     <a href="phone.md"><strong>Konvertera en PPT-fil till PDF på telefonen</strong></a>
     </div>
-    <em>Lär dig hur du konverterar en e-postbilaga i PowerPoint till PDF på telefonen</em>
+    <em>Lär dig hur du konverterar en e-postbilaga till PowerPoint till PDF på telefonen</em>
     <br>
   </td>  
  <td>
     <a href="indesign.md">
-      <img alt="Läs in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="Läs in PDF kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
     <div>
-    <a href="indesign.md"><strong>Läs in PDF-kommentarer i InDesign</strong></a>
+    <a href="indesign.md"><strong>Läs in PDF kommentarer i InDesign</strong></a>
     </div>
-    <em>Lär dig hur du läser in PDF-kommentarer i InDesign efter en gemensam Acrobat-granskning</em>
+    <em>Lär dig hur du läser in PDF kommentarer tillbaka till InDesign efter en delad granskning i Acrobat</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="editphoto.md">
+      <img alt="Redigera ett foto i PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+    </a>
+    <div>
+    <a href="editphoto.md"><strong>Redigera ett foto i PDF</strong></a>
+    </div>
+    <em>Lär dig göra avancerade redigeringar av ett foto i PDF med Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <a href="editgraphic.md">
+      <img alt="Redigera en bild i PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+    </a>
+    <div>
+    <a href="editgraphic.md"><strong>Redigera en bild i PDF</strong></a>
+    </div>
+    <em>Lär dig göra avancerade redigeringar av en bild i PDF med Illustrator</em>
+    <br>
+  </td>  
+ <td>
+    <a href="organize.md">
+      <img alt="Ordna sidor i en handvändning" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Ordna sidor i en handvändning</strong></a>
+    </div>
+    <em>Lär dig använda verktyget Ordna sidor för att få en fågelperspektiv på PDF</em>
     <br>
   </td>  
 </tr>

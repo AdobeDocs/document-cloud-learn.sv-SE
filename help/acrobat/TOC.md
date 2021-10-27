@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 9%
+source-wordcount: '312'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,9 @@ ht-degree: 9%
    + [Skapa en PDF med foton på ett ögonblick](60-second/photo.md)
    + [Konvertera en PPT-fil till PDF på telefonen](60-second/phone.md)
    + [Läs in PDF kommentarer i InDesign](60-second/indesign.md)
+   + [Redigera ett foto i PDF](60-second/editphoto.md)
+   + [Redigera en bild i PDF](60-second/editgraphic.md)
+   + [Ordna sidor i en handvändning](60-second/organize.md)
 + Kunskapsbyggare {#skill-builders}
    + [Översikt](skill-builder/skill-builder-overview.md)
    + [Webbinarier](skill-builder/skill-builder-webinars.md)
