@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
+source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '400'
 ht-degree: 4%
 
 ---
@@ -184,6 +184,16 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta stegvisa själv
 </tr>
 <tr>
   <td>
+    <a href="signatures.md">
+      <img alt="Hämta signaturer" src="../assets/Signatures_1280.png" />
+    </a>
+    <div>
+    <a href="signatures.md"><strong>Hämta signaturer</strong></a>
+    </div>
+    <em>Håll verksamheten igång genom att samla in juridiskt bindande e-signaturer från andra - från var som helst</em>
+    <br>
+  </td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Varifrån kommer PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -191,11 +201,6 @@ Lär dig hur du börjar använda Adobe Acrobat med de här korta stegvisa själv
     <a href="where-do-pdfs-come-from.md"><strong>Varifrån kommer PDF?</strong></a>
     </div>
     <em>Förstå varifrån PDF kommer och deras användningsområden</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Avstånd" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

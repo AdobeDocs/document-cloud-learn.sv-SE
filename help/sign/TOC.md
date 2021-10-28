@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
+source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -68,6 +68,8 @@ ht-degree: 6%
       + [Adobe Sign-texttaggar](sign-advanced-users/adobe-sign-text-tagging.md)
 + Digitalt ID {#digital-id}
    + [Översikt](digitalid/digitalid-overview.md)
+   + Aadhaar {#aadhaar}
+      + [Signera med Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
       + [Hämta ett digitalt ID från Digidentity](digitalid/digidentity-reg.md)
       + [Signera med Digidentity](digitalid/digidentity-sign.md)
