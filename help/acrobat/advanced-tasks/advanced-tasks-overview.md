@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat Getting Started Image](../assets/Hero-AdvancedTasks.png)
 
-Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur du skapar ett funktionsmakro för att upprepa flerkanalsuppgifter, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa universellt tillgängliga PDF-filer.
+Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur du skapar ett funktionsmakro för att upprepa flera olika uppgifter, tar bort känslig information, minskar och optimerar stora filer, snabbt samlar in formulärdata och skapar universellt tillgängliga PDF-filer.
 
 ## Acrobat självstudiekurser
 
@@ -25,10 +25,10 @@ Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur d
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Identifiera skillnader mellan två PDF-filer" src="../assets/Compare_1280.png" />
+      <img alt="Identifiera skillnader mellan två PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Identifiera skillnader mellan två PDF-filer</strong></a>
+    <a href="compare.md"><strong>Identifiera skillnader mellan två PDF</strong></a>
     </div>
     <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer för att förbättra arbetsflödet för dokumentgranskning</em>
     <br>
@@ -40,7 +40,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur d
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Skapa ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
+    <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt använda en uppsättning kommandon på en eller flera</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur d
     <div>
     <a href="redact.md"><strong>Redigera bort och sanera</strong></a>
     </div>
-    <em>Ta permanent bort privat eller känslig information från PDF:en</em>
+    <em>Ta permanent bort privat eller känslig information från PDF</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur d
     <div>
     <a href="reduce.md"><strong>Minska filstorleken och optimera</strong></a>
     </div>
-    <em>Minska antalet stora filer och optimera PDF:erna utan att kompromissa med kvaliteten vid utbyte, publicering eller arkivering</em>
+    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten på delning, publicering eller arkivering</em>
     <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur d
     <div>
     <a href="accessibility.md"><strong>Förbereda tillgängliga PDF-filer</strong></a>
     </div>
-    <em>Skapa tillgängliga PDF-filer</em>
+    <em>Skapa universella PDF-filer</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat DC. Lär dig hur d
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
-    <em>I den här sexdelade on-demand-webbinariet går du från grunderna i tillgänglighet till en djupdykning i taggning av PDF-filer</em>
+    <em>I den här sexdelade on-demand-webbinariet går du från grunderna i Accessiblity till en djupdykning i taggning av dina PDF-filer</em>
     <br>
   </td>
   <td>
