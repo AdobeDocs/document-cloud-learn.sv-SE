@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt använda en uppsättning kommandon på en eller flera</em>
+    <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt lägga till en uppsättning kommandon i en eller flera filer</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Förbereda tillgängliga PDF-filer" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Kontrollera PDF tillgänglighet" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Förbereda tillgängliga PDF-filer</strong></a>
+    <a href="accessibility.md"><strong>Kontrollera PDF tillgänglighet</strong></a>
     </div>
-    <em>Skapa universella PDF-filer</em>
+    <em>Lär dig hur du kontrollerar om PDF är tillgängligt för personer med funktionshinder</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
-    <em>I den här sexdelade on-demand-webbinariet går du från grunderna i Accessiblity till en djupdykning i taggning av dina PDF-filer</em>
+    <em>I den här sexdelade on-demand-webbinariet går du från grunderna i Tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
     <br>
   </td>
   <td>

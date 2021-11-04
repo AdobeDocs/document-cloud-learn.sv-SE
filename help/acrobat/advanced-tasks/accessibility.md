@@ -1,59 +1,59 @@
 ---
-title: Förbereda tillgängliga PDF-filer
-description: Använd Adobe Acrobat Pro DC för att kontrollera tillgängligheten för dina befintliga PDF-filer
+title: Kontrollera tillgängligheten för PDF
+description: Lär dig hur du kontrollerar om PDF är tillgängligt för personer med funktionshinder
 role: User
 product: adobe acrobat
-level: Experienced
+level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Förbereda tillgängliga PDF-filer
+# Kontrollera PDF tillgänglighet
 
-Lär dig hur du kontrollerar tillgängligheten för dina befintliga PDF-filer. Verktyget **[!UICONTROL Fullständig kontroll/tillgänglighetskontroll]** verifierar om dokumentet uppfyller tillgänglighetsstandarder, t.ex. PDF/UA och WCAG 2.0. **[!UICONTROL Tillgänglighetsrapporten]** sammanfattar resultatet av tillgänglighetskontrollen.
+Lär dig hur du kontrollerar om PDF är tillgängligt för personer med funktionshinder. Detta gäller även personer med nedsatt rörelseförmåga, blinda, nedsatt syn, döva, hörselskadade eller personer med nedsatt kognitiv förmåga.
 
 >[!NOTE]
 >
 >Finns endast i Acrobat Pro DC.
 
-## Använda Acrobat Pro DC [!UICONTROL Tillgänglighetskontroll] (Fullständig kontroll)
+## Tillgänglighetskontroll
 
-1. I Acrobat Pro DC väljer du **[!UICONTROL Tillgänglighet]** i verktygscentret eller rutan.
+1. Välj **[!UICONTROL Tillgänglighet]** från verktygscentret eller den högra panelen.
 
    ![Tillgänglighetssteg 1](../assets/Accessibility_1.png)
 
-1. Välj **[!UICONTROL Fullständig kontroll]** i den högra rutan.
+1. Välj **[!UICONTROL Tillgänglighetskontroll]** i den högra rutan.
 
    ![Tillgänglighetssteg 2](../assets/Accessibility_2.png)
 
-1. I dialogrutan väljer du en kategori i listrutan och objekt i checklistan.
+1. Välj en kategori i listrutan och objekt i checklistan.
 
    Lämna varje ruta ikryssad för en fullständig rapport.
 
-1. Klicka på **[!UICONTROL Starta kontroll]** för att påbörja rapporten.
+1. Välj **[!UICONTROL Starta kontroll]** för att påbörja rapporten.
 
    ![Tillgänglighetssteg 3](../assets/Accessibility_3.png)
 
-   Den vänstra navigeringsrutan öppnas och visar rapportresultaten.
-
-1. Expandera ett avsnitt för att se informationen.
+   Den vänstra navigeringsrutan öppnas och visar rapportresultaten. Expandera ett avsnitt för att se informationen.
 
    ![Tillgänglighetssteg 4](../assets/Accessibility_4.png)
 
-Du kan också använda åtgärden [!UICONTROL Gör tillgänglig] i verktyget [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), som går igenom en grundläggande uppsättning steg för att skapa en tillgänglig PDF-fil.
+Du kan också använda [!UICONTROL Gör tillgänglig] i [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) som går igenom en grundläggande uppsättning steg för att skapa ett tillgängligt PDF.
 
 ## Åtgärda tillgänglighetsproblem
 
 Högerklicka på ett alternativ i fönstret för tillgänglighetsrapporten för att visa snabbmenyn. Snabbmenyn för objekt som inte gick att kontrollera tillgängligheten ger dig möjlighet att åtgärda problemet.
 
-*Observera: vissa problem kan inte korrigeras automatiskt och du måste göra något manuellt för att åtgärda problemet. I dessa fall har Acrobat öppnat en dialogruta som talar om vad du ska korrigera.*
+>[!NOTE]
+>
+>Vissa problem kan inte korrigeras automatiskt och du måste vidta åtgärder manuellt för att åtgärda problemet. I så fall visar >Acrobat en dialogruta som talar om vad du ska korrigera.
 
-Klicka för att ladda ned en PDF-fil av *Förbereda tillgängliga PDF-filer* självstudiekursen.
+Klicka på ikonen PDF för att ladda ned *Kontrollera PDF tillgänglighet* självstudiekurs.
 
-[![Ladda ned självstudiekurs](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf) om tillgänglighet.
+[![Ladda ned självstudiekurs om tillgänglighet](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).

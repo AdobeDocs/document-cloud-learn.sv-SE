@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 8%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 8%
    + [Redigera bort och sanera](advanced-tasks/redact.md)
    + [Minska filstorleken och optimera](advanced-tasks/reduce.md)
    + [Arbeta med formulärdata](advanced-tasks/formdata.md)
-   + [Förbereda tillgängliga PDF-filer](advanced-tasks/accessibility.md)
+   + [Kontrollera PDF tillgänglighet](advanced-tasks/accessibility.md)
    + Acrobat Accessibility series {#accessibility-series}
       + [Översikt](advanced-tasks/accessibility-series.md)
       + [Introduktion till hjälpmedel för PDF](advanced-tasks/accessibilitysession1.md)
