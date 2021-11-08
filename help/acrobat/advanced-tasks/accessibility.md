@@ -7,16 +7,16 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Kontrollera PDF tillgänglighet
 
-Lär dig hur du kontrollerar om PDF är tillgängligt för personer med funktionshinder. Detta gäller även personer med nedsatt rörelseförmåga, blinda, nedsatt syn, döva, hörselskadade eller personer med nedsatt kognitiv förmåga.
+Lär dig hur du kontrollerar om PDF är tillgängligt för personer med funktionshinder, inklusive personer med nedsatt rörlighet, blinda, nedsatt syn, döv, hörselnedsättning eller personer med nedsatt kognitiv förmåga.
 
 >[!NOTE]
 >
