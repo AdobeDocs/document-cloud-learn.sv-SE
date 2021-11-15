@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Hantera och spåra dokument" src="../assets/Managing.png" />
+      <img alt="Hantera och spåra dina avtal" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Hantera och spåra dokument</strong></a>
+    <a href="manage-and-track.md"><strong>Hantera och spåra dina avtal</strong></a>
     </div>
-    <em>Hantera och spåra avtal som du har skickat för signatur</em>
+    <em>Lär dig hantera och spåra avtal som skickats för signatur</em>
     <br>
   </td>
   <td>

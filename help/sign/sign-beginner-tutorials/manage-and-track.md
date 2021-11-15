@@ -1,25 +1,25 @@
 ---
-title: Hantera och spåra dokument
-description: Lär dig hur du hanterar och spårar avtal som du har skickat för signering
+title: Hantera och spåra dina avtal
+description: Lär dig hantera och spåra avtal som skickats för signering i Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Hantera och spåra dokument
+# Hantera och spåra dina avtal
 
-Lär dig hantera och spåra dokument som du har skickat ut för signering i Adobe Sign.
+Lär dig hantera och spåra dokument som skickats för signering i Adobe Sign. Få statusuppdateringar och meddelanden i realtid för alla dokument du arbetar med.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är gratis på Experience League!
+>Den här videon är en del av kursen [Komma igång med Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) kostnadsfritt på Experience League!

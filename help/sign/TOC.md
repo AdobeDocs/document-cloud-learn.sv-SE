@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [Vad är en digital signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signera med en stämpel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Hantera {#getting-started-managing}
-      + [Hantera och spåra dokument](sign-beginner-tutorials/manage-and-track.md)
+      + [Hantera och spåra dina avtal](sign-beginner-tutorials/manage-and-track.md)
       + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Ändra ett dokument som redan har skickats för signatur](sign-beginner-tutorials/modify-in-flight.md)
 + Avancerade uppgifter {#advanced-tasks}
