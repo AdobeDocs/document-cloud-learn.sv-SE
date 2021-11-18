@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 I den här praktiska självstudiekursen lär du dig hur du omvandlar PDF genom att lägga till grafikförbättringar och automatisk numrering.
 
-<br> 
-
-## Vad du kommer att behöva
-
-[![Hämta filer](../assets/Getfiles.png)](../assets/Enhance.zip)
-Exempelfiler till övningarna (ZIP, 342 kB)
-
-<br> 
+>[!TIP]
+>
+>[![Hämta filer](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Ladda ned exempelfilerna till övningarna (ZIP, 342 kB)
 
 ## Lär dig hur du lägger till bakgrundsgrafik
 
@@ -39,7 +35,7 @@ Genom att lägga till bakgrunder kan du lägga till visuella element i PDF utan 
 1. Öppna *Altura Technology Employee Handbook.pdf* från exempelfilerna.
 1. Välj **Redigera PDF** i den högra rutan.
 1. Välj **Mer > Bakgrund > Lägg till**.
-1. Välj **Alternativ för sidintervall...** och välj 2 till 26 under **Sidor från:** alternativ, välj sedan **OK**.
+1. Välj **Alternativ för sidintervall...** och välj 2 till 26 under **Sidor från** alternativ, välj sedan **OK**.
 1. Välj alternativet Källa **Fil** och markera **Bläddra** för att lägga till *Bakgrundsgrafik.pdf* exempelfil.
 1. Välj **OK** om du vill lägga till bakgrundsbilden.
 
