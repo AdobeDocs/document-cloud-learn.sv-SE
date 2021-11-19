@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ I den här praktiska självstudiekursen lär du dig hur du omvandlar PDF genom a
 
 >[!TIP]
 >
->Ladda ned exempelfilerna till övningarna (ZIP, 342 kB)
+>[Hämta exempelfilerna](../assets/Enhance.zip) till övningarna med (ZIP, 342 kB)
 
-[![Hämta filer](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Hämta filer](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Lär dig hur du lägger till bakgrundsgrafik
 
@@ -61,5 +62,3 @@ Genom att lägga till nya sidhuvuden och sidfötter kan du skapa enhetliga PDF-f
 1. Välj 0.7 i dialogrutan **Nederkant** rutan Marginal.
 1. Välj **Spara inställningar**, skriv Revision 3.0 i rutan och välj **OK**.
 1. Välj **OK** om du vill använda den nya sidfoten på PDF.
-
-
