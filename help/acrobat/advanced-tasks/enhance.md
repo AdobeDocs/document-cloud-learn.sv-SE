@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 I den här praktiska självstudiekursen lär du dig hur du omvandlar PDF genom att lägga till grafikförbättringar och automatisk numrering.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Hämta filer" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Ladda ned exempelfilerna till övningarna (ZIP, 342 kB)
-  </td>
-</tr>
-</table>
+[![Hämta filer](../assets/Getfiles.svg)](../assets/Enhance.zip)   Ladda ned exempelfilerna till övningarna (ZIP, 342 kB)
+
+<br> 
 
 ## Lär dig hur du lägger till bakgrundsgrafik
 
@@ -65,14 +58,14 @@ Genom att lägga till nya sidhuvuden och sidfötter kan du skapa enhetliga PDF-f
 1. Ange 2 i dialogrutan **Förhandsgranska sida** box.
 1. I avsnittet Teckensnitt väljer du Calibri Bold i dialogrutan **Namn** nedrullningsbar meny.
 Välj 12 i dialogrutan **Storlek** och välj en vit färg.
-1. Type Altura Technology Confidential i dialogrutan **Text för vänster sidfot** box.
+1. Typ *Altura Technology Confidential* i dialogrutan **Text för vänster sidfot** box.
 1. Välj **Infoga sidnummer** i dialogrutan **Text för sidfot i mitten** box.
-1. Type Revision 3.0 i **Text för höger sidfot** box.
+1. Typ *Revision 3.0* i dialogrutan **Text för höger sidfot** box.
 1. Välj **Format för sidnummer och datum**.
 Ange 2 under **Startsidnummer** och markera **OK**.
 1. Välj **Alternativ för sidintervall...**.
 Ange 2 till 26 under **Sidor från:** väljer du **OK**.
 1. Ange 0,7 i dialogrutan **Nederkant** rutan Marginal.
 1. Välj **Spara inställningar**.
-Skriv Revision 3.0 i rutan och välj **OK**.
+Typ *Revision 3.0* i rutan och välj **OK**.
 1. Välj **OK** om du vill använda den nya sidfoten på PDF.
