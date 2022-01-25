@@ -1,96 +1,96 @@
 ---
-title: Dela PDF-filer och granska online
-description: Lär dig några tricks och tips för att använda Adobe Document Cloud
+title: Dela PDF-filer och granska dem online
+description: Lär dig några tricks och tips om hur du använder Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 26%
 
 ---
 
-# Dela PDF-filer och granska online
+# Dela PDF-filer och granska dem online
 
-Använd Adobe Document Cloud granskningstjänst för att enkelt dela PDF-filer för granskning från datorprogrammet Acrobat DC, webben eller mobilappen Acrobat Reader. När granskare klickar på webbadressen i e-postinbjudan på sin dator, kan de enkelt tillhandahålla feedback i en webbläsare utan att behöva logga in eller installera någon ytterligare programvara.
+Med granskningstjänsten i Adobe Document Cloud kan du enkelt dela PDF-filer för granskning från Acrobat-datorprogrammet, Document Cloud-webben eller Acrobat Reader-mobilappen. När granskare klickar på webbadressen i e-postinbjudan på sin dator, kan de enkelt tillhandahålla feedback i en webbläsare utan att behöva logga in eller installera någon ytterligare programvara.
 
-I den här övningen tittar vi på hur man
+I den här övningen går vi igenom hur man
 
 * Skicka personliga inbjudningar för att kommentera
 * Skicka en anonym eller offentlig länk i ett e-postmeddelande
 
-Här är [demofilerna](assets/01_Review.zip) för den här övningen.
+Här är [demofiler](assets/01_Review.zip) för detta.
 
 ## Skicka personliga inbjudningar för att kommentera
 
-**Steg 1:** Öppna  `localFoodTruckmenu_start.pdf` filen i Adobe Acrobat.
+**Steg 1:** Öppna `localFoodTruckmenu_start.pdf` i Adobe Acrobat.
 
-![Steg 1-bild](assets/Step1.png)
+![Steg 1 bild](assets/Step1.png)
 
-**Steg 2:** Klicka på  **[!UICONTROL Skicka för]** kommentarer på den högra panelen eller på ikonen  **[!UICONTROL Dela den här filen med]** ![](assets/sendforcommentsicon.png)  andra kommentarer längst upp till höger.
+**Steg 2:** Klicka på **[!UICONTROL Send forar Comments]** i den högra panelen eller **[!UICONTROL Dela den här filen med andra]** ![kommentarerikon](assets/sendforcommentsicon.png)  längst upp till höger.
 
-**Steg 3:** Ange mottagarnas e-postadresser. Du kan skriva ett meddelande till mottagarna eller lägga till en deadline för granskningen.
+**Steg 3:** Ange mottagarnas e-postadresser. Du kan ange ett meddelande till mottagarna eller lägga till en deadline för granskningen.
 
-![Steg 2C-bild](assets/Step2C.png)
+![Steg 2C bild](assets/Step2C.png)
 
-Du får ett e-postmeddelande när mottagarna har visat din fil.
+Du får ett e-postmeddelande när mottagarna har visat filen.
 
 ![Leveranskvittobild](assets/deliveryReceipt_Track.png)
 
-## Granskarupplevelse
+## Granskningsupplevelse
 
 Granskarna får en e-postinbjudan med en länk till gransknings-PDF:en. När de klickar på länken eller knappen **[!UICONTROL Granskning]** i inbjudan, öppnas PDF-dokumentet i en webbläsare. De kan använda kommentarsverktygen för att lägga till kommentarer i PDF-dokumentet. De kan även använda skrivbordsappen för Acrobat Reader DC eller Acrobat DC om de vill lägga till kommentarer.
 
 ## Skicka en anonym eller offentlig länk i ett e-postmeddelande
 
-**Steg 1:** Öppna  `localFoodTruckmenu_start.pdf` filen i Adobe Acrobat.
+**Steg 1:** Öppna `localFoodTruckmenu_start.pdf` i Adobe Acrobat.
 
-**Steg 2:** Klicka på  **[!UICONTROL Dela en]** ![linjär ikon](assets/sendlinkicon.png). Den delade länken genereras omedelbart. Du behöver inte vänta på att filen ska överföras till molnet. Som standard är växeln [!UICONTROL Tillåt kommentarer] på.
+**Steg 2:** Klicka **[!UICONTROL Dela en länk]** ![linkicon](assets/sendlinkicon.png). Den delade länken genereras omedelbart. Du behöver inte vänta på att filen ska överföras till molnet. Som standard [!UICONTROL Tillåt kommentarer] -knappen är på.
 
-![Steg 2L-bild](assets/Step2L.png)
+![Steg 2L bild](assets/Step2L.png)
 
-**Steg 3:** Klicka på  **[!UICONTROL Kopiera]** länk och dela länken med mottagarna.
+**Steg 3:** Klicka **[!UICONTROL Kopiera länk]** och dela länken med mottagarna.
 
 ## Göra kommentarer
 
-**Steg 1:** Klicka på  **** Kommentar på den högra panelen.
+**Steg 1:** Klicka på **[!UICONTROL Kommentar]** på den högra panelen.
 
 ![Klicka på kommentar](assets/Cselect.jpg)
 
-**Steg 2:** Använd de översta menyfliksverktygen för att markera dokumentet och/eller skriva en kommentar.
+**Steg 2:** Använd det övre menyfliksverktyget för att markera dokumentet och/eller skriva en kommentar.
 
-![comment ui](assets/commentsui.png)
+![kommentargränssnitt](assets/commentsui.png)
 
 Dina kommentarer sparas automatiskt och kan visas för andra.
 
 ## Importera PDF-kommentarer till InDesign
 
-Med InDesign CC 2019 kan du importera kommentarer direkt från PDF-filer. Du kan importera, acceptera och tillämpa ändringarna med bara ett klick. Om du markerar en kommentar på den nya PDF-kommentarspanelen letar du reda på och markerar kommentaren i InDesign-filen.
+Med InDesign CC 2019 kan du importera kommentarer direkt från PDF-filer. Du kan importera, acceptera och tillämpa ändringarna med bara ett klick. Om du väljer en kommentar på den nya PDF-kommentarspanelen letar du upp och markerar kommentaren i InDesign-filen.
 
 **Steg 1:** Hämta PDF-filen som innehåller kommentarerna.
 
 **Steg 2:** Öppna InDesign-filen.
 
-**Steg 3:** Klicka på  **** Arkiv på den översta menyn.
+**Steg 3:** Klicka **[!UICONTROL Fil]** på den övre menyn.
 
-![PDF-kommentarer i INDD](assets/inddpdf.png)
+![PDF-kommentarer i indd](assets/inddpdf.png)
 
-**Steg 4:** Klicka på  **[!UICONTROL Importera PDF-]** kommentarer i listrutan.
+**Steg 4:** Klicka **[!UICONTROL Importera PDF-kommentarer]** i listrutan.
 
-**Steg 5:** Öppna PDF-filen som innehåller kommentarerna.
+**Steg 5:** Öppna PDF där kommentarerna finns.
 
-![PDF-kommentarer i INDD](assets/inddpdfshown.png)
+![PDF-kommentarer i indd](assets/inddpdfshown.png)
 
 Kommentarer visas i användargränssnittet.
 
-## Teckning:
+## Sammanfattning:
 
 Granska och dela designversioner med Acrobat. Med Acrobat kan du
 
 * Skicka en länk till en PDF som andra kan granska.
-* Granska överallt - dator, webbläsare, mobil.
-* Samla i ett och samma dokument.
+* Granska var som helst - dator, webbläsare, mobil.
+* Samla i ett enda dokument.
 * Hantera feedback på ett och samma ställe.
 * Allt du behöver är en webbläsare.
 
-Det är enkelt att skicka och spåra kommentarer, allt på ett och samma ställe. Mottagarna kan se dem även om de inte har Acrobat! Du kan bjuda in någon att kommentera via en webbläsare. Spara tid och arbete.
+Det är enkelt att skicka och spåra kommentarer, allt på ett och samma ställe. Mottagare kan visa även om de inte har Acrobat! Du kan bjuda in någon att kommentera via en webbläsare. Spara tid och kraft.

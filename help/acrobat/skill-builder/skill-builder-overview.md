@@ -1,23 +1,23 @@
 ---
-title: Acrobat DC-kunskapsbyggare
-description: Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna
+title: Acrobat DC SKICKLIGHET BUILDERS
+description: Få koll på Acrobat med hjälp av dessa kunskapsutvecklare
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Acrobat SKompetensverktyg
+# Acrobat SKICKLIGHET BUILDERS
 
-Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå med i en [månatlig livesession](skill-builder-webinars.md).
+Få koll på Acrobat med hjälp av dessa kunskapsutvecklare. Eller gå med i [månatlig livesession](skill-builder-webinars.md).
 
-![Bild av Acrobat SKompetensbyggaren](../assets/Hero-SkillBuilders.png)
+![Acrobat SKILLS BUILDER-BILD](../assets/Hero-SkillBuilders.png)
 
 ## Bli digital
 
@@ -30,7 +30,7 @@ Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå me
     <div>
     <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>Gå från papper till PDF</strong></a>
     </div>
-    <em>Konvertera pappersdokument digitalt till PDF</em>
+    <em>Digitalt omvandla alla pappersdokument till PDF</em>
     <br>
   </td>
   <td>
@@ -38,31 +38,31 @@ Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå me
       <img alt="Papper till PDF" src="../assets/sb_prepareforsignature.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Förbered för underskrift</strong></a>
+    <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Förbereda för signering</strong></a>
     </div>
-    <em>Skapa PDF:er med e-signaturfält</em>
+    <em>Skapa PDF med e-signaturfält</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Behåll digitala
+## Håll dig digital
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank">
-      <img alt="Skapa och ordna PDF-filer" src="../assets/sb_create.png" />
+      <img alt="Skapa och organisera PDF" src="../assets/sb_create.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>Skapa och ordna PDF-filer</strong></a>
+    <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>Skapa och organisera PDF</strong></a>
     </div>
-    <em>Skapa och ordna PDF:er från vilken typ av fil som helst</em>
+    <em>Skapa och organisera PDF från valfri filtyp</em>
     <br>
   </td>
   <td>
@@ -72,17 +72,17 @@ Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå me
     <div>
     <a href="https://doccloud.adobeconnect.com/micro/" target="_blank"><strong>Acrobat och Microsoft 101</strong></a>
     </div>
-    <em>Skapa och hantera PDF:er direkt i SharePoint</em>
+    <em>Skapa och hantera PDF direkt i SharePoint</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank">
-      <img alt="Redigera dina PDF-filer" src="../assets/sb_edit.png" />
+      <img alt="Redigera PDF" src="../assets/sb_edit.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>Redigera dina PDF-filer</strong></a>
+    <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>Redigera PDF</strong></a>
     </div>
-    <em>Lägga till text, bilder, länkar och vattenstämplar i PDF-filen</em>
+    <em>Lägga till text, bilder, länkar och vattenstämplar i PDF</em>
     <br>
   </td>
 </tr>
@@ -99,12 +99,12 @@ Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå me
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
-      <img alt="Konvertera dina PDF-filer" src="../assets/sb_convert.png" />
+      <img alt="Konvertera PDF" src="../assets/sb_convert.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank"><strong>Konvertera dina PDF-filer</strong></a>
+    <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank"><strong>Konvertera PDF</strong></a>
     </div>
-    <em>Konvertera PDF:er till Word, Excel och PowerPoint</em>
+    <em>Konvertera PDF till Word, Excel och PowerPoint</em>
     <br>
   </td>
   <td>
@@ -114,35 +114,35 @@ Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå me
     <div>
     <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank"><strong>Fyll i och signera var som helst</strong></a>
     </div>
-    <em>Fyll i, signera och skicka formulär elektroniskt på vilken enhet som helst</em>
+    <em>fylla i, signera och skicka formulär elektroniskt på alla enheter</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
-      <img alt="Optimera dina PDF-filer" src="../assets/sb_optimize.png" />
+      <img alt="Optimera PDF" src="../assets/sb_optimize.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimera dina PDF-filer</strong></a>
+    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimera PDF</strong></a>
     </div>
-    <em>Förbereda PDF-filer för distribution</em>
+    <em>Förbered PDF för distribution</em>
     <br>
   </td>
   <td>
-   <img alt="Avstånd" src="../assets/Whitespacer.png" />
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Avstånd" src="../assets/Whitespacer.png" />
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Få jobbet klart
+## Få jobbet gjort
 
 <table style="table-layout:fixed">
 <tr>
@@ -153,21 +153,21 @@ Kom igång med Acrobat DC med de här interaktiva kunskapsbyggarna. Eller gå me
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank"><strong>Dela och samla in feedback</strong></a>
     </div>
-    <em>Samla in och få feedback på PDF:erna</em>
+    <em>Samla in och få feedback på din PDF</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank">
-      <img alt="Skydda dina PDF-filer" src="../assets/sb_secure.png" />
+      <img alt="Skydda ditt PDF" src="../assets/sb_secure.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Skydda dina PDF-filer</strong></a>
+    <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Skydda ditt PDF</strong></a>
     </div>
-    <em>Redigera bort och skydda känslig information i PDF-filer</em>
+    <em>Redigera bort och skydda känslig information i PDF</em>
     <br>
   </td>
   <td>
-   <img alt="Avstånd" src="../assets/Whitespacer.png" />
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

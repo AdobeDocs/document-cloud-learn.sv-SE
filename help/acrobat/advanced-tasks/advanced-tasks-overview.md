@@ -6,29 +6,29 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
 
 # Översikt över avancerade uppgifter
 
-![Acrobat Getting Started Image](../assets/Hero-AdvancedTasks.png)
+![Acrobat - startbild](../assets/Hero-AdvancedTasks.png)
 
-Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur du skapar ett funktionsmakro för att upprepa flera olika uppgifter, tar bort känslig information, minskar och optimerar stora filer, snabbt samlar in formulärdata och skapar universellt tillgängliga PDF-filer.
+Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa funktionsmakron för att upprepa triviala moment, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa universellt tillgängliga PDF-filer.
 
-## Acrobat självstudiekurser
+## Självstudiekurser för Acrobat
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="enhance.md">
-      <img alt="Förbättra din PDF" src="../assets/Enhance_1280.png" />
+      <img alt="Förbättra PDF" src="../assets/Enhance_1280.png" />
     </a>
     <div>
-    <a href="enhance.md"><strong>Förbättra din PDF</strong></a>
+    <a href="enhance.md"><strong>Förbättra PDF</strong></a>
     </div>
     <em>Omforma PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
     <br>
@@ -40,7 +40,7 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="compare.md"><strong>Identifiera skillnader mellan två PDF</strong></a>
     </div>
-    <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer för att förbättra arbetsflödet för dokumentgranskning</em>
+    <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer för att förbättra arbetsflödena för dokumentgranskning</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt lägga till en uppsättning kommandon i en eller flera filer</em>
+    <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
     <br>
   </td>  
 </tr>
@@ -72,7 +72,7 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="reduce.md"><strong>Minska filstorleken och optimera</strong></a>
     </div>
-    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten på delning, publicering eller arkivering</em>
+    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>
   </td>
   <td>
@@ -82,19 +82,19 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="formdata.md"><strong>Arbeta med formulärdata</strong></a>
     </div>
-    <em>Sammanställ blankettdata i ett och samma kalkylblad</em>
+    <em>Sammanställ formulärdata i ett kalkylblad</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibility.md">
-      <img alt="Kontrollera PDF tillgänglighet" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="Kontrollera tillgänglighet i PDF" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Kontrollera PDF tillgänglighet</strong></a>
+    <a href="accessibility.md"><strong>Kontrollera tillgänglighet i PDF</strong></a>
     </div>
-    <em>Lär dig hur du kontrollerar om PDF är tillgängligt för personer med funktionshinder</em>
+    <em>Lär dig hur du kontrollerar om PDF är universellt tillgängligt för funktionshindrade</em>
     <br>
   </td>
   <td>
@@ -104,11 +104,11 @@ Gå ett steg längre med de här avancerade verktygen i Acrobat DC. Lär dig hur
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
-    <em>I den här sexdelade on-demand-webbinariet går du från grunderna i Tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
+    <em>I den här webbseminarieserien i sex delar går du från grunderna i tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
     <br>
   </td>
   <td>
-   <img alt="Avstånd" src="../assets/Whitespacer.png" />
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

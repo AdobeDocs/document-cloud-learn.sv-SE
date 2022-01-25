@@ -1,33 +1,33 @@
 ---
-title: Förbättra din PDF
-description: Lär dig hur du omformar PDF genom att lägga till grafikförbättringar och automatisk numrering
+title: Förbättra PDF
+description: Läs om hur du omformar PDF genom att lägga till grafikförbättringar och automatisk numrering
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
-# Förbättra din PDF
+# Förbättra PDF
 
 I den här praktiska självstudiekursen lär du dig hur du omvandlar PDF genom att lägga till grafikförbättringar och automatisk numrering.
 
 <br> 
 
-## Vad du kommer att behöva
+## Vad du behöver
 
 [![Hämta filer](../assets/Getfiles.svg)](../assets/Enhance.zip)
 Exempelfiler till övningarna (ZIP, 342 kB)
 
 <br> 
 
-## Lär dig hur du lägger till bakgrundsgrafik
+## Lär dig lägga till bakgrundsgrafik
 
 Använd redigeringsverktyget för att lägga till bakgrundsgrafik i PDF.
 
@@ -35,7 +35,7 @@ Använd redigeringsverktyget för att lägga till bakgrundsgrafik i PDF.
 
 <br> 
 
-**I denna lektion: Om du vill lägga till bakgrundsgrafik i PDF med redigeringsverktyget.**
+## I denna lektion: Så här lägger du till bakgrundsgrafik i PDF
 
 Genom att lägga till bakgrunder kan du lägga till visuella element i PDF utan att gå tillbaka till den ursprungliga källfilen eller det ursprungliga programmet.
 
@@ -43,11 +43,11 @@ Genom att lägga till bakgrunder kan du lägga till visuella element i PDF utan 
 1. Välj **Redigera PDF** i den högra rutan.
 1. Välj **Mer > Bakgrund > Lägg till**.
 1. Välj **Alternativ för sidintervall...**.
-Ange 2 till 26 i dialogrutan **Sidor från** väljer du **OK**.
-1. Välj under Källa **Fil** och markera **Bläddra** för att lägga till *Bakgrundsgrafik.pdf* exempelfil.
+Ange 2 till 26 i rutan **Sidor från** och sedan välja **OK**.
+1. Under avsnittet Källa väljer du **Fil** och välja **Bläddra** lägga till *Background Graphic.pdf* exempelfil.
 1. Välj **OK** om du vill lägga till bakgrundsbilden.
 
-## Lär dig hur du lägger till en ny sidfot
+## Lär dig lägga till en ny sidfot
 
 Använd redigeringsverktyget för att lägga till en ny sidfot i PDF.
 
@@ -55,22 +55,22 @@ Använd redigeringsverktyget för att lägga till en ny sidfot i PDF.
 
 <br> 
 
-**I denna lektion: Om du vill lägga till en ny sidfot i PDF.**
+## I denna lektion: Så här lägger du till en ny sidfot i PDF
 
 Genom att lägga till nya sidhuvuden och sidfötter kan du skapa enhetliga PDF-filer för en bättre visningsupplevelse.
 
 1. Välj **Sidhuvud och sidfot > Lägg till > Lägg till ny**.
-1. Ange 2 i dialogrutan **Förhandsgranska sida** box.
-1. I avsnittet Teckensnitt väljer du Calibri Bold i dialogrutan **Namn** nedrullningsbar meny.
-Välj 12 i dialogrutan **Storlek** och välj en vit färg.
-1. Typ *Altura Technology Confidential* i dialogrutan **Text för vänster sidfot** box.
-1. Välj **Infoga sidnummer** i dialogrutan **Text för sidfot i mitten** box.
-1. Typ *Revision 3.0* i dialogrutan **Text för höger sidfot** box.
+1. Ange 2 i rutan **Förhandsgranska sida** -rutan.
+1. I avsnittet Teckensnitt väljer du Calibri fet i dialogrutan **Namn** listruta.
+Välj 12 i dialogrutan **Storlek** och väljer en vit färg.
+1. Text *Altura Technology Confidential* i **Text i vänstersidfot** -rutan.
+1. Välj **Infoga sidnummer** i **Centrera sidfotstext** -rutan.
+1. Text *Version 3.0* i **Text för högerfot** -rutan.
 1. Välj **Format för sidnummer och datum**.
-Ange 2 under **Startsidnummer** och markera **OK**.
+Ange 2 under **Startsidans nummer** och välja **OK**.
 1. Välj **Alternativ för sidintervall...**.
-Ange 2 till 26 under **Sidor från:** väljer du **OK**.
-1. Ange 0,7 i dialogrutan **Nederkant** rutan Marginal.
+Ange 2 till 26 under **Sidor från:** och sedan välja **OK**.
+1. Ange 0,7 i rutan **Nederkant** rutan Marginal.
 1. Välj **Spara inställningar**.
-Typ *Revision 3.0* i rutan och välj **OK**.
+Text *Version 3.0* i rutan och väljer **OK**.
 1. Välj **OK** om du vill använda den nya sidfoten på PDF.

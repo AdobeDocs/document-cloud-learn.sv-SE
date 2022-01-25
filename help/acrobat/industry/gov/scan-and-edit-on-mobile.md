@@ -1,23 +1,23 @@
 ---
-title: 5 tips för att arbeta var som helst med Acrobat DC - Skanna in och redigera på mobilen
-description: Lär dig hur du arbetar med mobilappar från Adobe Scan och Acrobat Reader för att få jobbet gjort var du än är
+title: 5 tips för att arbeta var som helst med Acrobat - Skanna och redigera på mobilen
+description: Lär dig hur du arbetar med mobilapparna Adobe Scan och Acrobat Reader för att få jobbet gjort oavsett var du är
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: mobile
 thumbnail: 34511.jpg
 exl-id: 6da76aff-a72f-4524-aec6-49f343f834a1
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 5 tips för att arbeta var som helst med Acrobat DC - Skanna in och redigera på mobilen
+# 5 tips för att arbeta var som helst med Acrobat - Skanna och redigera på mobilen
 
-Lär dig hur du arbetar med mobilappar från Adobe Scan och Acrobat Reader för att få jobbet gjort var du än är.
+Lär dig arbeta med mobilapparna Adobe Scan och Acrobat Reader och få jobbet gjort var du än är.
 
-## Tips nr 5 - Skanna och redigera på mobilen (1:43)
+## Tips #5 - Skanna och redigera på mobilen (1:43)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34511)

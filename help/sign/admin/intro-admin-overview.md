@@ -1,24 +1,24 @@
 ---
-title: Administratörer - översikt
-description: Lär dig grunderna i att lägga till användare i ditt konto, konfigurera grupper, dela åtkomst och konfigurera ett arbetsflöde, externt arkiv samt delade händelser och larm
+title: Översikt över administratörer
+description: Lär dig grunderna i att lägga till användare i ditt konto, konfigurera grupper, dela åtkomst och konfigurera ett arbetsflöde, ett externt arkiv och delade händelser och varningar
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
 
-# Administratörer - översikt
+# Översikt över administratörer
 
-![Bild för signaturadministratörer](../assets/Hero-Admin.png)
+![Bild för Sign-administratörer](../assets/Hero-Admin.png)
 
-Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, externt arkiv samt delade händelser och larm. De här självstudiekurserna är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Adobe Sign. Avancerade uppgifter omfattar ämnen som sträcker sig utanför administratörens konfigureringsdel och går vidare till att definiera globala inställningar, kontoåtkomst och delning samt texttaggning.
+Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Adobe Sign. De avancerade uppgifterna omfattar ämnen som expanderar förbi den del av administratörsinställningen som rör sig mot definition av globala inställningar, kontoåtkomst och delning samt texttaggning.
 
 ## Komma igång
 
@@ -26,32 +26,32 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Komma igång för administratörer" src="../assets/Up-Running.png" />
+      <img alt="Fungerar för administratörer" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Komma igång för administratörer</strong></a>
+    <a href="up-and-running-admin.md"><strong>Fungerar för administratörer</strong></a>
     </div>
-    <em>Översikt över sju huvudområden där administratörer snabbt kan komma igång med Adobe Sign</em>
+    <em>Översikt över 7 nyckelområden där administratörer snabbt kan komma igång i Adobe Sign</em>
     <br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Konfigurera delade händelser och larm" src="../assets/SharedEvents.png" />
+      <img alt="Ställa in delade händelser och varningar" src="../assets/SharedEvents.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera delade händelser och larm</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Ställa in delade händelser och varningar</strong></a>
     </div>
-    <em>Konfigurera inställningar för händelser och larm för din organisation</em>
+    <em>Konfigurera händelse- och varningsinställningar för din organisation</em>
     <br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Lägga till signerare" src="../assets/Adding-Users.png" />
+      <img alt="Lägga till användare" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Lägga till användare</strong></a>
     </div>
-    <em>Lägg till användare enskilt eller i grupp på ditt Adobe Sign-konto</em>
+    <em>Lägg till användare enskilt eller i grupp i ditt Adobe Sign-konto</em>
     <br>
   </td>
 </tr>
@@ -95,27 +95,27 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="create-a-report.md"><strong>Skapa en rapport</strong></a>
     </div>
-    <em>Skapa och schemalägg rapporter för att synliggöra organisationens användning av Adobe Sign</em>
+    <em>Skapa och schemalägg rapporter för att få insyn i organisationens användning av Adobe Sign</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Konfigurera ett webbformulär" src="../assets/Webform.png" />
+      <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Konfigurera ett webbformulär</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>Skapa ett webbformulär</strong></a>
     </div>
-    <em>Skapa ett dokument som kan signeras elektroniskt direkt på din webbplats</em>
+    <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Samla in signaturer flera gånger" src="../assets/Megasign.png" />
+      <img alt="Samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Samla in flera signaturer samtidigt</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Samla in signaturer i grupp</strong></a>
     </div>
-    <em>Samla in hundratals signaturer samtidigt för alla slags dokument</em>
+    <em>Samla hundratals signaturer samtidigt för alla dokument</em>
     <br>
   </td>
 </tr>
@@ -131,12 +131,12 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -159,12 +159,12 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Dela kontoåtkomst" src="../assets/SharingAccess.png" />
+      <img alt="Delning av kontoåtkomst" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Dela kontoåtkomst</strong></a>
+    <a href="share-account-access.md"><strong>Delning av kontoåtkomst</strong></a>
     </div>
-    <em>Ställ in skrivskyddad åtkomst till transaktioner i en annan användares konto</em>
+    <em>Ställ in skrivskyddad åtkomst till transaktioner på en annan användares konto</em>
     <br>
   </td>
   <td>
@@ -174,7 +174,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="advanced-account-sharing.md"><strong>Avancerad kontodelning</strong></a>
     </div>
-    <em>Konfigurera kontodelning så att administratörer och användare kan delegera sina sändnings-, ändrings- och visningsbehörigheter</em>
+    <em>Konfigurera kontodelning så att administratörer och användare kan delegera behörigheter för att skicka, ändra och visa</em>
     <br>
   </td>
 </tr>
@@ -186,7 +186,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Använda bioläkemedelsinställningar</strong></a>
     </div>
-    <em>Ställ in Bioläkemedelsinställningar som gör att du kan uppfylla FDA 21 CFR Part 11-kraven</em>
+    <em>Ställ in bioläkemedelsinställningar som gör att du kan uppfylla kraven för FDA 21 CFR del 11</em>
     <br>
   </td> 
   <td>
@@ -196,11 +196,11 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign-texttaggar</strong></a>
     <div>
-    <em>Bygg Adobe Sign-formulärfält med texttaggar med Adobe Acrobat DC</em>
+    <em>Skapa Adobe Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
