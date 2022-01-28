@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -24,6 +24,16 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="workforms.md">
+      <img alt="Arbeta med formulärfält" src="../assets/Workform_1280.png" />
+    </a>
+    <div>
+    <a href="workforms.md"><strong>Arbeta med formulärfält</strong></a>
+    </div>
+    <em>Lägg till olika typer av formulärfält, ange formulärfältsegenskaper och lägg till säkerhet för att skapa professionella blanketter av hög kvalitet</em>
+    <br>
+  </td>
+  <td>
     <a href="enhance.md">
       <img alt="Förbättra PDF" src="../assets/Enhance_1280.png" />
     </a>
@@ -33,16 +43,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Omforma PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
     <br>
   </td>
-  <td>
-    <a href="compare.md">
-      <img alt="Identifiera skillnader mellan två PDF" src="../assets/Compare_1280.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>Identifiera skillnader mellan två PDF</strong></a>
-    </div>
-    <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer för att förbättra arbetsflödena för dokumentgranskning</em>
-    <br>
-  </td>
+  <td>  
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -53,8 +56,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
     <br>
   </td>  
-</tr>
-<tr>
   <td>
     <a href="redact.md">
       <img alt="Redigera bort och sanera" src="../assets/Redact.jpg" />
@@ -75,6 +76,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -85,9 +88,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Sammanställ formulärdata i ett kalkylblad</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility.md">
       <img alt="Kontrollera tillgänglighet i PDF" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
@@ -105,11 +106,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>I den här webbseminarieserien i sex delar går du från grunderna i tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
