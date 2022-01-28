@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Använd Prepare Form-verktyget för att automatiskt lägga till formulärfält i
 >[!TIP]
 >
 >Aktivera enskilda tangenter i inställningarna under kategorin Allmänt.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Kombinationsegenskaper används för att sprida text jämnt över ett textfälts
 
 ## Lär dig ställa in egenskaper för flera fält samtidigt, tabbordning och skydda ett formulär
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Om du vill ange egenskaper för flera fält samtidigt, tabbordning och för att 
 
 Genom att ställa in tabbordningen ser du till att formulärifyllaren enkelt kan flytta från fält till fält när ett formulär fylls i.
 
-1. Skriv Skift + N för att visa tabbordningen.
+1. Text *Skift + N* för att visa tabbordningen.
 1. Flytta *HQ-plats* under *Antal anställda* i den högra rutan.
 1. Flytta *Projektstart* och *Projektslut* fälten under *E-POSTADRESS* i den högra rutan.
 
 Genom att skydda ett formulär ser du till att dokumentets fält eller innehåll inte kan ändras.
 
-1. Ange Ctrl + D (Cmd + D på Mac) för att visa **Dokumentegenskaper** dialog.
+1. Text *Ctrl + D (Cmd + D på Mac)* att ta upp **Dokumentegenskaper** dialog.
 1. Välj **Säkerhet** -fliken.
 1. Välj **Lösenordssäkerhet** enligt **Säkerhetsmetod:** listruta.
 1. Kontrollera **Begränsa redigering och utskrift av dokumentet. Ett lösenord krävs för att ändra dessa behörighetsinställningar.**

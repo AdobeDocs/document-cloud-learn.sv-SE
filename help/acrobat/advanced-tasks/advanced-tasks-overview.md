@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,16 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Omforma PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
     <br>
   </td>
-  <td>  
+   <td>
+    <a href="compare.md">
+      <img alt="Identifiera skillnader mellan två PDF" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>Identifiera skillnader mellan två PDF</strong></a>
+    </div>
+    <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer</em>
+    <br>
+  </td>
 </tr>
 <tr>
   <td>
