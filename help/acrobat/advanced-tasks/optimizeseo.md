@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Optimera interaktionen med PDF genom att förbereda den för webbvisning och min
 Det här steget minskar filstorleken och möjliggör **Snabb webbvisning** i PDF. **Snabb webbvisning** gör att filen omedelbart kan öppnas, visas och sökas innan hela filen direktuppspelas eller hämtas - vilket skapar en optimal slutanvändarupplevelse. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* i Windows eller *Cmd + D* på Mac) för att avgöra om **Snabb webbvisning** är aktiverat.
 
 ![Skärmdump av dokumentegenskaper](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Om du har Acrobat Pro kör du Optimera för webb och mobil i verktyget Action Wizard . Den här åtgärden konverterar färger till sRGB och bäddar in teckensnitt för enhetlig visning av PDF i webbläsare och på mobila enheter.
 
 ## Skapa ett nyckelordsfilnamn
 
