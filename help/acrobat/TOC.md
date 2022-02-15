@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 8e10aac6ae42846fe1fa77d65fd933f741e3bbbc
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 7%
+source-wordcount: '344'
+ht-degree: 8%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 7%
    + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](advanced-tasks/advanced-tasks-overview.md)
+   + [Avancerade formulärfält](advanced-tasks/advancedforms.md)
    + [Optimize PDF för SEO](advanced-tasks/optimizeseo.md)
    + [Arbeta med formulärfält](advanced-tasks/workforms.md)
    + [Förbättra PDF](advanced-tasks/enhance.md)

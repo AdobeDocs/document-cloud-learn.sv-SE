@@ -1,60 +1,60 @@
 ---
-title: Minska filstorleken och optimera
-description: Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten på delning, publicering eller arkivering
+title: Minska filstorlek och optimera
+description: Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 2cb4368511dc41bac8f64ddddb2d8d0647488ef5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 7%
 
 ---
 
 # Minska filstorleken och optimera
 
-Minska antalet filer och optimera PDF utan att kompromissa med kvaliteten vid delning, publicering eller arkivering.
+Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering.
 
 >[!NOTE]
 >
->Finns endast i Acrobat Pro DC.
+>Finns endast i Acrobat Pro.
 
-1. Välj **[!UICONTROL Optimize PDF]** från [!UICONTROL Verktyg] i mitten eller på den högra panelen.
+1. Välj **[!UICONTROL Optimize PDF]** från [!UICONTROL Verktyg] mitten eller den högra rutan.
 
-   ![Reducera steg 1](../assets/Reduce_1.png)
+   ![Minska steg 1](../assets/Reduce_1.png)
 
 1. Välj **[!UICONTROL Minska filstorleken]** och välja om du vill reducera en eller flera filer.
 
-   Filen minskas till minsta möjliga storlek samtidigt som dokumentets kvalitet behålls.
+   Filen minskas till minsta möjliga storlek samtidigt som dokumentets kvalitet bevaras.
 
-   ![Reducera steg 2](../assets/Reduce_2.png)
+   ![Minska steg 2](../assets/Reduce_2.png)
 
-1. Välj **[!UICONTROL Avancerad optimering]** väljer du sedan bland alternativen i PDF-optimering.
+1. Välj **[!UICONTROL Avancerad optimering]** och välj sedan bland alternativen i optimering av PDF.
 
-   ![Reducera steg 3](../assets/Reduce_3.png)
+   ![Minska steg 3](../assets/Reduce_3.png)
 
-1. Välj **[!UICONTROL Standard]** från **[!UICONTROL Inställningar]** om du vill använda standardinställningarna.
+1. Välj **[!UICONTROL Standard]** från **[!UICONTROL Inställningar]** -menyn för att använda standardinställningarna.
 
    Om du ändrar några inställningar i dialogrutan **[!UICONTROL PDF-optimering]** växlar menyn **Inställningar** automatiskt till **Anpassad**.
 
-1. Välj **[!UICONTROL Behåll befintlig]** från **[!UICONTROL Gör kompatibel med]** om du vill behålla den aktuella versionen av PDF eller välja en specifik version av Acrobat.
+1. Välj **[!UICONTROL Behåll befintlig]** från **[!UICONTROL Gör kompatibel med]** om du vill behålla den nuvarande versionen av PDF eller välja en viss version av Acrobat.
 
 1. Markera kryssrutan bredvid en panel (till exempel Bilder, Teckensnitt, Genomskinlighet) och välj sedan alternativ på den panelen.
 
-   ![Reducera steg 5](../assets/Reduce_5.png)
+   ![Minska steg 5](../assets/Reduce_5.png)
 
    Om du vill förhindra att alla alternativ på en panel körs under optimeringen avmarkerar du kryssrutan för den panelen.
 
-1. **(Valfritt)** Välj **[!UICONTROL Spara]** och namnge den aktuella inställningen för att skapa en anpassad markering. Om du vill ta bort en sparad inställning väljer du den i dialogrutan **Inställningar** meny och välj **Ta bort**.
+1. **(Valfritt)** Välj **[!UICONTROL Spara]** och namnge den aktuella inställningen för att skapa en anpassad markering. Om du vill ta bort en sparad inställning väljer du den på menyn **Inställningar** och väljer **Radera**.
 
-   ![Reducera steg 6](../assets/Reduce_6.png)
+   ![Minska steg 6](../assets/Reduce_6.png)
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du använda [Action Wizard](../advanced-tasks/action.md).
+>Om du vill optimera flera PDF-filer kan du prova att använda [Action Wizard](../advanced-tasks/action.md).
 
-Klicka på ikonen PDF för att ladda ned *Minska filstorleken och optimera* självstudiekurs.
+Klicka på ikonen PDF för att hämta *Minska filstorleken och optimera* självstudiekurs.
 
-[![Ladda ned Minska filstorleken och optimera självstudiekursen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).
+[![Hämta Minska filstorlek och optimera självstudiekurs](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).
