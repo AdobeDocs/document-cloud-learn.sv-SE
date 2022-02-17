@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 9%
+source-wordcount: '387'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,12 @@ ht-degree: 9%
       + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
 + 60-sekunders Acrobat {#60-second}
    + [Översikt](60-second/60-second-overview.md)
+   + [Skapa effektivare PDF-filer på ett kick](60-second/optimize.md)
+   + [Protect dina PDF-filer med ett lösenord](60-second/protect.md)
+   + [Konvertera Word till PDF, inklusive formulärfält](60-second/wordform.md)
+   + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
+   + [Export PDF till Word från telefonen](60-second/exportwordphone.md)
+   + [Identifiera text i en skannad PDF-fil](60-second/textrecognition.md)
    + [Kombinera filer till en PDF](60-second/combine-to-one-pdf.md)
    + [Redigera PDF med Acrobat på webben](60-second/edit.md)
    + [Söka efter flera PDF-filer samtidigt](60-second/search.md)
