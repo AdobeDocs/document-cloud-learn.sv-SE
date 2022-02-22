@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <div>
     <a href="custom.md"><strong>Anpassade kommandon och verktyg</strong></a>
     </div>
-    <em>Förbättra dokumentarbetsflödet med anpassade kommandon och verktygsuppsättningar</em>
+    <em>Förbättra produktiviteten i dokumentarbetsflödet med anpassade kommandon och verktyg</em>
     <br>
   </td>
   <td>
