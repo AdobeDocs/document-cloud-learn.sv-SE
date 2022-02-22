@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 4%
 
 ---
@@ -23,6 +23,16 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="custom.md">
+      <img alt="Anpassade kommandon och verktyg" src="../assets/Createcustom_1280.png" />
+    </a>
+    <div>
+    <a href="custom.md"><strong>Anpassade kommandon och verktyg</strong></a>
+    </div>
+    <em>Förbättra dokumentarbetsflödet med anpassade kommandon och verktygsuppsättningar</em>
+    <br>
+  </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Avancerade formulärfält" src="../assets/Advancedforms_1280.png" />
@@ -43,6 +53,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Optimera en PDF för förbättrad sökbarhet och rankning av sökmotorer på webben</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="workforms.md">
       <img alt="Arbeta med formulärfält" src="../assets/Workform_1280.png" />
@@ -53,8 +65,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Lägg till olika typer av formulärfält, ange formulärfältsegenskaper och lägg till säkerhet för att skapa professionella blanketter av hög kvalitet</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Förbättra PDF" src="../assets/Enhance_1280.png" />
@@ -74,7 +84,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     </div>
     <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer</em>
     <br>
-  </td> 
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -84,9 +96,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     </div>
     <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="redact.md">
       <img alt="Redigera bort och sanera" src="../assets/Redact.jpg" />
@@ -107,7 +117,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -117,8 +129,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Sammanställ formulärdata i ett kalkylblad</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Kontrollera tillgänglighet i PDF" src="../assets/Checkaccessible_1280.jpg" />
@@ -129,7 +139,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Kontrollera om PDF är universellt tillgängligt för funktionshindrade</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="accessibility-series.md">
       <img alt="Förbereda tillgängliga PDF-filer" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -137,11 +147,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>I den här webbseminarieserien i sex delar går du från grunderna i tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
