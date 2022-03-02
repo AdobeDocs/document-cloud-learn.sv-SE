@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
 
 Skapa PDF-innehåll som skiljer sig från webbsidornas.
 
-+++Lär dig hur
++++Visa information om hur du skapar unikt innehåll
 
 PDF-innehållet bör vara unikt och strukturerat på följande sätt:
 
@@ -37,11 +37,13 @@ PDF-innehållet bör vara unikt och strukturerat på följande sätt:
 
 +++
 
+<br> 
+
 ## Lägg till dokumentegenskaper
 
 PDF-filer har en rubrik och metabeskrivning precis som en webbsida.
 
-+++Lär dig hur
++++Visa information om hur du lägger till dokumentegenskaper
 
 Lägg till nyckel **[!UICONTROL Dokumentegenskaper]** enligt följande:
 
@@ -56,6 +58,8 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 +++
 
+<br> 
+
 ## Tagga PDF
 
 >[!NOTE]
@@ -64,7 +68,7 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 Att tagga innehåll i PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder - det förbättrar också SEO.
 
-+++Lär dig hur
++++Visa information om hur du taggar en PDF
 
 Tagga en PDF enligt följande:
 
@@ -78,11 +82,15 @@ Tagga en PDF enligt följande:
 
 +++
 
+<br> 
+
 ## Förbered för webben
 
 Optimera interaktionen med PDF genom att förbereda den för webbvisning och minska filstorleken.
 
-+++Lär dig hur
++++Visa information om hur du förbereder PDF för webben
+
+Gör PDF redo för webben på följande sätt:
 
 Om du vill förbereda PDF för webben väljer du **[!UICONTROL Arkiv > Spara som annan > Minskad storlek, PDF]**.
 
@@ -98,19 +106,25 @@ Det här steget minskar filstorleken och möjliggör **Snabb webbvisning** i PDF
 
 +++
 
+<br> 
+
 ## Skapa ett nyckelordsfilnamn
 
-+++Lär dig hur
++++Visa information om hur du skapar ett nyckelordsfilnamn
+
+Skapa ett nyckelordsfilnamn på följande sätt:
 
 Filnamnet blir en del av URL:en när en PDF läggs upp på webben. Ett bra sätt är att matcha din nyckelordsoptimerade titel med filnamnet. För att vara sökvänliga - använd gemener, ingen interpunktion eller hash, och undvik stoppord (a, an, och, det, för, eller, men, i, min, din, vår, och deras, etc.). Om du använder separata ord lägger du till bindestreck eller understreck mellan orden.
 
 +++
 
+<br> 
+
 ## Säkra PDF
 
 Det sista steget är att skydda PDF för att förhindra obehöriga ändringar.
 
-+++Lär dig hur
++++Visa information om hur du skyddar PDF
 
 Säkra en PDF enligt följande:
 
