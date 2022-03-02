@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
+source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben.
 
-## Skapa unikt innehåll
+## 1. Skapa unikt innehåll
 
 Skapa PDF-innehåll som skiljer sig från webbsidornas.
 
@@ -39,7 +39,7 @@ PDF-innehållet bör vara unikt och strukturerat på följande sätt:
 
 <br> 
 
-## Lägg till dokumentegenskaper
+## 2. Lägg till dokumentegenskaper
 
 PDF-filer har en rubrik och metabeskrivning precis som en webbsida.
 
@@ -60,7 +60,7 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 <br> 
 
-## Tagga PDF
+## 3. Tagga PDF
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Tagga en PDF enligt följande:
 
 <br> 
 
-## Förbered för webben
+## 4. Förbered för webben
 
 Optimera interaktionen med PDF genom att förbereda den för webbvisning och minska filstorleken.
 
@@ -108,7 +108,7 @@ Det här steget minskar filstorleken och möjliggör **Snabb webbvisning** i PDF
 
 <br> 
 
-## Skapa ett nyckelordsfilnamn
+## 5. Skapa ett nyckelordsfilnamn
 
 +++Visa information om hur du skapar ett nyckelordsfilnamn
 
@@ -120,7 +120,7 @@ Filnamnet blir en del av URL:en när en PDF läggs upp på webben. Ett bra sätt
 
 <br> 
 
-## Säkra PDF
+## 6. Säkra PDF
 
 Det sista steget är att skydda PDF för att förhindra obehöriga ändringar.
 
