@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="Optimera skannade dokument" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>Optimera skannade dokument</strong></a>
+    </div>
+    <em>Lär dig hur du förbättrar skannade dokument för en bättre visnings- och sökfunktion i PDF</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="Anpassade kommandon och verktyg" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Lär dig avancerad teknik för att bygga professionella PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF för SEO (sökmotoroptimering)" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Optimera en PDF för förbättrad sökbarhet och rankning av sökmotorer på webben</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="Arbeta med formulärfält" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     </div>
     <em>Omforma PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="Identifiera skillnader mellan två PDF" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     </div>
     <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Ta permanent bort privat eller känslig information från PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="Minska filstorleken och optimera" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Kontrollera om PDF är universellt tillgängligt för funktionshindrade</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Förbereda tillgängliga PDF-filer" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>I den här webbseminarieserien i sex delar går du från grunderna i tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
     <br>
   </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>

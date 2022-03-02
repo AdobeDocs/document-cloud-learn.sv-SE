@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
 
 ## Skapa unikt innehåll
 
-Skapa PDF-innehåll som skiljer sig från webbsidornas. PDF-innehållet bör vara unikt och strukturerat på följande sätt:
+Skapa PDF-innehåll som skiljer sig från webbsidornas.
+
++++Lär dig hur
+
+PDF-innehållet bör vara unikt och strukturerat på följande sätt:
 
 * Använda en enda huvudrubrik/rubrik som börjar med ett nyckelord
 * Använda underrubriker i en hierarkisk struktur
@@ -31,9 +35,15 @@ Skapa PDF-innehåll som skiljer sig från webbsidornas. PDF-innehållet bör var
 
    ![Skärmdump av Liquid Mode i Acrobat Reader-mobilappen](../assets/optimizeseo1.png)
 
++++
+
 ## Lägg till dokumentegenskaper
 
-PDF-filer har en rubrik och metabeskrivning precis som en webbsida. Lägg till nyckel **[!UICONTROL Dokumentegenskaper]** enligt följande:
+PDF-filer har en rubrik och metabeskrivning precis som en webbsida.
+
++++Lär dig hur
+
+Lägg till nyckel **[!UICONTROL Dokumentegenskaper]** enligt följande:
 
 1. Välj **[!UICONTROL Arkiv > Egenskaper]** eller använd kortkommandot *Ctrl + D* i Windows eller *Cmd + D* på Mac och välj **[!UICONTROL Beskrivning]** -fliken.
 1. Ange en nyckelordsoptimerad titel i **[!UICONTROL Titel:]** fält.
@@ -44,13 +54,19 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
    ![Skärmdump av dokumentegenskaper](../assets/optimizeseo2.png)
 
++++
+
 ## Tagga PDF
 
 >[!NOTE]
 >
 >Finns endast i Acrobat Pro.
 
-Att tagga innehåll i PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder - det förbättrar också SEO. Tagga en PDF enligt följande:
+Att tagga innehåll i PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder - det förbättrar också SEO.
+
++++Lär dig hur
+
+Tagga en PDF enligt följande:
 
 1. Välj **[!UICONTROL Tillgänglighet]** i **[!UICONTROL Verktyg]** mitten.
 1. Välj **[!UICONTROL Märk dokument automatiskt]** i den högra rutan.
@@ -60,9 +76,15 @@ Att tagga innehåll i PDF gör inte bara filen [Tillgänglig](https://experience
 
    ![Skärmdump av inställning av alternativ text i PDF](../assets/optimizeseo3.png)
 
++++
+
 ## Förbered för webben
 
-Optimera interaktionen med PDF genom att förbereda den för webbvisning och minska filstorleken. Om du vill förbereda PDF för webben väljer du **[!UICONTROL Arkiv > Spara som annan > Minskad storlek, PDF]**.
+Optimera interaktionen med PDF genom att förbereda den för webbvisning och minska filstorleken.
+
++++Lär dig hur
+
+Om du vill förbereda PDF för webben väljer du **[!UICONTROL Arkiv > Spara som annan > Minskad storlek, PDF]**.
 
 ![Skärmdump av dokumentegenskaper](../assets/optimizeseo4.png)
 
@@ -74,13 +96,23 @@ Det här steget minskar filstorleken och möjliggör **Snabb webbvisning** i PDF
 >
 >Om du har Acrobat Pro kör du Optimera för webb och mobil i verktyget Action Wizard . Den här åtgärden konverterar färger till sRGB och bäddar in teckensnitt för enhetlig visning av PDF i webbläsare och på mobila enheter.
 
++++
+
 ## Skapa ett nyckelordsfilnamn
+
++++Lär dig hur
 
 Filnamnet blir en del av URL:en när en PDF läggs upp på webben. Ett bra sätt är att matcha din nyckelordsoptimerade titel med filnamnet. För att vara sökvänliga - använd gemener, ingen interpunktion eller hash, och undvik stoppord (a, an, och, det, för, eller, men, i, min, din, vår, och deras, etc.). Om du använder separata ord lägger du till bindestreck eller understreck mellan orden.
 
++++
+
 ## Säkra PDF
 
-Det sista steget är att skydda PDF för att förhindra obehöriga ändringar. Säkra en PDF enligt följande:
+Det sista steget är att skydda PDF för att förhindra obehöriga ändringar.
+
++++Lär dig hur
+
+Säkra en PDF enligt följande:
 
 1. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* i Windows eller *Cmd + D* på Mac) och välj **[!UICONTROL Säkerhet]** -fliken.
 1. Kontrollera **[!UICONTROL Skriva ut redigering och utskrift av dokumentet. Ett lösenord krävs för att ändra dessa inställningar.]**
@@ -90,5 +122,7 @@ Det sista steget är att skydda PDF för att förhindra obehöriga ändringar. S
 1. Välj **[!UICONTROL OK]** och spara filen.
 
    ![Skärmdump av dokumentegenskaper](../assets/optimizeseo6.png)
+
++++
 
 Nu kan PDF publiceras på webben - med optimal potential för nyckelordsrankning och interaktion med slutanvändaren.
