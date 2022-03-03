@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,16 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="bookmarks.md">
+      <img alt="Lägga till bokmärken och hyperlänkar" src="../assets/Bookmarks_1280.png" />
+    </a>
+    <div>
+    <a href="bookmarks.md"><strong>Lägga till bokmärken och hyperlänkar</strong></a>
+    </div>
+    <em>Lär dig hur du förbättrar skannade dokument för en bättre visnings- och sökfunktion i PDF</em>
+    <br>
+  </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Optimera skannade dokument" src="../assets/Scan_1280.png" />
@@ -43,7 +53,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Förbättra produktiviteten i dokumentarbetsflödet med anpassade kommandon och verktyg</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="advancedforms.md">
       <img alt="Avancerade formulärfält" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Lär dig avancerad teknik för att bygga professionella PDF forms</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF för SEO (sökmotoroptimering)" src="../assets/seo_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Lägg till olika typer av formulärfält, ange formulärfältsegenskaper och lägg till säkerhet för att skapa professionella blanketter av hög kvalitet</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="Förbättra PDF" src="../assets/Enhance_1280.png" />
@@ -84,10 +96,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     </div>
     <em>Omforma PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
     <br>
-  </td>   
-</tr>
-<tr>
-  <td>
+  </td>
+ <td>
     <a href="compare.md">
       <img alt="Identifiera skillnader mellan två PDF" src="../assets/Compare_1280.png" />
     </a>
@@ -107,7 +117,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="redact.md">
       <img alt="Redigera bort och sanera" src="../assets/Redact.jpg" />
     </a>
@@ -117,8 +129,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Ta permanent bort privat eller känslig information från PDF</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="reduce.md">
       <img alt="Minska filstorleken och optimera" src="../assets/Reduce.jpg" />
@@ -139,7 +149,9 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Sammanställ formulärdata i ett kalkylblad</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="accessibility.md">
       <img alt="Kontrollera tillgänglighet i PDF" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -149,9 +161,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Kontrollera om PDF är universellt tillgängligt för funktionshindrade</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="accessibility-series.md">
       <img alt="Förbereda tillgängliga PDF-filer" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -159,11 +169,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
     </div>
     <em>I den här webbseminarieserien i sex delar går du från grunderna i tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
