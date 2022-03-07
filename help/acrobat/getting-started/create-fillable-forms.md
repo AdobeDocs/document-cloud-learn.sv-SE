@@ -1,42 +1,38 @@
 ---
-title: Skapa ifyllbar Forms
-description: Gör om ett dokument som har skapats i InDesign, Microsoft Word eller Excel till ett ifyllbart PDF-formulär
+title: Skapa ifyllbart Forms
+description: Förvandla ett dokument som har skapats i InDesign, Microsoft Word eller Excel till ett ifyllbart PDF-formulär
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: dede0ea5f15c49b27a210d0574e6fb2e3255269b
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Skapa ifyllbara formulär
 
-Omvandla ett skannat pappersformulär eller dokument som har skapats i InDesign, Microsoft Word, Excel eller andra program till ett ifyllbart PDF-formulär.
+Omvandla ett inskannat pappersformulär eller dokument som har skapats i InDesign, Microsoft Word, Excel eller något annat program till ett ifyllbart PDF-formulär.
 
-1. Välj **[!UICONTROL Prepare Form]** från [!UICONTROL Verktyg] i mitten eller på den högra panelen.
+1. Välj **[!UICONTROL Prepare Form]** från [!UICONTROL Verktyg] mitten eller den högra rutan.
 
    ![Formulärsteg 1](../assets/Form_1.png)
 
-1. Markera ett befintligt dokument som du vill använda som formulär (t.ex. en Word-, Excel-, InDesign- eller PDF-fil) och välj **Starta**.
+1. Markera ett dokument som du vill använda som formulär (t.ex. en Word-, Excel-, InDesign- eller PDF-fil) och markera **Start**.
 
    ![Formulärsteg 2](../assets/Form_2.png)
 
-   Om [!UICONTROL Automatisk identifiering av formulärfält] är **PÅ**, identifieras formulärfält automatiskt i PDF-filen. Dubbelkontrollera placeringen av formulärfälten.
+   Om [!UICONTROL Automatisk identifiering av formulärfält] är **PÅ** identifieras formulärfält automatiskt i PDF-filen. Dubbelkolla placeringen av formulärfälten.
 
-   Dra och släpp fält från den översta menyn och redigera formulärfältsinformation i den högra rutan.
+   Dra och släpp fält från den översta menyn och redigera information om formulärfält i den högra rutan.
 
-1. Välj **[!UICONTROL Förhandsgranska]** för att se ditt formulär.
+1. Välj **[!UICONTROL Förhandsgranska]** för att se formuläret.
 
    ![Formulärsteg 3](../assets/Form_3.png)
 
-1. Välj **[!UICONTROL Redigera]** för att fortsätta arbeta, eller välj **[!UICONTROL Fil]** **>** **[!UICONTROL Spara som]** för att spara PDF-formuläret.
+1. Välj **[!UICONTROL Redigera]** för att fortsätta arbeta eller välja **[!UICONTROL Fil]** **>** **[!UICONTROL Spara som]** för att spara formuläret PDF.
 
    ![Formulärsteg 4](../assets/Form_4.png)
-
-Klicka på ikonen PDF för att ladda ned *Skapa ifyllbara formulär* självstudiekurs.
-
-[![Hämta självstudiekurs för att skapa ifyllbara formulär](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)

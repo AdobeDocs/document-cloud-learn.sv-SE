@@ -1,54 +1,50 @@
 ---
-title: Skanna och OCR
-description: Konvertera skannade dokument eller bilder av dem till sökbara, redigerbara PDF-filer och justera kvaliteten på den färdiga filen
+title: Skanning och OCR
+description: Konvertera inskannade dokument eller bilder av dokument till sökbara, redigerbara PDF-filer och justera kvaliteten på den slutliga filen
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
 
-# Skanna och OCR
+# Skanning och OCR
 
-Konvertera skannade dokument eller bilder av dem till sökbara, redigerbara PDF-filer och justera kvaliteten på den färdiga filen.
+Konvertera inskannade dokument eller bilder av dokument till sökbara, redigerbara PDF-filer och justera kvaliteten på den slutliga filen.
 
 >[!TIP]
 >
->Om du vill använda OCR-filer med flera PDF kan du försöka med att använda [Action Wizard](../advanced-tasks/action.md).
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda [Action Wizard](../advanced-tasks/action.md).
 
-1. Välj **[!UICONTROL Skanna och OCR]** från [!UICONTROL Verktyg] i mitten eller på den högra panelen.
+1. Välj **[!UICONTROL Skanning och OCR]** från [!UICONTROL Verktyg] mitten eller den högra rutan.
 
-   ![Skanna steg 1](../assets/Scan_1.png)
+   ![Skanningssteg 1](../assets/Scan_1.png)
 
 1. Välj en fil.
 
-   Filen kan vara ett foto av ett dokument eller en redan skannad fil som har skapats med en skanner eller Adobe Scan mobilapp. Du kan också skanna ett dokument och skapa en ny fil med en ansluten skanner.
+   Den här filen kan vara ett foto av ett dokument eller en fil som redan har skannats och skapats med en skanner eller mobilappen Adobe Scan. Du kan också skanna ett dokument för att skapa en ny fil med en ansluten skanner.
 
-   ![Skanna steg 2](../assets/Scan_2.png)
+   ![Skanningssteg 2](../assets/Scan_2.png)
 
-1. Välj **[!UICONTROL Skannat dokument]** eller **[!UICONTROL Kamerabild]** för att förbättra dokumentet.
+1. Välj **[!UICONTROL Skannade dokument]** eller **[!UICONTROL Kamerabild]** för att förbättra dokumentet.
 
-1. Välj **[!UICONTROL Förbättra]** för att rensa upp bilden.
+1. Välj **[!UICONTROL Förbättra]** för att rensa bilden.
 
-   ![Skanna steg 3](../assets/Scan_3.png)
+   ![Skanningssteg 3](../assets/Scan_3.png)
 
-   Acrobat känner automatiskt igen text från skannade dokument.
+   Acrobat identifierar automatiskt inskannad text.
 
-1. Välj **[!UICONTROL Identifiera text]** om du vill identifiera text i bildfiler manuellt.
+1. Välj **[!UICONTROL Identifiera text]** för att manuellt tolka text i bildfiler.
 
-   ![Skanna steg 4](../assets/Scan_4.png)
+   ![Skanningssteg 4](../assets/Scan_4.png)
 
 Filen är nu en sökbar, redigerbar PDF-fil.
 
-Klicka för att ladda ned en PDF till *Skanna och OCR* självstudiekurs.
-
-[![Självstudiekurs för att hämta skanning och OCR](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
-
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) kostnadsfritt på Experience League!
+>Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!

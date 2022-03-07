@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,3 @@ Högerklicka på ett objekt i tillgänglighetsrapporten för att visa snabbmenyn
 >[!NOTE]
 >
 >Vissa problem kan inte åtgärdas automatiskt och du måste åtgärda problemet manuellt. Acrobat I så fall visas en dialogruta som talar om vad du ska korrigera.
-
-Klicka på ikonen PDF för att hämta *Kontrollera tillgänglighet i PDF* självstudiekurs.
-
-[![Hämta självstudiekurs om hjälpmedel](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).

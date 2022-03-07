@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -40,10 +40,6 @@ Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att 
 1. Välj **[!UICONTROL Spara]** och namnge åtgärden så att den visas på **[!UICONTROL Åtgärdslista]**.
 
 Nu kan du köra den anpassade åtgärden när du vill utföra dessa specifika steg på en eller flera PDF-filer.
-
-Klicka på ikonen PDF för att hämta *Action Wizard* självstudiekurs.
-
-[![Hämta självstudiekurs om Action Wizard](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >
