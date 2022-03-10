@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,29 @@ ht-degree: 0%
 
 Läs om hur ni kan förändra kundupplevelser och anställdas upplevelser genom att utforska användningsexempel och inspirerande idéer.
 
-## Myndigheter
+## Branscher och avdelningar
 
-Utforska våra självstudiekurser för Acrobat som är särskilt utformade för myndigheter på federal, delstatlig och lokal nivå.
-
-* [Acrobat Tutorials för myndigheter - översikt](gov/gov-overview.md)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="gov/gov-overview.md">
+      <img alt="Självstudiekurser för myndigheter" src="../assets/Government.png" />
+    </a>
+    <div>
+    <a href="gov/gov-overview.md"><strong>Självstudiekurser för myndigheter</strong></a>
+    </div>
+    <em>Utforska våra självstudiekurser för Acrobat som är särskilt utformade för myndigheter på federal, delstatlig och lokal nivå</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td> 
+</tr>
+</table>

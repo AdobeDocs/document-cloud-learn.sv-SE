@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 8%
@@ -108,7 +108,7 @@ ht-degree: 8%
          + [#1 - Tillgänglighet](industry/gov/understanding-accessibility.md)
          + [#2 - Redigering i Word](industry/gov/authoring-in-word.md)
          + [#3 - Slutbehandling i Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Göra valsedlarna i PDF mer lättillgängliga](industry/gov/making-pdf-ballots-accessible.md)
+         + [Göra valsedlar i PDF mer tillgängliga](industry/gov/making-pdf-ballots-accessible.md)
 + Framkalla {#develop}
    + [Översikt](develop/develop-overview.md)
 + Driftsätt {#deploy}

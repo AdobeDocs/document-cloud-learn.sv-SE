@@ -5,31 +5,139 @@ role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
 # Acrobat för myndigheter
 
-Svara snabbt på brådskande federala, statliga och lokala myndighetsutmaningar med den här utvalda samlingen snabbstartrecept och utbildningsvideor.
+Utforska våra självstudiekurser för Acrobat som är särskilt utformade för myndigheter på federal, delstatlig och lokal nivå.
 
-Självstudiekursen med 5 tips innehåller alla tips. Om du vill granska ett visst arbetsflöde kan du kringgå hela videon genom att välja det tips som du är mest intresserad av att få veta mer om.
-
-[5 tips för att arbeta var som helst med Acrobat för myndigheter (komplett 15:12)](5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-1. [Skaffa verktygen (2:59)](get-your-tools.md)
-1. [Samarbeta om dokument (2:03)](collaborate-on-documents.md)
-1. [Digitala Protect-dokument (1:23)](protect-digital-documents.md)
-1. [Arbeta med Forms och signaturer (7:03)](work-with-forms-and-signatures.md)
-1. [Skanna och redigera på mobilen (1:43)](scan-and-edit-on-mobile.md)
-
-Se självstudiekursen Making PDF Accessible (Göra  tillgänglig) eller välj ett arbetsflöde i kursen som du vill veta mer om.
-
-[Göra PDF tillgängligt (komplett 14:11)](making-pdfs-accessible.md)
-1. [Tillgänglighet (6:42)](understanding-accessibility.md)
-1. [Om du skriver i Word (2:51)](authoring-in-word.md)
-1. [Slutbehandling i Acrobat (4:37)](finishing-in-acrobat.md)
-
-[Göra valsedlarna i PDF mer lättillgängliga](making-pdf-ballots-accessible.md)
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md">
+      <img alt="5 tips för att arbeta var som helst med Acrobat (komplett 15:12)" src="../../assets/5tipscomplete.png" />
+    </a>
+    <div>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 tips för att arbeta var som helst med Acrobat (komplett 15:12)</strong></a>
+    </div>
+    <em>Lär dig hur du skaffar och använder verktygen i Acrobat och dess tillhörande mobilappar för att arbeta var som helst</em>
+    <br>
+  </td>
+  <td>
+    <a href="get-your-tools.md">
+      <img alt="Tips 1: Skaffa dina verktyg" src="../../assets/Tip1.png" />
+    </a>
+    <div>
+    <a href="get-your-tools.md"><strong>Tips 1: Skaffa dina verktyg</strong></a>
+    </div>
+    <em>Det första steget för att börja arbeta var som helst är att skaffa Acrobat-verktyg och tillhörande mobilappar</em>
+    <br>
+  </td>  
+  <td>
+    <a href="collaborate-on-documents.md">
+      <img alt="Tips 2: Samarbeta om dokument" src="../../assets/Tip2.png" />
+    </a>
+    <div>
+    <a href="collaborate-on-documents.md"><strong>Tips 2: Samarbeta om dokument</strong></a>
+    </div>
+    <em>Skapa enkla och smidiga arbetsflöden för dokumentsamarbete</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="protect-digital-documents.md">
+      <img alt="Tips: 3 Protect-dokument" src="../../assets/Tip3.png" />
+    </a>
+    <div>
+    <a href="protect-digital-documents.md"><strong>Tips 3: Protect digitala dokument</strong></a>
+    </div>
+    <em>Lägg till ett lösenord i PDF för att förhindra kopiering, redigering eller utskrift</em>
+    <br>
+  </td>
+  <td>
+    <a href="work-with-forms-and-signatures.md">
+      <img alt="Tips 4: Arbeta med formulär och signaturer" src="../../assets/Tip4.png" />
+    </a>
+    <div>
+    <a href="work-with-forms-and-signatures.md"><strong>Tips 4: Arbeta med formulär och signaturer</strong></a>
+    </div>
+    <em>Lär dig hur man håller sig digital när man fyller i formulär</em>
+    <br>
+  </td>
+  <td>
+    <a href="scan-and-edit-on-mobile.md">
+      <img alt="Tips 5: Skanna och redigera på mobilen" src="../../assets/Tip5.png" />
+    </a>
+    <div>
+    <a href="scan-and-edit-on-mobile.md"><strong>Tips 5: Skanna och redigera på mobilen</strong></a>
+    </div>
+    <em>Lär dig hur du arbetar med mobilapparna Adobe Scan och Acrobat Reader för att få jobbet gjort oavsett var du är</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="making-pdfs-accessible.md">
+      <img alt="Göra PDF tillgängligt (komplett 14:11)" src="../../assets/Accessiblecomplete.png" />
+    </a>
+    <div>
+    <a href="making-pdfs-accessible.md"><strong>Göra PDF tillgängligt (komplett 14:11)</strong></a>
+    </div>
+    <em>Läs om det optimala arbetsflödet för att skapa tillgängliga PDF-filer</em>
+    <br>
+  </td>
+  <td>
+    <a href="understanding-accessibility.md">
+      <img alt="Göra PDF tillgängligt: Tillgänglighet" src="../../assets/Accessibiityunderstanding.png" />
+    </a>
+    <div>
+    <a href="understanding-accessibility.md"><strong>Göra PDF tillgängligt: Tillgänglighet</strong></a>
+    </div>
+    <em>Se vad det innebär att göra en PDF tillgänglig för funktionshindrade</em>
+    <br>
+  </td>  
+  <td>
+    <a href="collaborate-on-documents.md">
+      <img alt="Göra PDF tillgängligt: Redigering i Word" src="../../assets/Accessibilityword.png" />
+    </a>
+    <div>
+    <a href="collaborate-on-documents.md"><strong>Göra PDF tillgängligt: Redigering i Word</strong></a>
+    </div>
+    <em>Lär dig de bästa sätten att skapa PDF-filer som skapas i [!DNL Microsoft Word]</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="finishing-in-acrobat.md">
+      <img alt="Göra PDF tillgängligt: Slutbehandling i Acrobat" src="../../assets/Accessibilityacrobat.png" />
+    </a>
+    <div>
+    <a href="finishing-in-acrobat.md"><strong>Göra PDF tillgängligt: Slutbehandling i Acrobat</strong></a>
+    </div>
+    <em>Läs om hur du gör klart PDF-filen med verktygen i Acrobat Pro</em>
+    <br>
+  </td>
+  <td>
+    <a href="making-pdf-ballots-accessible.md">
+      <img alt="Göra valsedlar i PDF mer tillgängliga" src="../../assets/Accessibleballots.png" />
+    </a>
+    <div>
+    <a href="making-pdf-ballots-accessible.md"><strong>Göra valsedlar i PDF mer tillgängliga</strong></a>
+    </div>
+    <em>Detta webbinarium tar upp de viktigaste tillgänglighetsområdena i PDF som behövs för att användare av hjälpmedelsteknik, t.ex. skärmläsare, ska kunna läsa och fylla i sina röstsedlar</em>
+    <br>
+  </td>  
+  <td>
+   <img alt="Mellanrum" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
