@@ -1,6 +1,6 @@
 ---
-title: Använd gemener/versaler
-description: Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer från myndigheter och företag
+title: Recept på användningsfall
+description: Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer för myndigheter och företag
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -9,112 +9,112 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Använd fallrecept
+# Recept för användningsfall
 
-Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer från myndigheter och företag. Klicka för att visa en PDF-fil med resurser och information om hur du konfigurerar dessa specifika användningsexempel för e-signaturer.
+Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer för myndigheter och företag. Klicka här om du vill visa en PDF med resurser och information om hur du konfigurerar de här specifika användningsfallen för e-signaturer.
 
-## Myndigheter
+## Användningsfall för myndigheter
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasegovgrants.md">
-      <img alt="Affärsbidrag och lån" src="../assets/UC_Business.png" />
+      <img alt="Bidrag och lån till företag" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>Affärsbidrag och lån</strong></a>
+    <a href="usecasegovgrants.md"><strong>Bidrag och lån till företag</strong></a>
     </div>
-    <em>Snabb hjälp till företag genom att ge självbetjäning för blanketter för beviljande, lån och uppskjutande av skatt</em>
+    <em>Ge snabb hjälp till företag genom att ge självbetjäning tillgång till formulär för ansökningar om bidrag, lån och uppskov med skattebetalning</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Telekområdesavtal" src="../assets/UC_MegasignR.png" />
+      <img alt="Distansarbetsavtal" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Telekområdesavtal</strong></a>
+    <a href="usecasegovtelework.md"><strong>Distansarbetsavtal</strong></a>
     </div>
-    <em>Samla effektivt in signaturer från alla era medarbetare om teleavtal, policyuppdateringar med mera</em>
+    <em>Samla in signaturer från alla medarbetare på distansavtal, policyuppdateringar med mera</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Kontrakt och rekvisition Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Kontrakt och rekvisitionsblanketter" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Kontrakt och rekvisition Forms</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Kontrakt och rekvisitionsblanketter</strong></a>
     </div>
-    <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, komplett med granskningsrapporter</em>
+    <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Resysselsättningsstöd" src="../assets/UC_WebformsR.png" />
+      <img alt="Stöd till återanställning" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Resysselsättningsstöd</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Stöd till återanställning</strong></a>
     </div>
-    <em>Hjälp medborgarna att få den hjälp de behöver utan att stå i linje med helt digitala ansökningsformulär som kan publiceras på några dagar</em>
+    <em>Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i linje med helt digitala ansökningsformulär som kan publiceras på några dagar</em>
     <br>
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
-      <img alt="Lönebesked" src="../assets/UC_PaycheckProtectionR.png" />
+      <img alt="Betalningsskydd" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Lönebesked</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Betalningsskydd</strong></a>
     </div>
     <em>Se hur du kan använda Adobe Sign för att konvertera betalningsskyddsprogramformuläret till ett interaktivt onlineformulär</em>
     <br>
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Fjärrserviceförfrågan" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="Fjärravhjälpsbegäran" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Fjärrserviceförfrågan</strong></a>
+    <a href="usecasegovremote.md"><strong>Fjärravhjälpsbegäran</strong></a>
     </div>
-    <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och skydda domarnas optioner</em>
+    <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och säkra tillstånd från domare</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Kommersiella användningsfall
+## Användningsfall för företag
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Kontrakt och rekvisition Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Kontrakt och rekvisitionsblanketter" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Kontrakt och rekvisition Forms</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Kontrakt och rekvisitionsblanketter</strong></a>
     </div>
-    <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, komplett med granskningsrapporter</em>
+    <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter</em>
     <br>
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="Politiska avtal" src="../assets/UC_Policy.png" />
+      <img alt="Policyavtal" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>Politiska avtal</strong></a>
+    <a href="usecasecompolicy.md"><strong>Policyavtal</strong></a>
     </div>
-    <em>Samla effektivt in signaturer från alla era medarbetare om teleavtal, policyuppdateringar med mera</em>
+    <em>Samla in signaturer från alla medarbetare på distansavtal, policyuppdateringar med mera</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
