@@ -1,65 +1,44 @@
 ---
-title: Adobe Acrobat SKompetensbyggare - webbinarier
-description: Adobe Acrobat SKompetensbyggare är 30 minuter långa sessioner som utformats för att ta dina PDF-arbetsflöden till nästa nivå
+title: Adobe Acrobat Skill Builder-webbinarier
+description: Adobe Acrobat Skill Builders är 30-minuterssessioner som tar PDF-arbetsflödena till nästa nivå
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 4f6de1f7ec3ccd061bcb125a2aaf18c9070f76e1
+source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Webbseminarier om Adobe Acrobat SKill Builder
+# Adobe Acrobat Skill Builder-webbinarier
 
-![Bild av Acrobat SKompetensbyggaren](../assets/sbacrobatwebinars.png)
+![Acrobat SKILLS BUILDER-BILD](../assets/sbacrobatwebinars.png)
 
-Adobe Acrobat SKompetensbyggare är 30 minuter långa sessioner som utformats för att ta dina PDF-arbetsflöden till nästa nivå. Varje månad markeras ett nytt ämne.
+Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden i PDF till nästa nivå. Varje månad markeras ett nytt ämne.
 
 ## Månatliga sessioner
 
-* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: 24 mars 2022 Lär dig grunderna i att arbeta med PDF forms: Så här lägger du till formulärfält i PDF för att samla in information från andra och hur du själv fyller i och signerar ett formulär.
+* **[PDF Security](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
+Datum: 25 augusti 2022 Få all information du behöver om hur du skyddar ditt PDF-innehåll. Under den här sessionen kommer du att dela med dig av olika tekniker för att lägga till lösenord som förhindrar visning, redigering eller utskrift av en PDF, och visa dig hur du permanent tar bort känslig information - även från osynliga metadata!
 
-* **[Lägg till interaktivitet i PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: 24 februari 2022 Delta i denna session för att lära dig mer om hur du gör PDF interaktivt med videofilmer, hyperlänkar, knappar, bokmärken med mera.
+* **[Enkel automatisering med Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
+Datum: 28 juli 2022 Sluta upprepa enkla manuella uppgifter! I den här sessionen lär du dig hur du använder Action Wizard i Acrobat DC för att gruppbearbeta dina PDF-filer och utföra upprepade åtgärder automatiskt.
 
-* **[Produktivitet, var du än är](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: 27 januari 2022 Under den här sessionen får du lära dig hur du kommer åt dina favoritverktyg från Acrobat via valfri webbläsare eller från din mobila enhet. Med Acrobat på webben kan du arbeta var du än är, och med Acrobat mobilapp kan du arbeta i mobila sammanhang.
+* **[Läsbarhet för alla: Skapa tillgänglig PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
+Datum: 23 juni 2022. Om du lägger till tillgänglighetsfunktioner i PDF får alla läsare tillgång till innehållet. Delta i den här sessionen och lär dig skapa kompatibla och tillgängliga PDF med Acrobat.
 
-* **[Arbeta med PDF i dina Microsoft-appar](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: 16 december 2021 Lär dig hur du kan lägga till arbetsflöden med PDF i Microsoft-program som du använder dagligen, inklusive team, Outlook, SharePoint och Word, PowerPoint och Excel.
+* **[Papper till pixlar till ord: Skanning och OCR](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/db1178ff-fd0e-4429-9a91-dae080cac9c3/611fa8dd-1b65-4135-800b-feb61541615f){target=&quot;_blank&quot;}**
+Datum: 26 maj 2022 Läs om hur enkelt det är att skanna in pappersdokument i redigerbara, sökbara PDF-filer.
 
-* **[Samarbete med PDF: Dela, granska och samarbeta](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: 18 november 2021 Kom och lär dig det enkla sättet att granska dokument med ditt team och få en genomgång av de kommentarverktyg som finns tillgängliga för dig. Vi kommer också att tala om att granska PDF med andra i Microsoft Teams och hur man kan ge feedback var som helst via Acrobat mobilapp och Acrobat Web.
+* **[PDF forms 2011](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/e05d5e32-598e-49a2-b847-a06207dcbfd7/39c070e1-4ef4-4fc2-aa1e-bf89fb59215e){target=&quot;_blank&quot;}**
+Datum: 21 april 2022 Ta dina ifyllbara formulär ett steg längre och lär dig mer om distributionsalternativ och hur du använder JavaScript för att skapa idiotsäkra formulär.
 
-* **[Återanvänd innehåll från PDF: Redigera och exportera](https://primetime.bluejeans.com/a2m/events/playback/9eb8dbdb-c6b1-40c9-b826-70a255a59139){target=&quot;_blank&quot;}**
-Datum: 28 oktober 2021 Lär dig hur du ändrar din befintliga PDF: redigera text och bilder, lägg till hyperlänkar och bokmärken, konvertera till Microsoft Word-, PowerPoint- och Excel-filer med mera.
+* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c7f08842-3d62-4b98-bb2a-029feef13621/5f8f1f46-c321-4fba-8c49-4b89d3de6d36){target=&quot;_blank&quot;}**
+Datum: 24 mars 2022 Lär dig grunderna i att arbeta med PDF forms: Så här lägger du till formulärfält i PDF för att samla in uppgifter från andra och hur du själv fyller i och signerar ett formulär.
 
-* **[Kom igång med Acrobat DC](https://primetime.bluejeans.com/a2m/events/playback/98e95413-4743-4377-8649-baf8c10628d4){target=&quot;_blank&quot;}**
-Datum: 23 september 2021 Kom igång med Adobe Acrobat och PDF. Lori DeFurio, Principal Product Evangelist, Adobe Document Cloud, kommer att presentera Acrobat DC-gränssnittet och visa dig hur du kan:
-   * Skapa PDF från bildfiler och dokument — inklusive Word, Excel och PowerPoint
-   * Kombinera flera filer — PDF, Word, bilder och mycket mer — till en redigerbar PDF
-   * Arbeta var som helst och när som helst med Acrobat Web och Mobile
+* **[Lägg till interaktivitet i PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c3150e33-0164-4f94-ac46-aec99b843291/14ea3de0-529f-4c79-9020-cd0a4f98aab0){target=&quot;_blank&quot;}**
+Datum: PDF 24 februari 2022 Delta i sessionen och lär dig mer om hur du interagerar med videoklipp, hyperlänkar, knappar, bokmärken med mera.
 
-* **[Säkerhetsalternativ för din PDF: Lösenord och bortredigering](https://acrobat-skill-builder-pdf-security.joinus.adobeevents.com?utm_source=exl&amp;utm_campaign=exl){target=&quot;_blank&quot;}**
-Datum: 26 augusti 2021 Lär dig hur du förhindrar att andra kan visa, redigera eller kopiera en PDF och hur du permanent kan ta bort känslig information.
-
-* **[Avancerade tips för att skapa PDF forms](https://acrobat-skill-builder-advanced-forms.joinus.adobeevents.com/register/registration/form){target=&quot;_blank&quot;}**
-Datum: 29 juli 2021 Du har redan sett hur Acrobat DC kan hjälpa dig att enkelt skapa och distribuera PDF forms. Nu har du möjligheten att göra så mycket mer. I en 30-minuters session fullmatad med avancerade tips kan du upptäcka guldkornen i dialogrutan Fältegenskaper - och gå vidare med mer interaktivitet.
-
-* **[Acrobat + Microsoft: Arbeta med PDF i Office och SharePoint on-demand-inspelning](https://event.on24.com/wcc/r/3196868/BE965B6CCBF4D3F8CAA0BD9A9BE27D95){target=&quot;_blank&quot;}**
-Datum: 24 juni 2021 Du använder redan Microsoft-appar varje dag. Håll arbetsflödet genom att ta PDF-verktygen till den plats där du redan arbetar.
-
-* **[Skapa ifyllbar PDF forms i Acrobat DC on-demand-inspelning](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=&amp;eventid=3121725&amp;sessionid=1&amp;key=25B5B53B5D1C0C28817D573D38715E98&amp;regTag=&amp;V2=false&amp;sourcepage=register){target=&quot;_blank&quot;}**
-Datum: 27 maj 2021 Ditt jobb är fullt av formulär som du vill att folk ska fylla i och returnera till dig, oavsett om det är registreringar, ansökningar eller ledighetsansökningar. Besök oss som Adobe Acrobat SKompetensverktyg och lär dig hur du kan skapa ett ifyllbart formulär i Acrobat DC.
-
-* **[Bli papperslös: Skanna, signera och skicka on demand-inspelning](https://event.on24.com/wcc/r/3032072/58D1594AD332B56C87C6791CACC48EEC){target=&quot;_blank&quot;}**
-Datum: 22 april 2021 För den här Adobe Acrobat SKompetensbyggaren firar vi jorddagen genom att gå papperslöst. Följ med Adobe-gurun Lori DeFurio och se hur enkelt det är att digitalisera med Adobe Acrobat på datorn, i en webbläsare och med din mobila enhet.
-
-* **[Arbeta med PDF: Redigera och exportera on demand-inspelningar](https://event.on24.com/wcc/r/3032046/B8E6566A2137FD0647CA1ECB7F9C0C7D){target=&quot;_blank&quot;}**
-Datum: 18 mars 2021 Lär dig hur du redigerar och exporterar innehåll i dina PDF-filer.
-
-* **[Kom igång med Acrobat: Skapa, kombinera och ordna on-demand-inspelningar](https://event.on24.com/wcc/r/2989840/9372A25C3E59A72DB07F7A42161BC26B){target=&quot;_blank&quot;}**
-Datum: 25 februari 2021 Följ med Adobe-gurun Lori DeFurio och visar hur du kan komma igång med Adobe Acrobat för att förbättra din produktivitet och få jobbet gjort.
+* **[Produktivitet var du än är](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/99e0622a-adf9-4a8b-918f-fd4f4b3a3235/53620704-6da7-4b88-97da-a1f9f0fff3f4){target=&quot;_blank&quot;}**
+Datum: 27 januari 2022 Den här sessionen lär dig hur du får åtkomst till dina Acrobat-favoritverktyg från valfri webbläsare eller från din mobila enhet. Med Acrobat på webben kan du arbeta var du än befinner dig, och med mobilappen Acrobat kan du arbeta även i rörlig miljö.
