@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -122,7 +122,7 @@ Läs om hur du får mer gjort på kortare tid med de verktyg för PDF och e-sign
 
 ## Box
 
-Läs om hur Acrobat DC och [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} gör det enklare för alla i organisationen att hålla igång verksamheten.
+Läs om hur Acrobat och [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} gör det enklare för alla i organisationen att hålla igång verksamheten.
 
 ## Dropbox
 

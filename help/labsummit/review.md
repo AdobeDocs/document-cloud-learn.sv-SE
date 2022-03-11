@@ -3,9 +3,9 @@ title: Dela PDF-filer och granska dem online
 description: Lär dig några tricks och tips om hur du använder Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ Du får ett e-postmeddelande när mottagarna har visat filen.
 
 ## Granskningsupplevelse
 
-Granskarna får en e-postinbjudan med en länk till gransknings-PDF:en. När de klickar på länken eller knappen **[!UICONTROL Granskning]** i inbjudan, öppnas PDF-dokumentet i en webbläsare. De kan använda kommentarsverktygen för att lägga till kommentarer i PDF-dokumentet. De kan även använda skrivbordsappen för Acrobat Reader DC eller Acrobat DC om de vill lägga till kommentarer.
+Granskarna får en e-postinbjudan med en länk till gransknings-PDF:en. När de klickar på länken eller knappen **[!UICONTROL Granskning]** i inbjudan, öppnas PDF-dokumentet i en webbläsare. De kan använda kommentarsverktygen för att lägga till kommentarer i PDF-dokumentet. De kan även använda skrivbordsappen för Acrobat Reader eller Acrobat om de vill lägga till kommentarer.
 
 ## Skicka en anonym eller offentlig länk i ett e-postmeddelande
 

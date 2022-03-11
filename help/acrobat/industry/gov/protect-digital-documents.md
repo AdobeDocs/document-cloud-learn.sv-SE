@@ -1,22 +1,24 @@
 ---
-title: 5 tips för att arbeta var som helst med Acrobat DC - Protect Digital Documents
-description: Lär dig hur du lägger till ett lösenord till PDF-filen för att förhindra kopiering, redigering eller utskrift
+title: Fem tips för att arbeta var som helst med Acrobat - Protect Digital Documents
+description: Lär dig hur du lägger till ett lösenord i PDF för att förhindra kopiering, redigering eller utskrift
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# 5 tips för att arbeta var som helst med Acrobat DC - Protect Digital Documents
+# 5 tips för att arbeta var som helst med Acrobat - Protect-dokument
 
-Lägg till ett lösenord till PDF-filen för att förhindra kopiering, redigering eller utskrift.
+Lägg till ett lösenord i PDF för att förhindra kopiering, redigering eller utskrift.
 
-## Tips nr 3 - Protect digitala dokument (1:23)
+## Tips #3 - Protect-dokument (1:23)
 
->[!VIDEO](https://video.tv.adobe.com/v/34510)
+>[!VIDEO](https://video.tv.adobe.com/v/34510?hidetitle=true)
+
+[Gå till Tips #4 - Arbeta med formulär och signaturer](work-with-forms-and-signatures.md)
