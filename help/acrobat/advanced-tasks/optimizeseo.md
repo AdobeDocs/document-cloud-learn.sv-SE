@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 ## 3. Tagga PDF
 
->[!NOTE]
->
->Finns endast i Acrobat Pro.
-
 Att tagga innehåll i PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder - det förbättrar också SEO.
 
 +++Visa information om hur du taggar en PDF
@@ -81,6 +77,10 @@ Tagga en PDF enligt följande:
    ![Skärmdump av inställning av alternativ text i PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Finns endast i Acrobat Pro.
 
 <br> 
 
