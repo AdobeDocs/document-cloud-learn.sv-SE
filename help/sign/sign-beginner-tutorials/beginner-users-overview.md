@@ -1,23 +1,23 @@
 ---
-title: Komma igång - översikt
-description: Kom igång snabbt med att skicka, signera och spåra dokument med de här korta stegvisa självstudiekurserna
+title: Översikt över Komma igång med Acrobat Sign
+description: Få information om hur du skickar, signerar och spårar dokument med de här korta stegvisa självstudiekurserna
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
 # Komma igång - översikt
 
-![Signera startbild](../assets/Hero-GettingStarted.png)
+![Komma igång-bild för Sign](../assets/Hero-GettingStarted.png)
 
-Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta stegvisa självstudiekurser. Få en snabb genomgång av Adobe Sign och gå sedan vidare till att skicka ett dokument till en eller flera personer. Det här innehållet är utformat för att göra det enklare att använda arbetsflöden för e-signaturer.
+Få information om hur du skickar, signerar och spårar dokument med dessa korta steg-för-steg-självstudiekurser. Få en snabbgenomgång av Adobe Sign och börja sedan skicka ett dokument till en eller flera personer. Det här innehållet är utformat för att underlätta för dig att komma in i e-signaturarbetsflöden.
 
 ## Skicka
 
@@ -25,22 +25,22 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Demo av Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Snabbdemo av Adobe Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Demo av Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Snabbdemo av Adobe Sign</strong></a>
     </div>
-    <em>Ta en snabb genomgång av Adobe Sign gränssnitt för att komma igång</em>
+    <em>Ta en snabbtur i Adobe Sign-gränssnittet för att komma igång</em>
     <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Skickar till en enskild mottagare" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Skicka till en mottagare" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Skicka till en enskild mottagare</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Skicka till en enda mottagare</strong></a>
     </div>
-    <em>Hoppa in och se hur enkelt det är att skicka ut ett dokument för signatur</em>
+    <em>Hoppa in och lär dig hur enkelt det är att skicka ett dokument för signering</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Skicka till flera mottagare</strong></a>
     </div>
-    <em>Skicka ett dokument för e-signatur till fler än en av dem i exakt den ordning du vill</em>
+    <em>Skicka ett dokument för e-signering till mer än en person i exakt den ordning du vill</em>
     <br>
   </td>
 </tr>
@@ -62,16 +62,16 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
     <div>
     <a href="new-sender.md"><strong>Komma igång med Adobe Sign för nya avsändare</strong></a>
     </div>
-    <em>Den här omfattande självstudiekursen är en bra startpunkt för nya avsändare i Adobe Sign</em>
+    <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Adobe Sign</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -104,12 +104,12 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Få en signatur personligen" src="../assets/In-person.png" />
+      <img alt="Hämta en signatur personligen" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Få en signatur personligen</strong></a>
+    <a href="sign-in-person.md"><strong>Hämta en signatur personligen</strong></a>
     </div>
-    <em>Få någon annans namnteckning personligen med Adobe Sign mobilapp</em>
+    <em>Få någon annans namnteckning personligen med mobilappen Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -121,7 +121,7 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Vad är en digital signatur?</strong></a>
     </div>
-    <em>Läs om certifikatbaserade digitala signaturer</em>
+    <em>Läs mer om certifikatbaserade digitala signaturer</em>
     <br>
   </td>
   <td>
@@ -131,11 +131,11 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signera med en stämpel</strong></a>
     </div>
-    <em>Använd stämplar för att märka ett dokument som godkänt eller färdigt</em>
+    <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
      <br>
   </td> 
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -148,12 +148,12 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Hantera och spåra dina avtal" src="../assets/Manage_1280.png" />
+      <img alt="Hantera och spåra avtal" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Hantera och spåra dina avtal</strong></a>
+    <a href="manage-and-track.md"><strong>Hantera och spåra avtal</strong></a>
     </div>
-    <em>Lär dig hantera och spåra avtal som skickats för signatur</em>
+    <em>Lär dig hantera och spåra avtal som skickats för signering</em>
     <br>
   </td>
   <td>
@@ -163,18 +163,18 @@ Kom igång snabbt med att skicka, signera och spåra dokument med dessa korta st
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
     </div>
-    <em>Skapa en återanvändbar dokumentmall för att ge er ett snabbt och enhetligt utseende</em>
+    <em>Skapa en återanvändbar dokumentmall för att snabba upp och göra organisationen enhetlig</em>
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Ändra ett dokument som redan har skickats för signatur" src="../assets/Modifying-sending.png" />
+      <img alt="Ändra ett dokument som redan har skickats för signering" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Ändra ett dokument som redan har skickats för signatur</strong></a>
+    <a href="modify-in-flight.md"><strong>Ändra ett dokument som redan har skickats för signering</strong></a>
     </div>
     <br>
-    <em>Ändra arbetsflödet för ett dokument som redan pågår</em>
+    <em>Ändra arbetsflödet för ett dokument som redan bearbetas</em>
   </td>
 </tr>
 </table>
