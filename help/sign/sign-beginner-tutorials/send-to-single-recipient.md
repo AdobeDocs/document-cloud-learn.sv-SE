@@ -5,21 +5,21 @@ role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33659.jpg
+thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Skicka till en enskild mottagare
+# Skicka till en enda mottagare
 
-Det vanligaste arbetsflödet i Adobe Sign - att skicka ett dokument för signering. Lär dig hur du överför ett dokument, lägger till formulärfält och skickar det till någon för signering i den här videosjälvstudiekursen.
+Det vanligaste arbetsflödet i Adobe Sign - skicka ett dokument för signering. In this video tutorial, learn how to upload a document, add form fields, and send to someone for signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är gratis på Experience League!
+>Den här videon är en del av kursen [Komma igång med Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig gratis på Experience League!
