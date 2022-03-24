@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Beginner
 thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 4%
 
 ---
 
 # Skicka till flera mottagare
 
-Har du fler än en person som måste interagera med dokumentet? I den här videosjälvstudiekursen får du lära dig hur du skickar ett dokument för e-signering till mer än en person i exakt den ordning du vill.
+Har du fler än en person som måste interagera med dokumentet? Lär dig hur du skickar ett dokument för e-signering till mer än en person i exakt den ordning du vill.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
 

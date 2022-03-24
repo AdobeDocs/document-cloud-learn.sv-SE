@@ -1,6 +1,6 @@
 ---
 title: Avancerad kontodelning
-description: Med avancerad kontodelning kan administratörer och användare delegera sina behörigheter för att skicka, ändra och visa
+description: Med avancerad kontodelning kan administratörer och användare delegera behörigheter för att skicka, ändra och visa
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
@@ -8,19 +8,23 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 0ed358068fefe5ce52f7afb0ecdba7d5a5b750bf
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 1%
 
 ---
 
 # Avancerad kontodelning
 
-I den här videosjälvstudiekursen lär du dig hur du konfigurerar avancerad kontodelning, så att administratörer och användare kan delegera sina sändnings-, ändrings- och visningsbehörigheter.
+Lär dig hur du konfigurerar avancerad kontodelning - så att administratörer och användare kan delegera behörigheter för att skicka, ändra och visa. Kontodelning är perfekt i situationer när en användare är på semester eller lämnar sin frånvaro. Eller så kan du skapa ett virtuellt användarkonto, som ett användarkonto för personalhantering, och sedan ge behörighet till flera användare i personalgruppen som alla kan agera för den virtuella användarens räkning.
+
+>[!NOTE]
+>
+>Avancerad kontodelning är endast tillgängligt för planer på företagsnivå. Teknisk support kan aktivera avancerad delning, men när den har aktiverats ändras relationerna för de delade objekten på ett sätt som inte kan ångras. Av den anledningen rekommenderar vi att du kontaktar din Customer Success Manager och får ett testkonto så att du kan testa funktionen och verifiera att den tillåter allt du vill uppnå.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Avancerade uppgifter för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) som är gratis på Experience League!
+>Den här videon är en del av kursen [Avancerade uppgifter för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) som är tillgänglig gratis på Experience League!

@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Beginner
 thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 # Skicka till en enda mottagare
 
-Det vanligaste arbetsflödet i Adobe Sign - skicka ett dokument för signering. In this video tutorial, learn how to upload a document, add form fields, and send to someone for signature.
+Det vanligaste arbetsflödet i Adobe Sign - skicka ett dokument för signering. Lär dig hur du överför ett dokument, lägger till formulärfält och skickar till någon för signering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
