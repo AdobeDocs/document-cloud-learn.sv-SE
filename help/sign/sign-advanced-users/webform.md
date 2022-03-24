@@ -1,30 +1,30 @@
 ---
-title: Konfigurera ett webbformulär
-description: Lär dig hur du skapar ett dokument som kan signeras elektroniskt direkt på din webbplats
+title: Skapa ett webbformulär
+description: Lär dig hur du skapar ett dokument som kan signeras elektroniskt direkt på webbplatsen
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37841.jpg
 exl-id: d6297c78-40d5-4353-893c-9fd5648048c6,ed99edd5-f826-4ac6-8f32-6a4e6e48ddc6
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Konfigurera ett webbformulär
+# Skapa ett webbformulär
 
-Lär dig hur du skapar ett dokument som kan signeras elektroniskt direkt på din webbplats. Du kan skapa en [värdbaserad hyperlänk till formuläret](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*) eller använda länken för att bädda in den på webbplatsen i html eller JavaScript.
+Lär dig hur du skapar ett dokument som kan signeras elektroniskt direkt på webbplatsen. Du kan skapa en [värdbaserad hyperlänk till formuläret](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAa5MmTHYoyIwWia3GbWuwgXo0CqUPbm9Fndza1A51v56MP1PP5GL6UzOKpAYQ9RTI*) eller använd länken för att bädda in på webbplatsen i html eller JavaScript.
 
-Fler exempel:
+Kolla in de här extra användningsfallen:
 
-* [Affärsbidrag och ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) låneansökningar.
-* [Handledning ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) för återanställning.
+* [Bidrag och lån till företag](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) användningsfall.
+* [Stöd till återanställning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) användningsfall.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) och [Getting Started with Adobe Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)-kurserna som är kostnadsfria på Experience League!
+>Den här videon är en del av [Avancerade uppgifter för användare](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) och [Komma igång med Adobe Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) kurser som är tillgängliga gratis på Experience League!

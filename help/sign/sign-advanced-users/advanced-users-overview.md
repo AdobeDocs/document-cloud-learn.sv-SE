@@ -3,11 +3,11 @@ title: Översikt över avancerade signeringsuppgifter
 description: Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
