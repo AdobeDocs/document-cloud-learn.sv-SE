@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
-Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar. Dessa självstudiekurser är till för alla som redan känner till grunderna för att skicka och begära signaturer och vill veta mer om hur Adobe Sign kan hjälpa dem.
+Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar. Dessa självstudiekurser är till för alla som redan känner till grunderna för att skicka och begära signaturer och vill veta mer om hur Acrobat Sign kan hjälpa dem.
 
 ## Skicka
 
@@ -78,12 +78,12 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign-texttaggar" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign-texttaggar</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     </div>
-    <em>Skapa Adobe Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+    <em>Skapa Acrobat Sign-formulärfält med texttaggar med Adobe Acrobat</em>
     <br>
   </td> 
 </table>

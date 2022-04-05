@@ -1,5 +1,5 @@
 ---
-title: Skicka påminnelser med Adobe Sign för Microsoft Dynamics 365 och Marketo
+title: Skicka påminnelser med Acrobat Sign för Microsoft Dynamics 365 och Marketo
 description: Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en viss tid
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%
 
 ---
 
-# Skicka påminnelser med Adobe Sign för Microsoft Dynamics 365 och Marketo
+# Skicka påminnelser med Acrobat Sign för Microsoft Dynamics 365 och Marketo
 
-Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en viss tid. Den här integreringen använder Adobe Sign, Adobe Sign för Microsoft Dynamics, Marketo och Marketo Microsoft Dynamics Sync.
+Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en viss tid. Den här integreringen använder Acrobat Sign, Acrobat Sign för Microsoft Dynamics, Marketo och Marketo Microsoft Dynamics Sync.
 
 ## Förutsättningar
 
@@ -25,13 +25,13 @@ Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat e
 
    Information och det senaste plugin-programmet för Microsoft Dynamics Sync är tillgängligt [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installera [Adobe Sign för Microsoft Dynamics](https://appsource.microsoft.com/sv-se/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Installera [Acrobat Sign för Microsoft Dynamics](https://appsource.microsoft.com/sv-se/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
    Information om plugin-programmet finns tillgänglig [här.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Söka efter det anpassade objektet
 
-När konfigurationerna för Marketo Microsoft Dynamics Sync och Adobe Sign för Dynamics är klara visas två nya alternativ i Marketo Admin Terminal.
+När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign för Dynamics är klara visas två nya alternativ i Marketo Admin Terminal.
 
 ![Admin](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ Eftersom kampanjfiltret **Dagar tills förfallodatum** används kan du använda 
 
 >[!TIP]
 >
->Den här självstudiekursen är en del av kursen [Snabba upp säljcyklerna med Adobe Sign för Microsoft Dynamics och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!
+>Den här självstudiekursen är en del av kursen [Snabba upp säljcyklerna med Acrobat Sign för Microsoft Dynamics och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!

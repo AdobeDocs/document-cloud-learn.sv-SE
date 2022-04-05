@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Översikt över branscher och avdelningar
 
-![Adobe Sign-branschbild](../assets/Hero-Industry.png)
+![Branschbild för Acrobat Sign](../assets/Hero-Industry.png)
 
 Lär dig hur du kan förändra organisationens e-signeringsupplevelser genom att utforska de verkliga användningsfallen, recepten och webbinarierna för branschen och avdelningen.
 
@@ -49,7 +49,7 @@ Lär dig hur du kan förändra organisationens e-signeringsupplevelser genom att
     <div>
     <a href="use-case-showcase.md"><strong>Exempel på användningsfall</strong></a>
     </div>
-    <em>Titta på live- eller inspelningssessioner som presenterar dig för nya användningsfall och trender i Adobe Sign</em>
+    <em>Titta på live- eller inspelningssessioner som presenterar dig för nya användningsfall och trender i Acrobat Sign</em>
     <br>
   </td>
 </tr>

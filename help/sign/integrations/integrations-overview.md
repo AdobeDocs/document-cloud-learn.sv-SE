@@ -1,13 +1,13 @@
 ---
 title: Översikt över Sign-integreringar
-description: Lär dig lägga till Adobe Sign i befintliga system, processer och program
+description: Lär dig hur du lägger till Acrobat Sign i befintliga system, processer och program
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign Integrate Image](../assets/Hero-Integrate.png)
 
-Du kan använda Adobe Sign i andra program som ditt företag redan använder, till exempel Microsoft, Salesforce, Workday och Marketo, för att nämna några. Läs om hur du kan förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
+Du kan använda Acrobat Sign i andra program som organisationen redan använder, t.ex. Microsoft, Salesforce, Workday och Marketo för att nämna några. Läs om hur du kan förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
 
 >[!NOTE]
 > Om du har problem med att komma åt någon av dessa funktioner kan du fråga organisationens administratör och kontrollera att integreringen är aktiverad.
@@ -81,12 +81,12 @@ Du kan använda Adobe Sign i andra program som ditt företag redan använder, ti
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Dokumentautomatisering med Adobe Sign för Microsoft Power Platform" src="../assets/SF-Button.png" />
+      <img alt="Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Dokumentautomatisering med Adobe Sign för Microsoft Power Platform</strong></a>
+    <a href="documentautomation.md"><strong>Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform</strong></a>
     </div>
-    <em>Lär dig hur du aktiverar och använder Adobe Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power-program</em>
+    <em>Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF Tools-anslutningar för Microsoft Power-program</em>
     <br>
   </td>
 </tr>
@@ -98,10 +98,10 @@ Du kan använda Adobe Sign i andra program som ditt företag redan använder, ti
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Skapa en dokumentmall i Adobe Sign för Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Skapa en dokumentmall i Acrobat Sign för Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Skapa en dokumentmall i Adobe Sign för Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Skapa en dokumentmall i Acrobat Sign för Salesforce</strong></a>
     </div>
     <em>Skapa en återanvändbar dokumentmall för snabb och konsekvent användning</em>
     <br>
@@ -157,12 +157,12 @@ Du kan använda Adobe Sign i andra program som ditt företag redan använder, ti
 <tr>
   <td>
     <a href="workday.md">
-      <img alt="Konfigurera Adobe Sign med Workday" src="../assets/WD-Configure.png" />
+      <img alt="Konfigurera Acrobat Sign med Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Konfigurera Adobe Sign med Workday</strong></a>
+    <a href="workday.md"><strong>Konfigurera Acrobat Sign med Workday</strong></a>
     </div>
-    <em>Lär dig konfigurera Adobe Sign så att det fungerar direkt i Workday och smidigt kan hantera alla HR-dokument</em>
+    <em>Lär dig hur du konfigurerar Acrobat Sign så att det fungerar direkt i Workday och smidigt hanterar allt ditt HR-pappersarbete</em>
     <br>
   </td>
   <td>
@@ -184,30 +184,30 @@ Du kan använda Adobe Sign i andra program som ditt företag redan använder, ti
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Skicka aviseringar med Adobe Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Skicka aviseringar med Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Skicka aviseringar med Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Skicka aviseringar med Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
     <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Skicka påminnelser med videosjälvstudiekursen Adobe Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
     <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Skicka påminnelser med konfigurationshandboken för Adobe Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med konfigurationshandboken för Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
     <em>Läs om hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod</em>
     <br>
@@ -216,20 +216,20 @@ Du kan använda Adobe Sign i andra program som ditt företag redan använder, ti
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Skicka påminnelser med Adobe Sign för Microsoft Dynamics och Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Skicka påminnelser med Acrobat Sign för Microsoft Dynamics och Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Skicka påminnelser med Adobe Sign för Microsoft Dynamics och Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Skicka påminnelser med Acrobat Sign för Microsoft Dynamics och Marketo</strong></a>
     </div>
     <em>Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en viss tid</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Skicka aviseringar med Adobe Sign för Microsoft Dynamics och Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Skicka aviseringar med Adobe Sign för Microsoft Dynamics och Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo</strong></a>
     </div>
     <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg</em>
     <br>

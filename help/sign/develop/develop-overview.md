@@ -1,24 +1,24 @@
 ---
-title: Utvecklingsöversikt
-description: Lär dig hur du använder Adobe Sign API:er för att skapa anpassade applikationer för team, partners och kunder
+title: Översikt över framkallning
+description: Lär dig använda API:er för Acrobat Sign för att skapa anpassade program för team, partners och kunder
 role: Developer
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 12%
 
 ---
 
-# Utveckla - översikt
+# Översikt över framkallning
 
-![Signera framkallningsbild](../assets/Hero-Develop.png)
+![Sign-framkallningsbild](../assets/Hero-Develop.png)
 
-40 % av avtalen i Adobe Sign skapas med API:er. Använd API:er för att skapa anpassade applikationer för era team, partners och kunder.
+40 % av avtalen i Acrobat Sign skapas med API:er. Använd API:er för att skapa anpassade program för team, partners och kunder.
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +29,7 @@ ht-degree: 12%
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Skapa ett utvecklarkonto</strong></a>
     </div>
-    <em>Lär dig hur du kommer igång med ett utvecklarkonto</em>
+    <em>Lär dig komma igång med ett utvecklarkonto</em>
     <br>
   </td>
   <td>
@@ -39,17 +39,17 @@ ht-degree: 12%
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Se vad du kan göra</strong></a>
     </div>
-    <em>Lär dig hur du kan använda Adobe Sign i alla externa program</em>
+    <em>Lär dig hur du kan införliva funktionaliteten i Acrobat Sign i alla externa program</em>
     <br>
   </td>  
   <td>
     <a href="gigasign.md">
-      <img alt="Samla dokument i stora volymer med hjälp av GigaSign" src="../assets/gigasign.jpg" />
+      <img alt="Samla in stora volymer dokument med GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Samla dokument i stora volymer med hjälp av GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Samla in stora volymer dokument med GigaSign</strong></a>
     </div>
-    <em>Skicka, samla in och spåra dokument för underskrift till tusentals personer samtidigt</em>
+    <em>Skicka, samla in och spåra dokument för signering till tusentals personer samtidigt</em>
     <br>
   </td>
 </tr>
@@ -61,16 +61,16 @@ ht-degree: 12%
     <div>
     <a href="embeddedesignature.md"><strong>Skapa inbäddade e-signaturer och dokumentupplevelser</strong></a>
     </div>
-    <em>Lär dig hur du använder Adobe Sign API:er för att bädda in e-signaturer och dokumentupplevelser på dina webbplattformar och i innehålls- och dokumenthanteringssystem</em>
+    <em>Lär dig hur du använder API:er för Acrobat Sign för att bädda in e-signaturer och dokumentupplevelser på dina webbplattformar och i content- och dokumenthanteringssystem</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

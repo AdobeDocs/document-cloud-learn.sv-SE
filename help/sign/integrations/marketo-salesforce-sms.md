@@ -1,5 +1,5 @@
 ---
-title: Skicka aviseringar med Adobe Sign för Salesforce och Marketo
+title: Skicka aviseringar med Acrobat Sign för Salesforce och Marketo
 description: Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# Skicka aviseringar med Adobe Sign för Salesforce och Marketo
+# Skicka aviseringar med Acrobat Sign för Salesforce och Marketo
 
-Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg med Adobe Sign, Adobe Sign för Salesforce, Marketo och Marketo Salesforce Sync. Om du vill skicka aviseringar från Marketo måste du först köpa eller konfigurera en Marketo SMS-hanteringsfunktion. Genomgången använder [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), men det finns andra Marketo SMS-lösningar.
+Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg med Acrobat Sign, Acrobat Sign för Salesforce, Marketo och Marketo Salesforce Sync. Om du vill skicka aviseringar från Marketo måste du först köpa eller konfigurera en Marketo SMS-hanteringsfunktion. Genomgången använder [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), men det finns andra Marketo SMS-lösningar.
 
 ## Förutsättningar
 
@@ -25,13 +25,13 @@ Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-
 
    Information och det senaste plugin-programmet för Salesforce Sync är tillgängligt [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installera Adobe Sign för Salesforce.
+1. Installera Acrobat Sign för Salesforce.
 
    Information om plugin-programmet finns tillgänglig [här.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Söka efter det anpassade objektet
 
-När konfigurationerna för Marketo Salesforce Sync och Adobe Sign för Salesforce är klara visas flera nya alternativ i Marketo Admin Terminal.
+När konfigurationerna för Marketo Salesforce Sync och Acrobat Sign för Salesforce är klara visas flera nya alternativ i Marketo Admin Terminal.
 
 ![Admin](assets/adminTab.png)
 
@@ -151,4 +151,4 @@ Hämta parametrarna från ditt konto och öppna nu Marketo-instansen.
 
 >[!TIP]
 >
->Den här självstudiekursen är en del av kursen [Snabba upp säljcyklerna med Adobe Sign för Salesforce och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!
+>Den här självstudiekursen är en del av kursen [Snabba upp säljcyklerna med Acrobat Sign för Salesforce och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!

@@ -1,23 +1,23 @@
 ---
 title: Självstudiekurser
-description: En samling självstudiekurser, webbinarier och användningsexempel som utformats för att snabbt hålla både nybörjare och administratörer uppdaterade om Adobe Sign
+description: En samling självstudiekurser, webbinarier och användningsfall som utformats för att snabbt hålla både nybörjare och administratörer uppdaterade om Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Självstudiekurser för Adobe Sign
+# Självstudiekurser för Acrobat Sign
 
-![Adobe Sign Hero Image](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens behov med integreringar, API:er, avancerad autentisering, ytterligare administrationsfunktioner med mera. Här hittar du en mängd utbildningsmaterial som utformats för att snabbt ge både nybörjare och administratörer aktuell information om Adobe Sign.
+Acrobat Sign, en Adobe Document Cloud-lösning, kan skalas upp för att uppfylla organisationens behov med integreringar, API:er, avancerad autentisering, ytterligare administratörsfunktioner med mera. Här hittar du ett stort utbud av utbildningsmaterial som är utformat för att snabbt hålla både nybörjare och administratörer uppdaterade om Acrobat Sign.
 
 ## Utbildningsvägar
 
@@ -30,7 +30,7 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
     <div>
     <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Komma igång</strong></a>
     </div>
-    <em>Arbeta snabbare med att skicka, signera och spåra dokument</em>
+    <em>Få information om hur du skickar, signerar och spårar dokument</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
     <div>
     <a href="admin/intro-admin-overview.md"><strong>Administrera</strong></a>
     </div>
-    <em>Grundläggande till avancerade installationstips för er organisation</em>
+    <em>Grundläggande till avancerade installationstips för organisationen</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>Digitalt ID</strong></a>
     </div>
-    <em>Lär dig hur du använder digitala ID:n från hela världen med Adobe Sign</em>
+    <em>Lär dig använda elektroniska ID:n från hela världen med Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integreringar</strong></a>
     </div>
-    <em>Lägg till Adobe Sign direkt i andra program som redan används av er organisation</em>
+    <em>Lägg till Acrobat Sign direkt i andra program som organisationen redan använder</em>
     <br>
   </td>
   <td>
@@ -82,29 +82,29 @@ Adobe Sign, en Adobe Document Cloud-lösning, kan skalas efter organisationens b
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>Branscher och avdelningar</strong></a>
     </div>
-    <em>Utforska exempel och recept från olika branscher och avdelningar och lär dig vad som är möjligt med e-signaturer</em>
+    <em>Utforska verkliga användningsfall och recept för industri och avdelningar för att lära dig vad som är möjligt med e-signaturer</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="Utveckla" src="assets/AS_Title_Develop.png" />
+      <img alt="Framkalla" src="assets/AS_Title_Develop.png" />
     </a>
     <div>
-    <a href="develop/develop-overview.md"><strong>Utveckla</strong></a>
+    <a href="develop/develop-overview.md"><strong>Framkalla</strong></a>
     </div>
-    <em>Få utvecklingsresurser på Adobe Sign I/O</em>
+    <em>Hämta utvecklingsresurser för Acrobat Sign I/O</em>
     <br>
   </td>
    <td>
     <a href="deploy-overview.md">
-      <img alt="Distribuera" src="assets/AS_Title_Deploy.png" />
+      <img alt="Driftsätt" src="assets/AS_Title_Deploy.png" />
     </a>
     <div>
-    <a href="deploy-overview.md"><strong>Distribuera</strong></a>
+    <a href="deploy-overview.md"><strong>Driftsätt</strong></a>
     </div>
-    <em>Insikt och bästa praxis för driftsättning av Adobe Sign i er organisation</em>
+    <em>Insikter och bästa praxis för driftsättning av Acrobat Sign i organisationen</em>
     <br>
   </td>
   <td>

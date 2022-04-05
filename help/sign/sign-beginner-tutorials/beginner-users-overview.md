@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Komma igång-bild för Sign](../assets/Hero-GettingStarted.png)
 
-Få information om hur du skickar, signerar och spårar dokument med dessa korta steg-för-steg-självstudiekurser. Få en snabbgenomgång av Adobe Sign och börja sedan skicka ett dokument till en eller flera personer. Det här innehållet är utformat för att underlätta för dig att komma in i e-signaturarbetsflöden.
+Få information om hur du skickar, signerar och spårar dokument med dessa korta steg-för-steg-självstudiekurser. Få en snabbgenomgång av Acrobat Sign och börja sedan skicka ett dokument till en eller flera personer. Det här innehållet är utformat för att underlätta för dig att komma in i e-signaturarbetsflöden.
 
 ## Skicka
 
@@ -25,12 +25,12 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Snabbdemo av Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Snabbgenomgång av Acrobat Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Snabbdemo av Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Snabbgenomgång av Acrobat Sign</strong></a>
     </div>
-    <em>Ta en snabbtur i Adobe Sign-gränssnittet för att komma igång</em>
+    <em>Ta en snabbtur i Acrobat Sign-gränssnittet för att komma igång</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Komma igång med Adobe Sign för nya avsändare" src="../assets/gettingstartednew.png" />
+      <img alt="Komma igång med Acrobat Sign för nya avsändare" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Komma igång med Adobe Sign för nya avsändare</strong></a>
+    <a href="new-sender.md"><strong>Komma igång med Acrobat Sign för nya avsändare</strong></a>
     </div>
-    <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Adobe Sign</em>
+    <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <div>
     <a href="electronically-sign-a-document.md"><strong>Signera ett dokument elektroniskt</strong></a>
     </div>
-    <em>Lär dig hur enkelt det är att signera ett dokument som har skickats till dig med Adobe Sign</em>
+    <em>Lär dig hur enkelt det är att signera ett dokument som har skickats till dig med Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <div>
     <a href="sign-in-person.md"><strong>Hämta en signatur personligen</strong></a>
     </div>
-    <em>Få någon annans namnteckning personligen med mobilappen Adobe Sign</em>
+    <em>Få någon annans underskrift personligen med mobilappen Acrobat Sign</em>
     <br>
   </td>
 </tr>

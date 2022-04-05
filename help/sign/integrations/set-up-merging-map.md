@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17350.jpg
 exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Konfigurera kopplingsmappning i Salesforce
 
-Lär dig hur du konfigurerar kopplingsmappning för Adobe Sign i Salesforce. Med kopplingsmappning kan du sammanfoga data från Salesforce direkt till ett avtal.
+Lär dig hur du ställer in kopplingsmappning för Acrobat Sign i Salesforce. Med kopplingsmappning kan du sammanfoga data från Salesforce direkt i ett avtal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)

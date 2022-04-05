@@ -1,5 +1,5 @@
 ---
-title: Skicka påminnelser med konfigurationsguiden för Adobe Sign för Salesforce och Marketo
+title: Skicka påminnelser med konfigurationsguiden för Acrobat Sign för Salesforce och Marketo
 description: Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Skicka påminnelser med konfigurationsguiden för Adobe Sign för Salesforce och Marketo
+# Skicka påminnelser med konfigurationsguiden för Acrobat Sign för Salesforce och Marketo
 
-Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod. Den här integreringen använder Adobe Sign, Adobe Sign för Salesforce, Marketo samt Marketo- och Salesforce-synkronisering.
+Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod. Den här integreringen använder Acrobat Sign, Acrobat Sign för Salesforce, Marketo samt Marketo- och Salesforce-synkronisering.
 
 ## Förutsättningar
 
@@ -25,13 +25,13 @@ Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förbl
 
    Information och det senaste plugin-programmet för Salesforce Sync är tillgängligt [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installera Adobe Sign för Salesforce.
+1. Installera Acrobat Sign för Salesforce.
 
    Information om plugin-programmet finns tillgänglig [här.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Söka efter det anpassade objektet
 
-När konfigurationerna för Marketo Salesforce Sync och Adobe Sign för Salesforce är klara visas flera nya alternativ i Marketo Admin Terminal.
+När konfigurationerna Marketo Salesforce Sync och Acrobat Sign för Salesforce har slutförts visas flera nya alternativ i Marketo Admin Terminal.
 
 ![Admin](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Eftersom kampanjfiltret **Dagar osignerade** används kan du använda en schemal
 
 >[!TIP]
 >
->Den här självstudiekursen är en del av kursen [Snabba upp säljcyklerna med Adobe Sign för Salesforce och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!
+>Den här självstudiekursen är en del av kursen [Snabba upp säljcyklerna med Acrobat Sign för Salesforce och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!

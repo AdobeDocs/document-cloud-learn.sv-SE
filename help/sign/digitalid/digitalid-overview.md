@@ -1,13 +1,13 @@
 ---
 title: Översikt över digitalt ID
-description: Lär dig hur du använder digitala ID:n från hela världen med Adobe Sign
+description: Lär dig använda elektroniska ID:n från hela världen med Acrobat Sign
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # Översikt över digitalt ID
 
-![Signera bild med digitalt ID](../assets/Hero-DigitalID.png)
+![Signera digital ID-bild](../assets/Hero-DigitalID.png)
 
-På samma sätt som ett pass i elektronisk form kan du med ett digitalt ID på ett säkert sätt bevisa att du är den du säger att du är. Och när du e-signerar i Adobe Sign kan du lita på att du har auktoriserat din e-signatur på det specifika dokumentet med ett digitalt ID. I följande självstudier visas hur du använder digitala ID:n från hela världen med Adobe Sign.
+På samma sätt som ett pass i elektronisk form gör ett digitalt ID att du på ett säkert sätt kan bevisa att du är den du säger att du är. Och när du e-signerar i Acrobat Sign får du bättre säkerhet om du använder ett elektroniskt ID när du godkänner din e-signatur för just det dokumentet. Följande självstudiekurser visar hur du använder elektroniska ID:n från hela världen med Acrobat Sign.
 
 >[!NOTE]
 >
->Innan du kan använda ett digitalt ID med en molnsignatur bör du kontakta organisationens administratör för att bekräfta att leverantörens lösning är aktiverad i Adobe Sign.
+>Innan du kan använda ett elektroniskt ID med en molnsignatur bör du kontakta organisationens administratör och bekräfta att leverantörens lösning har aktiverats i Acrobat Sign.
 
 ## [!DNL Aadhaar]
 
@@ -35,16 +35,16 @@ På samma sätt som ett pass i elektronisk form kan du med ett digitalt ID på e
     <div>
     <a href="aadhaar-sign.md"><strong>Signera med [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Lär dig hur du använder [!DNL Aadhaar] elektroniskt ID med Adobe Sign</em>
+    <em>Lär dig använda din [!DNL Aadhaar] elektroniskt ID med Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -72,11 +72,11 @@ På samma sätt som ett pass i elektronisk form kan du med ett digitalt ID på e
     <div>
     <a href="digidentity-sign.md"><strong>Signera med [!DNL Digidentity]</strong></a>
     </div>
-    <em>Lär dig hur du använder [!DNL Digidentity] elektroniskt ID med Adobe Sign</em>
+    <em>Lär dig använda din [!DNL Digidentity] elektroniskt ID med Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -89,12 +89,12 @@ På samma sätt som ett pass i elektronisk form kan du med ett digitalt ID på e
 <tr>
   <td>
     <a href="intesi-advanced.md">
-      <img alt="Hämta ett elektroniskt ID från Intesi Group (Advanced)" src="assets/IntesiAdvanced_1280.png" />
+      <img alt="Hämta ett digitalt ID från Intesi Group (avancerat)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
     <a href="intesi-advanced.md"><strong>Hämta ett digitalt ID från [!DNL Intesi Group] (Avancerat)</strong></a>
     </div>
-    <em>Lär dig hur du får ett avancerat certifikat för digital signering från [!DNL Intesi Group]</em>
+    <em>Lär dig hur du får ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ På samma sätt som ett pass i elektronisk form kan du med ett digitalt ID på e
     <div>
     <a href="intesi-qualified.md"><strong>Hämta ett digitalt ID från [!DNL Intesi Group] (Kvalificerad)</strong></a>
     </div>
-    <em>Lär dig hur du får ett kvalificerat digitalt signeringscertifikat från [!DNL Intesi Group]</em>
+    <em>Lär dig hur du får ett kvalificerat certifikat för digital signering från [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -114,7 +114,7 @@ På samma sätt som ett pass i elektronisk form kan du med ett digitalt ID på e
     <div>
     <a href="intesi-sign.md"><strong>Signera med [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Lär dig hur du använder [!DNL Intesi Group] elektroniskt ID med Adobe Sign</em>
+    <em>Lär dig använda din [!DNL Intesi Group] elektroniskt ID med Acrobat Sign</em>
     <br>
   </td>
 </tr>

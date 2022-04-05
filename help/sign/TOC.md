@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Sign Tutorials
+user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Acrobat Sign Tutorials
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Adobe Sign Tutorials {#sign-learning-hub}
+# Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Översikt](overview.md)
 + Komma igång {#getting-started}
    + [Översikt](sign-beginner-tutorials/beginner-users-overview.md)
    + Skickar {#getting-started-sending}
-      + [Snabbdemo av Adobe Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Snabbgenomgång av Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
       + [Skicka till en enda mottagare](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Skicka till flera mottagare](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Komma igång med Adobe Sign för nya avsändare](sign-beginner-tutorials/new-sender.md)
+      + [Komma igång med Acrobat Sign för nya avsändare](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [Signera ett dokument elektroniskt](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Fylla i och signera ett dokument](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [Lägga till en godkännare](sign-advanced-users/add-an-approver.md)
       + [Samla in flera signaturer samtidigt](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Konfigurera ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Adobe Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Hantera {#advanced-tasks-managing}
       + [Hantera dokumentmallar](sign-advanced-users/edit-a-template.md)
 + Administrera {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [Delning av kontoåtkomst](admin/share-account-access.md)
       + [Avancerad kontodelning](admin/advanced-account-sharing.md)
       + [Använda bioläkemedelsinställningar](admin/use-bio-pharma-settings.md)
-      + [Adobe Sign-texttaggar](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign-texttaggar](sign-advanced-users/adobe-sign-text-tagging.md)
 + Digitalt ID {#digital-id}
    + [Översikt](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [Skicka för signering i SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Spårning i SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Skicka dokument för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Dokumentautomatisering med Adobe Sign för Microsoft Power Platform](integrations/documentautomation.md)
+      + [Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Skapa en dokumentmall](integrations/create-an-agreement-template.md)
       + [Ställa in datamappning](integrations/set-up-data-mapping.md)
       + [Konfigurera kopplingsmappning](integrations/set-up-merging-map.md)
       + [Skapa en anpassad knapp](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Konfigurera Adobe Sign med Workday](integrations/workday.md)
+      + [Konfigurera Acrobat Sign med Workday](integrations/workday.md)
    + Marketo {#marketo}
-      + [Skicka aviseringar med Adobe Sign för Salesforce och Marketo](integrations/marketo-salesforce-sms.md)
-      + [Skicka påminnelser med videosjälvstudiekursen Adobe Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Skicka påminnelser med konfigurationshandboken för Adobe Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Skicka aviseringar med Adobe Sign för Microsoft Dynamics och Marketo](integrations/marketo-dynamics-sms.md)
-      + [Skicka påminnelser med Adobe Sign för Microsoft Dynamics 365 och Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Skicka aviseringar med Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-sms.md)
+      + [Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo](integrations/marketo-dynamics-sms.md)
+      + [Skicka påminnelser med Acrobat Sign för Microsoft Dynamics 365 och Marketo](integrations/marketo-dynamics-reminder.md)
 + Branscher och avdelningar {#expand}
    + [Översikt](sign-usecase/expand-inspire-overview.md)
    + Färdighetsbyggare {#innovation}
@@ -128,4 +128,4 @@ ht-degree: 6%
 + Mobila enheter {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + Självstudiekurser för Mobile {#mobile-tutorials}
-      + [Liquid Mode i Adobe Sign](mobile/liquidmode.md)
+      + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)

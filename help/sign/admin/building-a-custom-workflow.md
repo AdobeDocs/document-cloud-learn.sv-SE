@@ -3,11 +3,10 @@ title: Skapa ett anpassat arbetsflöde
 description: Lär dig hur du anpassar och automatiserar dokumentarbetsflöden för att snabbt få elektroniska signaturer och samla in formulärdata
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -27,4 +26,4 @@ Kolla in de här extra användningsfallen:
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Adobe Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig gratis på Experience League!
+>Den här videon är en del av kursen [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig gratis på Experience League!

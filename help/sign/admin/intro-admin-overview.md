@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Bild för Sign-administratörer](../assets/Hero-Admin.png)
 
-Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Adobe Sign. De avancerade uppgifterna omfattar ämnen som expanderar förbi den del av administratörsinställningen som rör sig mot definition av globala inställningar, kontoåtkomst och delning samt texttaggning.
+Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Acrobat Sign. De avancerade uppgifterna omfattar ämnen som expanderar förbi den del av administratörsinställningen som rör sig mot definition av globala inställningar, kontoåtkomst och delning samt texttaggning.
 
 ## Komma igång
 
@@ -31,7 +31,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="up-and-running-admin.md"><strong>Komma igång för administratörer</strong></a>
     </div>
-    <em>Översikt över 7 nyckelområden där administratörer snabbt kan komma igång i Adobe Sign</em>
+    <em>Översikt över 7 nyckelområden där administratörer snabbt kan komma igång med Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="add-users-to-your-account.md"><strong>Lägga till användare</strong></a>
     </div>
-    <em>Lägg till användare enskilt eller i grupp i ditt Adobe Sign-konto</em>
+    <em>Lägg till användare enskilt eller i grupp i ditt Acrobat Sign-konto</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="create-a-report.md"><strong>Skapa en rapport</strong></a>
     </div>
-    <em>Skapa och schemalägg rapporter för att få insyn i organisationens användning av Adobe Sign</em>
+    <em>Skapa och schemalägg rapporter för att få insyn i organisationens användning av Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign-texttaggar" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign-texttaggar</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     <div>
-    <em>Skapa Adobe Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+    <em>Skapa Acrobat Sign-formulärfält med texttaggar med Adobe Acrobat</em>
     <br>
   </td>
   <td>
