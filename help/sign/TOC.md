@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -39,7 +39,7 @@ ht-degree: 6%
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](sign-advanced-users/advanced-users-overview.md)
    + Skickar {#advanced-tasks-sending}
-      + [Ställa in routningsordning](sign-advanced-users/setting-up-routing.md)
+      + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
       + [Delegera till någon annan](sign-advanced-users/delegate-signature.md)
       + [Lägga till en godkännare](sign-advanced-users/add-an-approver.md)
       + [Samla in flera signaturer samtidigt](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)

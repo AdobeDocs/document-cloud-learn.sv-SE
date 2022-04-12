@@ -1,25 +1,25 @@
 ---
-title: Konfigurera routningsordning
-description: Lär dig konfigurera routningsordningen för flera signerare
+title: Konfigurera signeringsordning
+description: Lär dig hur du ställer in signeringsordningen för flera signerare
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
-thumbnail: 17347.jpg
+thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Ställa in routningsordning
+# Setting up signing order
 
-Lär dig konfigurera routningsordningen för flera signerare. Skicka ett dokument i ordning, parallellt eller en kombination av de två.
+Lär dig hur du ställer in signeringsordningen för flera signerare. Skicka ett dokument i ordning och/eller parallellt, eller till specifika grupper av personer.
 
 >[!NOTE]
 >
->Hybrid-routning är endast tillgängligt för planer på Enterprise-nivå.
+>Hybridroutning är endast tillgängligt för planer på företagsnivå. Du kan behöva kontakta Acrobat Sign-administratören för att aktivera de inställningar som beskrivs i den här självstudiekursen.
 
->[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)

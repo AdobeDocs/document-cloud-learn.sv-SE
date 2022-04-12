@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -26,12 +26,12 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Ställa in routningsordning" src="../assets/Routing.png">
+      <img alt="Setting up signing order" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Ställa in routningsordning</strong></a>
+    <a href="setting-up-routing.md"><strong>Setting up signing order</strong></a>
     </div>
-    <em>Ställ in routningsordning för flera signerare</em>
+    <em>Ställ in signeringsordning för flera signerare</em>
     <br>
   </td>
   <td>
