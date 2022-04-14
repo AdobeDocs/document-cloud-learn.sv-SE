@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Lär dig hur du ändrar ett dokument som redan har skickats ut för signering, t
 
 >[!NOTE]
 >
->Det går bara att ändra ett dokument efter att det har skickats för planer på företagsnivå. Din Acrobat Sign-administratör kan behöva aktivera inställningen Ändra avtal i avsnittet Skicka-inställningar i Kontoinställningar för att kunna använda den här funktionen.
+>Det går bara att ändra ett dokument efter att det har skickats för planer på företagsnivå. Din Acrobat Sign-administratör kan behöva aktivera **Ändra avtal** i **Skicka-inställningar** den del av **Kontoinställningar** för att använda den här funktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
