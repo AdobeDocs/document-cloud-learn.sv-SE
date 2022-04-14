@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -22,10 +22,11 @@ ht-degree: 6%
 + Komma igång {#getting-started}
    + [Översikt](sign-beginner-tutorials/beginner-users-overview.md)
    + Skickar {#getting-started-sending}
-      + [Snabbgenomgång av Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Snabbdemo av Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
       + [Skicka till en enda mottagare](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Skicka till flera mottagare](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Komma igång med Acrobat Sign för nya avsändare](sign-beginner-tutorials/new-sender.md)
+      + [Ändra ett dokument efter sändning](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [Signera ett dokument elektroniskt](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Fylla i och signera ett dokument](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + Hantera {#getting-started-managing}
       + [Hantera och spåra avtal](sign-beginner-tutorials/manage-and-track.md)
       + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [Ändra ett dokument som redan har skickats för signering](sign-beginner-tutorials/modify-in-flight.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](sign-advanced-users/advanced-users-overview.md)
    + Skickar {#advanced-tasks-sending}
@@ -127,5 +127,5 @@ ht-degree: 6%
    + [Översikt](deploy-overview.md)
 + Mobila enheter {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + Självstudiekurser för Mobile {#mobile-tutorials}
+   + Självstudiekurser för mobiler {#mobile-tutorials}
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)

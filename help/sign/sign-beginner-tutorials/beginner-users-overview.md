@@ -1,14 +1,14 @@
 ---
-title: Översikt över Komma igång med Acrobat Sign
+title: Översikt över att komma igång med Acrobat Sign
 description: Få information om hur du skickar, signerar och spårar dokument med de här korta stegvisa självstudiekurserna
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -65,10 +65,15 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Ändra ett dokument efter sändning" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Ändra ett dokument efter sändning</strong></a>
+    </div>
     <br>
+    <em>Ändra ett dokument som redan bearbetas</em>
   </td>
   <td>
     <img alt="Mellanrum" src="../assets/Grayspacer.png" />
@@ -109,7 +114,7 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <div>
     <a href="sign-in-person.md"><strong>Hämta en signatur personligen</strong></a>
     </div>
-    <em>Få någon annans underskrift personligen med mobilappen Acrobat Sign</em>
+    <em>Få någon annans namnteckning personligen med mobilappen Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -167,14 +172,9 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Ändra ett dokument som redan har skickats för signering" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Ändra ett dokument som redan har skickats för signering</strong></a>
-    </div>
     <br>
-    <em>Ändra arbetsflödet för ett dokument som redan bearbetas</em>
   </td>
 </tr>
 </table>
