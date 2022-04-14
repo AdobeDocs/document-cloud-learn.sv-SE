@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Ändra ett dokument efter sändning
 
-Lär dig hur du ändrar ett dokument som redan har skickats ut för signering, till exempel när fel dokument skickas ut av misstag.
+Lär dig hur du ändrar ett dokument som redan har skickats ut för signering, till exempel när fel dokument skickas ut av misstag. Avtal som ändras kan bara användas på dokument som uppfyller följande villkor:
+
+* Dokumentet har inte signerats, godkänts eller delegerats
+* Dokumentet innehåller ingen digital signatur eller skriven signatur
+* Dokumentet har inte initierats från ett anpassat arbetsflöde
+
 
 >[!NOTE]
 >
