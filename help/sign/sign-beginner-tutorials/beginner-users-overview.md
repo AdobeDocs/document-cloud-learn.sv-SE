@@ -1,14 +1,14 @@
 ---
-title: Översikt över att komma igång med Acrobat Sign
+title: Översikt över Komma igång med Acrobat Sign
 description: Få information om hur du skickar, signerar och spårar dokument med de här korta stegvisa självstudiekurserna
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Snabbgenomgång av Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Snabbdemo av Acrobat Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong>Snabbgenomgång av Acrobat Sign</strong></a>
@@ -75,10 +75,15 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <br>
     <em>Ändra ett dokument som redan bearbetas</em>
   </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Ersätta en signerare" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Ersätta en signerare</strong></a>
+    </div>
     <br>
+    <em>Lär dig hur du ändrar signeraren för ett dokument som redan pågår</em>
   </td>
 </tr>
 </table>
