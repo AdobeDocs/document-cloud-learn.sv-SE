@@ -1,22 +1,22 @@
 ---
-title: Snabb genomgång av Acrobat Sign
-description: Ta en snabbtur i Acrobat Sign för att komma igång
+title: Allmänt om arbetsytan
+description: Ta en snabbtitt på Acrobat Sign-arbetsytan för att komma igång
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: 41205.jpg
 exl-id: a914d230-da29-4278-9189-77e3a2486ae8
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 7%
 
 ---
 
-# Snabbgenomgång av Acrobat Sign
+# Allmänt om arbetsytan
 
-Ta en snabbvideouppvisning av arbetsytan i Acrobat Sign för att komma igång.
+Ta en snabbtur på arbetsytan i Acrobat Sign för att komma igång.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
 

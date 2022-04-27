@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + Komma igång {#getting-started}
    + [Översikt](sign-beginner-tutorials/beginner-users-overview.md)
    + Skickar {#getting-started-sending}
-      + [Snabbdemo av Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Allmänt om arbetsytan](sign-beginner-tutorials/quick-tour.md)
       + [Skicka till en enda mottagare](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Skicka till flera mottagare](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Komma igång med Acrobat Sign för nya avsändare](sign-beginner-tutorials/new-sender.md)
@@ -128,5 +128,5 @@ ht-degree: 6%
    + [Översikt](deploy-overview.md)
 + Mobila enheter {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + Självstudiekurser för mobiler {#mobile-tutorials}
+   + Självstudiekurser för Mobile {#mobile-tutorials}
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)

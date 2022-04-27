@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Snabbdemo av Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Allmänt om arbetsytan" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Snabbgenomgång av Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>Allmänt om arbetsytan</strong></a>
     </div>
-    <em>Ta en snabbtur i Acrobat Sign-gränssnittet för att komma igång</em>
+    <em>Ta en snabbtitt på arbetsytan i Acrobat Sign för att komma igång</em>
     <br>
   </td>
   <td>
