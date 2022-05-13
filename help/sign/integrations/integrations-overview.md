@@ -1,13 +1,13 @@
 ---
 title: Översikt över Sign-integreringar
-description: Lär dig hur du lägger till Acrobat Sign i befintliga system, processer och program
+description: Lär dig lägga till Acrobat Sign i befintliga system, processer och program
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign Integrate Image](../assets/Hero-Integrate.png)
 
-Du kan använda Acrobat Sign i andra program som organisationen redan använder, t.ex. Microsoft, Salesforce, Workday och Marketo för att nämna några. Läs om hur du kan förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
+Du kan använda Acrobat Sign i andra program som ditt företag redan använder, till exempel Microsoft, Salesforce, Workday och Marketo, för att nämna några. Läs om hur du kan förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
 
 >[!NOTE]
 > Om du har problem med att komma åt någon av dessa funktioner kan du fråga organisationens administratör och kontrollera att integreringen är aktiverad.
@@ -162,7 +162,7 @@ Du kan använda Acrobat Sign i andra program som organisationen redan använder,
     <div>
     <a href="workday.md"><strong>Konfigurera Acrobat Sign med Workday</strong></a>
     </div>
-    <em>Lär dig hur du konfigurerar Acrobat Sign så att det fungerar direkt i Workday och smidigt hanterar allt ditt HR-pappersarbete</em>
+    <em>Lär dig konfigurera Acrobat Sign så att det fungerar direkt i Workday och smidigt kan hantera alla HR-dokument</em>
     <br>
   </td>
   <td>
@@ -197,7 +197,7 @@ Du kan använda Acrobat Sign i andra program som organisationen redan använder,
       <img alt="Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen Adobe Sign för Salesforce och Marketo</strong></a>
     </div>
     <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod</em>
     <br>
