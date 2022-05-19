@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign Deploy Image](assets/Hero-Deploy.png)
 
-Artiklar om bästa praxis med värdefulla insikter om hur du driftsätter Acrobat Sign i din organisation.
+Artiklar om bästa praxis med värdefulla insikter om hur ni driftsätter Acrobat Sign i er organisation.
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,13 +33,13 @@ Artiklar om bästa praxis med värdefulla insikter om hur du driftsätter Acroba
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/se/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Bästa praxis" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>God praxis</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>God praxis</strong></a>
     </div>
-    <em>Granska värdefulla insikter och kunskaper som vår Customer Success Manager har fått genom sitt kundarbete i driftsättning av Acrobat Sign</em>
+    <em>Granska värdefulla insikter och kunskaper som vår Customer Success Manager har fått genom sitt kundarbete i Acrobat Sign</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ Artiklar om bästa praxis med värdefulla insikter om hur du driftsätter Acroba
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
-    <em>Läs mer om våra pågående satsningar på säkerhet, laglighet och standarder för Acrobat Sign</em>
+    <em>Läs mer om våra insatser för säkerhet, laglighet och standarder i Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -59,9 +59,9 @@ Artiklar om bästa praxis med värdefulla insikter om hur du driftsätter Acroba
       <img alt="Studiehandbok för Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Studiehandbok för Acrobat Sign Essentials</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Studiehandledning för Acrobat Sign Essentials</strong></a>
     </div>
-    <em>Studiehandbok för Acrobat Sign för Acrobat Sign Essentials Assessment (AD3-D104)</em>
+    <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
     <br>
   </td>
   <td>

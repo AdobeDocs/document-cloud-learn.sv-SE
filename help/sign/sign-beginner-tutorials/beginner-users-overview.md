@@ -1,12 +1,12 @@
 ---
-title: Översikt över Komma igång med Acrobat Sign
+title: Översikt över att komma igång med Acrobat Sign
 description: Få information om hur du skickar, signerar och spårar dokument med de här korta stegvisa självstudiekurserna
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -72,8 +72,8 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <div>
     <a href="modify-in-flight.md"><strong>Ändra ett dokument efter sändning</strong></a>
     </div>
-    <br>
     <em>Ändra ett dokument som redan bearbetas</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <div>
     <a href="replace-signer.md"><strong>Ersätta en signerare</strong></a>
     </div>
-    <br>
     <em>Lär dig hur du ändrar signeraren för ett dokument som redan pågår</em>
+     <br>
   </td>
 </tr>
 </table>
