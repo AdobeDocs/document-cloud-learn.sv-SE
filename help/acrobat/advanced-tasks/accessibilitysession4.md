@@ -1,6 +1,6 @@
 ---
 title: Skannade dokument och komplexa listor
-description: Denna on-demand-session behandlar de mest komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor
+description: Denna on demand-session tar upp de mer komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Skannade dokument och komplexa listor
 
-Denna on-demand-session behandlar de mest komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor.
+Denna on demand-session tar upp de mer komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor.
 
-Klicka [här](../assets/accessibilitysession4.zip) för att ladda ned en zip-fil med handfilerna för den här sessionen.
+Klicka [här](../assets/accessibilitysession4.zip) om du vill hämta en zip-fil med praktiska filer för den här sessionen.
 
-Markera bilden om du vill visa videon på en separat flik i webbläsaren.
+Markera bilden för att visa videon på en separat webbläsarflik.
 
-[![Session 4 Video](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![Video om session 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}

@@ -1,6 +1,6 @@
 ---
 title: Konfigurera Acrobat Sign för Workday
-description: Lär dig hur du konfigurerar Acrobat Sign så att det fungerar direkt i Workday och smidigt hanterar allt ditt HR-pappersarbete
+description: Lär dig konfigurera Acrobat Sign så att det fungerar direkt i Workday och smidigt kan hantera alla HR-dokument
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Konfigurera Acrobat Sign för Workday
 
-Effektivisera signaturarbetsflödena och gör teamet ännu produktivare med Acrobat Sign för Workday. I den här videosjälvstudiekursen får du lära dig hur du konfigurerar Acrobat Sign så att det fungerar direkt i Workday och smidigt hanterar allt HR-pappersarbete.
+Effektivisera signaturarbetsflödena och gör teamet ännu produktivare med Acrobat Sign för Workday. I den här videosjälvstudiekursen får du lära dig hur du konfigurerar Acrobat Sign så att det fungerar direkt i Workday så att du smidigt kan hantera alla HR-dokument.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)

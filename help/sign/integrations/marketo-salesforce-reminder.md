@@ -31,7 +31,7 @@ Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förbl
 
 ## Söka efter det anpassade objektet
 
-När konfigurationerna Marketo Salesforce Sync och Acrobat Sign för Salesforce har slutförts visas flera nya alternativ i Marketo Admin Terminal.
+När konfigurationerna för Marketo Salesforce Sync och Acrobat Sign för Salesforce är klara visas flera nya alternativ i Marketo Admin Terminal.
 
 ![Admin](assets/adminTab.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Skapa inbäddade e-signaturer och dokumentupplevelser
-description: Lär dig hur du använder API:er för Acrobat Sign för att bädda in e-signaturer och dokumentupplevelser på dina webbplattformar och i content- och dokumenthanteringssystem
+description: Lär dig hur du använder Acrobat Sign API:er för att bädda in e-signaturer och dokumentupplevelser i dina webbplattformar och system för innehållshantering och dokumenthantering
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Skapa inbäddade e-signaturer och dokumentupplevelser
 
-Lär dig hur du använder API:er för Acrobat Sign för att bädda in e-signaturer och dokumentupplevelser på dina webbplattformar och i content- och dokumenthanteringssystem. Den här praktiska självstudiekursen består av fyra delar som beskrivs i länkarna nedan:
+Lär dig hur du använder Acrobat Sign API:er för att bädda in e-signaturer och dokumentupplevelser på webbplattformar och i system för innehållshantering och dokumenthantering. Den här praktiska självstudiekursen består av fyra delar som beskrivs i länkarna nedan:
 
 <table style="table-layout:fixed">
 <tr>
@@ -75,7 +75,7 @@ I del 2 ska du utforska alternativet low/no-code när du använder webbformulär
 1. Gå till Acrobat Sign med ditt utvecklarkonto.
 1. Klicka **Publicera ett webbformulär** på startsidan.
 
-   ![Skärmdump på Acrobat Signs hemsida](assets/embeddedesignature/embed_1.png)
+   ![Skärmdump från Acrobat Sign-startsidan](assets/embeddedesignature/embed_1.png)
 
 1. Skapa ditt avtal.
 
@@ -98,7 +98,7 @@ Först måste du upprätta åtkomst. Med Acrobat Sign finns det två sätt att a
 
 Nu när du har åtkomst till och kan interagera med API:et kan du se vad du kan göra med API:et.
 
-1. Gå till [REST API Version 6-metoder för Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
+1. Gå till [Acrobat Sign REST API Version 6-metoder](http://adobesign.com/public/docs/restapi/v6).
 
    ![Skärmdump av navigering i Acrobat Sign REST API Version 6-metoder](assets/embeddedesignature/embed_5.png)
 
@@ -186,7 +186,7 @@ http://bit.ly/Summit21-T126
 
 Omfattar:
 * Utvecklarkonto för Acrobat Sign
-* API-dokument för Acrobat Sign
+* Acrobat Sign API-dokument
 * Exempelkod
 * Visual Studio Code
 * Python

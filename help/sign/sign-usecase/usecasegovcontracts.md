@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Offentlig upphandling och rekvisitionsblanketter
 
-Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter. Lär dig använda Acrobat Signs Workflow Designer-verktyg för att effektivisera hela processen.
+Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter. Läs om hur du använder Acrobat Sign Workflow Designer för att effektivisera hela processen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

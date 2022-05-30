@@ -86,7 +86,7 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
     <div>
     <a href="documentautomation.md"><strong>Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform</strong></a>
     </div>
-    <em>Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF Tools-anslutningar för Microsoft Power-program</em>
+    <em>Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power-program</em>
     <br>
   </td>
 </tr>

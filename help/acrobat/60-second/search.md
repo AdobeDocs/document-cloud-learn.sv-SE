@@ -1,6 +1,6 @@
 ---
-title: Sök i flera PDF-filer samtidigt
-description: Starta en sökning i en PDF-fil, öppna sedan Avancerad sökning och sök i en hel mapp med PDF-filer
+title: Söka efter flera PDF-filer samtidigt
+description: Starta en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Söka i flera PDF-filer samtidigt
+# Söka efter flera PDF-filer samtidigt
 
-I den här 60-sekundersvideosjälvstudiekursen lär du dig hur du startar en sökning i en PDF-fil, sedan öppnar du Avancerad sökning och söker i en hel mapp med PDF-filer.
+I den här 60 sekunder långa videosjälvstudien lär du dig hur du startar en sökning i en PDF-fil, sedan öppnar du Avancerad sökning och söker i en hel mapp med PDF-filer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

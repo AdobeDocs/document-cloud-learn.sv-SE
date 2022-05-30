@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sign Skill Builder
-description: Acrobat Sign Skill Builders är 30-minuterssessioner som gör att e-signaturerna fungerar - utan att du behöver lägga till något extra
+description: Acrobat Sign Skill Builders är 30-minuterssessioner som är utformade för att e-signaturer ska fungera - utan att du behöver lägga till något extra
 role: User
 product: adobe sign
 level: Intermediate
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Färdighetsbyggarens banderoll](../assets/SB_Hero.png)
 
-Acrobat Sign Skill Builders är 30-minuterssessioner som gör att e-signaturerna fungerar - utan att du behöver lägga till något extra. Varje månad markeras ett nytt ämne.
+Acrobat Sign Skill Builders är 30-minuterssessioner som är utformade för att e-signaturer ska fungera - utan att du behöver lägga till något extra. Varje månad markeras ett nytt ämne.
 
 ## Månatliga sessioner
 
@@ -38,10 +38,10 @@ Datum: 19 maj 2022 Upptäck de senaste tipsen och metoderna för att förändra 
 Datum: 14 april 2022 Upptäck de senaste tipsen och metoderna för att förändra affärsarbetsflöden och få viktiga dokument signerade snabbt.
 
 * **[Samla in många underskrifter med ett klick](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/44e4b483-7d05-44b3-b7e7-b265c9b84d07/2736bed0-b416-4578-ac3f-a57491f22c26){target=&quot;_blank&quot;}**
-Datum: 17 mars 2022 Med Skicka i bulk i Adobe Acrobat Sign kan du skicka ett enda dokument till hundratals signerare. När du behöver flera personer för att signera unika kopior av samma sekretessavtal, releaseformulär, policyuppdatering för hela företaget eller något annat dokument med en signerare, sparar du tid genom att förbereda filen en gång och automatiskt samla in enskilda svar.
+Datum: 17 mars 2022 Med Adobe Acrobat Sign Skicka i bulk -funktion kan du skicka ett dokument till hundratals signerare. När du behöver flera personer för att signera unika kopior av samma sekretessavtal, releaseformulär, policyuppdatering för hela företaget eller något annat dokument med en signerare, sparar du tid genom att förbereda filen en gång och automatiskt samla in enskilda svar.
 
 * **[Förbereda avtal för e-signering](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9024b058-ade1-420f-87f0-68bd5f6d527a/cf8b172f-b9df-41ef-bfce-e6d4b0c3ddf4){target=&quot;_blank&quot;}**
-Datum: 17 februari 2022 Läs om tre enkla sätt att konfigurera dokument för e-signering. Vare sig det handlar om PDF, Microsoft 365-filer eller bara en bildfil ger den här sessionen dig de verktyg du behöver för att få dokumentet signerat. Vi går igenom tre metoder: - Acrobat Signs enkla dra-och-släpp-redigeringsmiljö - Skapa ett PDF-formulär i Adobe Acrobat - Använd texttaggar för snabb dokumentredigering.
+Datum: 17 februari 2022 Läs om tre enkla sätt att konfigurera dokument för e-signering. Vare sig det handlar om PDF, Microsoft 365-filer eller bara en bildfil ger den här sessionen dig de verktyg du behöver för att få dokumentet signerat. Vi går igenom tre metoder: - Acrobat Sign enkla dra-och-släpp-redigeringsmiljö - Skapa ett PDF-formulär i Adobe Acrobat - Använd texttaggar för snabb dokumentredigering.
 
 * **[Arbeta med e-signaturer i dina Microsoft-program](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/2dcd80a6-6335-4756-bbc8-3505fe99594b/866c4314-dc74-473b-9859-828801814e13){target=&quot;_blank&quot;}**
 Datum: 20 januari 2022 Utöka ditt sätt att använda Microsoft-program som Word, Outlook och SharePoint genom att lägga till Acrobat Sign i dina befintliga arbetsflöden. Den här sessionen lär dig hur du kan börja effektivisera dokumentprocesser i vanliga Microsoft-program så att du inte behöver växla till kontext bara för att få en signatur eller kontrollera en status.

@@ -1,6 +1,6 @@
 ---
 title: Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform
-description: Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF Tools-anslutningar för Microsoft Power-program. Skapa arbetsflöden som automatiserar processerna för godkännande och signering snabbt och säkert utan någon kod
+description: Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power-program. Skapa arbetsflöden som automatiserar processerna för godkännande och signering snabbt och säkert utan någon kod
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 # Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform
 
-Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF Tools-anslutningar för Microsoft Power-program. Skapa arbetsflöden som automatiserar processerna för godkännande och signering snabbt och säkert utan någon kod. Den här praktiska självstudiekursen består av fyra delar som beskrivs i länkarna nedan:
+Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power-program. Skapa arbetsflöden som automatiserar processerna för godkännande och signering snabbt och säkert utan någon kod. Den här praktiska självstudiekursen består av fyra delar som beskrivs i länkarna nedan:
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,10 +30,10 @@ Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF Tools-anslut
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Del 2: Automatiserad godkännandeprocess för att få e-signatur med Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Del 2: Automatiserad godkännandeprocess för e-signering med Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Del 2: Automatiserad godkännandeprocess för att få e-signatur med Acrobat Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Del 2: Automatiserad godkännandeprocess för e-signering med Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -60,7 +60,7 @@ Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF Tools-anslut
 * Microsoft 365 och Power Automate välbekanta
 * Acrobat Sign-kunskap
 * Microsoft 365-konto med tillgång till SharePoint och Power Automate (Basic för Acrobat Sign, Premium för Adobe PDF Tools)
-* Utvecklarkonto för Acrobat Sign för företag eller Acrobat Sign
+* Utvecklarkonto för Acrobat Sign for enterprise eller Acrobat Sign
 
 **Övningarna 1 och 2**
 
@@ -88,7 +88,7 @@ I del ett använder du en Power Automate Flow-mall för att konfigurera ett auto
 1. Granska skärmen och konfigurera de anslutningar som behövs. Aktivera Acrobat Sign-anslutningen.
 1. Klicka på det blå `+` -symbolen.
 
-   ![Skärmdump av Acrobat Sign och SharePoint Flow Connection](assets/documentautomation/automation_3.png)
+   ![Skärmdump av Acrobat Sign- och SharePoint-flödesanslutning](assets/documentautomation/automation_3.png)
 
 1. Ange e-postadressen för ditt Acrobat Sign-konto och klicka på lösenordsfältet i det nya fönstret.
 
@@ -125,7 +125,7 @@ I del ett använder du en Power Automate Flow-mall för att konfigurera ett auto
 
 Du kommer att testa detta flöde i nästa del.
 
-## Del 2: Automatiserad godkännandeprocess för att få e-signatur med Acrobat Sign {#part2}
+## Del 2: Automatiserad godkännandeprocess för e-signering med Acrobat Sign {#part2}
 
 I del två bygger vi av den första delen med ett mer robust flöde och testar båda flödena för att se dem i aktion.
 
@@ -195,7 +195,7 @@ I del två bygger vi av den första delen med ett mer robust flöde och testar b
 
    ![Skärmdump av hur skärmen Dynamiskt innehåll ska se ut](assets/documentautomation/automation_18.png)
 
-1. Sök efter &quot;skapa&quot; i sökområdet i Acrobat Sign om du vill lägga till ytterligare en Acrobat Sign-åtgärd.
+1. Sök efter &quot;skapa&quot; i Acrobat Sign-sökområdet om du vill lägga till ytterligare en Acrobat Sign-åtgärd.
 1. Välj **Skapa och godkänn från ett överfört dokument och skicka för signering**.
 
    ![Skärmdump av sökning efter skapa](assets/documentautomation/automation_19.png)

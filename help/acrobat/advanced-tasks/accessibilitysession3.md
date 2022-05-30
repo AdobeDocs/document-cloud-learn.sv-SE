@@ -1,6 +1,6 @@
 ---
 title: Komplexa tabeller
-description: Denna on-demand-session åtgärdar ett av de vanligaste och svåraste problemen med att åtgärda en PDF för tillgänglighet - komplexa tabeller
+description: Denna on-demand-session tar upp ett av de vanligaste och svåraste problemen med att åtgärda en PDF för hjälpmedel - komplexa tabeller
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Komplexa tabeller
 
-Denna on-demand-session åtgärdar ett av de vanligaste och svåraste problemen med att åtgärda en PDF för tillgänglighet - komplexa tabeller.
+Denna on-demand-session tar upp ett av de vanligaste och svåraste problemen med att åtgärda en PDF för hjälpmedel - komplexa tabeller.
 
-Klicka [här](../assets/accessibilitysession3.zip) för att ladda ned en zip-fil med handfilerna för den här sessionen.
+Klicka [här](../assets/accessibilitysession3.zip) om du vill hämta en zip-fil med praktiska filer för den här sessionen.
 
-Markera bilden om du vill visa videon på en separat flik i webbläsaren.
+Markera bilden för att visa videon på en separat webbläsarflik.
 
-[![Session 3 Video](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![Video om session 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

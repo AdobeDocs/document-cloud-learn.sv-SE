@@ -128,5 +128,5 @@ ht-degree: 7%
    + [Översikt](deploy-overview.md)
 + Mobila enheter {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + Självstudiekurser för Mobile {#mobile-tutorials}
+   + Självstudiekurser för mobiler {#mobile-tutorials}
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)

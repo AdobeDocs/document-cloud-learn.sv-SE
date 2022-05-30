@@ -31,7 +31,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="up-and-running-admin.md"><strong>Komma igång för administratörer</strong></a>
     </div>
-    <em>Översikt över 7 nyckelområden där administratörer snabbt kan komma igång med Acrobat Sign</em>
+    <em>Översikt över 7 nyckelområden där administratörer snabbt kan komma igång i Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -196,7 +196,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     <div>
-    <em>Skapa Acrobat Sign-formulärfält med texttaggar med Adobe Acrobat</em>
+    <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
     <br>
   </td>
   <td>

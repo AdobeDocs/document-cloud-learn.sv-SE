@@ -22,4 +22,4 @@ Lär dig hur du effektiviserar dokumentarbetsflöden genom att fylla i och signe
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Använda Acrobat Sign i Microsoft-program](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) som är tillgänglig gratis på Experience League!
+>Den här videon är en del av kursen [Använda Acrobat Sign Inside Microsoft-program](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) som är tillgänglig gratis på Experience League!

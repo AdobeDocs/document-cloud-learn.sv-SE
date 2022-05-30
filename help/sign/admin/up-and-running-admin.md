@@ -1,6 +1,6 @@
 ---
-title: Kom igång för Acrobat Sign-administratörer
-description: Översikt över sju nyckelområden där administratörer snabbt kan komma igång med Acrobat Sign
+title: Komma igång för Acrobat Sign-administratörer
+description: Översikt över sju nyckelområden där administratörer snabbt kan komma igång i Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Komma igång för Acrobat Sign-administratörer
 
-Lär dig de sju nyckelområden som administratörer bör fokusera på för att komma igång snabbt i Acrobat Sign.
+Läs om de sju nyckelområden som administratörer bör fokusera på för att komma igång snabbt i Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

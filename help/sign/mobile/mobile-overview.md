@@ -1,5 +1,5 @@
 ---
-title: Översikt över Mobile
+title: Översikt över mobilen
 description: Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringar i realtid på din mobila enhet
 role: User
 product: adobe sign
@@ -14,9 +14,9 @@ ht-degree: 29%
 
 ---
 
-# Översikt över Mobile
+# Översikt över mobilen
 
-![Signera Mobile-bild](../assets/Hero-Mobile.png)
+![Sign Mobile Image](../assets/Hero-Mobile.png)
 
 Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringar i realtid på din mobila enhet.
 
@@ -37,7 +37,7 @@ Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringa
       <img alt="Hämta till iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Hämta appen Acrobat Sign Mobile för iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Hämta Acrobat Sign-mobilappen för iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringa
       <img alt="Hämta till Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Hämta Acrobat Sign Mobile-appen för Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Hämta Acrobat Sign-mobilappen för Android</strong></a>
     <br>
   </td>
 </tr>

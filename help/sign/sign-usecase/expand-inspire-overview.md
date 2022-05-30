@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Översikt över branscher och avdelningar
 
-![Branschbild för Acrobat Sign](../assets/Hero-Industry.png)
+![Acrobat Sign-branschbild](../assets/Hero-Industry.png)
 
 Lär dig hur du kan förändra organisationens e-signeringsupplevelser genom att utforska de verkliga användningsfallen, recepten och webbinarierna för branschen och avdelningen.
 
