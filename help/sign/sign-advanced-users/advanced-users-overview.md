@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
       <img alt="Delegera till någon annan" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Delegera till någon annan</strong></a>
+    <a href="delegate-signature.md"><strong>Använda delegerarerollen</strong></a>
     </div>
     <em>Använd rollen delegerande för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering</em>
     <br>
@@ -83,7 +83,7 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     </div>
-    <em>Skapa Acrobat Sign-formulärfält med texttaggar med Adobe Acrobat</em>
+    <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
     <br>
   </td> 
 </table>
