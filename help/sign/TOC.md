@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
       + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Lägga till en godkännare](sign-advanced-users/add-an-approver.md)
-      + [Samla in flera signaturer samtidigt](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Skicka och samla in flera signaturer samtidigt](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Konfigurera ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Hantera {#advanced-tasks-managing}
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [Skapa en mall](sign-advanced-users/create-a-template.md)
       + [Skapa en rapport](admin/create-a-report.md)
       + [Konfigurera ett webbformulär](sign-advanced-users/webform.md)
-      + [Samla in flera signaturer samtidigt](sign-advanced-users/megasign.md)
+      + [Skicka och samla in flera signaturer samtidigt](sign-advanced-users/megasign.md)
       + [Skapa ett anpassat arbetsflöde](admin/building-a-custom-workflow.md)
    + Avancerade uppgifter {#advanced-tasks-admins}
       + [Globala inställningar](admin/learn-about-global-settings.md)

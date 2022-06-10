@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 1%
 
 ---
@@ -110,10 +110,10 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
+      <img alt="Skicka och samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Samla in signaturer i grupp</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Skicka och samla in flera signaturer samtidigt</strong></a>
     </div>
     <em>Samla hundratals signaturer samtidigt för alla dokument</em>
     <br>

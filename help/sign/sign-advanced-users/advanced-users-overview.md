@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -58,10 +58,10 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="Samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
+      <img alt="Skicka och samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>Samla in flera signaturer samtidigt</strong></a>
+    <a href="megasign.md"><strong>Skicka och samla in flera signaturer samtidigt</strong></a>
     </div>
     <em>Samla in hundratals signaturer samtidigt för alla dokument i några få korta steg</em>
     <br>
