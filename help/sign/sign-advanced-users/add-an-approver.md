@@ -1,5 +1,5 @@
 ---
-title: Lägga till en godkännare
+title: Använda godkännarrollen
 description: Lär dig hur du lägger till en godkännarroll i din avtalsgodkännandeprocess
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Lägga till en godkännare
+# Använda godkännarrollen
 
-Lär dig hur du skickar ett dokument via en godkännandeprocess. I det här exemplet ser du hur du skickar ett anställningsavtal via HR, medarbetaren och den anställande chefen.
+Lär dig hur du skickar ett dokument via en godkännandeprocess. I det här exemplet kan du se hur du skickar ett anställningsavtal via HR, en potentiell anställd och en anställningsansvarig. Godkännarrollen fungerar bra i situationer när någon behöver godkänna ett dokument innan det skickas vidare till signeraren.
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >
