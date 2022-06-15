@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -125,6 +125,16 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="Delegera signering till någon annan" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>Delegera signering till någon annan</strong></a>
+    </div>
+    <em>Lär dig hur du delegerar signeringen av ett dokument till någon annan</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Vad är en digital signatur?" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
      <br>
   </td> 
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 

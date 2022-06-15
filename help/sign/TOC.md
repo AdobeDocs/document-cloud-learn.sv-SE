@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '426'
 ht-degree: 8%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [Signera ett dokument elektroniskt](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Fylla i och signera ett dokument](sign-beginner-tutorials/fill-and-sign.md)
       + [Hämta en signatur personligen](sign-beginner-tutorials/sign-in-person.md)
+      + [Delegera signering till någon annan](sign-beginner-tutorials/delegate-signing.md)
       + [Vad är en digital signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signera med en stämpel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Hantera {#getting-started-managing}
