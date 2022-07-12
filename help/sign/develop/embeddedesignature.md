@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ I del 1 lär du dig komma igång med allt du behöver för delarna 2-4. Vi börj
    * Windows - Chocolatey
    * Alla - https://www.python.org/downloads/
 
++++
+
 ## Del 2: Låg/ingen kod - kraftfulla webbformulär
 
 I del 2 utforskar du alternativet low/no-code för att använda webbformulär. Det är alltid en bra idé att se om du kan undvika att skriva kod i början.
@@ -54,6 +56,8 @@ I del 2 utforskar du alternativet low/no-code för att använda webbformulär. D
 1. Experimentera med dynamisk tillägg av frågeparametrar.
 
    ![Skärmdump av tillägg av frågeparametrar](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Del 3: Skicka avtal med ett formulär och sammanfoga data
 
@@ -110,6 +114,8 @@ Koden är relativt enkel. det använder ett biblioteksdokument (mall) som dokume
 
 ![Skärmdump av kod för att lägga till signaturer dynamiskt](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Del 4: Bädda in signeringsfunktioner, omdirigeringar med mera
 
 I många scenarier kanske du vill tillåta att den utlösande deltagaren omedelbart signerar ett avtal. Detta är användbart för kundcentrerade applikationer och kioskdatorer.
@@ -135,6 +141,8 @@ När du har uppdaterat processen för att skapa avtal genereras signerings-URL:e
 ![Skärmdump som säger att det är bästa praxis att upprätta en repeteringsloop](assets/embeddedesignature/embed_15.png)
 
 När allt är sammanställt är lösningen ganska enkel. Du skapar ett avtal och sedan en signerings-URL som signeraren kan klicka på och påbörja signeringsritualen.
+
++++
 
 ## Ytterligare ämnen
 
