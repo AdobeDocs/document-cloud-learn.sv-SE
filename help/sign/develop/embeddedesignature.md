@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # Skapa inbäddade e-signaturer och dokumentupplevelser
 
-Lär dig hur du använder Acrobat Sign API:er för att bädda in e-signaturer och dokumentupplevelser på webbplattformar och i system för innehållshantering och dokumenthantering. Den här praktiska självstudiekursen består av fyra delar som beskrivs i länkarna nedan:
+Lär dig hur du använder Acrobat Sign API:er för att bädda in e-signaturer och dokumentupplevelser på webbplattformar och i system för innehållshantering och dokumenthantering. Den här praktiska självstudiekursen består av fyra delar.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="Vad du behöver" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>Del 1: Vad du behöver</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="Del 2: Låg/ingen kod - kraftfulla webbformulär" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>Del 2: Låg/ingen kod - kraftfulla webbformulär</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="Del 3: Skicka avtal med ett formulär, slå samman data" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>Del 3: Skicka avtal med ett formulär och sammanfoga data</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="Del 4: Bädda in signeringsfunktioner, omdirigeringar med mera" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>Del 4: Bädda in signeringsfunktioner, omdirigeringar med mera</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## Del 1: Det du behöver
 
-## Del 1: Vad du behöver {#part1}
+I del 1 lär du dig komma igång med allt du behöver för delarna 2-4. Vi börjar med att hämta API-uppgifter.
 
-I del 1 får du lära dig hur du kommer igång med allt du behöver för delarna 2-4. Vi börjar med att hämta API-uppgifter.
++++Visa information om hur du hämtar API-uppgifter
 
 * [Utvecklarkonto för Acrobat Sign](https://acrobat.adobe.com/se/sv/sign/developer-form.html)
 * [Startkod](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ I del 1 får du lära dig hur du kommer igång med allt du behöver för delarna
    * Windows - Chocolatey
    * Alla - https://www.python.org/downloads/
 
-## Del 2: Låg/ingen kod - kraftfulla webbformulär {#part2}
+## Del 2: Låg/ingen kod - kraftfulla webbformulär
 
-I del 2 ska du utforska alternativet low/no-code när du använder webbformulär. Det är alltid en bra idé att se om du kan undvika att skriva kod i början.
+I del 2 utforskar du alternativet low/no-code för att använda webbformulär. Det är alltid en bra idé att se om du kan undvika att skriva kod i början.
+
++++Visa information om hur du skapar ett webbformulär
 
 1. Gå till Acrobat Sign med ditt utvecklarkonto.
-1. Klicka **Publicera ett webbformulär** på startsidan.
+
+1. Välj **Publicera ett webbformulär** på startsidan.
 
    ![Skärmdump från Acrobat Sign-startsidan](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ I del 2 ska du utforska alternativet low/no-code när du använder webbformulär
    ![Skärmbild av hur du skapar ett webbformulär](assets/embeddedesignature/embed_2.png)
 
 1. Lägg in ditt avtal på en platt HTML-sida.
+
 1. Experimentera med dynamisk tillägg av frågeparametrar.
 
    ![Skärmdump av tillägg av frågeparametrar](assets/embeddedesignature/embed_3.png)
 
-## Del 3: Skicka avtal med ett formulär och sammanfoga data {#part3}
+## Del 3: Skicka avtal med ett formulär och sammanfoga data
 
 I del 3 skapar du avtal dynamiskt.
 
-Först måste du upprätta åtkomst. Med Acrobat Sign finns det två sätt att ansluta via API. OAuth-token och integreringsnycklar. Om du inte har ett särskilt skäl till att använda OAuth med ditt program, du kommer att vilja utforska Integration Keys först.
++++Visa information om hur du skapar avtal dynamiskt
+
+Först måste du upprätta åtkomst. Med Acrobat Sign finns det två sätt att ansluta via API. OAuth-token och integreringsnycklar. Om du inte har ett särskilt skäl till att använda OAuth med programmet bör du först utforska integreringsnycklar.
 
 1. Välj **Integreringsnyckel** om **API-information** menyn under **Konto** i Acrobat Sign.
 
@@ -139,9 +110,11 @@ Koden är relativt enkel. det använder ett biblioteksdokument (mall) som dokume
 
 ![Skärmdump av kod för att lägga till signaturer dynamiskt](assets/embeddedesignature/embed_11.png)
 
-## Del 4: Bädda in signeringsfunktioner, omdirigeringar med mera {#part4}
+## Del 4: Bädda in signeringsfunktioner, omdirigeringar med mera
 
 I många scenarier kanske du vill tillåta att den utlösande deltagaren omedelbart signerar ett avtal. Detta är användbart för kundcentrerade applikationer och kioskdatorer.
+
++++Visa information om hur du bäddar in signeringsfunktionen
 
 Om du inte vill att det första e-postmeddelandet ska utlösas är det ett enkelt sätt att hantera beteendet med en ändring av API-anropet.
 
@@ -163,7 +136,7 @@ När du har uppdaterat processen för att skapa avtal genereras signerings-URL:e
 
 När allt är sammanställt är lösningen ganska enkel. Du skapar ett avtal och sedan en signerings-URL som signeraren kan klicka på och påbörja signeringsritualen.
 
-### Ytterligare ämnen
+## Ytterligare ämnen
 
 * [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-händelser
@@ -179,14 +152,3 @@ När allt är sammanställt är lösningen ganska enkel. Du skapar ett avtal och
       ![Skärmdump från navigering till Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Eller lägg till en [under flygning](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## Ytterligare resurser
-
-http://bit.ly/Summit21-T126
-
-Omfattar:
-* Utvecklarkonto för Acrobat Sign
-* Acrobat Sign API-dokument
-* Exempelkod
-* Visual Studio Code
-* Python
