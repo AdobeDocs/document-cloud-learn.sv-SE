@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 4%
@@ -63,7 +63,7 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <div>
     <a href="set-up-online-payments.md"><strong>Ställ in onlinebetalningar</strong></a>
     </div>
-    <em>Lär dig hur du konfigurerar och accepterar onlinebetalningar i dina dokument</em>
+    <em>Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument</em>
     <br>
   </td>
   <td>
