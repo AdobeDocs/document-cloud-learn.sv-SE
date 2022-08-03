@@ -4,8 +4,8 @@ solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '398'
+ht-degree: 8%
 
 ---
 
