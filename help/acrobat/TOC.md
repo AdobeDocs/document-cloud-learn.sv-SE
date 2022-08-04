@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 8%
+source-wordcount: '401'
+ht-degree: 7%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 8%
 + Komma igång {#getting-started}
    + [Översikt](getting-started/getting-started-overview.md)
    + [Allmänt om arbetsytan](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Ny arbetsyta](getting-started/new-workspace.md)
    + [Arbeta var som helst med Acrobat på webben](getting-started/acrobatweb.md)
    + [Produktivitet i farten](getting-started/productivity.md)
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

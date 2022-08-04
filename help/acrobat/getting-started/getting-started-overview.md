@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '431'
 ht-degree: 4%
 
 ---
@@ -25,12 +25,22 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Allmänt om arbetsytan" src="../assets/Workspace_1280.png" />
+      <img alt="Allmänt om arbetsytan" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Allmänt om arbetsytan</strong></a>
     </div>
     <em>Se hur arbetsytan i Acrobat gör det enkelt att komma åt filer och verktyg på datorer, webben och mobila enheter</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Ny arbetsyta" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Ny arbetsyta</strong></a>
+    </div>
+    <em>Läs mer om den nya arbetsytan som du kan aktivera i Acrobat</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="Produktivitet i farten" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Gör mer direkt från din surfplatta eller mobiltelefon med mobilappen Acrobat Reader</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Arbeta med Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och följa upp dokumentförloppet i realtid var du än är</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files till PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Kombinera många olika filtyper i ett och samma PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="Skapa PDF-filer" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Lägga till kommentarer i en PDF-fil och sedan dela den med andra</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Redigera en PDF-fil" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Redigera text och bilder i PDF-filer</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="Exportera en PDF till redigerbara format" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Omvandla ett dokument som har skapats i ett annat program till ett ifyllbart PDF-formulär</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="Skanning och OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="Ordna sidor" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Lägg till ett lösenord på PDF för att skydda andra från att öppna eller redigera filen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Fyll i och signera ett PDF-formulär" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Fyll snabbt i och signera ett PDF-formulär</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="Hämta signaturer" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <em>Ha alltid koll på vilka filer som väntar på signaturer och vilka som har signerats</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Var kommer PDF ifrån?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
     <a href="where-do-pdfs-come-from.md"><strong>Var kommer PDF ifrån?</strong></a>
     </div>
     <em>Förstå varifrån PDF kommer och hur de används</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
