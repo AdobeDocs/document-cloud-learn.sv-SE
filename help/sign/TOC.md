@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '433'
 ht-degree: 9%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 9%
    + [Översikt](sign-beginner-tutorials/beginner-users-overview.md)
    + Skickar {#getting-started-sending}
       + [Allmänt om arbetsytan](sign-beginner-tutorials/quick-tour.md)
+      + [Komma igång med Acrobat Sign för nya avsändare](sign-beginner-tutorials/new-sender.md)
       + [Skicka till en enda mottagare](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Skicka till flera mottagare](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Komma igång med Acrobat Sign för nya avsändare](sign-beginner-tutorials/new-sender.md)
+      + [Lägga till fält i dina dokument](sign-beginner-tutorials/adding-fields.md)
       + [Ändra ett dokument efter sändning](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersätta en signerare](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}

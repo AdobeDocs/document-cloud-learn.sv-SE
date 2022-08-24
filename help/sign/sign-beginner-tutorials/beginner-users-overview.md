@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,16 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <br>
   </td>
   <td>
+    <a href="new-sender.md">
+      <img alt="Komma igång med Acrobat Sign för nya avsändare" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Komma igång med Acrobat Sign för nya avsändare</strong></a>
+    </div>
+    <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
     <a href="send-to-single-recipient.md">
       <img alt="Skicka till en mottagare" src="../assets/Send-to-single-recipient.png" />
     </a>
@@ -56,13 +66,13 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="Komma igång med Acrobat Sign för nya avsändare" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="Lägga till fält i dina dokument" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Komma igång med Acrobat Sign för nya avsändare</strong></a>
+    <a href="adding-fields.md"><strong>Lägga till fält i dina dokument</strong></a>
     </div>
-    <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Acrobat Sign</em>
+    <em>Lär dig hur du lägger till olika typer av fält i dina dokument</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     </div>
     <em>Lär dig hur du ändrar signeraren för ett dokument som redan pågår</em>
      <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Få någon annans namnteckning personligen med mobilappen Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Delegera signering till någon annan" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Lär dig hur du delegerar signeringen av ett dokument till någon annan</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Vad är en digital signatur?" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Signera med en stämpel" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Signera med en stämpel</strong></a>
+    </div>
+    <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
     </div>
     <em>Skapa en återanvändbar dokumentmall för att snabba upp och göra organisationen enhetlig</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
