@@ -2,13 +2,12 @@
 title: Skicka aviseringar med Acrobat Sign för Microsoft Dynamics 365 och Marketo
 description: Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg
 role: Admin
-product: acrobat sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: f63e7630f43cf7a5d049c286458f9f3549b29869
+source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%

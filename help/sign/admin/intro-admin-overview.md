@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Bild för Sign-administratörer](../assets/Hero-Admin.png)
 
-Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Acrobat Sign. De avancerade uppgifterna omfattar ämnen som expanderar förbi den del av administratörsinställningen som rör sig mot definition av globala inställningar, kontoåtkomst och delning samt texttaggning.
+Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Acrobat Sign. De avancerade uppgifterna omfattar ämnen som sträcker sig bortom administratörskonfigurationen och rör sig mot att definiera globala inställningar, kontoåtkomst och delning samt texttaggning.
 
 ## Komma igång
 
@@ -54,8 +54,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Lägg till användare enskilt eller i grupp i ditt Acrobat Sign-konto</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="Skapa och hantera grupper" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Konfigurera ett externt arkiv" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Skapa en återanvändbar dokumentmall för snabbhet och enhetlighet</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="Skapa en rapport" src="../assets/Report.png" />
@@ -108,6 +106,18 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="Ändra ett befintligt webbformulär" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
+    </div>
+    <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Skicka och samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Samla hundratals signaturer samtidigt för alla dokument</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Konfigurera ett arbetsflöde" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <a href="building-a-custom-workflow.md"><strong>Konfigurera ett arbetsflöde</strong></a>
     </div>
     <em>Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer och data</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Konfigurera kontodelning så att administratörer och användare kan delegera behörigheter för att skicka, ändra och visa</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Använda bioläkemedelsinställningar" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Ställ in bioläkemedelsinställningar som gör att du kan uppfylla kraven för FDA 21 CFR del 11</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     <div>
     <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
