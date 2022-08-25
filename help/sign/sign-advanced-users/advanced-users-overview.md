@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <em>Lägg till en godkännarroll i kontraktsgodkännandeprocessen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Ställ in onlinebetalningar" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <em>Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Skicka och samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     </div>
     <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <a href="edit-a-template.md"><strong>Hantera dokumentmallar</strong></a>
     </div>
     <em>Redigera eller ta bort en mall från biblioteket</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Ändra ett befintligt webbformulär" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
+    </div>
+    <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
     <br>
   </td>  
   <td>
