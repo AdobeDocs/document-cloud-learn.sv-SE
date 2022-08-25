@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
+source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '453'
 ht-degree: 8%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 8%
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Använda godkännarrollen](sign-advanced-users/add-an-approver.md)
       + [Skicka och samla in flera signaturer samtidigt](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [Konfigurera ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Hantera {#advanced-tasks-managing}
