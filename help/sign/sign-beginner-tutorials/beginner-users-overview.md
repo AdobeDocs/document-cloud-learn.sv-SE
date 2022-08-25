@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -66,6 +66,16 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Konfigurera sändningsalternativ" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Konfigurera sändningsalternativ</strong></a>
+    </div>
+    <em>Lär dig konfigurera olika alternativ när du skickar ett dokument för signering</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Lägga till fält i dina dokument" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Lär dig hur du lägger till olika typer av fält i dina dokument</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Ändra ett dokument efter sändning" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Ändra ett dokument som redan bearbetas</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Ersätta en signerare" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     </div>
     <em>Lär dig hur du ändrar signeraren för ett dokument som redan pågår</em>
      <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
