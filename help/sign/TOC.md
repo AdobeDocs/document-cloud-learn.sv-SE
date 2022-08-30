@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 8%
    + Hantera {#advanced-tasks-managing}
       + [Hantera dokumentmallar](sign-advanced-users/edit-a-template.md)
       + [Ändra ett befintligt webbformulär](sign-advanced-users/modify-webform.md)
+      + [Skapa en rapport](sign-advanced-users/creating-a-report.md)
 + Administrera {#admin-set-up}
    + [Översikt](admin/intro-admin-overview.md)
    + Komma igång {#getting-started-admin}
@@ -62,7 +63,7 @@ ht-degree: 8%
       + [Skapa och hantera grupper](admin/create-and-manage-groups.md)
       + [Konfigurera ett externt arkiv](admin/set-up-your-external-archive.md)
       + [Skapa en mall](sign-advanced-users/create-a-template.md)
-      + [Skapa en rapport](admin/create-a-report.md)
+      + [Skapa ett rapportdiagram](admin/create-a-report.md)
       + [Skapa ett webbformulär](sign-advanced-users/webform.md)
       + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Skicka och samla in flera signaturer samtidigt](sign-advanced-users/megasign.md)

@@ -1,27 +1,26 @@
 ---
-title: Skapa en rapport
-description: Lär dig köra, spara och schemalägga rapporter i Acrobat Sign
+title: Skapa ett rapportdiagram
+description: Lär dig skapa, spara och hantera egna anpassade rapporter och dataexporter
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# Skapa en rapport
+# Skapa ett rapportdiagram
 
-Lär dig köra, spara och schemalägga rapporter i Acrobat Sign.
+Lär dig skapa, spara och hantera egna anpassade rapporter och dataexporter i en anpassad vy med den nya rapporteringsupplevelsen. Vilka rapportdiagram som är tillgängliga beror på användarens behörighetsnivå i Acrobat Sign-systemet.
 
 >[!NOTE]
 >
 >Rapportering är endast tillgänglig för planer på Business- och Enterprise-nivå.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >

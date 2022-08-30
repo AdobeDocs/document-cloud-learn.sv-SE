@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -88,12 +88,12 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Skapa en rapport" src="../assets/Report.png" />
+      <img alt="Skapa ett rapportdiagram" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Skapa en rapport</strong></a>
+    <a href="create-a-report.md"><strong>Skapa ett rapportdiagram</strong></a>
     </div>
-    <em>Skapa och schemalägg rapporter för att få insyn i organisationens användning av Acrobat Sign</em>
+    <em>Lär dig skapa, spara och hantera egna anpassade rapporter och dataexporter</em>
     <br>
   </td>
   <td>
