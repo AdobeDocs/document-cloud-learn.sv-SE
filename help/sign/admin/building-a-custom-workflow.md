@@ -6,9 +6,9 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Kolla in de här extra användningsfallen:
 
 * [Offentlig sektor och rekvisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) användningsfall.
 * [Affärskontrakt och rekvisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) användningsfall.
+
+>[!NOTE]
+>
+>Gruppadministratörer kan tilldela arbetsflöden till alla grupper som de administrerar (inte bara sin primära grupp). Gruppadministratörer kan också redigera arbetsflöden som tilldelats grupper som de administrerar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
