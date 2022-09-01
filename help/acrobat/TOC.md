@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 7%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 7%
    + [Arbeta var som helst med Acrobat på webben](getting-started/acrobatweb.md)
    + [Produktivitet i farten](getting-started/productivity.md)
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Samarbeta i realtid](getting-started/collaborate.md)
-   + [Combine Files till PDF](getting-started/combine-to-pdf.md)
+   + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
-   + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
-   + [Redigera en PDF-fil](getting-started/edit-pdf.md)
-   + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
-   + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
-   + [Skanning och OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files till PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
-   + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
+   + [Redigera en PDF-fil](getting-started/edit-pdf.md)
+   + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
+   + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
+   + [Samarbeta i realtid](getting-started/collaborate.md)
+   + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
+   + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+   + [Skanning och OCR](getting-started/scan-and-ocr.md)
+   + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
    + [Hämta signaturer](getting-started/signatures.md)
    + [Spåra dina dokument](getting-started/track.md)
-   + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](advanced-tasks/advanced-tasks-overview.md)
    + [Lägga till bokmärken och hyperlänkar](advanced-tasks/bookmarks.md)
