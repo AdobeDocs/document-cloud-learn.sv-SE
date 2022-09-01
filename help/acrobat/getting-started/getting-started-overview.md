@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d25f441ba55bd24fe854a19eb04a301712723a07
+source-git-commit: d34cfedb457db845f250b907cfc329174fc7137e
 workflow-type: tm+mt
-source-wordcount: '478'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -65,16 +65,6 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
   </td>
 </tr>
 <tr>
-    <td>
-      <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Arbeta med Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeta med Microsoft 365</strong></a>
-      </div>
-      <em>Öka produktiviteten och arbetsflödena för affärsdokument med Acrobat och [!DNL Microsoft 365]</em>
-      <br>
-    </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Arbeta med Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
