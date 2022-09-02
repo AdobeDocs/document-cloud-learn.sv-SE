@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa funktionsmakron för att upprepa triviala moment, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa universellt tillgängliga PDF-filer.
 
-## Självstudiekurser för Acrobat
+## Självstudiekurser för avancerade uppgifter
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Förbättra produktiviteten i dokumentarbetsflödet med anpassade kommandon och verktyg</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Avancerade formulärfält" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Lär dig avancerad teknik för att bygga professionella PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF för SEO (sökmotoroptimering)" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Lägg till olika typer av formulärfält, ange formulärfältsegenskaper och lägg till säkerhet för att skapa professionella blanketter av hög kvalitet</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Förbättra PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Redigera bort och sanera" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  

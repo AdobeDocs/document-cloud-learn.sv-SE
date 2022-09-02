@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d34cfedb457db845f250b907cfc329174fc7137e
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '464'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,11 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
       <a href="where-do-pdfs-come-from.md"><strong>Var kommer PDF ifrån?</strong></a>
       </div>
       <em>Förstå varifrån PDF kommer och hur de används</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+      <div>
       <br>
     </td>
     <td>
