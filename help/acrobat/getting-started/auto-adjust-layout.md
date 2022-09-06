@@ -5,16 +5,16 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 94aa3f7b6d0d6764bf431c3148ce58edfc2da428
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Justera layout automatiskt
 
-Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt justerar layouten på sidorna i PDF.
+Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt justerar layouten på sidorna i PDF. I den här videosjälvstudien används [ny arbetsyta](new-workspace.md).
 
 >[!NOTE]
 >
