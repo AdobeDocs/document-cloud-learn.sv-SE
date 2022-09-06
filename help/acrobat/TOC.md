@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '406'
 ht-degree: 7%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 7%
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Combine Files till PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
+   + [Lägg till anpassad sida](getting-started/add-custom-page.md)
    + [Redigera en PDF-fil](getting-started/edit-pdf.md)
    + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
    + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
