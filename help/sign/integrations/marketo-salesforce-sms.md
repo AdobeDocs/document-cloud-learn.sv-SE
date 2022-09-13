@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Skicka aviseringar med Acrobat Sign för Salesforce och Marketo
+# Skicka aviseringar med Acrobat Sign för [!DNL Salesforce] och [!DNL Marketo]
 
-Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg med Acrobat Sign, Acrobat Sign för Salesforce, Marketo och Marketo Salesforce Sync. Om du vill skicka aviseringar från Marketo måste du först köpa eller konfigurera en Marketo SMS-hanteringsfunktion. Genomgången använder [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), men det finns andra Marketo SMS-lösningar.
+Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg med Acrobat Sign, Acrobat Sign för Salesforce, Marketo och Marketo Salesforce Sync. Om du vill skicka aviseringar från Marketo måste du först köpa eller konfigurera en Marketo SMS-hanteringsfunktion. Genomgången använder [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), men det finns andra Marketo SMS-lösningar.
 
 ## Förutsättningar
 

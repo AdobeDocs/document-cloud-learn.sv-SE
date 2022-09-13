@@ -7,16 +7,16 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Hantera och spåra avtal
 
-Lär dig hantera och spåra dokument som skickats för signering i Acrobat Sign. Få statusuppdateringar och aviseringar i realtid för varje dokument du arbetar med.
+Lär dig hantera och spåra dokument som skickats för signering i Acrobat Sign. Få statusuppdateringar och aviseringar i realtid för varje dokument du signerar eller skickar för signering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 

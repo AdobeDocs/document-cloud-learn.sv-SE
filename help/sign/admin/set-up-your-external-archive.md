@@ -1,58 +1,20 @@
 ---
 title: Konfigurera ett externt arkiv
-description: Lär dig hur du skapar ett externt arkiv för säkerhetskopior av avtal som har skickats
+description: Lär dig hur du skapar ett externt arkiv för säkerhetskopior av avtal som har signerats
 role: Admin
 product: adobe sign
 level: Beginner
-team: DC Product Marketing Retention and Engagement
+thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 11%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
 # Konfigurera ett externt arkiv
 
-Lär dig hur du skapar ett externt arkiv för säkerhetskopior av avtal som har skickats. Du kan arkivera kopior av signerade avtal till valfri e-postadress eller till Box och Evernote. En kopia av det signerade och arkiverade e-postmeddelandet skickas antingen till e-postadressen eller till den tjänst du konfigurerar.
+Lär dig hur du skapar ett externt arkiv för säkerhetskopior av avtal som har signerats. Du kan arkivera kopior till valfri e-postadress eller till [!DNL Box] och Evernote. En kopia av det signerade och slutförda e-postmeddelandet skickas till antingen e-postadressen eller molntjänsten du anger.
 
-## Externt arkiv: e-postadress
-
-1. Logga in som kontoadministratör.
-
-1. Klicka på **[!UICONTROL Kontoinställningar]** > **[!UICONTROL Externt arkiv]** under fliken [!UICONTROL Konto].
-
-   ![arkivera via e-post](../assets/archiveemail1.png)
-
-1. Ange arkivets e-postadress och klicka på **[!UICONTROL Spara ändringar]**.
-
-   ![arkivera via e-post](../assets/archiveemail2.png)
-
-## Externt arkiv: Box.com
-
-1. Logga in som kontoadministratör.
-
-1. Klicka på **[!UICONTROL Kontoinställningar]** > **[!UICONTROL Externt arkiv]** under fliken [!UICONTROL Konto].
-
-1. Välj länken [!UICONTROL klicka här] till höger om Box-logotypen.
-
-   ![arkivera via Box](../assets/archivebox1.png)
-
-1. Följ de Box-specifika anvisningarna i popup-fönstret.
-
-   ![arkivera via Box](../assets/archivebox2.png)
-
-## Externt arkiv: Evernote
-
-1. Logga in som kontoadministratör.
-
-1. Klicka på **[!UICONTROL Kontoinställningar]** > **[!UICONTROL Externt arkiv]** under fliken [!UICONTROL Konto].
-
-1. Välj länken **[!UICONTROL klicka här]** till höger om Evernote-logotypen.
-
-   ![arkivera via Evernote](../assets/archiveevernote1.png)
-
-1. Följ de Evernote-specifika anvisningarna i popup-fönstret.
-
-   ![arkivera via Evernote](../assets/archiveevernote2.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3409072?hidetitle=true)
