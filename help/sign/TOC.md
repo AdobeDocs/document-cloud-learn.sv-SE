@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '462'
 ht-degree: 8%
 
 ---
@@ -93,6 +93,7 @@ ht-degree: 8%
       + [Skicka för signering i SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Spårning i SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Skicka för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Skapa en dokumentmall](integrations/create-an-agreement-template.md)

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -80,13 +80,35 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]</strong></a>
     </div>
-    <em>Lär dig hur du aktiverar och använder Acrobat Sign- och Adobe PDF-verktygsanslutningar för Microsoft Power-program</em>
+    <em>Lär dig hur du automatiskt arkiverar signerade dokument på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    </div>
+    <em>Lär dig hur du aktiverar och använder [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningsdon för [!DNL Microsoft Power] appar</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
