@@ -1,20 +1,23 @@
 ---
 title: Produktivitet i farten
-description: Gör mer direkt på surfplattan eller mobiltelefonen med Acrobat Reader mobilapp
+description: Gör mer direkt från din surfplatta eller mobiltelefon med mobilappen Acrobat Reader
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9155.jpg
 kt: 9155
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
+source-git-commit: 8de1e15d50d0c89dd5f90d6fea12b4edab7d11c8
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Produktivitet i farten
 
-Gör mer direkt på surfplattan eller mobiltelefonen med Acrobat Reader mobilapp.
+Gör mer direkt från din surfplatta eller mobiltelefon med mobilappen Acrobat Reader.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?hidetitle=true)
+
+![QR-kod](../assets/Acrobatqrcode.jpg)      Skanna QR-koden för att hämta appen.
