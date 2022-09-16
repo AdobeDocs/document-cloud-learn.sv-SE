@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -174,15 +174,10 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
     <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
      <br>
   </td> 
-  <td>
-    <a href="sign-with-a-stamp.md">
-      <img alt="Signera med en stämpel" src="../assets/Stamp.png" />
-    </a>
+ <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Signera med en stämpel</strong></a>
-    </div>
-    <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
-     <br>
+    <br>
   </td>
   <td>
     <img alt="Mellanrum" src="../assets/Grayspacer.png" />

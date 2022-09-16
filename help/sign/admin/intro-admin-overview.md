@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
     </div>
-    <em>Konfigurera aviseringar för händelser och aviseringar för vårt konto</em>
+    <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
     <br>
   </td>
   <td>
