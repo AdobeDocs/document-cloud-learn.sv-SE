@@ -1,22 +1,22 @@
 ---
-title: Skapa en dokumentmall i Acrobat Sign för Salesforce
-description: Lär dig hur du skapar en återanvändbar dokumentmall för att ge snabbhet och enhetlighet
+title: Document Builder för [!DNL Salesforce]
+description: Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för Salesforce
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17349.jpg
+thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Skapa en dokumentmall i Acrobat Sign för [!DNL Salesforce]
+# Document Builder för [!DNL Salesforce]
 
-Lär dig hur du skapar en dokumentmall för Acrobat Sign i [!DNL Salesforce]. Dokumentmallar ger snabbhet och enhetlighet i dina Sign-transaktioner och möjlighet att hantera dokumentändringar och ändringar.
+Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för Salesforce. Återanvändbara dokumentmallar ger snabbhet och enhetlighet i dina Sign-transaktioner och möjlighet att hantera ändringar och ändringar av dokument.
 
->[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)

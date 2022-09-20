@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 8%
@@ -96,7 +96,7 @@ ht-degree: 8%
       + [Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
-      + [Skapa en dokumentmall](integrations/create-an-agreement-template.md)
+      + [Document Builder för Salesforce](integrations/create-an-agreement-template.md)
       + [Ställa in datamappning](integrations/set-up-data-mapping.md)
       + [Konfigurera kopplingsmappning](integrations/set-up-merging-map.md)
       + [Skapa en anpassad knapp](integrations/create-a-custom-button.md)

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Skapa en dokumentmall i Acrobat Sign för Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Skapa en dokumentmall i Acrobat Sign för Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för [!DNL Salesforce]</strong></a>
     </div>
-    <em>Skapa en återanvändbar dokumentmall för snabb och konsekvent användning</em>
+    <em>Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
