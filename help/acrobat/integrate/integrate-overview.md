@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ Läs om hur du får mer gjort på kortare tid med de verktyg för PDF och e-sign
 </tr>
 </table>
 
+## Dropbox
+
+Läs om hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="Arbeta med filer från [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>Arbeta med filer från [!DNL Dropbox]</strong></a>
+    </div>
+    <em>Lär dig hur du öppnar, skapar, redigerar, signerar och sparar ändringar i dina [!DNL Dropbox] filer inifrån Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Box
 
 Läs om hur Acrobat och [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} gör det enklare för alla i organisationen att hålla igång verksamheten.
-
-## Dropbox
-
-Se hur enkelt det är att komma åt och arbeta med PDF som lagras i [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.

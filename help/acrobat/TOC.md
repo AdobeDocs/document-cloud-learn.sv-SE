@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 7%
+source-wordcount: '408'
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 7%
    + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
    + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Skanning och OCR](getting-started/scan-and-ocr.md)
+   + [Skanning &amp; OCR](getting-started/scan-and-ocr.md)
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
    + [Hämta signaturer](getting-started/signatures.md)
    + [Spåra dina dokument](getting-started/track.md)
@@ -85,10 +85,11 @@ ht-degree: 7%
    + [Skapa PDF från [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Skapa PDF i [!DNL Office] för webben](integrate/createofficeweb.md)
    + [PDF i [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Arbeta med dina SharePoint-filer](integrate/acrobatandsp.md)
-   + [Konvertera e-postmeddelanden och bilagor till PDF i Outlook](integrate/outlook.md)
-   + [Skapa PDF-innehåll när du bläddrar med Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat för Google Drive](integrate/acrobatandgoogle.md)
+   + [Arbeta med [!DNL SharePoint] filer](integrate/acrobatandsp.md)
+   + [Konvertera e-postmeddelanden och bilagor till PDF i [!DNL Outlook]](integrate/outlook.md)
+   + [Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat för [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Arbeta med filer från [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branscher och avdelningar {#by-industry}
    + [Översikt](industry/industry-overview.md)
    + Myndigheter {#gov}
