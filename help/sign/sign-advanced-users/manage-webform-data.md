@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Lär dig spåra, hantera och exportera data från en [webbformulär](webform.md)
 
 >[!NOTE]
 >
->Din Acrobat Sign-administratör måste aktivera **Tillåt fler deltagare** i **Webbformulär** den del av **Globala inställningar** om du vill använda arbetsflödet för ytterligare deltagare.
+>Endast planer på Business- och Enterprise-nivå kan konfigurera webbformulärsåtkomst och alternativ för signerare. Webbformulärsåtkomst och alternativ för signerare aktiveras eller inaktiveras på konto- eller gruppnivå under Konto > Kontoinställningar > Globala inställningar > Webbformulär.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
