@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 8%
 
 ---
@@ -52,9 +52,10 @@ ht-degree: 8%
       + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Använda texttaggar i [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Hantera {#advanced-tasks-managing}
+      + [Skapa en rapport](sign-advanced-users/creating-a-report.md)
       + [Hantera dokumentmallar](sign-advanced-users/edit-a-template.md)
       + [Ändra ett befintligt webbformulär](sign-advanced-users/modify-webform.md)
-      + [Skapa en rapport](sign-advanced-users/creating-a-report.md)
+      + [Hantera webbformulärdata](sign-advanced-users/manage-webform-data.md)
 + Administrera {#admin-set-up}
    + [Översikt](admin/intro-admin-overview.md)
    + Komma igång {#getting-started-admin}

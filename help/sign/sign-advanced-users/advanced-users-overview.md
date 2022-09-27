@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -113,6 +113,16 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="Skapa en rapport" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>Skapa en rapport</strong></a>
+    </div>
+    <em>Lär dig skapa egna rapporter för att få insyn i dokumentsigneringsprocessen</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="Hantera dokumentmallar" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="Skapa en rapport" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Hantera webbformulärdata" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Skapa en rapport</strong></a>
+    <a href="manage-webform-data.md"><strong>Hantera webbformulärdata</strong></a>
     </div>
-    <em>Lär dig skapa egna rapporter för att få insyn i dokumentsigneringsprocessen</em>
+    <em>Lär dig spåra, hantera och exportera data från ett webbformulär</em>
     <br>
   </td>  
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
