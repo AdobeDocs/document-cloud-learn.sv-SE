@@ -5,9 +5,9 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
+source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -20,43 +20,139 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Admin Console" src="../assets/Stepforward_18.png" />
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Admin Console</strong></a>
          <br>
-        <em>1:00</em>
+        <em>Starta klockan 1:00</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
-      <img alt="Ge Acrobat Sign rätt till en användare" src="../assets/Stepforward_18.png" />
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Ge Acrobat Sign rätt till en användare</strong></a>
         <br>
-        <em>1 t 45 m</em>
+        <em>Starta klockan 1:45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
-      <img alt="Översikt över Acrobat Sign webbportal" src="../assets/Stepforward_18.png" />
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Översikt över Acrobat Sign webbportal</strong></a>
         <br>
-        <em>3 tim 11 min</em>
+        <em>Starta klockan 3.11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
-      <img alt="Globala inställningar och konfigurationer" src="../assets/Stepforward_18.png" />
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>Globala inställningar och konfigurationer</strong></a>
         <br>
-        <em>5 t 58 m</em>
+        <em>Starta kl. 5.58</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Varumärkning och inställningar för konto</strong></a>
+         <br>
+        <em>Starta kl. 7.40</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>Signaturinställningar</strong></a>
+        <br>
+        <em>Starta kl. 8.22</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>Säkerhetsinställningar</strong></a>
+        <br>
+        <em>Börja kl. 9.03</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>Skicka-inställningar</strong></a>
+        <br>
+        <em>Starta kl. 9.55</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>Meddelandemallar</strong></a>
+         <br>
+        <em>Börja kl. 12.00</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755"><strong>E-postinställningar</strong></a>
+        <br>
+        <em>Börja kl. 12.35</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>Hantering av användare och grupper</strong></a>
+        <br>
+        <em>Börja kl. 13.03</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>Skapa och aktivera arbetsflöden</strong></a>
+        <br>
+        <em>Börja kl. 15.17</em>
+  </td>
+</tr>
+<tr>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145">
+      <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
+    </a>
+    </td>
+    <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>Åtkomst till support och ytterligare resurser</strong></a>
+        <br>
+        <em>Börja kl. 19.05</em>
     </td>
   </tr>
   </table>
