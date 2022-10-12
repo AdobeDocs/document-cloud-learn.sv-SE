@@ -1,20 +1,20 @@
 ---
 title: Komma igång för nya administratörer
-description: I den här omfattande videoguiden kan du läsa om alla verktyg du behöver för att komma igång med Acrobat Sign
+description: I den här omfattande videoguiden får du lära dig mer om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Komma igång för nya administratörer
 
-Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-administratörer. Läs om alla verktyg du behöver för att komma igång med Acrobat Sign. Den här detaljerade guiden omfattar följande ämnen:
+Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-administratörer. Läs om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign. Den här detaljerade guiden omfattar följande ämnen:
 
 <table style="table-layout:auto">
 <tr>
