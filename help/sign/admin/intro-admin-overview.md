@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="Komma igång för nya administratörer" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Komma igång för nya administratörer</strong></a>
+    </div>
+    <em>I den här omfattande videoguiden kan du läsa om alla verktyg du behöver för att komma igång med Acrobat Sign</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="Komma igång för administratörer" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Lägg till användare enskilt eller i grupp i ditt Acrobat Sign-konto</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Skapa och hantera grupper" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Konfigurera ett externt arkiv" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Lär dig skapa, spara och hantera egna anpassade rapporter och dataexporter</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Ändra ett befintligt webbformulär" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <em>Samla hundratals signaturer samtidigt för alla dokument</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Konfigurera ett arbetsflöde" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
     <a href="building-a-custom-workflow.md"><strong>Konfigurera ett arbetsflöde</strong></a>
     </div>
     <em>Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer och data</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
