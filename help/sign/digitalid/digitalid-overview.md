@@ -1,15 +1,15 @@
 ---
 title: Översikt över digitalt ID
-description: Lär dig använda elektroniska ID:n från hela världen med Acrobat Sign
+description: Läs om hur du använder elektroniska ID:n från hela världen med Acrobat Sign
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Signera digital ID-bild](../assets/Hero-DigitalID.png)
 
-På samma sätt som ett pass i elektronisk form gör ett digitalt ID att du på ett säkert sätt kan bevisa att du är den du säger att du är. Och när du e-signerar i Acrobat Sign får du bättre säkerhet om du använder ett elektroniskt ID när du godkänner din e-signatur för just det dokumentet. Följande självstudiekurser visar hur du använder elektroniska ID:n från hela världen med Acrobat Sign.
+På samma sätt som ett pass i elektronisk form gör ett digitalt ID att du på ett säkert sätt kan bevisa att du är den du säger att du är. Och när du e-signerar i Acrobat Sign kan du använda ett elektroniskt ID för att vara säker på att du har godkänt e-signaturen för just det dokumentet. I följande självstudiekurser visas hur du använder elektroniska ID:n från hela världen med Acrobat Sign.
 
 >[!NOTE]
 >
@@ -82,6 +82,23 @@ På samma sätt som ett pass i elektronisk form gör ett digitalt ID att du på 
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="Registrera och signera med D-Trust" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>Registrera och signera med D-Trust</strong></a>
+    </div>
+    <em>Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
