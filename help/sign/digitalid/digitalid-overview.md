@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ På samma sätt som ett pass i elektronisk form gör ett digitalt ID att du på 
 >[!NOTE]
 >
 >Innan du kan använda ett elektroniskt ID med en molnsignatur bör du kontakta organisationens administratör och bekräfta att leverantörens lösning har aktiverats i Acrobat Sign.
+
+## Nyheter
+
+* [Registrera och signera med D-Trust](d-trust.md)
+Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign
 
 ## [!DNL Aadhaar]
 

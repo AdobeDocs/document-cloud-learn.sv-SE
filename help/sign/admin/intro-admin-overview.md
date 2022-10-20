@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,13 @@ ht-degree: 0%
 ![Bild för Sign-administratörer](../assets/Hero-Admin.png)
 
 Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Acrobat Sign. De avancerade uppgifterna omfattar ämnen som sträcker sig bortom administratörskonfigurationen och rör sig mot att definiera globala inställningar, kontoåtkomst och delning samt texttaggning.
+
+## Nyheter
+
+* [Komma igång för nya administratörer](get-started-admin.md)
+I den här omfattande videoguiden får du lära dig mer om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign
+* [Konfigurera ett arbetsflöde](building-a-custom-workflow.md)
+Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer och data
 
 ## Komma igång
 

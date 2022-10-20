@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: d91e070ffeccdd6658cd8065bbc2d52cdf0fffb5
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,13 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 >[!NOTE]
 > Om du har problem med att komma åt någon av dessa funktioner kan du fråga organisationens administratör och kontrollera att integreringen är aktiverad.
+
+## Nyheter
+
+* [Arkivera filer automatiskt i SharePoint med Power Automate](auto-archive-sharepoint-power-automate.md)
+Lär dig hur du automatiskt arkiverar signerade dokument i ett SharePoint-bibliotek med Power Automate
+* [Document Builder för Salesforce](create-an-agreement-template.md)
+Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för Salesforce
 
 ## Självstudiekurser för Microsoft-integreringar
 

@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![Sign Advanced Image](../assets/Hero-Advanced.png)
 
 Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar. Dessa självstudiekurser är till för alla som redan känner till grunderna för att skicka och begära signaturer och vill veta mer om hur Acrobat Sign kan hjälpa dem.
+
+## Nyheter
+
+* [Ställ in onlinebetalningar](set-up-online-payments.md)
+Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
+* [Skapa en rapport](creating-a-report.md)
+Lär dig skapa egna rapporter för att få insyn i dokumentsigneringsprocessen
 
 ## Skicka
 

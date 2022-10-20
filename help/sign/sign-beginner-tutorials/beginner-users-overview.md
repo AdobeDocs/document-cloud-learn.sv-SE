@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '440'
+ht-degree: 1%
 
 ---
 
@@ -18,6 +18,13 @@ ht-degree: 0%
 ![Komma igång-bild för Sign](../assets/Hero-GettingStarted.png)
 
 Få information om hur du skickar, signerar och spårar dokument med dessa korta steg-för-steg-självstudiekurser. Få en snabbgenomgång av Acrobat Sign och börja sedan skicka ett dokument till en eller flera personer. Det här innehållet är utformat för att underlätta för dig att komma in i e-signaturarbetsflöden.
+
+## Nyheter
+
+* [Signera med en stämpel](sign-with-a-stamp.md)
+Lär dig hur du använder stämplar för att markera ett godkänt eller slutfört dokument
+* [Ersätta en signerare](replace-signer.md)
+Lär dig hur du ändrar signeraren för ett dokument som redan pågår
 
 ## Skicka
 
