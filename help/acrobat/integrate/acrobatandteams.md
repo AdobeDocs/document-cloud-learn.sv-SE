@@ -1,31 +1,35 @@
 ---
-title: Samarbete mellan PDF [!DNL Microsoft Teams]
-description: Med Adobe Acrobat for Teams kan man samarbeta och samarbeta med kollegor genom att visa, kommentera och granska PDF utan att någonsin behöva gå ur [!DNL Microsoft Teams]
+title: PDF Collaboration i [!DNL Microsoft Teams]
+description: Med Adobe Acrobat for Teams kan användare samarbeta och arbeta med kollegor genom att visa, kommentera och granska PDF utan att behöva lämna [!DNL Microsoft Teams]
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# PDF samarbetar inom [!DNL Microsoft Teams]
+# PDF i [!DNL Microsoft Teams]
 
-Med Adobe Acrobat for Teams kan man samarbeta och samarbeta med kollegor genom att visa, kommentera och granska PDF utan att någonsin behöva gå ur [!DNL Microsoft Teams]. Den här integreringen innefattar:
+Med Adobe Acrobat for Teams kan användare samarbeta och arbeta med kollegor genom att visa, kommentera och granska PDF utan att behöva lämna [!DNL Microsoft Teams]. Integreringen omfattar:
 
-* Visning av hög kvalitet - det här är bara PDF som gör att du kan öppna PDF med hög kvalitet direkt i [!DNL Microsoft Teams], för en tillfredsställande och smidig arbetsupplevelse
-* Effektivisera granskningar från PDF — samla in feedback från kanalmedlemmar på en enda PDF direkt i [!DNL Microsoft Teams] i stället för att samla in och stämma av feedback via flera bilagor
-* Håll dig informerad om utvecklingen — få meddelanden i Team när andra vidtar åtgärder i dina dokument
-* Håll granskarna informerade — granskare meddelas när andra svarar på deras kommentarer
-* Säkert samarbete - samarbeta säkert med betrodda medlemmar och behåll möjligheten att lagra dokumentversioner i [!DNL Microsoft SharePoint] eller [!DNL OneDrive]
+* Högkvalitativ visning - Det här är bara PDF-visning och du kan öppna PDF direkt i [!DNL Microsoft Teams]för en tillfredsställande och smidig arbetsupplevelse
+* Effektivisera granskningen av PDF - samla in feedback från kanalmedlemmar i ett och samma PDF direkt i [!DNL Microsoft Teams] istället för att samla in och stämma av feedback via flera bilagor
+* Håll dig informerad om förloppet - få meddelanden i Teams när andra vidtar åtgärder i dina dokument
+* Håll granskarna informerade - granskarna meddelas när andra svarar på deras kommentarer
+* Säkert samarbete - samarbeta säkert med betrodda medlemmar och bevara möjligheten att lagra dokumentversioner i [!DNL Microsoft SharePoint] eller [!DNL OneDrive]
+
+>[!TIP]
+>
+>Kolla in de här andra Microsoft [integreringar](../integrate/integrate-overview.md#microsoft).
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) kostnadsfritt på Experience League!
+>Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
