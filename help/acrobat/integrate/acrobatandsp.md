@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -21,6 +21,8 @@ Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med [Adobe
 >[!NOTE]
 >
 >Adobe Acrobat för [!DNL SharePoint], [!DNL OneDrive]och [!DNL Office 365] innehåller kostnadsfria funktioner (som att visa och söka i PDF) som är tillgängliga för alla användare. För vissa funktioner (t.ex. att skapa och kombinera PDF) krävs en betald prenumeration på Acrobat for teams eller Acrobat for enterprise.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 

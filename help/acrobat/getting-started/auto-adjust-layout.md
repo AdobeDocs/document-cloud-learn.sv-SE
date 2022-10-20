@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 94aa3f7b6d0d6764bf431c3148ce58edfc2da428
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -19,5 +19,7 @@ Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt j
 >[!NOTE]
 >
 >Layouten för automatisk justering stöder ännu inte alla typer av PDF-innehåll eller -språk.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/346975?hidetitle=true)
