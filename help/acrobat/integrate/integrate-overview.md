@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -56,8 +56,6 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <em>Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF i [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <em>Samarbeta och samarbeta med kollegor genom att visa, kommentera och granska PDF utan att behöva lämna det [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="Konvertera e-postmeddelanden och bilagor till PDF i Outlook" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <a href="edge.md"><strong>Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Läs om hur du arkiverar webbsidor till PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
