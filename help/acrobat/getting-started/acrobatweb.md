@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # Arbeta var som helst med Acrobat på webben
 
-Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren.
+Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och skalbart. Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren.
 
 >[!TIP]
 >

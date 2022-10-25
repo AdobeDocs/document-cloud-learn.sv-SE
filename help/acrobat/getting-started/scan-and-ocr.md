@@ -1,21 +1,21 @@
 ---
-title: Skanning och OCR
+title: Skanning & OCR
 description: Konvertera inskannade dokument eller bilder av dokument till sökbara, redigerbara PDF-filer och justera kvaliteten på den slutliga filen
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
-# Skanning och OCR
+# Skanning &amp; OCR
 
-Konvertera inskannade dokument eller bilder av dokument till sökbara, redigerbara PDF-filer och justera kvaliteten på den slutliga filen.
+Utveckla verksamheten genom att konvertera skanningar eller bilder av dokument till sökbara, redigerbara PDF-filer.
 
 >[!TIP]
 >
