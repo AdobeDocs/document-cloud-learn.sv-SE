@@ -7,9 +7,9 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
+source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 10%
 
 ---
@@ -29,7 +29,7 @@ Artiklar om bästa praxis med värdefulla insikter om hur ni driftsätter Acroba
     <div>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Hantera Acrobat Sign på Admin Console</strong></a>
     </div>
-    <em>Lär dig hantera Acrobat Sign-användare och licenser på Adobe företagsplattform i Adobe Admin Console</em>
+    <em>Lär dig hantera Acrobat Sign-användare och licenser på Adobe företagsplattform via Adobe Admin Console</em>
     <br>
   </td>
   <td>
@@ -50,6 +50,11 @@ Artiklar om bästa praxis med värdefulla insikter om hur ni driftsätter Acroba
     <a href="assets/SignStudyGuide.pdf"><strong>Studiehandledning för Acrobat Sign Essentials</strong></a>
     </div>
     <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

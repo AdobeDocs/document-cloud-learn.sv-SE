@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     </div>
     <em>Lär dig hur du skapar PDF-filer utan att behöva lämna [!DNL Microsoft Office] för webbappar</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Arbeta med [!DNL SharePoint] filer" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     </div>
     <em>Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <em>Läs om hur du arkiverar webbsidor till PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Läs om hur du får mer gjort på kortare tid med de verktyg för PDF och e-sign
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Läs om hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL
     <a href="acrobat-dropbox.md"><strong>Arbeta med filer från [!DNL Dropbox]</strong></a>
     </div>
     <em>Lär dig hur du öppnar, skapar, redigerar, signerar och sparar ändringar i dina [!DNL Dropbox] filer inifrån Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

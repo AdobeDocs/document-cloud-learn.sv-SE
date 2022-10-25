@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [
     <a href="aadhaar-sign.md"><strong>Signera med [!DNL Aadhaar]</strong></a>
     </div>
     <em>Lär dig använda din [!DNL Aadhaar] elektroniskt ID med Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [
     <a href="d-trust.md"><strong>Registrera och signera med D-Trust</strong></a>
     </div>
     <em>Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [
     <a href="intesi-sign.md"><strong>Signera med [!DNL Intesi Group]</strong></a>
     </div>
     <em>Lär dig använda din [!DNL Intesi Group] elektroniskt ID med Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

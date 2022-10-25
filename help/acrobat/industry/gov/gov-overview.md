@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Utforska våra självstudiekurser för Acrobat som är särskilt utformade för 
     </div>
     <em>Skapa enkla och smidiga arbetsflöden för dokumentsamarbete</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Tips: 3 Protect-dokument" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ Utforska våra självstudiekurser för Acrobat som är särskilt utformade för 
     <em>Lägg till ett lösenord i PDF för att förhindra kopiering, redigering eller utskrift</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Tips 4: Arbeta med formulär och signaturer" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ Utforska våra självstudiekurser för Acrobat som är särskilt utformade för 
     <a href="scan-and-edit-on-mobile.md"><strong>Tips 5: Skanna och redigera på mobilen</strong></a>
     </div>
     <em>Lär dig hur du arbetar med mobilapparna Adobe Scan och Acrobat Reader för att få jobbet gjort oavsett var du är</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ Utforska våra självstudiekurser för Acrobat som är särskilt utformade för 
     </div>
     <em>Lär dig de bästa sätten att skapa PDF-filer som skapas i [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="Göra PDF tillgängligt: Slutbehandling i Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ Utforska våra självstudiekurser för Acrobat som är särskilt utformade för 
     <em>Läs om hur du gör klart PDF-filen med verktygen i Acrobat Pro</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="Göra valsedlar i PDF mer tillgängliga" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ Utforska våra självstudiekurser för Acrobat som är särskilt utformade för 
     <em>Detta webbinarium tar upp de viktigaste tillgänglighetsområdena i PDF som behövs för att användare av hjälpmedelsteknik, t.ex. skärmläsare, ska kunna läsa och fylla i sina röstsedlar</em>
     <br>
   </td>  
+  <td>
+   <img alt="Mellanrum" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Mellanrum" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Mellanrum" src="../../assets/Grayspacer.png" />
     <div>

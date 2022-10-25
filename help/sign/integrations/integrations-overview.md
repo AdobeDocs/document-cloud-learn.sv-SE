@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <em>Skicka ett dokument för signering direkt i SharePoint Online</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="Spårning i SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <em>Spåra avtalsförloppet direkt i Microsoft SharePoint</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Skicka dokument för signering i [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <em>Lär dig hur du automatiskt arkiverar signerade dokument på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <a href="documentautomation.md"><strong>Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Lär dig hur du aktiverar och använder [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningsdon för [!DNL Microsoft Power] appar</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <em>Lär dig hur du sammanfogar data från Salesforce direkt i ett Acrobat Sign-dokument</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="Skapa en anpassad knapp" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <a href="create-a-custom-button.md"><strong>Skapa en anpassad knapp</strong></a>
     </div>
     <em>Skapa en anpassad knapp som startar sändningsprocessen och automatiskt fyller i ett avtal i Salesforce</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <a href="workday.md"><strong>Konfigurera Acrobat Sign med Workday</strong></a>
     </div>
     <em>Lär dig konfigurera Acrobat Sign så att det fungerar direkt i Workday och smidigt kan hantera alla HR-dokument</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <em>Läs om hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Skicka påminnelser med Acrobat Sign för Microsoft Dynamics och Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <em>Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en viss tid</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Bu
     <a href="marketo-dynamics-sms.md"><strong>Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo</strong></a>
     </div>
     <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
