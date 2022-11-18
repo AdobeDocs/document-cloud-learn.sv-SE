@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 6%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # Redigera en PDF
 
-Läs om hur du redigerar text och bilder i PDF-filer. Klicka eller tryck för att lägga till ett nytt stycke, korrigera ett stavfel eller ordna om PDF. Du kan till och med lägga till bilder eller beskära ett foto.
+Så här gör du [redigera text och bilder i PDF-filer](https://www.adobe.com/sv/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Klicka eller tryck för att lägga till ett nytt stycke, korrigera ett stavfel eller ordna om PDF. Du kan till och med lägga till bilder eller beskära ett foto.
 
 >[!TIP]
 >

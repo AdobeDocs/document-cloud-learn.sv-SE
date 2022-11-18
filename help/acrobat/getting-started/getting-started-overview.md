@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 5%
+source-wordcount: '493'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat - startbild](../assets/Hero-GettingStarted.png)
 
-Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegvisa självstudiekurserna. Allt från att skapa ett dokument till att skydda dina PDF-filer - det här innehållet är utformat för att underlätta för dig att komma in i arbetsflöden i PDF.
+Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera PDF-filer](https://www.adobe.com/sv/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;} är det här materialet avsett att underlätta för dig att komma in i arbetsflöden i PDF.
 
 ## Komma igång med självstudiekurser
 
@@ -151,10 +151,10 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Redigera en PDF-fil" src="../assets/Edit.jpg" />
+        <img alt="Redigera en PDF" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Redigera en PDF-fil</strong></a>
+      <a href="edit-pdf.md"><strong>Redigera en PDF</strong></a>
       </div>
       <em>Redigera text och bilder i PDF-filer</em>
       <br>
@@ -250,10 +250,10 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Skanning och OCR" src="../assets/Scan.jpg" />
+      <img alt="Skanning &amp; OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Skanning och OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Skanning &amp; OCR</strong></a>
     </div>
     <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>

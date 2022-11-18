@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-Skapa, fyll i och signera PDF på din mobila enhet.
+Skapa, fyll och [signera PDF](https://www.adobe.com/se/acrobat/online/sign-pdf.html){target=&quot;_blank&quot;} på din mobila enhet.
 
 ## Självstudiekurser för Acrobat Reader-mobilappar
 

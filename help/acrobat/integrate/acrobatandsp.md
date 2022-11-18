@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 # Arbeta med [!DNL SharePoint] filer
 
-Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med [Adobe Acrobat för Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Konvertera säkert [!DNL Microsoft 365] filer till PDF, kombinera dokument till en fil, kommentera och ordna om sidor - direkt från [!DNL SharePoint] online.
+Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med [Adobe Acrobat för Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Konvertera säkert [!DNL Microsoft 365] filer till PDF, [kombinera PDF-dokument](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} till en fil, kommentera och ordna om sidor - direkt från [!DNL SharePoint] online.
 
 >[!NOTE]
 >

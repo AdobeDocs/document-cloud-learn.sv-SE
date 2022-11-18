@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -86,7 +86,7 @@ Tagga en PDF enligt följande:
 
 ## 4. Förbered för webben
 
-Optimera interaktionen med PDF genom att förbereda den för webbvisning och minska filstorleken.
+Optimera interaktionen med PDF genom att förbereda den för webbvisning och [minska filstorleken i PDF](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
 
 +++Visa information om hur du förbereder PDF för webben
 
@@ -122,7 +122,7 @@ Filnamnet blir en del av URL:en när en PDF läggs upp på webben. Ett bra sätt
 
 ## 6. Säkra PDF
 
-Det sista steget är att skydda PDF för att förhindra obehöriga ändringar.
+Det sista steget är att [skydda PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} för att förhindra obehöriga ändringar.
 
 +++Visa information om hur du skyddar PDF
 
