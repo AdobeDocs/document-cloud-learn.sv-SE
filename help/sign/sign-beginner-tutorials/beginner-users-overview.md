@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 
 ## Nyheter
 
+* [Ange tidsgränser och påminnelser](set-deadlines-reminders.md)
+Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att få dina dokument signerade snabbt
 * [Signera med en stämpel](sign-with-a-stamp.md)
 Lär dig hur du använder stämplar för att markera ett godkänt eller slutfört dokument
-* [Ersätta en signerare](replace-signer.md)
-Lär dig hur du ändrar signeraren för ett dokument som redan pågår
 
 ## Skicka
 
@@ -112,6 +112,33 @@ Lär dig hur du ändrar signeraren för ett dokument som redan pågår
     <em>Lär dig hur du ändrar signeraren för ett dokument som redan pågår</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Ange tidsgränser och påminnelser" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Ange tidsgränser och påminnelser</strong></a>
+      </div>
+      <em>Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att få dina dokument signerade snabbt</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
