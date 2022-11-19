@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10605.jpg
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
+source-git-commit: b8fd57181f4264ef0a6eba2ed2857ac7786b7f94
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 6%
