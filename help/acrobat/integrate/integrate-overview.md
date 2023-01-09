@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -89,8 +89,13 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <a href="microsoftsensitivitylabels.md">
+      <img alt="Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+    </a>
     <div>
+    <a href="microsoftsensitivitylabels.md"><strong>Protect PDF med [!DNL Microsoft Purview Information] känslighetsetiketter</strong></a>
+    </div>
+    <em>Lär dig hur du skyddar PDF genom att lägga till, redigera, anpassa och ta bort [!DNL Microsoft Purview] känslighetsetiketter direkt i Acrobat</em>
     <br>
   </td>
   <td>

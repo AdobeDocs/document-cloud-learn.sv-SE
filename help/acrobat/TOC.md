@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 8%
    + [Combine Files till PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
    + [Lägg till anpassad sida](getting-started/add-custom-page.md)
-   + [Redigera en PDF-fil](getting-started/edit-pdf.md)
+   + [Redigera en PDF](getting-started/edit-pdf.md)
    + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
    + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
    + [Samarbeta i realtid](getting-started/collaborate.md)
@@ -88,6 +88,7 @@ ht-degree: 8%
    + [Arbeta med [!DNL SharePoint] filer](integrate/acrobatandsp.md)
    + [Konvertera e-postmeddelanden och bilagor till PDF i [!DNL Outlook]](integrate/outlook.md)
    + [Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF med [!DNL Microsoft Purview Information] känslighetsetiketter](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat för [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Arbeta med filer från [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branscher och avdelningar {#by-industry}
