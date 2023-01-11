@@ -1,21 +1,21 @@
 ---
-title: Exportera ett PDF till Microsoft Office-format
-description: Lär dig hur du exporterar dina PDF-filer till redigerbara format som Microsoft Word, Excel eller PowerPoint
+title: Exportera en PDF till Microsoft Office-format
+description: Lär dig hur du exporterar PDF-filer till redigerbara format som Microsoft Word, Excel eller PowerPoint
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
 # Exportera en PDF till Microsoft Office-format
 
-Lär dig hur du exporterar dina PDF-filer till redigerbara format som Microsoft Word, PowerPoint och Excel. Genom att exportera till ett annat filformat kan du göra betydande ändringar och uppdateringar i dina dokument.
+Lär dig hur du exporterar PDF-filer till redigerbara format, som [Microsoft Word](https://www.adobe.com/se/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/se/acrobat/online/pdf-to-ppt.html)och [Excel](https://www.adobe.com/se/acrobat/online/pdf-to-excel.html). Genom att exportera till ett annat filformat kan du göra viktiga ändringar och uppdateringar i dina dokument.
 
 >[!TIP]
 >
@@ -31,4 +31,4 @@ Lär dig hur du exporterar dina PDF-filer till redigerbara format som Microsoft 
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) kostnadsfritt på Experience League!
+>Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!

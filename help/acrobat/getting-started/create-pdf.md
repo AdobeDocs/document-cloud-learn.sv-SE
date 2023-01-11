@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 14%
 
 ---
 
 # Skapa en PDF
 
-Lär dig hur du skapar PDF från olika dokumenttyper. Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats.
+Så här gör du [skapa PDF från alla slags dokument](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats.
 
 >[!TIP]
 >
