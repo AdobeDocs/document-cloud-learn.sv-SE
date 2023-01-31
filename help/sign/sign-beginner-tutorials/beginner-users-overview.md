@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ Få information om hur du skickar, signerar och spårar dokument med dessa korta
 
 ## Nyheter
 
+* [Komma igång med Acrobat Sign](new-sender.md)
+Har du inte använt Acrobat Sign förut? Den här självstudiekursen är en bra utgångspunkt.
 * [Ange tidsgränser och påminnelser](set-deadlines-reminders.md)
 Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att få dina dokument signerade snabbt
-* [Signera med en stämpel](sign-with-a-stamp.md)
-Lär dig hur du använder stämplar för att markera ett godkänt eller slutfört dokument
 
 ## Skicka
 
