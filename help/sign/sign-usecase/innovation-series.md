@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Datum: 18 maj 2023 Följ oss för att lära dig mer om grunderna för e-signatur
 **[Avancerad utbildning i redigeringsmiljö](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Datum: 20 april 2023 Gör en djupdykning i de alternativ som finns i Acrobat Sign redigeringsmiljö. Ämnen som behandlas är:
 
-    * Översikt över hur du förbereder Acrobat Sign-dokumentmallar med Acrobat, texttaggar och Acrobat Sign redigeringsmiljö.
-    * Gå på djupet i redigeringsmiljön och täcka kloning i stället för kopiering av fält, lägga till specialfält, tilldela fält och ställa in villkorliga fält och beräkningsfält.
-    * Så här skickar du mallar för signering och jämför dokumentmallen med formulärfältsmallen.
+* Översikt över hur du förbereder Acrobat Sign-dokumentmallar med Acrobat, texttaggar och Acrobat Sign redigeringsmiljö.
+* Gå på djupet i redigeringsmiljön och täck kloning jämfört med att kopiera fält, lägga till specialfält, tilldela fält och ställa in villkorliga fält och beräkningsfält.
+* Så skickar du mallar för signering och jämför dokumentmallen med formulärfältsmallen.
 
 **[Lägg upp ett ifyllbart, signerbart webbformulär](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Datum: 16 mars 2023 Lär dig hur du skapar ett webbformulär som låter vem som helst slutföra och signera - utan att du behöver initiera transaktionen eller ens känner till signerarens e-postadress. Du ser också hur du förbereder en dokumentmall som kan användas för enskilda signaturtransaktioner samt för publicering på en unik URL för bred delning.
@@ -44,9 +44,9 @@ Datum: 16 februari 2023 Läs om hur du kan spara tid med funktionen Massutskick 
 **[Förbereda avtal för e-signering](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 Datum: 19 januari 2023 Läs om tre enkla sätt att konfigurera dokument för e-signering. Vare sig det handlar om PDF, Microsoft 365-filer eller bara en bildfil ger den här sessionen dig de verktyg du behöver för att få dokumentet signerat. Vi går igenom tre metoder:
 
-    * Adobe Acrobat Sign enkla dra-och-släpp-utvecklingsmiljö
-    * Skapa ett PDF-formulär i Adobe Acrobat
-    * använda texttaggar för snabb dokumentframtagning
+* Adobe Acrobat Sign enkla dra-och-släpp-redigeringsmiljö
+* Skapa ett PDF-formulär i Adobe Acrobat
+* Använd texttaggar för snabb dokumentredigering
 
 **[Arbeta med e-signaturer i dina Microsoft-program](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Datum: 8 december 2022 Utöka ditt sätt att använda Microsoft-program som Word, Outlook och SharePoint genom att lägga till Adobe Acrobat Sign i dina befintliga arbetsflöden. Den här sessionen lär dig hur du kan börja effektivisera dokumentprocesser i vanliga Microsoft-program så att du inte behöver växla till kontext bara för att få en signatur eller kontrollera en status.

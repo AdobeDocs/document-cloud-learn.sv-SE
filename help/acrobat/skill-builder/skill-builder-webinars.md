@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden
 **[PDF forms 101: Skapa ifyllbart Forms](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 Datum: 29 juni 2023 Förvandla dina gamla formulär och pappersdokument till enkelt ifyllbara PDF-dokument. Acrobat har en mängd olika metoder och verktyg som hjälper dig att förvandla dokument digitalt. Vi kommer att behandla följande under denna session:
 
-    * Skapa en formulärmall av olika filer (PDF, skannad bild, Word)
-    * Förstå tillgängliga fälttyper (text, kryssrutor, alternativknappar, listrutor, kalender)
-    * Arbeta med fältegenskaper och produktivitetsverktyg (utseende, formatering, beräkningar, validering)
+* Skapa en formulärmall från flera olika filer (PDF, skannad bild, Word)
+* Tillgängliga fälttyper (text, kryssrutor, alternativknappar, listrutor, kalender)
+* Arbeta med fältegenskaper och produktivitetsverktyg (utseende, formatering, beräkningar, validering)
 
 **[Lägg till interaktivitet i PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 Datum: 25 maj 2023 Gör ditt PDF enklare och intressantare för dina användare att interagera med. Delta i den här sessionen och lär dig hur enkelt det är att lägga till interaktivitet i PDF genom att:
 
-    * Lägga till hyperlänkar och bokmärken för att underlätta dokumentnavigeringen
-    * Inkludera video, ljud, 3D med mera i PDF
-    * Ordna olika typer av innehåll i ett och samma dokument
+* Lägga till hyperlänkar och bokmärken för att göra dokumentnavigeringen enklare
+* Inkludera video, ljud, 3D med mera i PDF
+* Ordna olika typer av innehåll i ett och samma dokument
 
 **[Återanvända PDF-innehåll: Redigera och exportera](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 Datum: 27 april 2023 Varför återskapa hjulet när du helt enkelt kan redigera och exportera PDF? Under det här mötet ska vi lära dig hur du ändrar ditt nuvarande PDF med Acrobat redigerings- och exportverktyg. Du får lära dig att:
 
-    * Redigera text och bilder
-    * Lägga till hyperlänkar och bokmärken för att underlätta dokumentnavigeringen
-    * Exportera till välbekanta format som Microsoft Word, PowerPoint och Excel
-    * exportera ett helt dokument eller markera text, bilder eller tabeller
+* Redigera text och bilder
+* Lägga till hyperlänkar och bokmärken för att underlätta dokumentnavigeringen
+* Exportera till välbekanta format som Microsoft Word, PowerPoint och Excel
+* Exportera ett helt dokument eller välj text, bilder eller tabeller
 
 **[PDF Collaboration: Dela, granska och samarbeta](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 Datum: 23 mars 2023 Kom igång med Adobe Acrobat och PDF. Lär dig grunderna i Acrobat-gränssnittet och få en introduktion till de viktigaste funktionerna som hjälper dig att bli produktivare. Vi visar dig hur du:
 
-    * Skapa PDF från bildfiler och dokument - inklusive Word, Excel och PowerPoint
-    * Kombinera flera filer - PDF, Word, bilder med mera - till ett redigerbart PDF
-    * Arbeta var som helst och när som helst med Acrobat Web och Acrobat Mobile
+* Skapa PDF från bildfiler och dokument - inklusive Word, Excel och PowerPoint
+* Kombinera flera filer - PDF, Word, bilder med mera - till ett redigerbart PDF
+* Få jobbet gjort när som helst med Acrobat Web och Acrobat Mobile
 
 **[Kom igång med Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 Datum: 23 februari 2023 Kom igång med Adobe Acrobat och PDF. Lär dig grunderna i Acrobat-gränssnittet och få en introduktion till de viktigaste funktionerna som hjälper dig att bli produktivare. Vi visar dig hur du:
 
-    * Skapa PDF från bildfiler och dokument - inklusive Word, Excel och PowerPoint
-    * Kombinera flera filer - PDF, Word, bilder med mera - till ett redigerbart PDF
-    * Arbeta var som helst och när som helst med Acrobat Web och Acrobat Mobile
+* Skapa PDF från bildfiler och dokument - inklusive Word, Excel och PowerPoint
+* Kombinera flera filer - PDF, Word, bilder med mera - till ett redigerbart PDF
+* Få jobbet gjort när som helst med Acrobat Web och Acrobat Mobile
 
 **[Produktivitet var du än är](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 Datum: 26 januari 2023 Den här sessionen lär dig hur du får åtkomst till dina Acrobat-favoritverktyg från valfri webbläsare eller från din mobila enhet. Med Acrobat på webben kan du arbeta var du än befinner dig, och med mobilappen Acrobat kan du arbeta även i rörlig miljö.
