@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
+source-git-commit: efc55a167156f713d5ef6d23a45cb74f7567f223
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,14 +38,14 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
         <em>Starta kl. 00.00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Startsida</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>Startsida</strong></a>
          <br>
-        <em>Börja vid 0:55</em>
+        <em>Börja vid 0:56</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -77,7 +77,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Lägg till ifyllbara fält</strong></a>
          <br>
-        <em>Starta kl. 8.22</em>
+        <em>Börja kl. 9.11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
