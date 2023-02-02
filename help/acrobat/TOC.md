@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 8%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 8%
    + [Redigera en bild i PDF](60-second/editgraphic.md)
    + [Ordna sidor i en handvändning](60-second/organize.md)
 + Kompetensbyggare {#skill-builders}
-   + [Översikt](skill-builder/skill-builder-overview.md)
    + [Webbinarier](skill-builder/skill-builder-webinars.md)
 + Integreringar {#integrations}
    + [Översikt](integrate/integrate-overview.md)
