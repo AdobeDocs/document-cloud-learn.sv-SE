@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -23,16 +23,16 @@ ht-degree: 8%
    + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Combine Files till PDF](getting-started/combine-to-pdf.md)
-   + [Ordna sidor](getting-started/organize.md)
+   + [Organisera sidor](getting-started/organize.md)
    + [Lägg till anpassad sida](getting-started/add-custom-page.md)
-   + [Redigera en PDF](getting-started/edit-pdf.md)
+   + [Redigera en PDF-fil](getting-started/edit-pdf.md)
    + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
    + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
    + [Samarbeta i realtid](getting-started/collaborate.md)
    + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
    + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Skanning &amp; OCR](getting-started/scan-and-ocr.md)
+   + [Skanning och OCR](getting-started/scan-and-ocr.md)
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
    + [Hämta signaturer](getting-started/signatures.md)
    + [Spåra dina dokument](getting-started/track.md)
@@ -92,7 +92,7 @@ ht-degree: 8%
    + [Arbeta med filer från [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branscher och avdelningar {#by-industry}
    + [Översikt](industry/industry-overview.md)
-   + Myndigheter {#gov}
+   + Offentlig myndighet {#gov}
       + [Översikt](industry/gov/gov-overview.md)
       + 5 tips för att arbeta var som helst med Acrobat {#tips}
          + [5 tips för att arbeta var som helst med Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -109,10 +109,10 @@ ht-degree: 8%
          + [Göra valsedlar i PDF mer tillgängliga](industry/gov/making-pdf-ballots-accessible.md)
 + Framkalla {#develop}
    + [Översikt](develop/develop-overview.md)
-+ Driftsätt {#deploy}
++ Driftsätta {#deploy}
    + [Översikt](deploy/deploy-overview.md)
    + [Viktiga Acrobat DC-produktuppdateringar för ETLA](deploy/signentitlementchanges.md)
-+ Mobila enheter {#mobile}
++ Mobil {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + [Produktivitet i farten](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna vad som helst till PDF](mobile/scan-mobile-app.md)
