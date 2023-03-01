@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Ändra ett dokument efter sändning](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersätta en signerare](sign-beginner-tutorials/replace-signer.md)
       + [Ange tidsgränser och påminnelser](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Undertecknar {#getting-started-signing}
       + [Signera ett dokument elektroniskt](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Fylla i och signera ett dokument](sign-beginner-tutorials/fill-and-sign.md)
       + [Hämta en signatur personligen](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 9%
       + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](sign-advanced-users/advanced-users-overview.md)
-   + Skickar {#advanced-tasks-sending}
+   + Skicka {#advanced-tasks-sending}
       + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Använda godkännarrollen](sign-advanced-users/add-an-approver.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Skicka för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [Skicka dokument för vidimering](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder för Salesforce](integrations/create-an-agreement-template.md)
       + [Ställa in datamappning](integrations/set-up-data-mapping.md)
@@ -120,7 +122,7 @@ ht-degree: 9%
       + [Webbinarier](sign-usecase/innovation-series.md)
    + Använd skiftlägesrecept {#recipes}
       + [Översikt](sign-usecase/recipes.md)
-      + Myndigheter {#gov}
+      + Offentlig myndighet {#gov}
          + [Bidrag och lån till företag](sign-usecase/usecasegovgrants.md)
          + [Distansarbetsavtal](sign-usecase/usecasegovtelework.md)
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasegovcontracts.md)
@@ -138,9 +140,9 @@ ht-degree: 9%
    + Anpassade API:er {#custom}
       + [Samla in stora volymer dokument med GigaSign](develop/gigasign.md)
       + [Skapa inbäddade e-signaturer och dokumentupplevelser](develop/embeddedesignature.md)
-+ Driftsätt {#deploy}
++ Driftsätta {#deploy}
    + [Översikt](deploy-overview.md)
-+ Mobila enheter {#mobile}
++ Mobil {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + Självstudiekurser för mobiler {#mobile-tutorials}
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)
