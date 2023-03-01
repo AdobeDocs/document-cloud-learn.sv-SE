@@ -11,7 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [Ändra ett dokument efter sändning](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersätta en signerare](sign-beginner-tutorials/replace-signer.md)
       + [Ange tidsgränser och påminnelser](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Undertecknar {#getting-started-signing}
+   + Signera {#getting-started-signing}
       + [Signera ett dokument elektroniskt](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Fylla i och signera ett dokument](sign-beginner-tutorials/fill-and-sign.md)
       + [Hämta en signatur personligen](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 0%
       + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](sign-advanced-users/advanced-users-overview.md)
-   + Skicka {#advanced-tasks-sending}
+   + Skickar {#advanced-tasks-sending}
       + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Använda godkännarrollen](sign-advanced-users/add-an-approver.md)
@@ -142,7 +142,7 @@ ht-degree: 0%
       + [Skapa inbäddade e-signaturer och dokumentupplevelser](develop/embeddedesignature.md)
 + Driftsätta {#deploy}
    + [Översikt](deploy-overview.md)
-+ Mobil {#mobile}
++ Mobilt {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + Självstudiekurser för mobiler {#mobile-tutorials}
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)
