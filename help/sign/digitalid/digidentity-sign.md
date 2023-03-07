@@ -1,5 +1,5 @@
 ---
-title: Registrera och signera med en [!DNL Digidentity] digitalt ID
+title: Registrera och signera med [!DNL Digidentity]
 description: Läs om hur du registrerar och använder [!DNL Digidentity] elektroniskt ID med Acrobat Sign
 role: User
 product: adobe sign
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
+source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Registrera och signera med en [!DNL Digidentity] digitalt ID
+# Registrera och signera med [!DNL Digidentity]
 
 Digidentity är en EU-kvalificerad betrodd tjänsteleverantör (QTSP). Digidentity-identifiering och introduktionsprocess är beroende av Digidentity-mobilappen och kräver användning av ett ID-dokument med ett inbäddat NFC-chip samt en NFC-kompatibel mobil enhet. Digidentity-processen är helt självbetjänad och är tillgänglig dygnet runt, alla dagar, året om, utan &quot;human in the loop&quot;. I de flesta fall tar det så lite som 5-10 minuter att slutföra registreringen.
 
