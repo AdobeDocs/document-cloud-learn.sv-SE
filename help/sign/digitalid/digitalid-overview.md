@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ På samma sätt som ett pass i elektronisk form gör ett digitalt ID att du på 
 
 ## Nyheter
 
+* [Registrera och signera med Digidentity](digidentity-sign.md)
+Läs om hur du registrerar och använder [!DNL Digidentity] elektroniskt ID med Acrobat Sign
 * [Registrera och signera med D-Trust](d-trust.md)
 Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign
 
