@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,19 @@ Lär dig hur du registrerar din identitet med [!DNL D-Trust]och sedan använda [
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="Hämta ett digitalt ID från [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="Registrera och signera med en [!DNL Digidentity] digitalt ID" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Hämta ett digitalt ID från [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Registrera och signera med en [!DNL Digidentity] digitalt ID</strong></a>
     </div>
-    <em>Lär dig hur du får ett certifikat för digital signering från [!DNL Digidentity]</em>
+    <em>Läs om hur du registrerar och använder [!DNL Digidentity] elektroniskt ID med Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="Signera med [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>Signera med [!DNL Digidentity]</strong></a>
-    </div>
-    <em>Lär dig använda din [!DNL Digidentity] elektroniskt ID med Acrobat Sign</em>
     <br>
   </td>
   <td>
