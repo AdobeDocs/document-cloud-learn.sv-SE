@@ -1,21 +1,21 @@
 ---
-title: Redigera en PDF
+title: Redigera en PDF-fil
 description: Läs om hur du redigerar text och bilder i PDF-filer
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
-# Redigera en PDF
+# Redigera en PDF-fil
 
-Så här gör du [redigera text och bilder i PDF-filer](https://www.adobe.com/sv/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Klicka eller tryck för att lägga till ett nytt stycke eller rätta till ett stavfel. Du kan till och med lägga till bilder [eller beskära ett foto](https://www.adobe.com/se/acrobat/online/crop-pdf.html).
+Så här gör du [redigera text och bilder i PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Klicka eller tryck för att lägga till ett nytt stycke eller rätta till ett stavfel. Du kan till och med lägga till bilder [eller beskära ett foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ Så här gör du [redigera text och bilder i PDF-filer](https://www.adobe.com/sv
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

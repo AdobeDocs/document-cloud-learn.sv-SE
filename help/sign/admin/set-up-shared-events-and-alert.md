@@ -6,7 +6,7 @@ product: adobe sign
 level: Intermediate
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Läs mer om inställningar för delade händelser och varningar som du kan konfigurera i Acrobat Sign. Varningar är åtgärder som inte har ägt rum inom en viss tidsram, och händelser är åtgärder som har ägt rum.
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)

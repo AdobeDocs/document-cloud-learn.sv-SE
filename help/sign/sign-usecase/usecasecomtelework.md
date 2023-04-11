@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Lär dig hur du effektivt samlar in signaturer från alla dina anställda om distansavtal, policyuppdateringar med mera. Först skapar du en återanvändbar dokumentmall som du snabbt kommer åt från ditt dokumentbibliotek. För det andra skickar du ut den nya dokumentmallen för signering till hundratals anställda samtidigt med Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
 
 Klicka för att ladda ned PDF-receptet för distansavtal.
 
-[![Hämta PDF-recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Ladda ner PDF recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

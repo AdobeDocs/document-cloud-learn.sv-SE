@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-8575.jpg
 KT: 8575
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -18,4 +18,4 @@ ht-degree: 6%
 
 I den här 60 sekunder långa videosjälvstudien lär du dig att dra och släppa en massa JPG på Acrobat-ikonen. Klicka på Ja om du vill skapa en flersidig PDF. Sedan kan du helt enkelt dra fler JPG-filer till sidpanelen för att [lägg till ytterligare sidor i PDF](https://www.adobe.com/se/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)

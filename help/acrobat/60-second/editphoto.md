@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9276.jpg
 KT: 9276
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -15,6 +16,6 @@ ht-degree: 0%
 
 # Redigera ett foto i PDF
 
-I den här 60-sekundersvideosjälvstudiekursen kan du lära dig att göra avancerade redigeringar av ett foto i PDF med Photoshop! Från verktyget Redigera PDF till Photoshop, och sedan tillbaka igen, är processen smidig och du kan få jobbet gjort snabbt och enkelt.
+I den här 60 sekunder långa videosjälvstudiekursen lär du dig att göra avancerade redigeringar av ett foto i PDF med Photoshop! Från verktyget Redigera PDF till Photoshop, och sedan tillbaka igen, är processen smidig och låter dig få ditt arbete gjort snabbt och enkelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)

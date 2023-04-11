@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Lär dig hur du konfigurerar avancerad kontodelning - så att administratörer o
 >
 >Avancerad kontodelning är endast tillgängligt för planer på företagsnivå. Teknisk support kan aktivera avancerad delning, men när den har aktiverats ändras relationerna för de delade objekten på ett sätt som inte kan ångras. Av denna anledning rekommenderar vi att du kontaktar ditt Adobe-kontoteam och får ett testkonto konfigurerat så att du kan testa funktionen och verifiera att den tillåter allt du vill uppnå.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

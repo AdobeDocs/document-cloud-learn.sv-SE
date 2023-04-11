@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för Salesforce. Återanvändbara dokumentmallar ger snabbhet och enhetlighet i dina Sign-transaktioner och möjlighet att hantera ändringar och ändringar av dokument.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)

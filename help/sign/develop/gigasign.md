@@ -7,26 +7,26 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '264'
 ht-degree: 5%
 
 ---
 
 # Samla in stora volymer dokument med GigaSign
 
-Med Gigasign kan du skicka, samla in och spåra dokument för signering till tusentals personer samtidigt. Den är utformad för kommunikation med stora volymer med dina anställda och kunder - med stöd för upp till 2 500 mottagare vid varje massutskick. GigaSign använder API:et för Acrobat Sign för att tillhandahålla samma funktioner som MegaSign, och inkluderar stöd för flera signerare, mottagargrupper, mottagarroller, avtalsnamn, karbonkopior med mera.
+Med Gigasign kan du skicka, samla in och spåra dokument för signering till tusentals personer samtidigt. Den är utformad för kommunikation med stora volymer med dina anställda och kunder - med stöd för upp till 2 500 mottagare vid varje massutskick. GigaSign använder Acrobat Sign API för att tillhandahålla samma funktioner som MegaSign, och inkluderar stöd för flera signerare, mottagargrupper, mottagarroller, avtalsnamn, karbonkopia med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Hämta och installera GigaSign-appen
 
 [Hämta zip-filen GigaSign](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Hämtningslänk för Java 1.8 (endast vid behov)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Hämtningslänk för Java 1.8 (endast vid behov)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[IP-adresser till vit lista (endast vid behov)](https://helpx.adobe.com/se/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[IP-adresser till vit lista (endast vid behov)](https://helpx.adobe.com/se/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Grundläggande installationsanvisningar
 

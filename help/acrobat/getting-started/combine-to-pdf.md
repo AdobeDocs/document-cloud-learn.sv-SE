@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
 # Kombinera filer till ett enda PDF
 
-För att kunna leverera de bästa kundupplevelserna måste innehållet skapas snabbare än någonsin. Lär dig hur du smidigt kombinerar många olika filtyper (PDF, Word, Excel, PowerPoint, JPEG osv.) till en enda PDF. [Kombinera filer till ett enda PDF](https://www.adobe.com/se/acrobat/online/merge-pdf.html)Med {target=&quot;_blank&quot;} kan du hantera och styra innehåll som du skickar till andra, vilket ger en bättre upplevelse.
+För att kunna leverera de bästa kundupplevelserna måste innehållet skapas snabbare än någonsin. Lär dig hur du smidigt kombinerar många olika filtyper (PDF, Word, Excel, PowerPoint, JPEG osv.) till en enda PDF. [Kombinera filer till ett enda PDF](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target="_blank"} Med kan du hantera och styra innehåll som du skickar till andra, vilket ger en bättre upplevelse.
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ För att kunna leverera de bästa kundupplevelserna måste innehållet skapas sn
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

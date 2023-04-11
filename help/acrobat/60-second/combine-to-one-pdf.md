@@ -7,15 +7,15 @@ level: Beginner
 thumbnail: KT-8571.jpg
 KT: 8571
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '53'
 ht-degree: 9%
 
 ---
 
 # Kombinera filer till en PDF
 
-I den här 60 sekunder långa videosjälvstudien lär du dig hur du snabbt skapar ett dokument genom att [kombinera flera olika filtyper till en enda PDF](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}.
+I den här 60 sekunder långa videosjälvstudien lär du dig hur du snabbt skapar ett dokument genom att [kombinera flera olika filtyper till en enda PDF](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)

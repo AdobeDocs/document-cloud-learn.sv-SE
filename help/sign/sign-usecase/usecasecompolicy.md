@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Samla effektivt in signaturer från alla medarbetare om policyavtal, policyuppdateringar med mera. Lär dig hur du skapar ett onlinewebbformulär som kan fyllas i **och** undertecknad utan att skriva ut eller posta något.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Klicka här om du vill hämta PDF-receptet för policyavtal steg för steg.
 
-[![Hämta PDF-recept](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Ladda ner PDF recept](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

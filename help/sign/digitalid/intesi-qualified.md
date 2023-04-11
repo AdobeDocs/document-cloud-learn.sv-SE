@@ -8,21 +8,21 @@ level: Beginner
 thumbnail: KT-8704.jpg
 kt: 8704
 exl-id: aea17112-0a06-4ea6-8a44-9f4ba5eebc29
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
 # Hämta ett digitalt ID från [!DNL Intesi Group] (Kvalificerad)
 
-Lär dig hur du får ett kvalificerat certifikat för digital signering från [!DNL Intesi Group]. När du har registrerat dig och din identitet har bekräftats [!DNL Intesi Group] får du problem med ett elektroniskt ID som används för att tillämpa en molnsignatur i Acrobat Sign.
+Lär dig hur du får ett kvalificerat certifikat för digital signering från [!DNL Intesi Group]. När du har registrerat dig och din identitet har bekräftats [!DNL Intesi Group] utfärdar ett elektroniskt ID som används för att tillämpa en molnsignatur i Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/337064?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
 **Välj bilden nedan för att lära dig hur du använder din kvalificerade [!DNL Intesi Group] elektroniskt ID i Acrobat Sign.**
 
-[![image](assets/IntesiSign_400.png)](intesi-sign.md)
+[![323](assets/IntesiSign_400.png)](intesi-sign.md)

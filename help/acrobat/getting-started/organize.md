@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 25%
+source-wordcount: '96'
+ht-degree: 30%
 
 ---
 
 # Ordna sidor
 
-För att kunna leverera de bästa kundupplevelserna måste innehållet skapas snabbare än någonsin. Lär dig hur du ordnar om sidor precis som du vill - allt på bara några sekunder. [Infoga](https://www.adobe.com/se/acrobat/online/add-pages-to-pdf.html){target=&quot;_blank&quot;}, replace, [dela](https://www.adobe.com/se/acrobat/online/split-pdf.html){target=&quot;_blank&quot;}, [sortera om](https://www.adobe.com/se/acrobat/online/rearrange-pdf.html){target=&quot;_blank&quot;}, [rotera](https://www.adobe.com/se/acrobat/online/rotate-pdf.html){target=&quot;_blank&quot;} och även [extrahera ej sammanhängande sidor](https://www.adobe.com/se/acrobat/online/extract-pdf-pages.html){target=&quot;_blank&quot;} för att skapa en proffsig PDF. I den här videosjälvstudien används [ny arbetsyta](new-workspace.md).
+För att kunna leverera de bästa kundupplevelserna måste innehållet skapas snabbare än någonsin. Lär dig hur du ordnar om sidor precis som du vill - allt på bara några sekunder. [Infoga](https://www.adobe.com/se/acrobat/online/add-pages-to-pdf.html){target="_blank"}, replace, [split](https://www.adobe.com/se/acrobat/online/split-pdf.html){target="_blank"}, [reorder](https://www.adobe.com/se/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotate](https://www.adobe.com/se/acrobat/online/rotate-pdf.html){target="_blank"}, and even [extract discontinuous pages](https://www.adobe.com/se/acrobat/online/extract-pdf-pages.html){target="_blank"} för att skapa ett proffsigt PDF. I den här videosjälvstudien används [ny arbetsyta](new-workspace.md).
 
 >[!TIP]
 >
@@ -23,4 +23,4 @@ För att kunna leverera de bästa kundupplevelserna måste innehållet skapas sn
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)

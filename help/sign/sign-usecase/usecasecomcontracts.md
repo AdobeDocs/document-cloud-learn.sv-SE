@@ -7,19 +7,19 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Affärskontrakt och rekvisitionsblanketter
 
-Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter. Läs mer om verktyget Acrobat Sign Workflow Designer som effektiviserar hela processen.
+Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter. Läs mer om Acrobat Sign Workflow Designer.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Klicka här om du vill hämta PDF-receptet för kontrakt och rekvisitionsformulär steg för steg.
 
-[![Hämta PDF-recept](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Ladda ner PDF recept](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

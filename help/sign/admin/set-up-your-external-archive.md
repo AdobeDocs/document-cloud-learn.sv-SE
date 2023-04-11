@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
-source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett externt arkiv för säkerhetskopior av avtal som har signerats. Du kan arkivera kopior till valfri e-postadress eller till [!DNL Box] och Evernote. En kopia av det signerade och slutförda e-postmeddelandet skickas till antingen e-postadressen eller molntjänsten du anger.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
