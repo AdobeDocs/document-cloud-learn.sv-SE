@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 3bf6b2382dfa22d8883be275fff5c9438a1ea2d9
+source-git-commit: ceb48d1ab5cad8ee32e3e7833997847050786aad
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,6 +55,7 @@ Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksa
       <img alt="Framkalla" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
+  <td>
   <a href="deploy/deploy-overview.md">
       <img alt="Driftsätta" src="assets/acrobat_title_deploy.png" />
     </a>
