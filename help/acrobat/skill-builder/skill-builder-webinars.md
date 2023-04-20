@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 1%
+source-wordcount: '1111'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,42 @@ Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden
 
 ## Månatliga sessioner
 
+**[Enkel automatisering med Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
+Datum: 16 november 2023 Sluta upprepa enkla manuella uppgifter. I den här sessionen lär du dig hur du använder Action Wizard i Acrobat Pro för att gruppbearbeta dina PDF-filer och utföra automatiska, repetitiva åtgärder som att göra dokument tillgängliga, skydda dokument, optimera filer, arkivera med mera. Du kommer att lära dig:
+
+* Vilka åtgärder är
+* Använda fördefinierade åtgärder
+* Skapa egna åtgärder
+* Dela åtgärder med andra
+
+**[Lås upp dina pappersdokument: Digitalisering i stor skala](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/46e148fe-92c0-4d79-ac83-8888e9f0521e/dfcf3b90-4390-4c6e-abd9-20ba6e913dc1){target="_blank"}**
+Datum: 26 oktober 2023 Har du eller din organisation högar av papper som behöver föras in i den digitala världen för att göra det lättare för dig och andra att komma åt? Läs om hur Acrobat använder optisk teckenigenkänning (OCR) för att förvandla skannade filer till sökbara, redigerbara och återanvändbara PDF-dokument som ser ut precis som originalfilen. Vi kommer också att dela tips om OCR-teknik i stor skala och automatisera arbetsflöden för digitalisering med Power Automate och Adobe PDF Services API.
+
+**[Få ut mesta möjliga av Microsoft-programmen med Acrobat-tillägg](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/8b4ea780-6e4d-48b6-8c70-ea10245a5a64/b4fe64de-3614-4a6d-94c6-ff6612ac07fb){target="_blank"}**
+Datum: 28 september 2023 Med verktygen och tjänsterna från Acrobat inbyggda i Microsoft 365 kan alla göra affärer och samarbeta snabbare utan att byta appar. Vi visar hur du lägger till arbetsflöden från PDF i de Microsoft-program du använder dagligen, inklusive:
+
+* Microsoft Teams (Samarbeta om PDF)
+* SharePoint (skapa, kombinera, ordna och Exporter PDF)
+* Word, Excel, PowerPoint (Skapa och samarbeta på PDF)
+* Outlook (Skapa PDF)
+
+**[Inbyggd säkerhet i PDF](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/b454ab64-9c2e-4aec-bcf9-ca82e3a6b869/3a456ace-042e-41c8-8e8c-d285e9ba0ab8){target="_blank"}**
+Datum: 24 augusti 2023 Minska tidsåtgången för att säkerställa att juridiska dokument är säkra och kompatibla med automatiserade och fullständiga granskningsspår, bortredigering för att ta bort känslig information, anpassningsbara säkerhetsfunktioner i PDF som visning, vattenstämplar, åtkomstkontroller och kryptering.
+
+* PDF-säkerhet i Microsoft 365-program (Word, Excel, PPT, Outlook)
+* PDF-säkerhet i Adobe-program (InDesign, Illustrator, Photoshop, InCopy)
+* Lägg till lösenord för visning, redigering osv.
+* Åtgärder som är tillgängliga för mottagare
+* Protect flera filer (gruppvis)
+* Ta bort känslig information från PDF (redigera bort, sanera, dölja känslig information)
+
+**[PDF forms 2011: Utveckla dina formulärkunskaper](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/32518a73-e152-42b5-825c-b31ce53ab1f2/b9966934-6a5b-49c2-a9b0-d434543ce7f4){target="_blank"}**
+Datum: 27 juli 2023 Ta PDF forms till nästa nivå när vi går djupare in på de mer avancerade alternativ som Acrobat har att erbjuda. Denna session kommer att omfatta
+
+* Skapa onlineformulär för att enkelt samla in data och signaturer var som helst
+* Arbeta med JavaScript för mer komplexa åtgärder
+* Hur mottagare interagerar med formulär i olika visningsprogram eller webbläsare
+
 **[PDF forms 101: Skapa ifyllbart Forms](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 Datum: 29 juni 2023 Förvandla dina gamla formulär och pappersdokument till enkelt ifyllbara PDF-dokument. Acrobat har en mängd olika metoder och verktyg som hjälper dig att förvandla dokument digitalt. Vi kommer att behandla följande under denna session:
 
@@ -27,12 +63,12 @@ Datum: 29 juni 2023 Förvandla dina gamla formulär och pappersdokument till enk
 * Tillgängliga fälttyper (text, kryssrutor, alternativknappar, listrutor, kalender)
 * Arbeta med fältegenskaper och produktivitetsverktyg (utseende, formatering, beräkningar, validering)
 
-**[Lägg till interaktivitet i PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
-Datum: 25 maj 2023 Gör ditt PDF enklare och intressantare för dina användare att interagera med. Delta i den här sessionen och lär dig hur enkelt det är att lägga till interaktivitet i PDF genom att:
+**[Skapa tillgänglig PDF](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
+Datum: 25 maj 2023 Se till att PDF-innehållet är mer tillgängligt och engagerande för alla användare. Oavsett om du börjar med ett tillgängligt dokument eller behöver använda tillgänglighetsfunktioner i Acrobat, så visar vi hur du skapar PDF-kompatibelt dokument som ger universell åtkomst till dina dokument. Denna session kommer att omfatta
 
-* Lägga till hyperlänkar och bokmärken för att göra dokumentnavigeringen enklare
-* Inkludera video, ljud, 3D med mera i PDF
-* Ordna olika typer av innehåll i ett och samma dokument
+* Söka efter och lägga till taggar i PDF
+* Skapa tillgänglig PDF från Microsoft Word eller Adobe InDesign
+* En genomgång av funktionerna i Acrobat tillgänglighetsverktyg
 
 **[Återanvända PDF-innehåll: Redigera och exportera](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 Datum: 27 april 2023 Varför återskapa hjulet när du helt enkelt kan redigera och exportera PDF? Under det här mötet ska vi lära dig hur du ändrar ditt nuvarande PDF med Acrobat redigerings- och exportverktyg. Du får lära dig att:
@@ -58,24 +94,3 @@ Datum: 23 februari 2023 Kom igång med Adobe Acrobat och PDF. Lär dig grunderna
 
 **[Produktivitet var du än är](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 Datum: 26 januari 2023 Den här sessionen lär dig hur du får åtkomst till dina Acrobat-favoritverktyg från valfri webbläsare eller från din mobila enhet. Med Acrobat på webben kan du arbeta var du än befinner dig, och med mobilappen Acrobat kan du arbeta även i rörlig miljö.
-
-**[Arbeta med PDF i dina Microsoft-program](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target="_blank"}**
-Datum: 15 december 2022 Acrobat är helt integrerat i Microsoft 365-program, så du behöver inte gå mellan skärmarna och kan få mer gjort i ditt arbetsflöde. I denna session med Skill Builder får du lära dig hur du lägger till arbetsflöden från PDF i de Microsoft-program du använder dagligen, inklusive Teams, Outlook, SharePoint, Word, PowerPoint och Excel.
-
-**[PDF Collaboration: Dela, granska och samarbeta](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target="_blank"}**
-Datum: 17 november 2022 Denna Färdighetsbyggare handlar om digitalt dokumentsamarbete. Kom och lär dig det enkla sättet att granska dokument med ditt team och få en genomgång av de kommentarverktyg som finns tillgängliga för dig. Vi pratar också om att granska PDF med andra i Microsoft Teams och hur du ger feedback var som helst med mobilappen Acrobat och Acrobat Web.
-
-**[Återanvänd PDF-innehåll: Redigera och exportera](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target="_blank"}**
-Datum: 27 oktober 2022 Lär dig hur du [ändra ditt nuvarande PDF](https://www.adobe.com/sv/acrobat/online/pdf-editor.html){target="_blank"}: redigera text och bilder, lägga till hyperlänkar och bokmärken, konvertera till Microsoft Word-, PowerPoint- och Excel-filer med mera.
-
-**[Kom igång med Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target="_blank"}**
-Datum: 22 september 2022 Kom igång med Adobe Acrobat och PDF. Vi presenterar Acrobat-gränssnittet och visar hur du: * [Skapa PDF från bildfiler](https://www.adobe.com/se/acrobat/online/convert-pdf.html){target="_blank"} and documents — including Word, Excel, and PowerPoint. * [Combine multiple files](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target="_blank"} - PDF, Word, bilder med mera - i ett redigerbart PDF. * Arbeta var som helst med Acrobat på webben och i mobilen.
-
-**[PDF Security](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target="_blank"}**
-Datum: 25 augusti 2022 Få all information du behöver om [skydda PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} innehåll. Under den här sessionen kommer du att dela med dig av olika tekniker för att lägga till lösenord som förhindrar visning, redigering eller utskrift av en PDF, och visa dig hur du permanent tar bort känslig information - även från osynliga metadata!
-
-**[Enkel automatisering med Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target="_blank"}**
-Datum: 28 juli 2022 Sluta upprepa enkla manuella uppgifter! I den här sessionen lär du dig hur du använder Action Wizard i Acrobat för att gruppbearbeta dina PDF-filer och utföra upprepade åtgärder automatiskt.
-
-**[Läsbarhet för alla: Skapa tillgänglig PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target="_blank"}**
-Datum: 23 juni 2022. Om du lägger till tillgänglighetsfunktioner i PDF får alla läsare tillgång till innehållet. Delta i den här sessionen och lär dig skapa kompatibla och tillgängliga PDF med Acrobat.
