@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -99,20 +99,20 @@ Acrobat Sign, en Adobe Document Cloud-lösning, kan skalas upp för att uppfylla
   </td>
    <td>
     <a href="deploy-overview.md">
-      <img alt="Driftsätt" src="assets/AS_Title_Deploy.png" />
+      <img alt="Driftsätta" src="assets/AS_Title_Deploy.png" />
     </a>
     <div>
-    <a href="deploy-overview.md"><strong>Driftsätt</strong></a>
+    <a href="deploy-overview.md"><strong>Driftsätta</strong></a>
     </div>
     <em>Insikter och bästa praxis för att driftsätta Acrobat Sign i företaget</em>
     <br>
   </td>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="Mobila enheter" src="assets/AS_Title_Mobile.png" />
+      <img alt="Mobilt" src="assets/AS_Title_Mobile.png" />
     </a>
     <div>
-    <a href="mobile/mobile-overview.md"><strong>Mobila enheter</strong></a>
+    <a href="mobile/mobile-overview.md"><strong>Mobilt</strong></a>
     </div>
     <em>Skicka, spåra och få uppdateringar i realtid på din mobila enhet</em>
     <br>
