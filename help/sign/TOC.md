@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '489'
 ht-degree: 10%
 
 ---
@@ -109,6 +109,7 @@ ht-degree: 10%
       + [Skapa en anpassad knapp](integrations/create-a-custom-button.md)
    + Workday {#workday}
       + [Konfigurera Acrobat Sign med Workday](integrations/workday.md)
+      + [Introduktion till nyanställda på Acrobat Sign + Workday](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [Skicka aviseringar med Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-sms.md)
       + [Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder-video.md)

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ Lär dig hur du automatiskt arkiverar signerade dokument i ett SharePoint-biblio
       <img alt="Konfigurera Acrobat Sign med Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Konfigurera Acrobat Sign med Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Konfigurera Acrobat Sign med Workday</strong></a>
     </div>
     <em>Lär dig konfigurera Acrobat Sign så att det fungerar direkt i Workday och smidigt kan hantera alla HR-dokument</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Introduktion till nyanställda på Acrobat Sign + Workday" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till nyanställda på Acrobat Sign + Workday</strong></a>
+    </div>
+    <em>Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + Workday</em>
     <br>
   </td>
   <td>
