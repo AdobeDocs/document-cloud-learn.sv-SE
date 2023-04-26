@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 ## Nyheter
 
+* [Introduktion till nyanställda på Acrobat Sign + Workday](acrobat-sign-workday-onboarding.md)
+Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + Workday
 * [Skicka dokument för vidimering](send-document-notarize.md)
 I den här tredelade självstudiekursen lär du dig hur du skickar ett dokument för vidimering, visar signerarens upplevelse och får resultaten
-* [Arkivera filer automatiskt i SharePoint med Power Automate](auto-archive-sharepoint-power-automate.md)
-Lär dig hur du automatiskt arkiverar signerade dokument i ett SharePoint-bibliotek med Power Automate
 
 ## Självstudiekurser för Microsoft-integreringar
 
