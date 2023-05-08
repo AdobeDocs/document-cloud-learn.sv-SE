@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Acrobat Sign Skill Builders är 30-minuterssessioner som är utformade för att 
 
 ## Månatliga sessioner
 
-**[Arbeta med e-signaturer i dina Microsoft-program](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[Arbeta med e-signaturer i dina Microsoft-program](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 Datum: 19 oktober 2023 Utöka ditt sätt att använda Microsoft-program som Word, Outlook och SharePoint genom att lägga till Adobe Acrobat Sign i dina befintliga arbetsflöden. Den här sessionen lär dig hur du kan börja effektivisera dokumentprocesser i vanliga Microsoft-program så att du inte behöver växla till kontext bara för att få en signatur eller kontrollera en status.
 
-**[Hantera avtal: Visa avtalsstatus i realtid](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[Hantera avtal: Visa avtalsstatus i realtid](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 Datum: 21 september 2023 Kom och lär dig mer om verktygen och metoderna för avtalshantering så att du när som helst kan få reda på statusen för dina avtal. Denna session kommer att omfatta
 
 * Vilka åtgärder du kan utföra på dokument från fliken Hantera
 * Bearbeta och använda data från webbformulär och massutskick
 * Så här söker du efter och filtrerar dokument
 
-**[Avancerade tips för att skicka dokument för signering](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[Avancerade tips för att skicka dokument för signering](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 Datum: Den 17 augusti 2023 Gå med när vi gör en djupdykning i alla alternativ som är tillgängliga när vi skickar avtal för signering. Under den här sessionen får du lära dig mer om:
 
 * Skicka till flera mottagare
@@ -40,7 +40,7 @@ Datum: Den 17 augusti 2023 Gå med när vi gör en djupdykning i alla alternativ
 * Lägga till ett CC-fält
 * Lösenordsskydd med mera
 
-**[Acrobat Sign-integreringar: Salesforce och Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Acrobat Sign-integreringar: Salesforce och Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 Datum: 20 juli 2023 Var med och granska några av de vanligaste och mest kraftfulla Acrobat Sign-integreringarna med Salesforce och Workday. Under denna session kommer vi att utforska hur ni kan snabba upp affärstransaktionerna genom att eliminera manuella, ineffektiva uppgifter och skapa 100 % digitala arbetsflöden och e-signaturprocesser direkt i de verktyg ni redan använder.
 
 **[Advanced Reporting för Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
