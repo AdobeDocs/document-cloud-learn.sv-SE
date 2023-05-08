@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -104,6 +104,11 @@ I den här tredelade självstudiekursen lär du dig hur du skickar ett dokument 
     <a href="documentautomation.md"><strong>Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Lär dig hur du aktiverar och använder [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningsdon för [!DNL Microsoft Power] appar</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
