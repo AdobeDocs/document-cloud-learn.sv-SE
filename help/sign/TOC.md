@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '494'
 ht-degree: 10%
 
 ---
@@ -47,9 +47,10 @@ ht-degree: 10%
       + [Setting up signing order](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Använda godkännarrollen](sign-advanced-users/add-an-approver.md)
+      + [Autentiseringsmetoder i Acrobat Sign](sign-advanced-users/authentication-methods.md)
+      + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
       + [Skicka och samla in flera signaturer samtidigt](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Använda texttaggar i [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Hantera {#advanced-tasks-managing}
