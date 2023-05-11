@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -116,6 +116,16 @@ Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer o
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Rapportalternativ för användare" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Rapportalternativ för användare</strong></a>
+    </div>
+    <em>Lär dig ställa in rapportalternativ för användare</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer o
     <em>Samla hundratals signaturer samtidigt för alla dokument</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Konfigurera ett arbetsflöde" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer o
     <em>Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer och data</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Avancerade uppgifter
