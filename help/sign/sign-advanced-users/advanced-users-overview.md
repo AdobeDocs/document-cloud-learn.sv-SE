@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
 
 * [Autentiseringsmetoder i Acrobat Sign](authentication-methods.md)
 Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som signerar ett dokument
-* [Ställ in onlinebetalningar](set-up-online-payments.md)
-Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
+* [Hantera formulärdata](manage-form-data.md)
+Lär dig hur du konsoliderar formulärdata från dokument
 
 ## Skickar
 
@@ -74,6 +74,16 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="Hantera formulärdata" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>Hantera formulärdata</strong></a>
+      </div>
+      <em>Lär dig hur du konsoliderar formulärdata från dokument</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Ställ in onlinebetalningar" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
       </div>
       <em>Samla in hundratals signaturer samtidigt för alla dokument i några få korta steg</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
-      </div>
-      <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
+    </div>
+    <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
       <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Använda texttaggar i [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <a href="text-tagging-word.md"><strong>Använda texttaggar i [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Lär dig hur du skapar en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -22,10 +22,10 @@ Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, dela
 
 ## Nyheter
 
+* [Rapportalternativ](report-options.md)
+Lär dig ställa in rapportalternativ för användare
 * [Komma igång för nya administratörer](get-started-admin.md)
 I den här omfattande videoguiden får du lära dig mer om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign
-* [Konfigurera ett arbetsflöde](building-a-custom-workflow.md)
-Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer och data
 
 ## Komma igång
 
