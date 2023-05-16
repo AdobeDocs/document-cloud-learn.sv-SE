@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: d69bc986a03d218b61b92b3a8129d8e21116e2bf
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa fu
 
 ## Nyheter
 
-* [Arbeta var som helst med Acrobat på webben](optimizeseo.md)
+* [Optimize PDF för SEO (sökmotoroptimering)](optimizeseo.md)
 Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
 
 ## Självstudiekurser för avancerade uppgifter
