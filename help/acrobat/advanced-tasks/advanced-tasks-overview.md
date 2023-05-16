@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Acrobat - startbild](../assets/Hero-AdvancedTasks.png)
 
 Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa funktionsmakron för att upprepa triviala moment, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa universellt tillgängliga PDF-filer.
+
+## Nyheter
+
+* [Arbeta var som helst med Acrobat på webben](optimizeseo.md)
+Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
 
 ## Självstudiekurser för avancerade uppgifter
 

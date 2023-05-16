@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: da1cbeba135380abf5179734efdb86b294887004
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 5%
 ![Acrobat - startbild](../assets/Hero-GettingStarted.png)
 
 Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, det här innehållet är utformat för att underlätta för dig att komma in i arbetsflöden i PDF.
+
+## Nyheter
+
+* [Arbeta var som helst med Acrobat på webben](acrobatweb.md)
+Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren
 
 ## Komma igång med självstudiekurser
 
