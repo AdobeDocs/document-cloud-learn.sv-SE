@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegv
 
 * [Arbeta var som helst med Acrobat på webben](acrobatweb.md)
 Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren
+* [Samarbeta i realtid](collaborate.md)
+Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och följa upp dokumentförloppet i realtid var du än är
 
 ## Komma igång med självstudiekurser
 
