@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -22,58 +22,18 @@ ht-degree: 0%
 
 ## 60-sekunders självstudiekurser för Acrobat
 
+## Redigera
+
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="optimize.md">
-      <img alt="Skapa effektivare PDF-filer på ett kick" src="../assets/60sec_Optimize_1280.jpg" />
+   <td>
+    <a href="edit.md">
+      <img alt="Redigera PDF med Acrobat Web" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="optimize.md"><strong>Skapa effektivare PDF-filer på ett kick</strong></a>
+    <a href="edit.md"><strong>Redigera PDF med Acrobat Web</strong></a>
     </div>
-    <em>Använd Optimize PDF-verktyget för att minska storleken på PDF-filer avsevärt</em>
-    <br>
-  </td>
-  <td>
-    <a href="protect.md">
-      <img alt="Protect dina PDF-filer med ett lösenord" src="../assets/60sec_Protect_1280.jpg" />
-    </a>
-    <div>
-    <a href="protect.md"><strong>Protect dina PDF-filer med ett lösenord</strong></a>
-    </div>
-    <em>Protect en PDF så att ett lösenord krävs för att öppna eller redigera PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="wordform.md">
-      <img alt="Konvertera Word till PDF, inklusive formulärfält" src="../assets/60sec_Wordform_1280.jpg" />
-    </a>
-    <div>
-     <a href="wordform.md"><strong>Konvertera Word till PDF, inklusive formulärfält</strong></a>
-    </div>
-    <em>Konvertera Word-filer och -formulär till PDF och skapa automatiskt formulärfält</em>
-    <br>
-  </td>
-  <td>
-    <a href="accessible.md">
-      <img alt="Låt Acrobat hjälpa dig att göra tillgängligt PDF" src="../assets/60sec_Accessible_1280.jpg" />
-    </a>
-    <div>
-    <a href="accessible.md"><strong>Låt Acrobat hjälpa dig att göra tillgängligt PDF</strong></a>
-    </div>
-    <em>Kontrollera om en PDF är tillgänglig</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="exportwordphone.md">
-      <img alt="Export PDF till Word från telefonen" src="../assets/60sec_Exportphone_1280.jpg" />
-    </a>
-    <div>
-    <a href="exportwordphone.md"><strong>Export PDF till Word från telefonen</strong></a>
-    </div>
-    <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft Word-dokument med mobilappen Acrobat</em>
+    <em>Redigera text och bilder utan att ens behöva ladda ned PDF</em>
     <br>
   </td>
   <td>
@@ -96,71 +56,19 @@ ht-degree: 0%
     <em>Skapa snabbt ett nytt dokument genom att kombinera flera olika filtyper i ett och samma PDF</em>
     <br>
   </td>
-  <td>
-    <a href="edit.md">
-      <img alt="Redigera PDF med Acrobat Web" src="../assets/60sec_Edit_1280.jpg" />
-    </a>
-    <div>
-    <a href="edit.md"><strong>Redigera PDF med Acrobat Web</strong></a>
-    </div>
-    <em>Redigera text och bilder utan att ens behöva ladda ned PDF</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="search.md">
-      <img alt="Söka efter flera PDF-filer samtidigt" src="../assets/60sec_Search_1280.jpg" />
-    </a>
-    <div>
-     <a href="search.md"><strong>Söka efter flera PDF-filer samtidigt</strong></a>
-    </div>
-    <em>Starta en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer</em>
-    <br>
-  </td>
-  <td>
-    <a href="photo.md">
-      <img alt="Skapa en PDF med bilder på ett ögonblick" src="../assets/60sec_Photo_1280.jpg" />
-    </a>
-    <div>
-    <a href="photo.md"><strong>Skapa en PDF med bilder på ett ögonblick</strong></a>
-    </div>
-    <em>Lär dig hur du bara drar och släpper en massa JPG på Acrobat-ikonen för att skapa en PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="phone.md">
-      <img alt="Konvertera en PPT-fil till PDF på telefonen" src="../assets/60sec_Phone_1280.jpg" />
-    </a>
-    <div>
-    <a href="phone.md"><strong>Konvertera en PPT-fil till PDF på telefonen</strong></a>
-    </div>
-    <em>Lär dig hur du konverterar en e-postbilaga i PowerPoint till PDF på telefonen</em>
-    <br>
-  </td>  
-  <td>
-    <a href="sign.md">
-      <img alt="Signera ett pappersdokument elektroniskt" src="../assets/60sec_Sign_1280.jpg" />
-    </a>
-    <div>
-    <a href="sign.md"><strong>Signera ett pappersdokument elektroniskt</strong></a>
-    </div>
-    <em>Lär dig använda Adobe Scan för att signera ett tryckt formulär</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="indesign.md">
-      <img alt="Läsa in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Läsa in PDF-kommentarer i InDesign</strong></a>
-    </div>
-    <em>Läs om hur du läser in PDF-kommentarer i InDesign efter en Acrobat-granskning</em>
-    <br>
-  </td>
    <td>
+    <a href="organize.md">
+      <img alt="Ordna sidor i en handvändning" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>Ordna sidor i en handvändning</strong></a>
+    </div>
+    <em>Lär dig hur du använder verktyget Ordna sidor för att få en fågelperspektiv på PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="editphoto.md">
       <img alt="Redigera ett foto i PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -181,14 +89,226 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <a href="organize.md">
-      <img alt="Ordna sidor i en handvändning" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Konvertera
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF till Word från telefonen" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>Ordna sidor i en handvändning</strong></a>
+    <a href="exportwordphone.md"><strong>Export PDF till Word från telefonen</strong></a>
     </div>
-    <em>Lär dig hur du använder verktyget Ordna sidor för att få en fågelperspektiv på PDF</em>
+    <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft Word-dokument med mobilappen Acrobat</em>
     <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Skapa
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="wordform.md">
+      <img alt="Konvertera Word till PDF, inklusive formulärfält" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>Konvertera Word till PDF, inklusive formulärfält</strong></a>
+    </div>
+    <em>Konvertera Word-filer och -formulär till PDF och skapa automatiskt formulärfält</em>
+    <br>
+  </td>
+  <td>
+      <a href="photo.md">
+        <img alt="Skapa en PDF med bilder på ett ögonblick" src="../assets/60sec_Photo_1280.jpg" />
+      </a>
+      <div>
+      <a href="photo.md"><strong>Skapa en PDF med bilder på ett ögonblick</strong></a>
+      </div>
+      <em>Lär dig hur du bara drar och släpper en massa JPG på Acrobat-ikonen för att skapa en PDF</em>
+      <br>
+  </td>
+  <td>
+    <a href="phone.md">
+      <img alt="Konvertera en PPT-fil till PDF på telefonen" src="../assets/60sec_Phone_1280.jpg" />
+    </a>
+    <div>
+    <a href="phone.md"><strong>Konvertera en PPT-fil till PDF på telefonen</strong></a>
+    </div>
+    <em>Lär dig hur du konverterar en e-postbilaga i PowerPoint till PDF på telefonen</em>
+    <br>
+  </td>
+  <td>
+      <a href="optimize.md">
+        <img alt="Skapa effektivare PDF-filer på ett kick" src="../assets/60sec_Optimize_1280.jpg" />
+      </a>
+      <div>
+      <a href="optimize.md"><strong>Skapa effektivare PDF-filer på ett kick</strong></a>
+      </div>
+      <em>Använd Optimize PDF-verktyget för att minska storleken på PDF-filer avsevärt</em>
+      <br>
+  </td>
+</tr>
+</table>
+
+## Signera
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="sign.md">
+      <img alt="Signera ett pappersdokument elektroniskt" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Signera ett pappersdokument elektroniskt</strong></a>
+    </div>
+    <em>Lär dig använda Adobe Scan för att signera ett tryckt formulär</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Skydda
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="protect.md">
+      <img alt="Protect dina PDF-filer med ett lösenord" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>Protect dina PDF-filer med ett lösenord</strong></a>
+    </div>
+    <em>Protect en PDF så att ett lösenord krävs för att öppna eller redigera PDF</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Förbered
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Låt Acrobat hjälpa dig att göra tillgängligt PDF" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Låt Acrobat hjälpa dig att göra tillgängligt PDF</strong></a>
+    </div>
+    <em>Kontrollera om en PDF är tillgänglig</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## Ytterligare ämnen
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="search.md">
+      <img alt="Söka efter flera PDF-filer samtidigt" src="../assets/60sec_Search_1280.jpg" />
+    </a>
+    <div>
+     <a href="search.md"><strong>Söka efter flera PDF-filer samtidigt</strong></a>
+    </div>
+    <em>Starta en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer</em>
+    <br>
+  </td>
+  <td>
+    <a href="indesign.md">
+      <img alt="Läsa in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>Läsa in PDF-kommentarer i InDesign</strong></a>
+    </div>
+    <em>Läs om hur du läser in PDF-kommentarer i InDesign efter en Acrobat-granskning</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>

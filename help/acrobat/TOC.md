@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Combine Files till PDF](getting-started/combine-to-pdf.md)
-   + [Organisera sidor](getting-started/organize.md)
+   + [Ordna sidor](getting-started/organize.md)
    + [Lägg till anpassad sida](getting-started/add-custom-page.md)
    + [Redigera en PDF-fil](getting-started/edit-pdf.md)
    + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
 + 60-sekunders Acrobat {#60-second}
    + [Översikt](60-second/60-second-overview.md)
-   + [Skapa effektivare PDF-filer på ett kick](60-second/optimize.md)
-   + [Protect dina PDF-filer med ett lösenord](60-second/protect.md)
-   + [Konvertera Word till PDF, inklusive formulärfält](60-second/wordform.md)
-   + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
-   + [Export PDF till Word från telefonen](60-second/exportwordphone.md)
+   + [Redigera PDF med Acrobat på webben](60-second/edit.md)
    + [Identifiera text i en skannad PDF-fil](60-second/textrecognition.md)
    + [Kombinera filer till en PDF](60-second/combine-to-one-pdf.md)
-   + [Redigera PDF med Acrobat på webben](60-second/edit.md)
-   + [Söka efter flera PDF-filer samtidigt](60-second/search.md)
-   + [Skapa en PDF med bilder på ett ögonblick](60-second/photo.md)
-   + [Konvertera en PPT-fil till PDF på telefonen](60-second/phone.md)
-   + [Signera ett pappersdokument elektroniskt](60-second/sign.md)
-   + [Läsa in PDF-kommentarer i InDesign](60-second/indesign.md)
+   + [Ordna sidor i en handvändning](60-second/organize.md)
    + [Redigera ett foto i PDF](60-second/editphoto.md)
    + [Redigera en bild i PDF](60-second/editgraphic.md)
-   + [Ordna sidor i en handvändning](60-second/organize.md)
+   + [Export PDF till Word från telefonen](60-second/exportwordphone.md)
+   + [Konvertera Word till PDF, inklusive formulärfält](60-second/wordform.md)
+   + [Skapa en PDF med bilder på ett ögonblick](60-second/photo.md)
+   + [Konvertera en PPT-fil till PDF på telefonen](60-second/phone.md)
+   + [Skapa effektivare PDF-filer på ett kick](60-second/optimize.md)
+   + [Signera ett pappersdokument elektroniskt](60-second/sign.md)
+   + [Protect dina PDF-filer med ett lösenord](60-second/protect.md)
+   + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
+   + [Söka efter flera PDF-filer samtidigt](60-second/search.md)
+   + [Läsa in PDF-kommentarer i InDesign](60-second/indesign.md)
 + Kompetensbyggare {#skill-builders}
    + [Webbinarier](skill-builder/skill-builder-webinars.md)
 + Integreringar {#integrations}
@@ -112,7 +112,7 @@ ht-degree: 0%
 + Driftsätta {#deploy}
    + [Översikt](deploy/deploy-overview.md)
    + [Viktiga Acrobat DC-produktuppdateringar för ETLA](deploy/signentitlementchanges.md)
-+ Mobil {#mobile}
++ Mobilt {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + [Produktivitet i farten](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna vad som helst till PDF](mobile/scan-mobile-app.md)
