@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '434'
 ht-degree: 6%
 
 ---
@@ -67,6 +67,9 @@ ht-degree: 6%
    + [Ordna sidor i en handvändning](60-second/organize.md)
    + [Redigera ett foto i PDF](60-second/editphoto.md)
    + [Redigera en bild i PDF](60-second/editgraphic.md)
+   + [Konvertera en PDF till Word](60-second/convert-pdf-word.md)
+   + [Konvertera en PDF till Excel](60-second/convert-pdf-excel.md)
+   + [Konvertera en PDF till PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF till Word från telefonen](60-second/exportwordphone.md)
    + [Konvertera Word till PDF, inklusive formulärfält](60-second/wordform.md)
    + [Skapa en PDF med bilder på ett ögonblick](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 6%
    + [Signera ett pappersdokument elektroniskt](60-second/sign.md)
    + [Protect dina PDF-filer med ett lösenord](60-second/protect.md)
    + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
+   + [Anpassa en PDF till ett standardformat](60-second/conform.md)
    + [Söka efter flera PDF-filer samtidigt](60-second/search.md)
    + [Läsa in PDF-kommentarer i InDesign](60-second/indesign.md)
 + Kompetensbyggare {#skill-builders}

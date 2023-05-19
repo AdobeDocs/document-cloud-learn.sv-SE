@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="Konvertera en PDF till Word" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>Konvertera en PDF till Word</strong></a>
+    </div>
+    <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft Word-dokument</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Konvertera en PDF till Excel" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Konvertera en PDF till Excel</strong></a>
+    </div>
+    <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft Excel-dokument</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="Konvertera en PDF till PowerPoint" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Konvertera en PDF till PowerPoint</strong></a>
+    </div>
+    <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft PowerPoint-dokument</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDF till Word från telefonen" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ ht-degree: 0%
     </div>
     <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft Word-dokument med mobilappen Acrobat</em>
     <br>
-  </td>
-  <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ ht-degree: 0%
     <em>Kontrollera om en PDF är tillgänglig</em>
     <br>
   </td>
-  <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="Anpassa en PDF till ett standardformat" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>Anpassa en PDF till ett standardformat</strong></a>
+    </div>
+    <em>Lär dig hur du validerar PDF-innehåll mot PDF-standardkriterier som PDF/X, PDF/A eller PDF/E</em>
+    <br>
   </td>
   <td>
       <img alt="Mellanrum" src="../assets/Whitespacer.png" />
