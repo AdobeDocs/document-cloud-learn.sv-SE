@@ -26,7 +26,7 @@ Har du inte använt Acrobat Sign förut? Den här självstudiekursen är en bra 
 * [Ange tidsgränser och påminnelser](set-deadlines-reminders.md)
 Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att få dina dokument signerade snabbt
 
-## Skicka
+## Skickar
 
 <table style="table-layout:fixed">
 <tr>
@@ -142,7 +142,7 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
 </tr>
 </table>
 
-## Signing
+## Signera
 
 <table style="table-layout:fixed">
 <tr>

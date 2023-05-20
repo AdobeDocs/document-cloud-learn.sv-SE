@@ -6,7 +6,7 @@ exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
 source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ Här är [demofiler](assets/03_FillSignScan.zip) för detta.
 
 **Steg 4:** Använd den vita knappen för att ta en bild och tryck sedan på **[!UICONTROL Använd foto]**. Tryck **[!UICONTROL Klart]** i det övre högra hörnet.
 
-**Steg 5:** Längst ned i appen trycker du på **[!UICONTROL Beskär]** och använda stödlinjerna för att [beskära bilden](https://www.adobe.com/se/acrobat/online/crop-pdf.html). Tryck **[!UICONTROL Klart]** när det är klart.
+**Steg 5:** Längst ned i appen trycker du på **[!UICONTROL Beskär]** och använda stödlinjerna för att [beskära bilden](https://www.adobe.com/acrobat/online/crop-pdf.html). Tryck **[!UICONTROL Klart]** när det är klart.
 
 ![lokal dokumentbild](assets/localdoc.jpg)
 

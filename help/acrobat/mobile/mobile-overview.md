@@ -10,7 +10,7 @@ kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-Skapa, fyll och [signera PDF](https://www.adobe.com/se/acrobat/online/sign-pdf.html){target=&quot;_blank&quot;} på din mobila enhet.
+Skapa, fyll och [signera PDF](https://www.adobe.com/se/acrobat/online/sign-pdf.html){target="_blank"}  på din mobila enhet.
 
 ## Självstudiekurser för Acrobat Reader-mobilappar
 
@@ -85,14 +85,14 @@ Skapa, fyll och [signera PDF](https://www.adobe.com/se/acrobat/online/sign-pdf.h
 </tr>
 </table>
 
-Hämta [Adobe Acrobat Reader-mobilapp](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} är den kostnadsfria världsstandarden för att visa, kommentera och signera PDF.
+Hämta [Adobe Acrobat Reader-mobilapp](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} den kostnadsfria världsstandarden för tillförlitlig visning, annotering och signering av PDF.
 
-[Användarhandbok för Acrobat Reader för iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
-[Användarhandbok för mobiler till Acrobat Reader för Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
+[Användarhandbok för Acrobat Reader för iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Användarhandbok för mobiler till Acrobat Reader för Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Hämta [Adobe Scan-mobilapp](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} om du vill hämta ett pappersdokument och omvandla det till ett högkvalitativt PDF med sökbar text.
+Hämta [Adobe Scan-mobilapp](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} om du vill hämta ett pappersdokument och omvandla det till ett högkvalitativt PDF med sökbar text.
 
-[Användarhandbok för Adobe Scan för iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
-[Användarhandbok för mobiler till Adobe Scan för Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
+[Användarhandbok för Adobe Scan för iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Användarhandbok för mobiler till Adobe Scan för Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Hämta [Adobe Fill &amp; Sign-mobilapp](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} om du vill fylla i, signera och skicka formulär var du än är, på vilken enhet som helst, med bara fingret eller en penna.
+Hämta [Adobe Fill &amp; Sign-mobilapp](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} fylla i, signera och skicka formulär var som helst, på vilken enhet som helst, med bara fingret eller en penna.

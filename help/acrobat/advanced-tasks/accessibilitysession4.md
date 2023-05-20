@@ -9,7 +9,7 @@ kt: 8611
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
 source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Klicka [här](../assets/accessibilitysession4.zip) om du vill hämta en zip-fil 
 
 Markera bilden för att visa videon på en separat webbläsarflik.
 
-[![Video om session 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![Video om session 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target="_blank"}

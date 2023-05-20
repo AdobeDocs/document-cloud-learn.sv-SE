@@ -33,7 +33,7 @@ Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-
 
 När konfigurationerna för Marketo Salesforce Sync och Acrobat Sign för Salesforce är klara visas flera nya alternativ i Marketo Admin Terminal.
 
-![Admin](assets/adminTab.png)
+![Administration](assets/adminTab.png)
 
 ![Objektsynkronisering](assets/salesforceAdmin.png)
 
@@ -99,7 +99,7 @@ Hämta parametrarna från ditt konto och öppna nu Marketo-instansen.
 
 1. Klicka på **Administratör** uppe till höger.
 
-   ![Administratör](assets/adminTab.png)
+   ![Administration](assets/adminTab.png)
 
 1. Klicka på **Webhooks** sedan **Ny webhook**.
 

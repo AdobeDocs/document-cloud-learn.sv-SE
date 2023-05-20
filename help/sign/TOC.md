@@ -11,7 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
 workflow-type: tm+mt
 source-wordcount: '501'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -132,7 +132,7 @@ ht-degree: 9%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Betalningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärravhjälpsbegäran](sign-usecase/usecasegovremote.md)
-      + Företag {#com}
+      + Kommersiellt {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)

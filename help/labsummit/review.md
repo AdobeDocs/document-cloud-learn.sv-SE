@@ -6,22 +6,22 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '519'
-ht-degree: 26%
+ht-degree: 10%
 
 ---
 
 # Dela PDF-filer och granska dem online
 
-Med granskningstjänsten i Adobe Document Cloud kan du enkelt dela PDF-filer för granskning från Acrobat-datorprogrammet, Document Cloud-webben eller Acrobat Reader-mobilappen. När granskare klickar på webbadressen i e-postinbjudan på sin dator, kan de enkelt tillhandahålla feedback i en webbläsare utan att behöva logga in eller installera någon ytterligare programvara.
+Med granskningstjänsten i Adobe Document Cloud kan du enkelt dela PDF-filer för granskning från Acrobat-datorprogrammet, Document Cloud-webben eller Acrobat Reader-mobilappen. När granskarna klickar på webbadressen i e-postinbjudan från sin dator kan de enkelt ge sin feedback i en webbläsare utan att behöva logga in eller installera någon ytterligare programvara.
 
 I den här övningen går vi igenom hur man
 
-* Skicka personliga inbjudningar för att kommentera
+* Skicka personliga inbjudningar för kommentarer
 * Skicka en anonym eller offentlig länk i ett e-postmeddelande
 
 Här är [demofiler](assets/01_Review.zip) för detta.
 
-## Skicka personliga inbjudningar för att kommentera
+## Skicka personliga inbjudningar för kommentarer
 
 **Steg 1:** Öppna `localFoodTruckmenu_start.pdf` i Adobe Acrobat.
 
@@ -39,13 +39,13 @@ Du får ett e-postmeddelande när mottagarna har visat filen.
 
 ## Granskningsupplevelse
 
-Granskarna får en e-postinbjudan med en länk till gransknings-PDF:en. När de klickar på länken eller knappen **[!UICONTROL Granskning]** i inbjudan, öppnas PDF-dokumentet i en webbläsare. De kan använda kommentarsverktygen för att lägga till kommentarer i PDF-dokumentet. De kan även använda skrivbordsappen för Acrobat Reader eller Acrobat om de vill lägga till kommentarer.
+Granskarna får en e-postinbjudan med en länk till PDF-dokumentet som ska granskas. När de klickar på länken eller **[!UICONTROL Granska]** -knappen i inbjudan öppnas PDF i en webbläsare. De kan använda kommentarsverktygen om de vill lägga till kommentarer i PDF-dokumentet. De kan även använda datorprogrammen Acrobat Reader eller Acrobat för att lägga till kommentarer.
 
 ## Skicka en anonym eller offentlig länk i ett e-postmeddelande
 
 **Steg 1:** Öppna `localFoodTruckmenu_start.pdf` i Adobe Acrobat.
 
-**Steg 2:** Klicka **[!UICONTROL Dela en länk]** ![linkicon](assets/sendlinkicon.png). Den delade länken genereras omedelbart. Du behöver inte vänta på att filen ska överföras till molnet. Som standard [!UICONTROL Tillåt kommentarer] -knappen är på.
+**Steg 2:** Klicka **[!UICONTROL Dela en länk]** ![linkicon](assets/sendlinkicon.png). Den delade länken genereras omedelbart; du behöver inte vänta på att filen ska överföras till molnet. Som standard [!UICONTROL Tillåt kommentarer] -knappen är på.
 
 ![Steg 2L bild](assets/Step2L.png)
 

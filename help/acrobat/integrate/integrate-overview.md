@@ -9,7 +9,7 @@ thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
@@ -176,4 +176,4 @@ Läs om hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL
 
 ## Box
 
-Läs om hur Acrobat och [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} gör det enklare för alla i organisationen att hålla igång verksamheten.
+Läs om hur Acrobat och [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} gör det enklare för alla i organisationen att hålla verksamheten igång.

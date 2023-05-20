@@ -9,7 +9,7 @@ exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten 
 
 1. Välj **[!UICONTROL Standard]** från **[!UICONTROL Inställningar]** -menyn för att använda standardinställningarna.
 
-   Om du ändrar några inställningar i dialogrutan **[!UICONTROL PDF-optimering]** växlar menyn **Inställningar** automatiskt till **Anpassad**.
+   Om du ändrar några inställningar i **[!UICONTROL PDF Optimizer]** dialogrutan **Inställningar** menyn växlar automatiskt till **Anpassad**.
 
 1. Välj **[!UICONTROL Behåll befintlig]** från **[!UICONTROL Gör kompatibel med]** om du vill behålla den nuvarande versionen av PDF eller välja en viss version av Acrobat.
 

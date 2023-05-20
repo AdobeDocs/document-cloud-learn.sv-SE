@@ -8,8 +8,8 @@ thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
 source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 5%
+source-wordcount: '745'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 [!DNL Adobe Sign Individual] (även kallat Adobe Sign Pro) kommer att tas bort från alla Acrobat DC-berättiganden som ingår i ETLA (Enterprise Term License Agreement) förrän från och med augusti 2020 och kommer att fortsätta till och med den 20 november 2020. [!DNL Adobe Sign Individual] tillhandahåller inte funktioner av företagsklass och bör ersättas med Adobe Sign Enterprise för företagskunder. Detta omfattar Acrobat DC som licensieras som ett fristående program och Acrobat DC som licensieras som en del av Creative Cloud for enterprise - Alla program.
 
-Tillgång till [!DNL Adobe Sign Individual] finns i Acrobat via **Adobe Sign** eller **Fill &amp; Sign** verktyg ([Begär signaturer](https://www.adobe.com/se/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
+Tillgång till [!DNL Adobe Sign Individual] finns i Acrobat via **Adobe Sign** eller **Fill &amp; Sign** verktyg ([Begär signaturer](https://www.adobe.com/se/acrobat/online/request-signature.html){target="_blank"}).
 
 ![[!DNL Adobe Sign Individual] åtkomst i Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
@@ -72,7 +72,7 @@ Användare kommer att kunna logga in på https://documentcloud.adobe.com/ för a
 * [Logga in på Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [Hantera filer (var är mina filer?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [Använda [!UICONTROL Acrobat Customization Wizard] för konfiguration](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Översikt över [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html)
-* [Hantera Adobe Sign på [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
+* [Översikt över [!UICONTROL Admin Console]](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
+* [Hantera Adobe Sign på [!UICONTROL Admin Console]](https://helpx.adobe.com/se/enterprise/using/adobe-sign-for-enterprise.html)
 
 **Revisioner** den 20 maj 2020, originalinlägg - augusti 2019

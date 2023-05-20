@@ -9,7 +9,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---

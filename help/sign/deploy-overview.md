@@ -27,7 +27,7 @@ Artiklar om bästa praxis med värdefulla insikter om hur ni driftsätter Acroba
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Hantera Acrobat Sign på Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/se/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Hantera Acrobat Sign på Admin Console</strong></a>
     </div>
     <em>Lär dig hantera Acrobat Sign-användare och licenser på Adobe företagsplattform via Adobe Admin Console</em>
     <br>

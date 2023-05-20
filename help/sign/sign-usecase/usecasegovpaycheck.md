@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Betalningsskydd
 
-Klicka på bilden nedan för att se hur du kan använda Acrobat Sign för att konvertera betalningsskyddsprogramformuläret till ett interaktivt onlineformulär.
+Klicka på bilden nedan och se hur du kan använda Acrobat Sign för att konvertera betalningsskyddsprogramformuläret till ett interaktivt onlineformulär.
 
 [![Interaktiv betalningsgenomgång](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

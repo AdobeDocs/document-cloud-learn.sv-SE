@@ -11,7 +11,7 @@ exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat e
 
 När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign för Dynamics är klara visas två nya alternativ i Marketo Admin Terminal.
 
-![Admin](assets/adminTerminal.png)
+![Administration](assets/adminTerminal.png)
 
 1. Klicka **[!UICONTROL Synkronisering av Dynamics-enheter]**.
 
@@ -153,7 +153,7 @@ Exempel på personalisering är: namnet på signeraren, namnet på avtalet, en l
 
    Du bör se en länk till URL:en med avtalsnamnet som etikett.
 
-   ![E-posta länk](assets/emailLink.png)
+   ![E-postlänk](assets/emailLink.png)
 
 ## Ställ in filtret Smart Campaign
 

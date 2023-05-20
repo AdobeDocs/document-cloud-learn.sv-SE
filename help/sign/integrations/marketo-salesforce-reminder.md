@@ -33,7 +33,7 @@ Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förbl
 
 När konfigurationerna för Marketo Salesforce Sync och Acrobat Sign för Salesforce är klara visas flera nya alternativ i Marketo Admin Terminal.
 
-![Admin](assets/adminTab.png)
+![Administration](assets/adminTab.png)
 
 ![Objektsynkronisering](assets/salesforceAdmin.png)
 
@@ -155,7 +155,7 @@ Exempel på personalisering är: namnet på signeraren, namnet på avtalet, en l
 
 1. Förhandsgranska med en profil som har tilldelats ett avtal. Du bör se en länk till URL:en med avtalsnamnet som etikett.
 
-   ![E-posta länk](assets/emailLink.png)
+   ![E-postlänk](assets/emailLink.png)
 
 ## Ställ in filtret Smart Campaign
 

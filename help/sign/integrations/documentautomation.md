@@ -261,7 +261,7 @@ Dessa mappar refereras nu som en del av Power Automate-flödet.
 
    ![Skärmdump av att välja symbolen +](assets/documentautomation/automation_27.png)
 
-1. Gå till https://www.adobe.com/go/powerautomate_getstarted i en ny flik.
+1. Gå till https://www.adobe.com/go/powerautomate_getstarted på en ny flik.
 1. Klicka på **Kom igång**.
 
    ![Skärmdump av knappen Kom igång](assets/documentautomation/automation_28.png)

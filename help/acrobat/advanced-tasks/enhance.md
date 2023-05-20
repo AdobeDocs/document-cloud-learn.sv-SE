@@ -9,7 +9,7 @@ kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Exempelfiler till övningarna (ZIP, 342 kB)
 
 ## Lär dig lägga till bakgrundsgrafik
 
-Använd kommandot [Verktyget Redigera PDF](https://www.adobe.com/sv/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;} om du vill lägga till bakgrundsgrafik i PDF.
+Använd kommandot [Verktyget Redigera PDF](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"} för att lägga till bakgrundsgrafik i PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

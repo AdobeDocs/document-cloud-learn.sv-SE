@@ -32,7 +32,7 @@ Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-
 
 När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign för Dynamics är klara visas två nya alternativ i Marketo Admin Terminal.
 
-![Admin](assets/adminTerminal.png)
+![Administration](assets/adminTerminal.png)
 
 * Klicka **[!UICONTROL Synkronisering av Dynamics-enheter]**.
 
@@ -98,7 +98,7 @@ Hämta parametrarna från ditt konto och öppna nu Marketo-instansen.
 
 1. Klicka **[!UICONTROL Administratör]** uppe till höger.
 
-   ![Administratör](assets/adminTab.png)
+   ![Administration](assets/adminTab.png)
 
 1. Klicka **[!UICONTROL Webhooks]** och klicka sedan på **[!UICONTROL Ny webhook]**.
 

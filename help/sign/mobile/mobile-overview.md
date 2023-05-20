@@ -10,7 +10,7 @@ exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
@@ -37,15 +37,15 @@ Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringa
       <img alt="Hämta till iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Hämta Acrobat Sign-mobilappen för iOS</strong></a>
+    <a href="https://itunes.apple.com/se/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Hämta Acrobat Sign-mobilappen för iOS</strong></a>
     <br>
   </td>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=sv" target="_blank">
-      <img alt="Hämta till Android" src="assets/Mobile_Android.png" />
+      <img alt="Hämta för Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Hämta Acrobat Sign-mobilappen för Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=sv" target="_blank"><strong>Hämta Acrobat Sign-mobilappen för Android</strong></a>
     <br>
   </td>
   <td>
