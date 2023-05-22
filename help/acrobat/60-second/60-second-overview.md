@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -242,9 +242,14 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="Bortredigering: Rätt väg" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>Bortredigering: Rätt väg</strong></a>
+    </div>
+    <em>Lär dig det rätta sättet att ta bort känslig information från en PDF</em>
+    <br>
   </td>
   <td>
       <img alt="Mellanrum" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ ht-degree: 0%
       <img alt="Mellanrum" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## Dela och granska
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="Dela en PDF för att få kommentarer" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>Dela en PDF för att få kommentarer</strong></a>
+    </div>
+    <em>Lär dig hur du delar en PDF för att snabbt samla in feedback från flera personer i en enda fil</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="Dela och kommentera PDF-filer i Teams" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>Dela och kommentera PDF-filer i Teams</strong></a>
+    </div>
+    <em>Lär dig samarbeta i realtid med en PDF-fil i Microsoft Teams</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="Krångla PDF-kommentarer med Sammanfatta" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>Krångla PDF-kommentarer med Sammanfatta</strong></a>
+    </div>
+    <em>Lär dig hur du skapar en sammanfattning av alla kommentarer och markeringar i PDF-filen</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="Läsa in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>Läsa in PDF-kommentarer i InDesign</strong></a>
+    </div>
+    <em>Läs om hur du läser in PDF-kommentarer i InDesign efter en Acrobat-granskning</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ ht-degree: 0%
     <em>Starta en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="Läsa in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Läsa in PDF-kommentarer i InDesign</strong></a>
-    </div>
-    <em>Läs om hur du läser in PDF-kommentarer i InDesign efter en Acrobat-granskning</em>
-    <br>
+ <td>
+      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="Mellanrum" src="../assets/Whitespacer.png" />
