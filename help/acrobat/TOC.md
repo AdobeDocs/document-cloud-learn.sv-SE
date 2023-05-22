@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
    + [Översikt](getting-started/getting-started-overview.md)
    + [Allmänt om arbetsytan](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Ny arbetsyta](getting-started/new-workspace.md)
-   + [Arbeta var som helst med Acrobat webben](getting-started/acrobatweb.md)
+   + [Arbeta var som helst med Acrobat på webben](getting-started/acrobatweb.md)
    + [Produktivitet i farten](getting-started/productivity.md)
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
@@ -27,7 +27,7 @@ ht-degree: 6%
    + [Lägg till anpassad sida](getting-started/add-custom-page.md)
    + [Redigera en PDF-fil](getting-started/edit-pdf.md)
    + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
-   + [Exportera PDF till redigerbara format](getting-started/export-pdf.md)
+   + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
    + [Samarbeta i realtid](getting-started/collaborate.md)
    + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
    + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
@@ -50,20 +50,20 @@ ht-degree: 6%
    + [Redigera bort och sanera](advanced-tasks/redact.md)
    + [Minska filstorleken och optimera](advanced-tasks/reduce.md)
    + [Arbeta med formulärdata](advanced-tasks/formdata.md)
-   + [Kontrollera hjälpmedel för PDF](advanced-tasks/accessibility.md)
+   + [Kontrollera tillgänglighet i PDF](advanced-tasks/accessibility.md)
    + Acrobat Accessibility series {#accessibility-series}
       + [Översikt](advanced-tasks/accessibility-series.md)
       + [Introduktion till tillgänglighet i PDF](advanced-tasks/accessibilitysession1.md)
       + [Åtgärda ett otillgängligt PDF](advanced-tasks/accessibilitysession2.md)
       + [Komplexa tabeller](advanced-tasks/accessibilitysession3.md)
       + [Skannade dokument och komplexa listor](advanced-tasks/accessibilitysession4.md)
-      + [Lägga till formulärfält i en taggad PDF](advanced-tasks/accessibilitysession5.md)
+      + [Lägga till formulärfält i ett taggat PDF](advanced-tasks/accessibilitysession5.md)
       + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
 + 60-sekunders Acrobat {#60-second}
    + [Översikt](60-second/60-second-overview.md)
    + [Redigera PDF med Acrobat på webben](60-second/edit.md)
    + [Identifiera text i en skannad PDF-fil](60-second/textrecognition.md)
-   + [Kombinera filer i en PDF](60-second/combine-to-one-pdf.md)
+   + [Kombinera filer till en PDF](60-second/combine-to-one-pdf.md)
    + [Ordna sidor i en handvändning](60-second/organize.md)
    + [Redigera ett foto i PDF](60-second/editphoto.md)
    + [Redigera en bild i PDF](60-second/editgraphic.md)
@@ -71,8 +71,10 @@ ht-degree: 6%
    + [Konvertera en PDF till Excel](60-second/convert-pdf-excel.md)
    + [Konvertera en PDF till PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF till Word från telefonen](60-second/exportwordphone.md)
+   + [Skapa en PDF från Microsoft Word](60-second/word-to-pdf.md)
+   + [Skapa PDF-filer med Acrobat](60-second/create-from-acrobat.md)
    + [Konvertera Word till PDF, inklusive formulärfält](60-second/wordform.md)
-   + [Skapa en PDF med foton på ett ögonblick](60-second/photo.md)
+   + [Skapa en PDF med bilder på ett ögonblick](60-second/photo.md)
    + [Konvertera en PPT-fil till PDF på telefonen](60-second/phone.md)
    + [Skapa effektivare PDF-filer på ett kick](60-second/optimize.md)
    + [Signera ett pappersdokument elektroniskt](60-second/sign.md)
@@ -81,11 +83,12 @@ ht-degree: 6%
    + [Dela för kommentarer](60-second/share-comment.md)
    + [Dela och kommentera PDF-filer i Teams](60-second/share-comment-teams.md)
    + [Krångla PDF-kommentarer med Sammanfatta](60-second/summarize-comments.md)
+   + [Läsa in PDF-kommentarer i InDesign](60-second/indesign.md)
    + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
    + [Anpassa en PDF till ett standardformat](60-second/conform.md)
+   + [Se skillnaderna med PDF Jämför](60-second/compare.md)
    + [Söka efter flera PDF-filer samtidigt](60-second/search.md)
-   + [Läs in PDF kommentarer i InDesign](60-second/indesign.md)
-+ Kunskapsbyggare {#skill-builders}
++ Kompetensbyggare {#skill-builders}
    + [Webbinarier](skill-builder/skill-builder-webinars.md)
 + Integreringar {#integrations}
    + [Översikt](integrate/integrate-overview.md)
@@ -105,17 +108,17 @@ ht-degree: 6%
       + 5 tips för att arbeta var som helst med Acrobat {#tips}
          + [5 tips för att arbeta var som helst med Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tips #1 - Hämta dina verktyg](industry/gov/get-your-tools.md)
-         + [Tips 2 - Samarbeta om dokument](industry/gov/collaborate-on-documents.md)
+         + [Tips #2 Samarbeta om dokument](industry/gov/collaborate-on-documents.md)
          + [Tips #3 - Protect-dokument](industry/gov/protect-digital-documents.md)
          + [Tips #4 - Arbeta med formulär och signaturer](industry/gov/work-with-forms-and-signatures.md)
          + [Tips #5 - Skanna och redigera på mobilen](industry/gov/scan-and-edit-on-mobile.md)
       + Tillgänglighet {#pdfs}
          + [Göra PDF tillgängligt](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Förstå hjälpmedel](industry/gov/understanding-accessibility.md)
+         + [#1 - Tillgänglighet](industry/gov/understanding-accessibility.md)
          + [#2 - Redigering i Word](industry/gov/authoring-in-word.md)
-         + [#3 - Slutbearbetning i Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Göra PDF-röstningar mer tillgängliga](industry/gov/making-pdf-ballots-accessible.md)
-+ Utveckla {#develop}
+         + [#3 - Slutbehandling i Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [Göra valsedlar i PDF mer tillgängliga](industry/gov/making-pdf-ballots-accessible.md)
++ Framkalla {#develop}
    + [Översikt](develop/develop-overview.md)
 + Driftsätta {#deploy}
    + [Översikt](deploy/deploy-overview.md)

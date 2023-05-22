@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Skapa en PDF från Microsoft Word" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Skapa en PDF från Microsoft Word</strong></a>
+    </div>
+    <em>Skapa en PDF från Microsoft Word</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="Skapa PDF från Acrobat" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>Skapa PDF från Acrobat</strong></a>
+    </div>
+    <em>Skapa PDF från Microsoft 365-filer direkt i Acrobat-datorprogrammet</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="Konvertera Word till PDF, inklusive formulärfält" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ ht-degree: 0%
       <em>Lär dig hur du bara drar och släpper en massa JPG på Acrobat-ikonen för att skapa en PDF</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="Konvertera en PPT-fil till PDF på telefonen" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ ht-degree: 0%
       </div>
       <em>Använd Optimize PDF-verktyget för att minska storleken på PDF-filer avsevärt</em>
       <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Se skillnaderna med PDF Jämför" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>Se skillnaderna med PDF Jämför</strong></a>
+    </div>
+    <em>Lär dig hur du ser skillnaderna mellan två PDF-filer med verktyget Jämför filer i Acrobat</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="Söka efter flera PDF-filer samtidigt" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ ht-degree: 0%
     </div>
     <em>Starta en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer</em>
     <br>
-  </td>
- <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="Mellanrum" src="../assets/Whitespacer.png" />
