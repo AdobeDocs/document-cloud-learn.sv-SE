@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 41fb2002be6766c896d29c1680bb09546be971f3
+source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,15 @@ ht-degree: 5%
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
 Acrobat Sign, en Adobe Document Cloud-lösning, kan skalas upp för att uppfylla organisationens behov med integreringar, API:er, avancerad autentisering, ytterligare administratörsfunktioner och mycket mer. Här hittar du ett brett utbud av utbildningsmaterial som snabbt håller både nybörjare och administratörer uppdaterade om Acrobat Sign.
+
+## Rekommenderade kurser
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ## Utbildningsvägar
 
