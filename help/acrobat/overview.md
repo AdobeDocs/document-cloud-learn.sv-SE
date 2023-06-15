@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
+source-git-commit: 646b62b41ec3ff23a97bd8da536d145c135a9ae6
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '73'
 ht-degree: 6%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 6%
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
 Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksamheten igång genom att konvertera, redigera, dela och signera PDF. Här finns ett stort utbud av utbildningsmaterial som är utformat för att snabbt få både nybörjare och avancerade användare att komma igång med Adobe Acrobat.
-
-## Rekommenderade kurser
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
