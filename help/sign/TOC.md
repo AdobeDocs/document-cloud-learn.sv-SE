@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '488'
 ht-degree: 10%
 
 ---
@@ -96,29 +96,30 @@ ht-degree: 10%
 + Integreringar {#integrations}
    + [Översikt](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Fylla i och signera i Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Skicka för signering i Outlook](integrations/send-for-signature-with-outlook.md)
-      + [Skicka för signering i SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Spårning i SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Skicka för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Fylla i och logga in [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [Skicka för signering i [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [Skicka för signering i [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Inspårning [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Integrera ett webbformulär med [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Dokumentautomatisering med Acrobat Sign för Microsoft Power Platform](integrations/documentautomation.md)
+      + [Automatisering av dokument med Acrobat Sign för [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [Skicka för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
    + Notarize {#notarize}
       + [Skicka dokument för vidimering](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Document Builder för Salesforce](integrations/create-an-agreement-template.md)
+      + [Document Builder för [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [Ställa in datamappning](integrations/set-up-data-mapping.md)
       + [Konfigurera kopplingsmappning](integrations/set-up-merging-map.md)
       + [Skapa en anpassad knapp](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Konfigurera Acrobat Sign med Workday](integrations/workday.md)
+      + [Konfigurera Acrobat Sign med [!DNL Workday]](integrations/workday.md)
       + [Introduktion till nyanställda på Acrobat Sign + Workday](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Skicka aviseringar med Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-sms.md)
-      + [Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo](integrations/marketo-dynamics-sms.md)
-      + [Skicka påminnelser med Acrobat Sign för Microsoft Dynamics 365 och Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Skicka aviseringar med Acrobat Sign för [!DNL Salesforce] och Marketo](integrations/marketo-salesforce-sms.md)
+      + [Skicka påminnelser med Acrobat Sign för [!DNL Salesforce] och Marketo - videosjälvstudiekurs](integrations/marketo-salesforce-reminder-video.md)
+      + [Skicka påminnelser med Acrobat Sign för [!DNL Salesforce] och Marketo konfigurationsguide](integrations/marketo-salesforce-reminder.md)
+      + [Skicka aviseringar med Acrobat Sign för [!DNL Microsoft Dynamics] och Marketo](integrations/marketo-dynamics-sms.md)
+      + [Skicka påminnelser med Acrobat Sign för [!DNL Microsoft Dynamics 365] och Marketo](integrations/marketo-dynamics-reminder.md)
 + Branscher och avdelningar {#expand}
    + [Översikt](sign-usecase/expand-inspire-overview.md)
    + Färdighetsbyggare {#innovation}
@@ -132,7 +133,7 @@ ht-degree: 10%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Betalningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärravhjälpsbegäran](sign-usecase/usecasegovremote.md)
-      + Kommersiellt {#com}
+      + Företag {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)

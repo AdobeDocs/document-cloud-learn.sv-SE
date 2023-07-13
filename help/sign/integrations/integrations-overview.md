@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ I den här tredelade självstudiekursen lär du dig hur du skickar ett dokument 
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Skicka dokument för signering i [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Integrera ett webbformulär med [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Skicka för signering i [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrera ett webbformulär med [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Skicka dokument för signering direkt inom [!DNL Microsoft Teams]</em>
+    <em>Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL SharePoint] lista</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ I den här tredelade självstudiekursen lär du dig hur du skickar ett dokument 
     <em>Lär dig hur du aktiverar och använder [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningsdon för [!DNL Microsoft Power] appar</em>
     <br>
   </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Skicka dokument för signering i [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Skicka för signering i [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Skicka dokument för signering direkt inom [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
