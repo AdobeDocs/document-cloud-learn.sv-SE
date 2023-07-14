@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ Lär dig hur du konsoliderar formulärdata från dokument
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Skapa ett webbformulär med flera okända signerare" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Skapa ett webbformulär med flera okända signerare</strong></a>
     </div>
-    <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
+    <em>Lär dig hur du skapar ett komplext webbformulär med flera okända deltagare</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
+      </div>
+      <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ Lär dig hur du konsoliderar formulärdata från dokument
     <a href="text-tagging-word.md"><strong>Använda texttaggar i [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Lär dig hur du skapar en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
