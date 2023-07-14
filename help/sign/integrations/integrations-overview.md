@@ -4,12 +4,13 @@ description: Lär dig lägga till Acrobat Sign i befintliga system, processer oc
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6850
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -202,17 +203,7 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="workday.md">
-      <img alt="Konfigurera Acrobat Sign med Workday" src="../assets/WD-Configure.png" />
-    </a>
-    <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Konfigurera Acrobat Sign med Workday</strong></a>
-    </div>
-    <em>Lär dig konfigurera Acrobat Sign så att det fungerar direkt i Workday och smidigt kan hantera alla HR-dokument</em>
-    <br>
-  </td>
-  <td>
+ <td>
     <a href="acrobat-sign-workday-onboarding.md">
       <img alt="Introduktion till nyanställda på Acrobat Sign + Workday" src="../assets/workday.png" />
     </a>
@@ -220,6 +211,11 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till nyanställda på Acrobat Sign + Workday</strong></a>
     </div>
     <em>Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + Workday</em>
+    <br>
+  </td>
+ <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

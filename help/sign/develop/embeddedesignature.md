@@ -4,10 +4,11 @@ description: Lär dig hur du använder Acrobat Sign API:er för att bädda in e-
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -91,7 +92,7 @@ För att skicka ditt första avtal är det bäst att förstå hur du använder A
 
 ![Skärmdump av att skapa ett övergående dokument](assets/embeddedesignature/embed_7.png)
 
-När du har skickat ett avtal för första gången kan du lägga till logiken. Det är alltid en bra idé att etablera vissa hjälpfunktioner för att minimera upprepningar. Här är några exempel:
+När du har skickat ett avtal för första gången kan du lägga till logiken. Det är alltid en bra idé att etablera några hjälpare för att minimera upprepningar. Här är några exempel:
 
 **Validering**
 
@@ -136,7 +137,7 @@ När du har uppdaterat processen för att skapa avtal genereras signerings-URL:e
 
 >[!NOTE]
 >
->Observera att anropet för att skapa avtal är tekniskt asynkront. Det innebär att ett anrop till ett &quot;POST&quot;-avtal kan göras, men avtalet är inte klart än. Det bästa sättet är att skapa en loop av nytt försök. Använd ett nytt försök eller något annat som passar din miljö bäst.
+>Observera att anropet för att skapa avtal är tekniskt asynkront. Det innebär att ett avtalsanrop för POST kan göras, men avtalet är inte klart än. Det bästa sättet är att skapa en loop av nytt försök. Använd ett nytt försök eller något annat som passar din miljö bäst.
 
 ![Skärmdump som säger att det är bästa praxis att upprätta en repeteringsloop](assets/embeddedesignature/embed_15.png)
 
@@ -155,6 +156,6 @@ När allt är sammanställt är lösningen ganska enkel. Du skapar ett avtal och
 * Anpassade påminnelser
    * Med det första skapandet
 
-      ![Skärmdump från navigering till Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Skärmdump från navigering till Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Eller lägg till en [under flygning](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

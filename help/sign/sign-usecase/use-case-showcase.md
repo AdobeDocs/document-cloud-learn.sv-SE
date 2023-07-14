@@ -5,10 +5,11 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%
@@ -44,7 +45,7 @@ Följ med oss på Acrobat Sign Use Case Showcase för att få höra från myndig
 Fokus: Våra expertpaneler täcker bästa praxis och en mängd olika myndighetsspecifika användningsfall för att visa hur Acrobat Sign kan hjälpa ditt team att spara tid, pengar och resurser samtidigt som de följer och är säkra.
 
 * **[Juridisk information](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target="_blank"}**
-Fokus: Våra panelmedlemmar diskuterar hur juridiska avdelningar hanterar övergången till helt fjärranslutna dokumentprocesser. Oavsett om du just har börjat eller redan har digitaliserat vissa arbetsflöden kan Acrobat Sign öka teamets produktivitet i alla faser av digitaliseringen.
+Fokus: Våra panelmedlemmar diskuterar hur juridiska avdelningar hanterar övergången till helt fjärranslutna dokumentprocesser. Oavsett om du just har börjat eller redan har digitaliserat vissa arbetsflöden kan Acrobat Sign öka teamets produktivitet i varje fas av övergången.
 
 * **[Försäljning](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target="_blank"}**
 Fokus: Adobe visar på bästa praxis för framgångsrik digitalomvandling vid inköp och diskuterar branschtrender och krav för att leverera bra användarupplevelser.
