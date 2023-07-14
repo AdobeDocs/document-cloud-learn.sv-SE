@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
 
 ## Nyheter
 
+* [Skapa ett webbformulär med flera okända signerare](webform-multiple-signers.md)
+Lär dig hur du skapar ett komplext webbformulär med flera okända deltagare
 * [Autentiseringsmetoder i Acrobat Sign](authentication-methods.md)
 Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som signerar ett dokument
-* [Hantera formulärdata](manage-form-data.md)
-Lär dig hur du konsoliderar formulärdata från dokument
 
 ## Skickar
 
