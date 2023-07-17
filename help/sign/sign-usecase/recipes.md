@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![Banderoll för användningsfall](../assets/Hero-Recipe.png)
 
 Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer för myndigheter och företag. Klicka här om du vill visa en PDF med resurser och information om hur du konfigurerar de här specifika användningsfallen för e-signaturer.
+
+## Nyheter
 
 * [Offentlig låneansökan med flera okända signerare](webform-multiple-signers.md)
 Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare
