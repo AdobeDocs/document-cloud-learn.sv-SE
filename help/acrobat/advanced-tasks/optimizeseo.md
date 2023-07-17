@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -33,7 +34,7 @@ PDF-innehållet bör vara unikt och strukturerat på följande sätt:
 * Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) på alla skannade dokument
 * Skapa mobilvänliga PDF Öppna filen i PDF för att kontrollera hur mobilt du ser [Acrobat Reader-mobilapp](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktivera Liquid Mode. Lägg till underrubriker om det behövs för att förbättra navigeringen.
 
-   ![Skärmdump av Liquid Mode i Acrobat Reader-mobilappen](../assets/optimizeseo1.png)
+  ![Skärmdump av Liquid Mode i Acrobat Reader-mobilappen](../assets/optimizeseo1.png)
 
 +++
 
