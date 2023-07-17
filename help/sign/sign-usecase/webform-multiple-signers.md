@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Skapa ett webbformulär med flera okända signerare
+# Offentlig låneansökan med flera okända signerare
 
 Lär dig hur en [webbformulär](../sign-advanced-users/webform.md) används för komplexa arbetsflöden för låneansökningar som involverar flera okända deltagare. Dessa formulär kan bäddas in på en webbplats eller skickas som en länk i ett e-postmeddelande. De kan också fyllas i på vilken enhet som helst, var som helst, vilket snabbar upp processer och leverans av tjänster.
 

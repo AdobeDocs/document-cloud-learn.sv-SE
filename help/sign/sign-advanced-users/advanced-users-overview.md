@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
+      <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
       </div>
-      <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+      <em>Lär dig hur du skapar ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
       <br>
   </td>
 </tr>
