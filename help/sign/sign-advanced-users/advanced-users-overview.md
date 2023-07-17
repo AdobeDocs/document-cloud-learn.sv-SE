@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samt
 
 ## Nyheter
 
-* [Skapa ett webbformulär med flera okända signerare](webform-multiple-signers.md)
-Lär dig hur du skapar ett komplext webbformulär med flera okända deltagare
 * [Autentiseringsmetoder i Acrobat Sign](authentication-methods.md)
 Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som signerar ett dokument
+* [Ställ in onlinebetalningar](set-up-online-payments.md)
+Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
 
 ## Skickar
 
@@ -104,19 +104,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       <em>Samla in hundratals signaturer samtidigt för alla dokument i några få korta steg</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Skapa ett webbformulär med flera okända signerare" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Skapa ett webbformulär med flera okända signerare</strong></a>
-    </div>
-    <em>Lär dig hur du skapar ett komplext webbformulär med flera okända deltagare</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       </div>
       <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
     <a href="text-tagging-word.md"><strong>Använda texttaggar i [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Lär dig hur du skapar en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

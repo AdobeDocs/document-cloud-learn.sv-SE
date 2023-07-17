@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer för myndigheter och företag. Klicka här om du vill visa en PDF med resurser och information om hur du konfigurerar de här specifika användningsfallen för e-signaturer.
 
+* [Offentlig låneansökan med flera okända signerare](webform-multiple-signers.md)
+Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare
+
 ## Användningsfall för myndigheter
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="Offentlig låneansökan med flera okända signerare" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>Offentlig låneansökan med flera okända signerare</strong></a>
+    </div>
+    <em>Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="Bidrag och lån till företag" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signat
     <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="Stöd till återanställning" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signat
     <em>Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i linje med helt digitala ansökningsformulär som kan publiceras på några dagar</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Betalningsskydd" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signat
     <a href="usecasegovremote.md"><strong>Fjärravhjälpsbegäran</strong></a>
     </div>
     <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och säkra tillstånd från domare</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
