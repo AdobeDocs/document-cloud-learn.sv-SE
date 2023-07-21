@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signat
 
 ## Nyheter
 
+* [Praktikprogram för utbildningswebbformulär](usecase-edu-intern.md)
+Lär dig hur webbformulär används för att förbättra elevernas åtkomst till de formulär som krävs
 * [Offentlig låneansökan med flera okända signerare](webform-multiple-signers.md)
 Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare
 
@@ -152,3 +154,36 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
   </td>
 </tr>
 </table>
+
+## Användningsexempel för skolor
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="Praktikprogram för utbildningswebbformulär" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>Praktikprogram för utbildningswebbformulär</strong></a>
+    </div>
+    <em>Lär dig hur webbformulär används för att förbättra elevernas åtkomst till de formulär som krävs</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
