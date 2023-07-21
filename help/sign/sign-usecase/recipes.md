@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signat
 
 * [Praktikprogram för utbildningswebbformulär](usecase-edu-intern.md)
 Lär dig hur webbformulär används för att förbättra elevernas åtkomst till de formulär som krävs
+* [Skapa ett praktikprogram för utbildningswebbformulär](usecase-edu-intern-create.md)
+Lär dig skapa ett webbformulär för praktik
 * [Offentlig låneansökan med flera okända signerare](webform-multiple-signers.md)
 Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare
 
@@ -170,10 +172,15 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <br>
   </td> 
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Skapa ett praktikprogram för utbildningswebbformulär" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Skapa ett praktikprogram för utbildningswebbformulär</strong></a>
+    </div>
+    <em>Lär dig skapa ett webbformulär för praktik</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
