@@ -1,9 +1,11 @@
 ---
 title: Bli digital med Adobe Scan
 description: Lär dig några tricks och tips om hur du använder Adobe Document Cloud
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%

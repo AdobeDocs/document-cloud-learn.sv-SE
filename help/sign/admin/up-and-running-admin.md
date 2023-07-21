@@ -2,12 +2,11 @@
 title: Komma igång för Acrobat Sign-administratörer
 description: Översikt över sju nyckelområden där administratörer snabbt kan komma igång i Acrobat Sign
 role: Admin
-product: adobe sign
 level: Beginner
 jira: KT-4967
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

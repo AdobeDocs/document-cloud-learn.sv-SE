@@ -2,7 +2,8 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
+role: User
+source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%

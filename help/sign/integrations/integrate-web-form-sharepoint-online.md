@@ -3,9 +3,10 @@ title: Integrera ett webbformulär med [!DNL SharePoint Online]
 description: Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL SharePoint] lista
 role: User
 product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-13597
-source-git-commit: d60b665c16133e8fba47848ab9c9e55f448df9cc
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

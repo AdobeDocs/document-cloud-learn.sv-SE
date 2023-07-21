@@ -2,13 +2,11 @@
 title: Översikt över avancerade uppgifter
 description: Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%

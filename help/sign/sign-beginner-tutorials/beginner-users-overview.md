@@ -2,12 +2,11 @@
 title: Komma igång - översikt
 description: Få information om hur du skickar, signerar och spårar dokument med de här korta stegvisa självstudiekurserna
 role: User
-product: adobe sign
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%

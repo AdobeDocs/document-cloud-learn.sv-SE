@@ -2,11 +2,10 @@
 title: Anpassa en PDF till ett standardformat
 description: Lär dig hur du validerar PDF-innehåll mot PDF-standardkriterier som PDF/X, PDF/A eller PDF/E
 role: User
-product: adobe acrobat
 level: Intermediate
 jira: KT-13287
 exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

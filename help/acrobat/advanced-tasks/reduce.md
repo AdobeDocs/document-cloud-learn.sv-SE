@@ -2,12 +2,11 @@
 title: Minska filstorlek och optimera
 description: Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate
 thumbnail: KT-6827.jpg
 jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

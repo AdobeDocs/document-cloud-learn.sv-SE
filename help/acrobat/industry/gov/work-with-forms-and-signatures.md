@@ -2,11 +2,10 @@
 title: 5 tips för att arbeta var som helst med Acrobat - arbeta med Forms och signaturer
 description: Lär dig hur man håller sig digital när man fyller i formulär
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

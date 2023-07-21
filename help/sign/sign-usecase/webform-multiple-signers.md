@@ -1,11 +1,10 @@
 ---
 title: Ansökan om myndighetslån med flera okända signerare
 description: Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

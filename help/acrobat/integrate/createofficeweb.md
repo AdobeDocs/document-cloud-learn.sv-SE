@@ -2,13 +2,13 @@
 title: Skapa PDF i [!DNL Office] för webben
 description: Lär dig hur du skapar PDF-filer utan att behöva lämna [!DNL Microsoft Office] för webbappar
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8497.jpg
 jira: KT-8497
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
