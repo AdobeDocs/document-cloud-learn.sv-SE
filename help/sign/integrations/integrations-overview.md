@@ -9,30 +9,30 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
 
 # Översikt över integreringar
 
-![Sign Integrate Image](../assets/Hero-Integrate.png)
+![Sign-integreringsbild](../assets/Hero-Integrate.png)
 
-Du kan använda Acrobat Sign i andra program som ditt företag redan använder, till exempel Microsoft, Salesforce, Workday och Marketo, för att nämna några. Läs om hur du kan förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
+Du kan använda Acrobat Sign i andra program som ditt företag redan använder, t.ex. Microsoft, Salesforce, Workday och Marketo, för att nämna några. Lär dig förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
 
 >[!NOTE]
-> Om du har problem med att komma åt någon av dessa funktioner kan du fråga organisationens administratör och kontrollera att integreringen är aktiverad.
+> Om du har problem med att komma åt någon av dessa funktioner kontaktar du organisationens administratör för att säkerställa att integreringen är aktiverad.
 
 ## Nyheter
 
+* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
+Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal
 * [Integrera ett webbformulär med [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
 Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL SharePoint] lista
-* [Introduktion till nyanställda på Acrobat Sign + Workday](acrobat-sign-workday-onboarding.md)
-Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + Workday
 
-## Självstudiekurser för Microsoft-integreringar
+## Självstudiekurser om Microsoft-integreringar
 
 <table style="table-layout:fixed">
 <tr>
@@ -63,7 +63,7 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Skicka för signering i SharePoint Online</strong></a>
     </div>
-    <em>Skicka ett dokument för signering direkt i SharePoint Online</em>
+    <em>Skicka ett dokument för signering direkt inom SharePoint Online</em>
     <br>
   </td>
    <td>
@@ -73,7 +73,7 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>Spårning i SharePoint Online</strong></a>
     </div>
-    <em>Spåra avtalsförloppet direkt i Microsoft SharePoint</em>
+    <em>Spåra förloppet för ett avtal direkt i Microsoft SharePoint</em>
     <br>
   </td>
 </tr>
@@ -95,17 +95,17 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="auto-archive-sharepoint-power-automate.md"><strong>Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]</strong></a>
     </div>
-    <em>Lär dig hur du automatiskt arkiverar signerade dokument på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate]</em>
+    <em>Lär dig arkivera signerade dokument automatiskt på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+      <img alt="Dokumentautomatisering med [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Automatisera dokument med [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    <a href="documentautomation.md"><strong>Dokumentautomatisering med [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Lär dig hur du aktiverar och använder [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningsdon för [!DNL Microsoft Power] appar</em>
+    <em>Lär dig aktivera och använda [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningar för [!DNL Microsoft Power] appar</em>
     <br>
   </td>
    <td>
@@ -119,41 +119,68 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <br>
   </td>
 </tr>
-</table>
-
-## [!DNL Notarize] självstudiekurser för integration
-
-<table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="send-document-notarize.md">
-      <img alt="Skicka dokument för vidimering" src="../assets/Notarize.png" />
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
     <div>
-    <a href="send-document-notarize.md"><strong>Skicka dokument för vidimering</strong></a>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>Lär dig hur du skickar ett dokument för vidimering</em>
+    <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Självstudiekurser för Salesforce-integreringar
+## [!DNL Notarize] självstudiekurser om integration
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="Skicka dokument för bestyrkande" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>Skicka dokument för bestyrkande</strong></a>
+    </div>
+    <em>Lär dig hur du skickar ett dokument för attestering</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Självstudiekurser om Salesforce-integreringar
 
 <table style="table-layout:fixed">
 <tr>
@@ -164,15 +191,15 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="create-an-agreement-template.md"><strong>Document Builder för [!DNL Salesforce]</strong></a>
     </div>
-    <em>Lär dig hur du skapar en återanvändbar dokumentmall med hjälp av Document Builder för [!DNL Salesforce]</em>
+    <em>Lär dig skapa en återanvändbar dokumentmall med Document Builder för [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
     <a href="set-up-data-mapping.md">
-      <img alt="Ställa in datamappning" src="../assets/SF-DataMapping.png" />
+      <img alt="Konfigurera datamappning" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>Ställa in datamappning</strong></a>
+    <a href="set-up-data-mapping.md"><strong>Konfigurera datamappning</strong></a>
     </div>
     <em>Hämta tillbaka data till Salesforce efter att ett avtal har signerats</em>
     <br>
@@ -200,60 +227,60 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
 </tr>
 </table>
 
-## Självstudiekurser för Workday-integrering
+## Självstudiekurser om Workday-integrering
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="acrobat-sign-workday-onboarding.md">
-      <img alt="Introduktion till nyanställda på Acrobat Sign + Workday" src="../assets/workday.png" />
+      <img alt="Introduktion till Acrobat Sign + Workday nyanställningar" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till nyanställda på Acrobat Sign + Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till Acrobat Sign + Workday nyanställningar</strong></a>
     </div>
-    <em>Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + Workday</em>
+    <em>Lär dig effektivisera introduktionsarbetsflöden med Acrobat Sign + Workday</em>
     <br>
   </td>
  <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Självstudiekurser och konfigurationsguider för Marketo
+## Självstudiekurser och konfigurationsguider för Marketo-integrering
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Skicka aviseringar med Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Skicka meddelanden med Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Skicka aviseringar med Acrobat Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Skicka meddelanden med Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg</em>
+    <em>Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller push-meddelande för att informera undertecknaren om att ett avtal är på väg</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Skicka påminnelser med videosjälvstudiekursen Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Skicka påminnelser med videosjälvstudiekursen om Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen om Adobe Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod</em>
+    <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en tidsperiod</em>
     <br>
   </td>
   <td>
@@ -263,7 +290,7 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Läs om hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en viss tidsperiod</em>
+    <em>Läs hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en tidsperiod</em>
     <br>
   </td>
    <td>
@@ -273,7 +300,7 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="marketo-dynamics-reminder.md"><strong>Skicka påminnelser med Acrobat Sign för Microsoft Dynamics och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en viss tid</em>
+    <em>Lär dig skicka en e-postpåminnelse när ett avtal förblir osignerat efter en tid</em>
     <br>
   </td>
 </tr>
@@ -285,21 +312,21 @@ Lär dig hur du effektiviserar arbetsflöden för onboarding med Acrobat Sign + 
     <div>
     <a href="marketo-dynamics-sms.md"><strong>Skicka aviseringar med Acrobat Sign för Microsoft Dynamics och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande för att informera signeraren om att ett avtal är på väg</em>
+    <em>Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller push-meddelande för att informera undertecknaren om att ett avtal är på väg</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
