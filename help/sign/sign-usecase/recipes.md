@@ -1,33 +1,35 @@
 ---
 title: Recept på användningsfall
-description: Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer för myndigheter och företag
+description: Snabba upp organisationens digitala arbetsflöden med dessa exempel på myndighets- och kommersiella e-signaturer
 role: User
 level: Beginner, Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
 
-# Recept för användningsfall
+# Använd skiftlägesrecept
 
-![Banderoll för användningsfall](../assets/Hero-Recipe.png)
+![Banner för användningsfall](../assets/Hero-Recipe.png)
 
-Snabba upp organisationens digitala arbetsflöden med dessa exempel på e-signaturer för myndigheter och företag. Klicka här om du vill visa en PDF med resurser och information om hur du konfigurerar de här specifika användningsfallen för e-signaturer.
+Snabba upp organisationens digitala arbetsflöden med dessa exempel på myndighets- och kommersiella e-signaturer. Klicka för att visa en PDF med resurser och information om hur du konfigurerar dessa specifika användningsfall för e-signaturer.
 
 ## Nyheter
 
-* [Praktikprogram för utbildningswebbformulär](usecase-edu-intern.md)
-Lär dig hur webbformulär används för att förbättra elevernas åtkomst till de formulär som krävs
+* [Anpassat arbetsflöde för IEP-process för utbildning](usecase-edu-iep.md)
+Lär dig hur den anpassade arbetsflödesdesignern används för att digitalisera en IEP-process (Individualized Education Program)
+* [Program för praktik i utbildningswebbformulär](usecase-edu-intern.md)
+Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär
 * [Skapa ett praktikprogram för utbildningswebbformulär](usecase-edu-intern-create.md)
-Lär dig skapa ett webbformulär för praktik
-* [Offentlig låneansökan med flera okända signerare](webform-multiple-signers.md)
-Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare
+Lär dig skapa ett webbformulär för praktikplatser
+* [Statlig låneansökan med flera okända undertecknare](webform-multiple-signers.md)
+Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar som involverar flera okända deltagare
 
 ## Användningsfall för myndigheter
 
@@ -35,22 +37,22 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
 <tr>
   <td>
     <a href="webform-multiple-signers.md">
-      <img alt="Offentlig låneansökan med flera okända signerare" src="../assets/Web-form-unknown.png" />
+      <img alt="Statlig låneansökan med flera okända undertecknare" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>Offentlig låneansökan med flera okända signerare</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Statlig låneansökan med flera okända undertecknare</strong></a>
     </div>
-    <em>Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för låneansökningar som involverar flera okända deltagare</em>
+    <em>Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar som involverar flera okända deltagare</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovgrants.md">
-      <img alt="Bidrag och lån till företag" src="../assets/UC_Business.png" />
+      <img alt="Företagsbidrag och företagslån" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>Bidrag och lån till företag</strong></a>
+    <a href="usecasegovgrants.md"><strong>Företagsbidrag och företagslån</strong></a>
     </div>
-    <em>Ge snabb hjälp till företag genom att ge självbetjäning tillgång till formulär för ansökningar om bidrag, lån och uppskov med skattebetalning</em>
+    <em>Ge snabbt stöd till företag genom att ge dem tillgång till bidrag, lån och ansökningar om uppskov med skattebetalning</em>
     <br>
   </td> 
   <td>
@@ -60,7 +62,7 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <div>
     <a href="usecasegovtelework.md"><strong>Distansarbetsavtal</strong></a>
     </div>
-    <em>Samla in signaturer från alla medarbetare på distansavtal, policyuppdateringar med mera</em>
+    <em>Samla effektivt in signaturer från alla dina anställda om distansavtal, policyuppdateringar och annat</em>
     <br>
   </td>
   <td>
@@ -70,50 +72,50 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <div>
     <a href="usecasegovcontracts.md"><strong>Kontrakt och rekvisitionsblanketter</strong></a>
     </div>
-    <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter</em>
+    <em>Ersätt snabbt pappersbearbetningen med kompatibla digitala arbetsflöden, inklusive granskningsrapporter</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Stöd till återanställning" src="../assets/UC_WebformsR.png" />
+      <img alt="ÅTERANSTÄLLNINGSSTÖD" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Stöd till återanställning</strong></a>
+    <a href="usecasegovreemployment.md"><strong>ÅTERANSTÄLLNINGSSTÖD</strong></a>
     </div>
-    <em>Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i linje med helt digitala ansökningsformulär som kan publiceras på några dagar</em>
+    <em>Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i kö med helt digitala ansökningsblanketter som kan publiceras i dagar</em>
     <br>
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
-      <img alt="Betalningsskydd" src="../assets/UC_PaycheckProtectionR.png" />
+      <img alt="Lönecheckningsskydd" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Betalningsskydd</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Lönecheckningsskydd</strong></a>
     </div>
-    <em>Se hur du kan använda Acrobat Sign för att konvertera betalningsskyddsprogramformuläret till ett interaktivt onlineformulär</em>
+    <em>Se hur du kan använda Acrobat Sign för att konvertera formuläret Payment Protection Program till ett interaktivt onlineformulär</em>
     <br>
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Fjärravhjälpsbegäran" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="Fjärrorderbegäran" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Fjärravhjälpsbegäran</strong></a>
+    <a href="usecasegovremote.md"><strong>Fjärrorderbegäran</strong></a>
     </div>
-    <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och säkra tillstånd från domare</em>
+    <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och säkra fullmakter från domare</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Användningsfall för företag
+## Affärsanvändningsfall
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,7 +126,7 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <div>
     <a href="usecasecomcontracts.md"><strong>Kontrakt och rekvisitionsblanketter</strong></a>
     </div>
-    <em>Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, med granskningsrapporter</em>
+    <em>Ersätt snabbt pappersbearbetningen med kompatibla digitala arbetsflöden, inklusive granskningsrapporter</em>
     <br>
   </td> 
   <td>
@@ -134,7 +136,7 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <div>
     <a href="usecasecompolicy.md"><strong>Policyavtal</strong></a>
     </div>
-    <em>Samla effektivt in signaturer från alla medarbetare om policyavtal och uppdateringar</em>
+    <em>Samla effektivt in signaturer från alla dina anställda om policyavtal och uppdateringar</em>
     <br>
   </td>
   <td>
@@ -144,29 +146,29 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <div>
     <a href="usecasecomtelework.md"><strong>Distansarbetsavtal</strong></a>
     </div>
-    <em>Samla in signaturer från alla medarbetare på distansavtal</em>
+    <em>Samla in signaturer från alla dina anställda på distansavtal</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Användningsexempel för skolor
+## Användningsexempel för utbildning
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecase-edu-intern.md">
-      <img alt="Praktikprogram för utbildningswebbformulär" src="../assets/Webform-internship.png" />
+      <img alt="Program för praktik i utbildningswebbformulär" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Praktikprogram för utbildningswebbformulär</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Program för praktik i utbildningswebbformulär</strong></a>
     </div>
-    <em>Lär dig hur webbformulär används för att förbättra elevernas åtkomst till de formulär som krävs</em>
+    <em>Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär</em>
     <br>
   </td> 
   <td>
@@ -176,16 +178,21 @@ Lär dig hur ett webbformulär används för ett komplicerat arbetsflöde för l
     <div>
     <a href="usecase-edu-intern-create.md"><strong>Skapa ett praktikprogram för utbildningswebbformulär</strong></a>
     </div>
-    <em>Lär dig skapa ett webbformulär för praktik</em>
+    <em>Lär dig skapa ett webbformulär för praktikplatser</em>
     <br>
   </td> 
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="Anpassat arbetsflöde för IEP-process för utbildning" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>Anpassat arbetsflöde för IEP-process för utbildning</strong></a>
+    </div>
+    <em>Lär dig hur den anpassade arbetsflödesdesignern används för att digitalisera en IEP-process (Individualized Education Program)</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 9%
+source-wordcount: '519'
+ht-degree: 10%
 
 ---
 
@@ -135,13 +135,14 @@ ht-degree: 9%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Lönecheckningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärrorderbegäran](sign-usecase/usecasegovremote.md)
-      + Reklam {#com}
+      + Kommersiellt {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)
       + Utbildning {#edu}
          + [Program för praktik i utbildningswebbformulär](sign-usecase/usecase-edu-intern.md)
          + [Skapa ett praktikprogram för utbildningswebbformulär](sign-usecase/usecase-edu-intern-create.md)
+         + [Anpassat arbetsflöde för IEP-process för utbildning](sign-usecase/usecase-edu-iep.md)
    + Visa användningsfall {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Framkalla {#develop}
