@@ -1,11 +1,12 @@
 ---
 title: Anpassa en PDF till ett standardformat
-description: Lär dig hur du validerar PDF-innehåll mot PDF-standardkriterier som PDF/X, PDF/A eller PDF/E
+description: Lär dig validera PDF-innehåll mot standardkriterier som PDF/X, PDF/A eller PDF/E från PDF
+feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13287
 exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -16,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Finns endast i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro.
 
-I den här 60 sekunder långa videosjälvstudiekursen får du lära dig hur du validerar PDF-innehåll mot PDF-standardkriterier som PDF/X, PDF/A eller PDF/E.
+I den här 60 sekunder långa videosjälvstudiekursen får du lära dig hur du validerar PDF-innehåll mot standardkriterier som PDF/X, PDF/A eller PDF/E från PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)

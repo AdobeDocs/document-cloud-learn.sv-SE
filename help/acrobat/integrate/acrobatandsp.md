@@ -1,23 +1,24 @@
 ---
-title: Arbeta med [!DNL SharePoint] Filer
+title: Arbeta med din [!DNL SharePoint] Filer
 description: Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med Adobe Acrobat för [!DNL Microsoft 365]
+feature: Integrations, Create PDF, Collaboration
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331855.jpg
 jira: KT-7190
+thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
 
 ---
 
-# Arbeta med [!DNL SharePoint] filer
+# Arbeta med din [!DNL SharePoint] filer
 
-Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med [Adobe Acrobat för Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Konvertera säkert [!DNL Microsoft 365] filer till PDF, [kombinera PDF-dokument](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target="_blank"} till en fil, kommentera och ordna om sidor - direkt från [!DNL SharePoint] online.
+Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med hjälp av [Adobe Acrobat för Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Konvertera säkert [!DNL Microsoft 365] Filer till PDF. [kombinera PDF-dokument](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target="_blank"} i en fil, kommentera och ordna om sidor - direkt från [!DNL SharePoint] online.
 
 >[!NOTE]
 >

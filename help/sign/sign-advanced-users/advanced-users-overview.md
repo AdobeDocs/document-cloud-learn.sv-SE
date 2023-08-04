@@ -1,12 +1,13 @@
 ---
 title: Översikt över avancerade uppgifter
-description: Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar
+description: Lär dig hur du skickar ut ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för din webbplats, hanterar signaturtransaktioner samt skapar och hanterar dokumentmallar
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
@@ -15,16 +16,16 @@ ht-degree: 3%
 
 # Översikt över avancerade uppgifter
 
-![Sign Advanced Image](../assets/Hero-Advanced.png)
+![Avancerad Sign-bild](../assets/Hero-Advanced.png)
 
-Lär dig hur du skickar ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för webbplatsen, hanterar signaturtransaktioner och skapar och hanterar dokumentmallar. Dessa självstudiekurser är till för alla som redan känner till grunderna för att skicka och begära signaturer och vill veta mer om hur Acrobat Sign kan hjälpa dem.
+Lär dig hur du skickar ut ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för din webbplats, hanterar signaturtransaktioner samt skapar och hanterar dokumentmallar. De här självstudiekurserna är till för alla som redan känner till grunderna för att skicka och begära signaturer och vill lära sig fler sätt som Acrobat Sign kan arbeta för dem.
 
 ## Nyheter
 
 * [Autentiseringsmetoder i Acrobat Sign](authentication-methods.md)
-Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som signerar ett dokument
+Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som undertecknar ett dokument
 * [Ställ in onlinebetalningar](set-up-online-payments.md)
-Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
+Lär dig ställa in och acceptera onlinebetalningar i dokument
 
 ## Skickar
 
@@ -32,12 +33,12 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Setting up signing order" src="../assets/Routing.png">
+      <img alt="Konfigurera signeringsordning" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Setting up signing order</strong></a>
+    <a href="setting-up-routing.md"><strong>Konfigurera signeringsordning</strong></a>
     </div>
-    <em>Ställ in signeringsordning för flera signerare</em>
+    <em>Ställa in signeringsordning för flera signerare</em>
     <br>
   </td>
   <td>
@@ -47,7 +48,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="delegate-signature.md"><strong>Använda delegerarerollen</strong></a>
     </div>
-    <em>Använd rollen delegerande för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering</em>
+    <em>Använd rollen delegerare för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering</em>
     <br>
   </td>
   <td>
@@ -57,7 +58,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="add-an-approver.md"><strong>Använda godkännarrollen</strong></a>
     </div>
-    <em>Lägg till en godkännarroll i kontraktsgodkännandeprocessen</em>
+    <em>Lägg till en godkännarroll i godkännandeprocessen för ditt avtal</em>
     <br>
   </td>
   <td>
@@ -67,7 +68,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="authentication-methods.md"><strong>Autentiseringsmetoder i Acrobat Sign</strong></a>
     </div>
-    <em>Läs mer om de olika metoderna för identitetsautentisering i Acrobat Sign</em>
+    <em>Läs mer om de olika metoder för identitetsautentisering som finns i Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -79,7 +80,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
       <div>
       <a href="manage-form-data.md"><strong>Hantera formulärdata</strong></a>
       </div>
-      <em>Lär dig hur du konsoliderar formulärdata från dokument</em>
+      <em>Lär dig konsolidera formulärdata från dina dokument</em>
       <br>
     </td>
   <td>
@@ -89,17 +90,17 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="set-up-online-payments.md"><strong>Ställ in onlinebetalningar</strong></a>
     </div>
-    <em>Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument</em>
+    <em>Lär dig ställa in och acceptera onlinebetalningar i dokument</em>
     <br>
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Skicka och samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
+        <img alt="Skicka och samla in signaturer gruppvis" src="../assets/Megasign.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Skicka och samla in flera signaturer samtidigt</strong></a>
+      <a href="megasign.md"><strong>Skicka och samla in signaturer gruppvis</strong></a>
       </div>
-      <em>Samla in hundratals signaturer samtidigt för alla dokument i några få korta steg</em>
+      <em>Samla hundratals signaturer samtidigt för alla dokument i bara några korta steg</em>
       <br>
   </td>
  <td>
@@ -109,7 +110,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
       <div>
       <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
       </div>
-      <em>Lär dig hur du skapar ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
+      <em>Lär dig skapa ett dokument som kan signeras elektroniskt direkt på din webbplats</em>
       <br>
   </td>
 </tr>
@@ -121,7 +122,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
       </div>
-      <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+      <em>Bygga Acrobat Sign-formulärfält genom texttaggning med Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -131,16 +132,16 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="text-tagging-word.md"><strong>Använda texttaggar i [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Lär dig hur du skapar en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]</em>
+    <em>Lär dig skapa en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -168,7 +169,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="edit-a-template.md"><strong>Hantera dokumentmallar</strong></a>
     </div>
-    <em>Redigera eller ta bort en mall från biblioteket</em>
+    <em>Redigera eller ta bort en mall från ditt bibliotek</em>
     <br>
   </td>
   <td>
@@ -178,7 +179,7 @@ Lär dig hur du ställer in och accepterar onlinebetalningar i dina dokument
     <div>
     <a href="modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
     </div>
-    <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
+    <em>Lär dig inaktivera, redigera och återaktivera ett befintligt webbformulär</em>
     <br>
   </td>  
   <td>

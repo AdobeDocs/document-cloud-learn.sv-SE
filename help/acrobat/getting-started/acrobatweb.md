@@ -1,25 +1,26 @@
 ---
 title: Arbeta var som helst med Acrobat Web
-description: Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren
+description: Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i din webbläsare
+feature: Workspace
 role: User
 level: Beginner
-thumbnail: KT-8498.jpg
 jira: KT-8498
+thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 1%
 
 ---
 
-# Arbeta var som helst med Acrobat på webben
+# Arbeta överallt med Acrobat web
 
-Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och skalbart. Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren. Prova på [acrobat.adobe.com](https://acrobat.adobe.com/se/sv).
+Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och i stor skala. Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i webbläsaren. Testa på [acrobat.adobe.com](https://acrobat.adobe.com/se/sv).
 
 >[!TIP]
 >
->Vill du veta mer om Acrobat mobilverktyg? Checka ut [Produktivitet i farten](productivity.md).
+>Vill du veta mer om Acrobat mobila verktyg? Utcheckning [Produktivitet i farten](productivity.md).
 
 <br> 
 

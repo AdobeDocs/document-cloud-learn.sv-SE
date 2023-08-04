@@ -1,24 +1,25 @@
 ---
-title: Göra PDF tillgängligt - Förstå hjälpmedel
-description: Se vad det innebär att göra en PDF tillgänglig för funktionshindrade
+title: Göra PDF tillgänglig - Förstå hjälpmedel
+description: Läs mer om vad det innebär att göra en PDF tillgänglig för funktionshindrade
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34540.jpg
 exl-id: 97661a3a-4d9b-4d2c-886f-0b96934a8c5a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Göra PDF tillgängligt: Tillgänglighet
+# Göra PDF tillgänglig: Förstå hjälpmedel
 
-I den första videosjälvstudiekursen i Making PDF Accessible lär du dig vad det innebär att göra en PDF tillgänglig för funktionshindrade.
+I den första videosjälvstudiekursen i serien Making PDF Accessible (Gör PDF tillgängligt för personer med funktionshinder) får du veta vad det innebär att göra en bild tillgänglig för dem.
 
-## Del 1 - Tillgänglighet (6:42)
+## DEL 1 - FÖRSTÅ TILLGÄNGLIGHET (6:42)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34540?quality=12&learn=on&hidetitle=true)
 
-[Gå till Del 2 - Redigering i [!DNL Microsoft Word]](authoring-in-word.md)
+[Gå till del 2 - Redigering i [!DNL Microsoft Word]](authoring-in-word.md)

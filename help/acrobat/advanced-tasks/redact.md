@@ -1,69 +1,70 @@
 ---
-title: Redigera bort och sanera
-description: Lär dig hur du permanent tar bort privat eller känslig information från PDF
+title: Redigera och sanera
+description: Lär dig ta bort privat eller känslig information från PDF permanent
+feature: Security
 role: User
 level: Intermediate
-thumbnail: KT-6804.jpg
 jira: KT-6804
+thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-# Redigera bort och sanera
+# Redigera och sanera
 
-Lär dig använda bortredigeringsverktyget för att permanent ta bort privat eller känslig information från PDF. Använd verktyget Sanera för att ta bort information som inte visas i filen, till exempel kommentarer, metadata eller dolda lager.
+Lär dig använda verktyget Redigera bort för att permanent ta bort privat eller känslig information från PDF. Använd saneringsverktyget för att ta bort information som inte syns i filen, t.ex. kommentarer, metadata eller dolda lager.
 
 >[!NOTE]
 >
->Finns endast i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro.
 
-## Redigera bort text och bilder
+## Redigera text och bilder
 
-1. Välj **[!UICONTROL Redigera bort]** från [!UICONTROL Verktyg] mitten eller den högra rutan.
+1. Välj **[!UICONTROL Redigera]** från [!UICONTROL Verktyg] mitten eller högra rutan.
 
-   ![Redigera bort steg 1](../assets/Redact_1.png)
+   ![Redigera steg 1](../assets/Redact_1.png)
 
-1. Välj **[!UICONTROL Redigera bort text och bilder]** **>** **[!UICONTROL Egenskaper]** om du vill anpassa utseendet på dina bortredigeringar, inklusive färgen på bortredigeringsrutor eller textövertäckning.
+1. Välj **[!UICONTROL Redigera text och bilder]** **>** **[!UICONTROL Egenskaper]** för att anpassa utseendet på dina bortredigeringar, inklusive färgen på bortredigeringsrutor eller textövertäckning.
 
-   ![Redigera bort steg 2](../assets/Redact_2.png)
+   ![Redigera steg 2](../assets/Redact_2.png)
 
-   Redigera bort information genom att först markera objekten som ska tas bort och sedan använda bortredigeringarna. Du kan redigera bort hela sidor eller markerat innehåll.
+   Redigera informationen genom att först markera objekten som ska tas bort och sedan tillämpa bortredigeringarna. Du kan redigera hela sidor eller markerat innehåll.
 
-1. Välj **[!UICONTROL Redigera bort sidor]** väljer du sedan den sida eller det sidintervall som ska redigeras bort och markerar **[!UICONTROL OK]**.
+1. Välj **[!UICONTROL Redigera sidor]**, välj sedan den sida eller det sidintervall som ska redigeras och välj **[!UICONTROL OK]**.
 
-   ![Redigera bort steg 4](../assets/Redact_3.png)
+   ![Redigera steg 4](../assets/Redact_3.png)
 
-   Du kan också använda markören för att markera innehållet som ska redigeras bort. Du kan se en förhandsgranskning av bortredigeringen genom att hålla pekaren över det markerade innehållet.
+   Du kan också använda markören för att välja innehållet som ska redigeras bort. Du kan se en förhandsgranskning av redigeringen genom att hålla muspekaren över det valda innehållet.
 
-   ![Redigera bort steg 5a](../assets/Redact_4.png)
+   ![Redigera steg 5a](../assets/Redact_4.png)
 
-1. Välj **[!UICONTROL Redigera bort text och bilder]** **>** **[!UICONTROL Sök efter text och redigera bort]** för att hitta specifikt innehåll att redigera bort.
+1. Välj **[!UICONTROL Redigera text och bilder]** **>** **[!UICONTROL Sök efter text och redigera bort]** för att hitta specifikt innehåll att redigera bort.
 
-   Använd sökrutan för att söka efter ett specifikt ord eller en fras.
+   Använd sökrutan för att söka efter ett visst ord eller en viss fras.
 
-1. Välj **[!UICONTROL Mönster]** för att hitta viss information, markera sedan rutorna och välj **[!UICONTROL Söka efter och ta bort text]**.
+1. Välj **[!UICONTROL Mönster]** för att hitta vissa typer av information, markera sedan rutorna och välj **[!UICONTROL Söka efter och ta bort text]**.
 
-   ![Redigera bort steg 5b](../assets/Redact_5.png)
+   ![Redigera steg 5b](../assets/Redact_5.png)
 
-1. Välj **[!UICONTROL Använd]** i [!UICONTROL Redigera bort] huvudmenyn för att tillämpa de markerade bortredigeringarna och spara den bortredigerade filen.
+1. Välj **[!UICONTROL Tillämpa]** i [!UICONTROL Redigera] huvudmenyn för att tillämpa de markerade bortredigeringarna och spara den bortredigerade filen.
 
-   ![Redigera bort steg 6](../assets/Redact_6.png)
+   ![Redigera steg 6](../assets/Redact_6.png)
 
 ## Sanera dokument
 
-1. Välj **[!UICONTROL Sanera dokument]** i [!UICONTROL Redigera bort] översta menyn.
+1. Välj **[!UICONTROL Sanera dokument]** i [!UICONTROL Redigera] översta menyn.
 
-1. Välj **[!UICONTROL OK]** för att bekräfta borttagningen av dold information. Eller välj **[!UICONTROL Klicka här]** för att selektivt ta bort dold information.
+1. Välj **[!UICONTROL OK]** för att bekräfta avlägsnandet av dold information. Eller välj **[!UICONTROL Klicka här]** för att selektivt ta bort dold information.
 
    ![Sanera steg 2](../assets/Redact_7.png)
 
 >[!TIP]
 >
->Om du vill snabba på bortredigeringsprocessen kan du läsa [Action Wizard](../advanced-tasks/action.md).
+>För att påskynda bortredigeringsprocessen, kolla in [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >

@@ -1,12 +1,13 @@
 ---
 title: 60-sekunders översikt över Acrobat
-description: 60-sekunders Acrobat ger dig självstudiekurser i bitstorlek så att du kan lära dig ett nytt trick i Acrobat på en minut eller mindre
+description: 60-sekunders Acrobat ger dig självstudiekurser i bitstorlek som hjälper dig att lära dig ett nytt trick i Acrobat på en minut eller mindre
+feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
-thumbnail: KT-8493.jpg
 jira: KT-8493
+thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -17,9 +18,9 @@ ht-degree: 0%
 
 ![60-sekunders Acrobat-bild](../assets/Hero-60sec.png)
 
-60-sekunders Acrobat ger dig självstudiekurser i bitstorlek så att du kan lära dig ett nytt trick i Acrobat på en minut eller mindre. Dessa uppgiftsbaserade tips hjälper dig att lära dig nya saker när du arbetar med PDF-filer genom att låsa upp några av Acrobat dolda pärlor. Du kan titta på en för att få ett snabbt svar, eller titta på fem för att öka dokumentproduktiviteten - och fortfarande ha tid att njuta av din fika.
+60-sekunders Acrobat ger dig självstudiekurser i bitstorlek som hjälper dig att lära dig ett nytt trick i Acrobat på en minut eller mindre. Dessa uppgiftsbaserade tips hjälper dig att plocka upp nya färdigheter för att arbeta med PDF filer genom att låsa upp några av Acrobat dolda pärlor. Du kan titta på en för att få ett snabbt svar, eller titta på fem för att öka dokumentproduktiviteten - och fortfarande ha tid att njuta av din kaffepaus.
 
-## 60-sekunders självstudiekurser för Acrobat
+## 60-sekunders självstudiekurser om Acrobat
 
 ## Redigera
 
@@ -32,15 +33,15 @@ ht-degree: 0%
     <div>
     <a href="edit.md"><strong>Redigera PDF med Acrobat Web</strong></a>
     </div>
-    <em>Redigera text och bilder utan att ens behöva ladda ned PDF</em>
+    <em>Gör enkla redigeringar i text och bilder utan att ens hämta PDF</em>
     <br>
   </td>
   <td>
     <a href="textrecognition.md">
-      <img alt="Identifiera text i en skannad PDF-fil" src="../assets/60sec_Textrecognition_1280.jpg" />
+      <img alt="Identifiera PDF i en skannad fil" src="../assets/60sec_Textrecognition_1280.jpg" />
     </a>
     <div>
-     <a href="textrecognition.md"><strong>Identifiera text i en skannad PDF-fil</strong></a>
+     <a href="textrecognition.md"><strong>Identifiera PDF i en skannad fil</strong></a>
     </div>
     <em>Konvertera en skannad PDF så att du kan söka efter text i PDF</em>
     <br>
@@ -52,17 +53,17 @@ ht-degree: 0%
     <div>
     <a href="combine-to-one-pdf.md"><strong>Kombinera filer till en PDF</strong></a>
     </div>
-    <em>Skapa snabbt ett nytt dokument genom att kombinera flera olika filtyper i ett och samma PDF</em>
+    <em>Skapa snabbt ett nytt dokument genom att kombinera flera olika filtyper i ett enda PDF</em>
     <br>
   </td>
    <td>
     <a href="organize.md">
-      <img alt="Ordna sidor i en handvändning" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="Ordna sidor på ett ögonblick" src="../assets/60sec_Organize_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>Ordna sidor i en handvändning</strong></a>
+    <a href="organize.md"><strong>Ordna sidor på ett ögonblick</strong></a>
     </div>
-    <em>Lär dig hur du använder verktyget Ordna sidor för att få en fågelperspektiv på PDF</em>
+    <em>Lär dig att använda verktyget Ordna sidor för att få en fågelvy över din PDF</em>
     <br>
   </td>
 </tr>
@@ -74,26 +75,26 @@ ht-degree: 0%
     <div>
     <a href="editphoto.md"><strong>Redigera ett foto i PDF</strong></a>
     </div>
-    <em>Lär dig göra avancerade redigeringar av ett foto i PDF med Photoshop</em>
+    <em>Lär dig hur du gör avancerade redigeringar av ett foto i PDF med Photoshop</em>
     <br>
   </td>
   <td>
     <a href="editgraphic.md">
-      <img alt="Redigera en bild i PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+      <img alt="Redigera en bild i din PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
     </a>
     <div>
-    <a href="editgraphic.md"><strong>Redigera en bild i PDF</strong></a>
+    <a href="editgraphic.md"><strong>Redigera en bild i din PDF</strong></a>
     </div>
-    <em>Lär dig göra avancerade redigeringar av en bild i PDF med Illustrator</em>
+    <em>Lär dig hur du gör avancerade redigeringar av grafik i PDF med Illustrator</em>
     <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+      <img alt="Avgränsare" src="../assets/Grayspacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+      <img alt="Avgränsare" src="../assets/Grayspacer.png" />
         <div>
         <br>
   </td>
@@ -136,10 +137,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="exportwordphone.md">
-      <img alt="Export PDF till Word från telefonen" src="../assets/60sec_Exportphone_1280.jpg" />
+      <img alt="Export PDF till Word från din telefon" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
     <div>
-    <a href="exportwordphone.md"><strong>Export PDF till Word från telefonen</strong></a>
+    <a href="exportwordphone.md"><strong>Export PDF till Word från din telefon</strong></a>
     </div>
     <em>Konvertera en PDF-fil till ett fullt redigerbart Microsoft Word-dokument med mobilappen Acrobat</em>
     <br>
@@ -173,22 +174,22 @@ ht-degree: 0%
   </td>
   <td>
     <a href="wordform.md">
-      <img alt="Konvertera Word till PDF, inklusive formulärfält" src="../assets/60sec_Wordform_1280.jpg" />
+      <img alt="Konvertera Word till PDF inklusive formulärfält" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
     <div>
-     <a href="wordform.md"><strong>Konvertera Word till PDF, inklusive formulärfält</strong></a>
+     <a href="wordform.md"><strong>Konvertera Word till PDF inklusive formulärfält</strong></a>
     </div>
-    <em>Konvertera Word-filer och -formulär till PDF och skapa automatiskt formulärfält</em>
+    <em>Konvertera Word-filer och -formulär till PDF och skapa formulärfält automatiskt</em>
     <br>
   </td>
   <td>
       <a href="photo.md">
-        <img alt="Skapa en PDF med bilder på ett ögonblick" src="../assets/60sec_Photo_1280.jpg" />
+        <img alt="Skapa en PDF med foton på ett ögonblick" src="../assets/60sec_Photo_1280.jpg" />
       </a>
       <div>
-      <a href="photo.md"><strong>Skapa en PDF med bilder på ett ögonblick</strong></a>
+      <a href="photo.md"><strong>Skapa en PDF med foton på ett ögonblick</strong></a>
       </div>
-      <em>Lär dig hur du bara drar och släpper en massa JPG på Acrobat-ikonen för att skapa en PDF</em>
+      <em>Lär dig hur du bara drar och släpper ett gäng JPG på Acrobat-ikonen för att skapa en PDF</em>
       <br>
   </td>
 </tr>
@@ -200,26 +201,26 @@ ht-degree: 0%
     <div>
     <a href="phone.md"><strong>Konvertera en PPT-fil till PDF på telefonen</strong></a>
     </div>
-    <em>Lär dig hur du konverterar en e-postbilaga i PowerPoint till PDF på telefonen</em>
+    <em>Lär dig hur du konverterar en bifogad e-postbilaga till PDF på telefonen</em>
     <br>
   </td>
   <td>
       <a href="optimize.md">
-        <img alt="Skapa effektivare PDF-filer på ett kick" src="../assets/60sec_Optimize_1280.jpg" />
+        <img alt="Skapa effektivare PDF-filer på ett ögonblick" src="../assets/60sec_Optimize_1280.jpg" />
       </a>
       <div>
-      <a href="optimize.md"><strong>Skapa effektivare PDF-filer på ett kick</strong></a>
+      <a href="optimize.md"><strong>Skapa effektivare PDF-filer på ett ögonblick</strong></a>
       </div>
-      <em>Använd Optimize PDF-verktyget för att minska storleken på PDF-filer avsevärt</em>
+      <em>Använd verktyget Optimize PDF för att minska storleken på dina PDF-filer avsevärt</em>
       <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+      <img alt="Avgränsare" src="../assets/Grayspacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+      <img alt="Avgränsare" src="../assets/Grayspacer.png" />
         <div>
         <br>
   </td>
@@ -241,17 +242,17 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
@@ -269,26 +270,26 @@ ht-degree: 0%
     <div>
     <a href="protect.md"><strong>Protect dina PDF-filer med ett lösenord</strong></a>
     </div>
-    <em>Protect en PDF så att ett lösenord krävs för att öppna eller redigera PDF</em>
+    <em>Protect ett PDF så att ett lösenord krävs för att öppna eller redigera PDF</em>
     <br>
   </td>
   <td>
     <a href="redaction.md">
-      <img alt="Bortredigering: Rätt väg" src="../assets/60sec_redaction.png" />
+      <img alt="Bortredigering: rätt sätt" src="../assets/60sec_redaction.png" />
     </a>
     <div>
-    <a href="redaction.md"><strong>Bortredigering: Rätt väg</strong></a>
+    <a href="redaction.md"><strong>Bortredigering: rätt sätt</strong></a>
     </div>
     <em>Lär dig det rätta sättet att ta bort känslig information från en PDF</em>
     <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
@@ -306,7 +307,7 @@ ht-degree: 0%
     <div>
     <a href="share-comment.md"><strong>Dela en PDF för att få kommentarer</strong></a>
     </div>
-    <em>Lär dig hur du delar en PDF för att snabbt samla in feedback från flera personer i en enda fil</em>
+    <em>Lär dig dela en PDF för att snabbt samla in feedback från flera personer i en enda fil</em>
     <br>
   </td>
   <td>
@@ -321,10 +322,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="summarize-comments.md">
-      <img alt="Krångla PDF-kommentarer med Sammanfatta" src="../assets/60sec_summarize.png" />
+      <img alt="Wrangling PDF kommentarer med Sammanfatta" src="../assets/60sec_summarize.png" />
     </a>
     <div>
-    <a href="summarize-comments.md"><strong>Krångla PDF-kommentarer med Sammanfatta</strong></a>
+    <a href="summarize-comments.md"><strong>Wrangling PDF kommentarer med Sammanfatta</strong></a>
     </div>
     <em>Lär dig hur du skapar en sammanfattning av alla kommentarer och markeringar i PDF-filen</em>
     <br>
@@ -336,7 +337,7 @@ ht-degree: 0%
     <div>
     <a href="indesign.md"><strong>Läsa in PDF-kommentarer i InDesign</strong></a>
     </div>
-    <em>Läs om hur du läser in PDF-kommentarer i InDesign efter en Acrobat-granskning</em>
+    <em>Lär dig hur du läser in PDF-kommentarer tillbaka till InDesign efter en Acrobat-delad granskning</em>
     <br>
   </td>
 </tr>
@@ -363,16 +364,16 @@ ht-degree: 0%
     <div>
     <a href="conform.md"><strong>Anpassa en PDF till ett standardformat</strong></a>
     </div>
-    <em>Lär dig hur du validerar PDF-innehåll mot PDF-standardkriterier som PDF/X, PDF/A eller PDF/E</em>
+    <em>Lär dig validera PDF-innehåll mot standardkriterier som PDF/X, PDF/A eller PDF/E från PDF</em>
     <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
@@ -400,16 +401,16 @@ ht-degree: 0%
     <div>
      <a href="search.md"><strong>Söka efter flera PDF-filer samtidigt</strong></a>
     </div>
-    <em>Starta en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer</em>
+    <em>Gör en sökning i en PDF-fil, öppna Avancerad sökning och sök i en hel mapp med PDF-filer</em>
     <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
         <div>
         <br>
   </td>

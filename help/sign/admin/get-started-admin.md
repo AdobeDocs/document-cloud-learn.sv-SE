@@ -1,12 +1,13 @@
 ---
 title: Komma igång för nya administratörer
-description: I den här omfattande videoguiden får du lära dig mer om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign
+description: I den här omfattande videoguiden får du lära dig mer om alla verktyg du behöver för att komma igång med Acrobat Sign
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Komma igång för nya administratörer
 
-Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-administratörer. Läs om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign. Den här detaljerade guiden omfattar följande ämnen:
+Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-administratörer. Lär dig mer om alla verktyg som behövs för att komma igång med Acrobat Sign. Den här detaljerade guiden omfattar följande ämnen:
 
 <table style="table-layout:auto">
 <tr>
@@ -25,9 +26,9 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Utmed Admin Console</strong></a>
          <br>
-        <em>Starta klockan 1:00</em>
+        <em>Börja kl. 1:00</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -37,7 +38,7 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Ge Acrobat Sign rätt till en användare</strong></a>
         <br>
-        <em>Starta klockan 1:45</em>
+        <em>Börja vid 1:45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -47,7 +48,7 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Översikt över Acrobat Sign webbportal</strong></a>
         <br>
-        <em>Starta klockan 3.11</em>
+        <em>Börja kl. 3.11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -67,9 +68,9 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Varumärkning och inställningar för konto</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Varumärkning och konfiguration av konton</strong></a>
          <br>
-        <em>Starta kl. 7.40</em>
+        <em>Börja kl. 7.40</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
@@ -79,7 +80,7 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>Signaturinställningar</strong></a>
         <br>
-        <em>Starta kl. 8.22</em>
+        <em>Börja kl. 8.22</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
@@ -99,7 +100,7 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>Skicka-inställningar</strong></a>
         <br>
-        <em>Starta kl. 9.55</em>
+        <em>Börja kl. 9.55</em>
     </td>
   </tr>
   <tr>
@@ -151,7 +152,7 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>Åtkomst till support och ytterligare resurser</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>Få tillgång till support och ytterligare resurser</strong></a>
         <br>
         <em>Börja kl. 19.05</em>
     </td>

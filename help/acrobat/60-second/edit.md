@@ -1,12 +1,13 @@
 ---
 title: Redigera PDF med Acrobat Web
-description: Redigera text och bilder utan att ens behöva ladda ned PDF
+description: Gör enkla redigeringar i text och bilder utan att ens hämta PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8573.jpg
 jira: KT-8573
+thumbnail: KT-8573.jpg
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%
@@ -15,7 +16,7 @@ ht-degree: 6%
 
 # Redigera PDF med Acrobat Web
 
-I den här 60 sekunder långa videosjälvstudiekursen lär du dig skapa [enkla PDF-redigeringar](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"} till text och bilder utan att ens behöva ladda ned PDF.
+I den här 60 sekunder långa videosjälvstudiekursen lär du dig skapa [enkla PDF-redigeringar](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"} text och bilder utan att ens hämta PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
 

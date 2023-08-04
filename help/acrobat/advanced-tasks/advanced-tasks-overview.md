@@ -1,12 +1,13 @@
 ---
 title: Översikt över avancerade uppgifter i Acrobat
-description: Gå steget längre genom att använda de här avancerade verktygen i Acrobat
+description: Gå längre än grunderna genom att använda dessa avancerade verktyg i Acrobat
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -15,16 +16,16 @@ ht-degree: 2%
 
 # Översikt över avancerade uppgifter
 
-![Acrobat - startbild](../assets/Hero-AdvancedTasks.png)
+![Bild för Acrobat Komma igång](../assets/Hero-AdvancedTasks.png)
 
-Gå steget längre med de här avancerade verktygen i Acrobat. Lär dig skapa funktionsmakron för att upprepa triviala moment, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa universellt tillgängliga PDF-filer.
+Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Lär dig skapa funktionsmakron för att upprepa vardagliga uppgifter, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa allmänt tillgängliga PDF-filer.
 
 ## Nyheter
 
-* [Optimize PDF för SEO (sökmotoroptimering)](optimizeseo.md)
+* [Optimize PDF för SEO (Search Engine Optimization)](optimizeseo.md)
 Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
 
-## Självstudiekurser för avancerade uppgifter
+## Självstudiekurser om avancerade uppgifter
 
 <table style="table-layout:fixed">
 <tr>
@@ -35,7 +36,7 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="bookmarks.md"><strong>Lägga till bokmärken och hyperlänkar</strong></a>
     </div>
-    <em>Läs om hur du lägger till bokmärken och hyperlänkar för bättre navigering och interaktion</em>
+    <em>Lär dig hur du lägger till bokmärken och hyperlänkar för bättre navigering och interaktion</em>
     <br>
   </td>
   <td>
@@ -45,7 +46,7 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="optimizescan.md"><strong>Optimera skannade dokument</strong></a>
     </div>
-    <em>Lär dig hur du förbättrar skannade dokument för en bättre visnings- och sökfunktion i PDF</em>
+    <em>Lär dig hur du förbättrar skannade dokument för en bättre visnings- och sökupplevelse i PDF</em>
     <br>
   </td>
   <td>
@@ -55,7 +56,7 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="custom.md"><strong>Anpassade kommandon och verktyg</strong></a>
     </div>
-    <em>Förbättra produktiviteten i dokumentarbetsflödet med anpassade kommandon och verktyg</em>
+    <em>Förbättra arbetsflödet för dokument genom att använda anpassade kommandon och verktyg</em>
     <br>
   </td>
   <td>
@@ -65,19 +66,19 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="advancedforms.md"><strong>Avancerade formulärfält</strong></a>
     </div>
-    <em>Lär dig avancerad teknik för att bygga professionella PDF forms</em>
+    <em>Lär dig avancerade tekniker för att bygga professionella PDF forms</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF för SEO (sökmotoroptimering)" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDF för SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>Optimize PDF för SEO (sökmotoroptimering)</strong></a>
+    <a href="optimizeseo.md"><strong>Optimize PDF för SEO (Search Engine Optimization)</strong></a>
     </div>
-    <em>Optimera en PDF för förbättrad sökbarhet och rankning av sökmotorer på webben</em>
+    <em>Optimera en PDF för förbättrad upptäckbarhet och sökmotorrankning på webben</em>
     <br>
   </td>
   <td>
@@ -87,17 +88,17 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="workforms.md"><strong>Arbeta med formulärfält</strong></a>
     </div>
-    <em>Lägg till olika typer av formulärfält, ange formulärfältsegenskaper och lägg till säkerhet för att skapa professionella blanketter av hög kvalitet</em>
+    <em>Lägg till olika typer av formulärfält, ange formulärfältegenskaper och lägg till säkerhet för att skapa professionella formulär av hög kvalitet</em>
     <br>
   </td>
   <td>
     <a href="enhance.md">
-      <img alt="Förbättra PDF" src="../assets/Enhance_1280.png" />
+      <img alt="Förbättra din PDF" src="../assets/Enhance_1280.png" />
     </a>
     <div>
-    <a href="enhance.md"><strong>Förbättra PDF</strong></a>
+    <a href="enhance.md"><strong>Förbättra din PDF</strong></a>
     </div>
-    <em>Omforma PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
+    <em>Gör om din PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
     <br>
   </td>
  <td>
@@ -107,7 +108,7 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="compare.md"><strong>Identifiera skillnader mellan två PDF</strong></a>
     </div>
-    <em>Hitta snabbt och exakt skillnaderna mellan två PDF-filer</em>
+    <em>Identifiera snabbt och exakt skillnaderna mellan två PDF-filer</em>
     <br>
   </td>
 </tr>
@@ -124,12 +125,12 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
   </td>
   <td>
     <a href="redact.md">
-      <img alt="Redigera bort och sanera" src="../assets/Redact.jpg" />
+      <img alt="Redigera och sanera" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>Redigera bort och sanera</strong></a>
+    <a href="redact.md"><strong>Redigera och sanera</strong></a>
     </div>
-    <em>Ta permanent bort privat eller känslig information från PDF</em>
+    <em>Ta bort privat eller känslig information från PDF permanent</em>
     <br>
   </td>
  <td>
@@ -149,19 +150,19 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
     <div>
     <a href="formdata.md"><strong>Arbeta med formulärdata</strong></a>
     </div>
-    <em>Sammanställ formulärdata i ett kalkylblad</em>
+    <em>Kompilera formulärdata i ett enda kalkylblad</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="accessibility.md">
-      <img alt="Kontrollera tillgänglighet i PDF" src="../assets/Checkaccessible_1280.jpg" />
+      <img alt="Kontrollera PDF-tillgänglighet" src="../assets/Checkaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Kontrollera tillgänglighet i PDF</strong></a>
+    <a href="accessibility.md"><strong>Kontrollera PDF-tillgänglighet</strong></a>
     </div>
-    <em>Kontrollera om PDF är universellt tillgängligt för funktionshindrade</em>
+    <em>Kontrollera om PDF är allmänt tillgängligt för funktionshindrade</em>
     <br>
   </td>
  <td>
@@ -169,18 +170,18 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
       <img alt="Förbereda tillgängliga PDF-filer" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Acrobat Accessibility series</strong></a>
+    <a href="accessibility-series.md"><strong>Acrobat Accessibility-serien</strong></a>
     </div>
-    <em>I den här webbseminarieserien i sex delar går du från grunderna i tillgänglighet till en djupdykning i taggning av dina PDF-filer</em>
+    <em>I den här sex delar långa webbseminarieserien går du från grunderna i tillgänglighet till en djupdykning av taggning av dina PDF-filer</em>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td> 
   <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  

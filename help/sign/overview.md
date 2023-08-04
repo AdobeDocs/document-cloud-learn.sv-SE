@@ -1,23 +1,24 @@
 ---
 title: Acrobat Sign Tutorials
-description: En samling självstudiekurser, webbinarier och användningsfall som utformats för att snabbt hålla både nybörjare och administratörer uppdaterade om Acrobat Sign
+description: En samling självstudiekurser, webbseminarier och användningsfall som utformats för att snabbt hålla både nybörjare och administratörer uppdaterade om Acrobat Sign
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
 
 ---
 
-# Självstudiekurser för Acrobat Sign
+# Självstudiekurser om Acrobat Sign
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, en Adobe Document Cloud-lösning, kan skalas upp för att uppfylla organisationens behov med integreringar, API:er, avancerad autentisering, ytterligare administratörsfunktioner och mycket mer. Här hittar du ett brett utbud av utbildningsmaterial som snabbt håller både nybörjare och administratörer uppdaterade om Acrobat Sign.
+Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfylla ditt företags behov med integreringar, API:er, avancerad autentisering, ytterligare administratörsfunktioner och mycket mer. Här hittar du ett brett utbud av utbildningsupplevelser som är utformade för att snabbt hålla både nybörjare och administratörer uppdaterade om Acrobat Sign.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

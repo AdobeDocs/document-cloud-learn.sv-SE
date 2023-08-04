@@ -1,25 +1,26 @@
 ---
-title: Göra PDF tillgängligt - Slutför i Acrobat
-description: Slutför tillgänglighetsarbetet i Acrobat
+title: Göra PDF tillgängligt - Slutföra i Acrobat
+description: Slutför tillgängliggörande av dokument i Acrobat
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Göra PDF tillgängligt: Slutbehandling i Acrobat
+# Göra PDF tillgängligt: Slutföra i Acrobat
 
-I den tredje videosjälvstudiekursen i Making PDF Accessible-serien lär du dig hur du gör klart PDF-filen så att den blir tillgänglig med verktygen i Acrobat Pro.
+I den tredje videosjälvstudiekursen i serien Making PDF Accessible (Gör tillgänglig i) lär du dig hur du slutför tillgängliggörandet av din PDF-fil med verktygen i Acrobat Pro.
 
 >[!NOTE]
 >
->Finns endast i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro.
 
 ## Del 3 - Slutbehandling i Acrobat (4:37)
 

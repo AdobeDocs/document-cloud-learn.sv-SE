@@ -1,32 +1,33 @@
 ---
-title: Översikt över att komma igång med Acrobat
-description: Lär dig hur du börjar använda Adobe Acrobat med de här korta (1-2 min) stegvisa självstudiekurserna
+title: Översikt över Komma igång med Acrobat
+description: Läs om hur du börjar använda Adobe Acrobat via de här korta (1-2 min) stegvisa självstudiekurserna
+feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
-thumbnail: KT-6856.jpg
 jira: KT-6856
+thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%
 
 ---
 
-# Komma igång - översikt
+# Översikt över Komma igång
 
-![Acrobat - startbild](../assets/Hero-GettingStarted.png)
+![Bild för Acrobat Komma igång](../assets/Hero-GettingStarted.png)
 
-Lär dig hur du börjar använda Adobe Acrobat med hjälp av de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, det här innehållet är utformat för att underlätta för dig att komma in i arbetsflöden i PDF.
+Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera dina PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, detta innehåll är utformat för att underlätta för dig att komma in i arbetsflöden i PDF.
 
 ## Nyheter
 
-* [Arbeta var som helst med Acrobat på webben](acrobatweb.md)
-Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren
+* [Arbeta överallt med Acrobat web](acrobatweb.md)
+Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i din webbläsare
 * [Samarbeta i realtid](collaborate.md)
-Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och följa upp dokumentförloppet i realtid var du än är
+Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var som helst
 
-## Komma igång med självstudiekurser
+## Självstudiekurser för att komma igång
 
 <table style="table-layout:fixed">
 <tr>
@@ -37,7 +38,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Allmänt om arbetsytan</strong></a>
     </div>
-    <em>Se hur arbetsytan i Acrobat gör det enkelt att komma åt filer och verktyg på datorer, webben och mobila enheter</em>
+    <em>Se hur Acrobat-arbetsytan gör det enkelt att komma åt filer och verktyg på datorer, webben och mobiler</em>
     <br>
   </td>
   <td>
@@ -52,12 +53,12 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Arbeta var som helst med Acrobat på webben" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Arbeta överallt med Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="acrobatweb.md"><strong>Arbeta var som helst med Acrobat på webben</strong></a>
+    <a href="acrobatweb.md"><strong>Arbeta överallt med Acrobat web</strong></a>
     </div>
-    <em>Lär dig hur du hanterar affärsdokumentförfrågningar oavsett var du är med hjälp av Acrobat-webbverktygen i webbläsaren</em>
+    <em>Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i din webbläsare</em>
     <br>
   </td>
   <td>
@@ -67,7 +68,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
     <div>
      <a href="productivity.md"><strong>Produktivitet i farten</strong></a>
     </div>
-    <em>Gör mer direkt från din surfplatta eller mobiltelefon med mobilappen Acrobat Reader</em>
+    <em>Gör mer direkt från din surfplatta eller mobiltelefon med Acrobat Reader-mobilappen</em>
     <br>
   </td>
 </tr>
@@ -89,16 +90,16 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>Var kommer PDF ifrån?</strong></a>
       </div>
-      <em>Förstå varifrån PDF kommer och hur de används</em>
+      <em>Förstå varifrån PDF kommer och hur det används</em>
       <br>
     </td>
     <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
       <div>
       <br>
     </td>
     <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
       <div>
       <br>
     </td>
@@ -126,7 +127,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="combine-to-pdf.md"><strong>Kombinera filer till PDF</strong></a>
       </div>
-      <em>Kombinera många olika filtyper i ett och samma PDF</em>
+      <em>Kombinera många olika filtyper i en enda PDF</em>
       <br>
     </td>
     <td>
@@ -136,7 +137,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="organize.md"><strong>Ordna sidor</strong></a>
       </div>
-      <em>Lägga till, ersätta, extrahera, rotera, ta bort och ordna om sidor i PDF</em>
+      <em>Lägg till, ersätt, extrahera, rotera, ta bort och ordna om sidor i din PDF</em>
       <br>
     </td>
     <td>
@@ -146,13 +147,13 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="add-custom-page.md"><strong>Lägg till anpassad sida</strong></a>
       </div>
-      <em>Lär dig hur du lägger till anpassade Adobe Expresser i PDF med den inbyggda sidappen</em>
+      <em>Lär dig hur du lägger till anpassade Adobe Expresser i PDF med hjälp av den integrerade sidappen</em>
       <br>
     </td>
   </tr>
   </table>
 
-## Redigera och exportera självstudiekurser
+## Självstudiekurser för redigering och export
 
 <table style="table-layout:fixed">
   <tr>
@@ -168,12 +169,12 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
     </td>
     <td>
       <a href="auto-adjust-layout.md">
-        <img alt="Justera layout automatiskt" src="../assets/Autoadjust.png" />
+        <img alt="Automatisk justering av layout" src="../assets/Autoadjust.png" />
       </a>
       <div>
-      <a href="auto-adjust-layout.md"><strong>Justera layout automatiskt</strong></a>
+      <a href="auto-adjust-layout.md"><strong>Automatisk justering av layout</strong></a>
       </div>
-      <em>Läs mer om det nya redigeringsläget som automatiskt justerar innehåll</em>
+      <em>Läs mer om det nya redigeringsläget för automatisk justering av innehåll</em>
       <br>
     </td>
     <td>
@@ -183,18 +184,18 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="export-pdf.md"><strong>Exportera en PDF till redigerbara format</strong></a>
       </div>
-      <em>Lär dig hur du exporterar PDF-filer till redigerbara format</em>
+      <em>Lär dig hur du exporterar dina PDF-filer till redigerbara format</em>
       <br>
     </td>
     <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
   </tr>
   </table>
 
-## Självstudiekurser för samarbete
+## Självstudiekurser om samarbete
 
 <table style="table-layout:fixed">
   <tr>
@@ -205,7 +206,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="collaborate.md"><strong>Samarbeta i realtid</strong></a>
       </div>
-      <em>Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och följa upp dokumentförloppet i realtid var du än är</em>
+      <em>Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var som helst</em>
       <br>
     </td>
     <td>
@@ -215,16 +216,16 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
       <div>
       <a href="comment-on-pdf-files.md"><strong>Kommentera en PDF</strong></a>
       </div>
-      <em>Lägga till kommentarer i en PDF-fil och sedan dela den med andra</em>
+      <em>Lägg till kommentarer i en PDF-fil och dela den sedan med andra</em>
       <br>
     </td>
     <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
     <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
@@ -237,10 +238,10 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Skapa ifyllbara formulär" src="../assets/Form_1280.png" />
+      <img alt="Skapa ifyllningsbara formulär" src="../assets/Form_1280.png" />
     </a>
     <div>
-    <a href="create-fillable-forms.md"><strong>Skapa ifyllbara formulär</strong></a>
+    <a href="create-fillable-forms.md"><strong>Skapa ifyllningsbara formulär</strong></a>
     </div>
     <em>Omvandla ett dokument som har skapats i ett annat program till ett ifyllbart PDF-formulär</em>
     <br>
@@ -257,10 +258,10 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Skanning och OCR" src="../assets/Scan.jpg" />
+      <img alt="Skanning &amp; OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Skanning och OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Skanning &amp; OCR</strong></a>
     </div>
     <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
     <br>
@@ -272,7 +273,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
     <div>
     <a href="password-protect.md"><strong>Protect en PDF-fil med ett lösenord</strong></a>
     </div>
-    <em>Lägg till ett lösenord på PDF för att skydda andra från att öppna eller redigera filen</em>
+    <em>Lägg till ett lösenord på din PDF för att skydda andra från att öppna eller redigera filen</em>
     <br>
   </td>
 </tr>
@@ -284,7 +285,7 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
     <div>
     <a href="signatures.md"><strong>Hämta signaturer</strong></a>
     </div>
-    <em>Få fart på verksamheten genom att samla in juridiskt bindande e-signaturer från andra - var som helst</em>
+    <em>Få fart på verksamheten genom att samla in rättsligt bindande e-signaturer från andra - var som helst</em>
     <br>
   </td>
   <td>
@@ -294,16 +295,16 @@ Gå vidare med projekten genom att samla in kommentarer, samarbeta om svar och f
     <div>
     <a href="track.md"><strong>Spåra dina dokument</strong></a>
     </div>
-    <em>Ha alltid koll på vilka filer som väntar på signaturer och vilka som har signerats</em>
+    <em>Ta alltid reda på vilka filer som väntar på signaturer och vilka som har signerats</em>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

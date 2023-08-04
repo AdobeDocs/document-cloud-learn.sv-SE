@@ -1,39 +1,40 @@
 ---
-title: Optimize PDF för SEO (sökmotoroptimering)
+title: Optimize PDF för SEO (Search Engine Optimization)
 description: Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
+feature: Edit PDF
 role: User
 level: Experienced
-thumbnail: KT-9347.jpg
 jira: KT-9347
+thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
 
 ---
 
-# Optimize PDF för SEO (sökmotoroptimering)
+# Optimize PDF för SEO (Search Engine Optimization)
 
-Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben.
+Läs om hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben.
 
 ## 1. Skapa unikt innehåll
 
-Skapa PDF-innehåll som skiljer sig från webbsidornas.
+Skapa PDF-innehåll som skiljer sig från informationen på dina webbsidor.
 
 +++Visa information om hur du skapar unikt innehåll
 
-PDF-innehållet bör vara unikt och strukturerat på följande sätt:
+Innehållet i PDF bör vara unikt och strukturerat enligt följande:
 
-* Använda en enda huvudrubrik/rubrik som börjar med ett nyckelord
-* Använda underrubriker i en hierarkisk struktur
+* Använda en enda huvudrubrik/titel som börjar med ett nyckelord
+* Använda nyckelordsunderrubriker ordnade i en hierarkisk struktur
 * Använda korta stycken som innehåller nyckelord och listor
-* Lägga till interna och externa hyperlänkar (innehåll på webbplatsen eller andra webbplatser)
+* Lägg till interna och externa hyperlänkar (innehåll på din webbplats eller andra webbplatser)
 * Lägga till en hyperlänkad innehållsförteckning för dokument som är längre än 25 sidor
-* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) på alla skannade dokument
-* Skapa mobilvänliga PDF Öppna filen i PDF för att kontrollera hur mobilt du ser [Acrobat Reader-mobilapp](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktivera Liquid Mode. Lägg till underrubriker om det behövs för att förbättra navigeringen.
+* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) i alla skannade dokument
+* Skapa PDF som är mobilvänliga För att kontrollera mobilvisningsupplevelsen för din PDF ska du öppna filen i [Acrobat Reader-mobilapp](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktivera Liquid Mode. Om det behövs kan du lägga till fler underrubriker för att förbättra navigeringen.
 
-  ![Skärmdump av Liquid Mode i Acrobat Reader-mobilappen](../assets/optimizeseo1.png)
+  ![Skärmbild av Liquid Mode i Acrobat Reader-mobilappen](../assets/optimizeseo1.png)
 
 +++
 
@@ -41,68 +42,68 @@ PDF-innehållet bör vara unikt och strukturerat på följande sätt:
 
 ## 2. Lägg till dokumentegenskaper
 
-PDF-filer har en rubrik och metabeskrivning precis som en webbsida.
+PDF-filer har en rubrik och en metabeskrivning precis som en webbsida.
 
 +++Visa information om hur du lägger till dokumentegenskaper
 
 Lägg till nyckel **[!UICONTROL Dokumentegenskaper]** enligt följande:
 
-1. Välj **[!UICONTROL Arkiv > Egenskaper]** eller använd kortkommandot *Ctrl + D* i Windows eller *Cmd + D* på Mac och välj **[!UICONTROL Beskrivning]** -fliken.
-1. Ange en nyckelordsoptimerad titel i **[!UICONTROL Titel:]** fält.
+1. Välj **[!UICONTROL Arkiv > Egenskaper]** eller använd kortkommandot *Ctrl + D* I Windows eller *Cmd + D* på Mac och välj **[!UICONTROL Beskrivning]** -fliken.
+1. Ange en nyckelordsoptimerad titel i **[!UICONTROL Titel:]** område.
 1. Kontrollera att **[!UICONTROL Författare:]** fältet identifierar inte en specifik person i organisationen.
-1. Ange en nyckelordsoptimerad sammanfattning av dokumentet i **[!UICONTROL Angående:]** fält.
+1. Ange en nyckelordsoptimerad sammanfattning av dokumentet i **[!UICONTROL Motiv:]** område.
 Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, Utforska osv.
-1. Välj **[!UICONTROL Ytterligare metadata]** lägga till information om upphovsrätt eller offentlig domän om tillämpligt.
+1. Välj **[!UICONTROL Ytterligare metadata]** lägga till information om upphovsrätt eller allmän egendom om tillämpligt.
 
-   ![Skärmdump av dokumentegenskaper](../assets/optimizeseo2.png)
+   ![Skärmbild av dokumentegenskaper](../assets/optimizeseo2.png)
 
 +++
 
 <br> 
 
-## 3. Tagga PDF
+## 3. Tagga din PDF
 
-Att tagga innehåll i PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder - det förbättrar också SEO.
+Att tagga innehåll i din PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionsnedsättning - det förbättrar också SEO.
 
 +++Visa information om hur du taggar en PDF
 
-Tagga en PDF enligt följande:
+Tagga en PDF på följande sätt:
 
-1. Välj **[!UICONTROL Tillgänglighet]** i **[!UICONTROL Verktyg]** mitten.
-1. Välj **[!UICONTROL Märk dokument automatiskt]** i den högra rutan.
+1. Välj **[!UICONTROL Tillgänglighet]** i **[!UICONTROL Verktyg]** centrera.
+1. Välj **[!UICONTROL Tagga dokument automatiskt]** i det högra fönstret.
 1. Följ tipsen för reparation i den vänstra rutan **[!UICONTROL Tolkningsrapport]**.
 1. Kör **[!UICONTROL Ange alternativ text]** vid behov.
 1. Använda nyckelord för att beskriva bilden i **[!UICONTROL Alternativ text]**.
 
-   ![Skärmdump av inställning av alternativ text i PDF](../assets/optimizeseo3.png)
+   ![Skärmbild av inställning av alternativ text i PDF](../assets/optimizeseo3.png)
 
 +++
 
 >[!NOTE]
 >
->Finns endast i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro.
 
 <br> 
 
 ## 4. Förbered för webben
 
-Optimera interaktionen med PDF genom att förbereda den för webbvisning och [minska filstorleken i PDF](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimera upplevelsen av att interagera med PDF genom att förbereda den för visning på webben och [minska filstorleken på PDF](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
 
-+++Visa information om hur du förbereder PDF för webben
++++Visa information om hur du förbereder din PDF för webben
 
-Gör PDF redo för webben på följande sätt:
+Förbered din PDF för webben enligt följande:
 
-Om du vill förbereda PDF för webben väljer du **[!UICONTROL Arkiv > Spara som annan > Minskad storlek, PDF]**.
+Om du vill förbereda PDF för webben väljer du **[!UICONTROL Arkiv > Spara som annan > PDF i reducerad storlek]**.
 
-![Skärmdump av dokumentegenskaper](../assets/optimizeseo4.png)
+![Skärmbild av dokumentegenskaper](../assets/optimizeseo4.png)
 
-Det här steget minskar filstorleken och möjliggör **Snabb webbvisning** i PDF. **Snabb webbvisning** gör att filen omedelbart kan öppnas, visas och sökas innan hela filen direktuppspelas eller hämtas - vilket skapar en optimal slutanvändarupplevelse. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* i Windows eller *Cmd + D* på Mac) för att avgöra om **Snabb webbvisning** är aktiverat.
+Det här steget minskar filstorleken och gör att **Snabb webbvisning** i PDF. **Snabb webbvisning** gör att filen kan öppnas, visas och sökas direkt innan hela filen strömmas eller hämtas, vilket skapar en optimal slutanvändarupplevelse. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* I Windows eller *Cmd + D* på Mac) för att avgöra om **Snabb webbvisning** har aktiverats.
 
-![Skärmdump av dokumentegenskaper](../assets/optimizeseo5.png)
+![Skärmbild av dokumentegenskaper](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
->Om du har Acrobat Pro kör du Optimera för webb och mobil i verktyget Action Wizard . Den här åtgärden konverterar färger till sRGB och bäddar in teckensnitt för enhetlig visning av PDF i webbläsare och på mobila enheter.
+>Om du har Acrobat Pro kör du Optimera för webben och mobiler i verktyget Action Wizard. Den här åtgärden konverterar färger till sRGB och bäddar in teckensnitt för konsekvent visning av PDF i webbläsare och på mobila enheter.
 
 +++
 
@@ -114,7 +115,7 @@ Det här steget minskar filstorleken och möjliggör **Snabb webbvisning** i PDF
 
 Skapa ett nyckelordsfilnamn på följande sätt:
 
-Filnamnet blir en del av URL:en när en PDF läggs upp på webben. Ett bra sätt är att matcha din nyckelordsoptimerade titel med filnamnet. För att vara sökvänliga - använd gemener, ingen interpunktion eller hash, och undvik stoppord (a, an, och, det, för, eller, men, i, min, din, vår, och deras, etc.). Om du använder separata ord lägger du till bindestreck eller understreck mellan orden.
+Filnamnet blir en del av URL-adressen när en PDF läggs upp på webben. Ett tips är att matcha den nyckelordsoptimerade titeln med filnamnet. Om du vill vara sökvänlig använder du gemener, inget skiljetecken eller hash, och undviker stoppord (a, an, och, det, för, eller, men, i, min, din, vår, och deras, etc.). Om du använder separata ord lägger du till bindestreck eller understreck mellan orden.
 
 +++
 
@@ -122,21 +123,21 @@ Filnamnet blir en del av URL:en när en PDF läggs upp på webben. Ett bra sätt
 
 ## 6. Säkra PDF
 
-Det sista steget är att [skydda PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} för att förhindra obehöriga ändringar.
+Det sista steget är att [skydda din PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} för att förhindra obehöriga ändringar.
 
-+++Visa information om hur du skyddar PDF
++++Visa information om hur du skyddar din PDF
 
-Säkra en PDF enligt följande:
+Säkra PDF på följande sätt:
 
-1. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* i Windows eller *Cmd + D* på Mac) och välj **[!UICONTROL Säkerhet]** -fliken.
-1. Kontrollera **[!UICONTROL Skriva ut redigering och utskrift av dokumentet. Ett lösenord krävs för att ändra dessa inställningar.]**
+1. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* I Windows eller *Cmd + D* på Mac) och välj **[!UICONTROL Säkerhet]** -fliken.
+1. Kontroll **[!UICONTROL Skriva ut redigering och utskrift av dokumentet. Ett lösenord krävs för att ändra dessa inställningar.]**
 1. Under **[!UICONTROL Tillåtna ändringar:]** markera **[!UICONTROL Ingen]**.
-1. Kontrollera **[!UICONTROL Aktivera textåtkomst för skärmläsarenheter för synskadade.]**
+1. Kontroll **[!UICONTROL Aktivera textåtkomst för skärmläsarenheter för synskadade.]**
 1. Ange och bekräfta ett starkt lösenord.
 1. Välj **[!UICONTROL OK]** och spara filen.
 
-   ![Skärmdump av dokumentegenskaper](../assets/optimizeseo6.png)
+   ![Skärmbild av dokumentegenskaper](../assets/optimizeseo6.png)
 
 +++
 
-Nu kan PDF publiceras på webben - med optimal potential för nyckelordsrankning och interaktion med slutanvändaren.
+Nu är din PDF redo att publiceras på webben - med optimala sökord rankning potential och slutanvändare interaktion.

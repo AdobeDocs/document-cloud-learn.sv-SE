@@ -1,13 +1,14 @@
 ---
 title: Komma igång med Acrobat Sign
-description: Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Adobe Sign
+description: Den här omfattande självstudiekursen är en utmärkt utgångspunkt för nya avsändare i Adobe Sign
+feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -16,13 +17,13 @@ ht-degree: 0%
 
 # Komma igång med Acrobat Sign
 
-Har du inte använt Acrobat Sign förut? Den här omfattande självstudiekursen är en bra utgångspunkt eftersom den fokuserar på allt det grundläggande för att du ska komma igång snabbt med Acrobat Sign.
+Har du inte använt Acrobat Sign förut? Den här omfattande självstudiekursen är en utmärkt utgångspunkt eftersom den fokuserar på alla grundläggande funktioner som hjälper dig att komma igång snabbt med Acrobat Sign.
 
 >[!NOTE]
 >
->Den här självstudiekursen gäller planer på Business- och Enterprise-nivå.
+>Den här självstudiekursen gäller specifikt planer på företags- och storföretagsnivå.
 
-Den här detaljerade självstudiekursen behandlar följande ämnen:
+Den här detaljerade självstudiekursen handlar om följande ämnen:
 
 <table style="table-layout:auto">
 <tr>
@@ -34,7 +35,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?hidetitle=true"><strong>Logga in</strong></a>
          <br>
-        <em>Starta kl. 00.00</em>
+        <em>Börja vid 0:00</em>
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
@@ -54,7 +55,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>Konfigurera din profil</strong></a>
         <br>
-        <em>Starta klockan 2.33</em>
+        <em>Börja vid 2:33</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
@@ -64,7 +65,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>Skicka-inställningar</strong></a>
         <br>
-        <em>Starta kl. 4.32</em>
+        <em>Börja kl. 4.32</em>
     </td>
   </tr>
   <tr>
@@ -86,7 +87,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>Signeringsupplevelse</strong></a>
         <br>
-        <em>Starta kl. 11.59</em>
+        <em>Börja kl. 11:59</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
@@ -96,7 +97,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>Hantera och spåra dokument</strong></a>
         <br>
-        <em>Starta kl. 12.54</em>
+        <em>Börja kl. 12.54</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
@@ -106,7 +107,7 @@ Den här detaljerade självstudiekursen behandlar följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>Support och resurser</strong></a>
         <br>
-        <em>Starta kl. 14.58</em>
+        <em>Börja kl. 14.58</em>
     </td>
   </tr>
   </table>

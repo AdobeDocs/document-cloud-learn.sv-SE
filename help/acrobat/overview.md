@@ -1,23 +1,24 @@
 ---
 title: Acrobat Tutorials
-description: En samling självstudiekurser, webbinarier och användningsexempel för Adobe Acrobat
+description: En samling självstudiekurser, webbseminarier och användningsfall för Adobe Acrobat
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
 
 ---
 
-# Självstudiekurser för Acrobat
+# Självstudiekurser om Acrobat
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksamheten igång genom att konvertera, redigera, dela och signera PDF. Här finns ett stort utbud av utbildningsmaterial som är utformat för att snabbt få både nybörjare och avancerade användare att komma igång med Adobe Acrobat.
+Adobe Acrobat är en Adobe Document Cloud-lösning som hjälper företag att hålla verksamheten i rörelse genom att konvertera, redigera, dela och signera PDF. Här hittar du ett brett utbud av utbildningsupplevelser som är utformade för att snabbt få både nybörjare och avancerade användare att komma igång med Adobe Acrobat.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -42,7 +43,7 @@ Adobe Acrobat, en Adobe Document Cloud-lösning, hjälper till att hålla verksa
   </td>
   <td>
     <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="Färdighetsbyggare" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="Kompetensbyggaren" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
   <td>

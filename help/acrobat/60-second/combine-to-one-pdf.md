@@ -1,12 +1,13 @@
 ---
-title: Combine Files till ett PDF
-description: Skapa ett dokument snabbt genom att kombinera flera olika filtyper i ett och samma PDF
+title: Combine Files till en PDF
+description: Skapa snabbt ett dokument genom att kombinera flera olika filtyper i ett enda PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8571.jpg
 jira: KT-8571
+thumbnail: KT-8571.jpg
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 9%

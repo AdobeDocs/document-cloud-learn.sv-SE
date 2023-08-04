@@ -1,13 +1,14 @@
 ---
 title: Översikt över administratörer
-description: Lär dig grunderna i att lägga till användare i ditt konto, konfigurera grupper, dela åtkomst och konfigurera ett arbetsflöde, ett externt arkiv och delade händelser och varningar
+description: Lär dig grunderna i att lägga till användare till ditt konto, konfigurera grupper, dela åtkomst och konfigurera ett arbetsflöde, ett externt arkiv och delade händelser och varningar
+feature: Administration, Deploy, Workflow, Report, Web Forms
 role: Admin
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -18,7 +19,7 @@ ht-degree: 1%
 
 ![Bild för Sign-administratörer](../assets/Hero-Admin.png)
 
-Lär dig hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. Dessa självstudiekurser är utformade för administratörer som har passerat installationsfasen och är redo att börja administrera Acrobat Sign. De avancerade uppgifterna omfattar ämnen som sträcker sig bortom administratörskonfigurationen och rör sig mot att definiera globala inställningar, kontoåtkomst och delning samt texttaggning.
+Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, delar åtkomst och konfigurerar ett arbetsflöde, ett externt arkiv och delade händelser och varningar. De här självstudiekurserna är avsedda för administratörer som har kommit förbi installationsfasen och kan börja administrera Acrobat Sign. De avancerade uppgifterna omfattar ämnen som expanderar efter administratörskonfigurationen och går vidare till att definiera globala inställningar, kontoåtkomst och delning samt texttaggning.
 
 ## Nyheter
 
@@ -38,7 +39,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="get-started-admin.md"><strong>Komma igång för nya administratörer</strong></a>
     </div>
-    <em>I den här omfattande videoguiden får du lära dig mer om alla verktyg som behövs för att få igång verksamheten med Acrobat Sign</em>
+    <em>I den här omfattande videoguiden får du lära dig mer om alla verktyg du behöver för att komma igång med Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -48,17 +49,17 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="up-and-running-admin.md"><strong>Komma igång för administratörer</strong></a>
     </div>
-    <em>Översikt över 7 nyckelområden där administratörer snabbt kan komma igång i Acrobat Sign</em>
+    <em>Översikt över sju nyckelområden där administratörer kan komma igång snabbt i Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Ställa in delade händelser och varningar" src="../assets/Notifications_1280.png" />
+      <img alt="Konfigurera delade händelser och varningar" src="../assets/Notifications_1280.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
     </div>
-    <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
+    <em>Konfigurera aviseringar för händelser och varningar för ditt konto</em>
     <br>
   </td>
   <td>
@@ -68,7 +69,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="add-users-to-your-account.md"><strong>Lägga till användare</strong></a>
     </div>
-    <em>Lägg till och hantera användare för Acrobat Sign</em>
+    <em>Lägga till och hantera användare i Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -85,12 +86,12 @@ Lär dig lägga till och hantera användare för Acrobat Sign
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Konfigurera ett externt arkiv" src="../assets/ExternalArchive.png" />
+      <img alt="Upprätta ett externt arkiv" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Konfigurera ett externt arkiv</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>Upprätta ett externt arkiv</strong></a>
     </div>
-    <em>Skapa ett externt arkiv för säkerhetskopior av avtal som har signerats</em>
+    <em>Skapa ett externt arkiv för säkerhetskopior av signerade avtal</em>
     <br>
   </td>
   <td>
@@ -100,7 +101,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
     </div>
-    <em>Skapa en återanvändbar dokumentmall för snabbhet och enhetlighet</em>
+    <em>Skapa en återanvändbar dokumentmall för snabbhet och konsekvens</em>
     <br>
   </td>
   <td>
@@ -132,7 +133,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>Skapa ett webbformulär</strong></a>
     </div>
-    <em>Skapa ett dokument som kan signeras elektroniskt direkt på webbplatsen</em>
+    <em>Skapa ett dokument som kan signeras elektroniskt direkt på din webbplats</em>
     <br>
   </td>
   <td>
@@ -142,15 +143,15 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
     </div>
-    <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
+    <em>Lär dig inaktivera, redigera och återaktivera ett befintligt webbformulär</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Skicka och samla in flera signaturer samtidigt" src="../assets/Megasign.png" />
+      <img alt="Skicka och samla in signaturer gruppvis" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Skicka och samla in flera signaturer samtidigt</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Skicka och samla in signaturer gruppvis</strong></a>
     </div>
     <em>Samla hundratals signaturer samtidigt för alla dokument</em>
     <br>
@@ -168,17 +169,17 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -200,10 +201,10 @@ Lär dig lägga till och hantera användare för Acrobat Sign
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Delning av kontoåtkomst" src="../assets/SharingAccess.png" />
+      <img alt="Delar kontoåtkomst" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Delning av kontoåtkomst</strong></a>
+    <a href="share-account-access.md"><strong>Delar kontoåtkomst</strong></a>
     </div>
     <em>Ställ in skrivskyddad åtkomst till transaktioner på en annan användares konto</em>
     <br>
@@ -215,7 +216,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="advanced-account-sharing.md"><strong>Avancerad kontodelning</strong></a>
     </div>
-    <em>Konfigurera kontodelning så att administratörer och användare kan delegera behörigheter för att skicka, ändra och visa</em>
+    <em>Konfigurera kontodelning så att administratörer och användare kan delegera sina behörigheter för att skicka, ändra och visa</em>
     <br>
   </td>
   <td>
@@ -225,7 +226,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Använda bioläkemedelsinställningar</strong></a>
     </div>
-    <em>Ställ in bioläkemedelsinställningar som gör att du kan uppfylla kraven för FDA 21 CFR del 11</em>
+    <em>Ställ in bioläkemedelsinställningar så att du kan uppfylla kraven i FDA 21 CFR Part 11</em>
     <br>
   </td> 
 </tr>
@@ -237,21 +238,21 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
     <div>
-    <em>Skapa Acrobat Sign-formulärfält genom att tagga text med Adobe Acrobat</em>
+    <em>Bygga Acrobat Sign-formulärfält genom texttaggning med Adobe Acrobat</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

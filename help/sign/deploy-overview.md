@@ -1,23 +1,24 @@
 ---
-title: Distributionsöversikt
-description: Artiklar om bästa praxis och värdefulla insikter om hur du driftsätter Acrobat Sign
+title: Översikt över driftsättning
+description: Artiklar med metodtips och värdefull information om hur du driftsätter Acrobat Sign
+feature: Deploy, Administration
 role: Admin
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 10%
 
 ---
 
-# Distribuera översikt
+# Översikt över driftsättning
 
-![Sign Deploy Image](assets/Hero-Deploy.png)
+![Sign-driftsättningsbild](assets/Hero-Deploy.png)
 
-Artiklar om bästa praxis med värdefulla insikter om hur ni driftsätter Acrobat Sign i er organisation.
+Artiklar med metodtips om hur du driftsätter Acrobat Sign i ditt företag.
 
 <table style="table-layout:fixed">
 <tr>
@@ -38,21 +39,21 @@ Artiklar om bästa praxis med värdefulla insikter om hur ni driftsätter Acroba
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
-    <em>Läs mer om våra insatser för säkerhet, laglighet och standarder i Acrobat Sign</em>
+    <em>Läs mer om våra pågående insatser inom säkerhet, laglighet och standarder för Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Studiehandledning för Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
+      <img alt="Acrobat Sign Essentials-studieguiden" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Studiehandledning för Acrobat Sign Essentials</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials-studieguiden</strong></a>
     </div>
-    <em>Acrobat Sign Study Guide for the Acrobat Sign Essentials Assessment (AD3-D104)</em>
+    <em>Acrobat Sign studiehandbok för Acrobat Sign Essentials-utvärderingen (AD3-D104)</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>

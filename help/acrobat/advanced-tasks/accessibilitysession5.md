@@ -1,12 +1,13 @@
 ---
 title: Lägga till formulärfält i ett taggat PDF
-description: Denna on demand-session fokuserar på att lägga till formulärfält i ett tidigare taggat PDF
+description: Sessionen på begäran fokuserar på att lägga till formulärfält i ett tidigare taggat PDF
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8612.jpg
 jira: KT-8612
+thumbnail: KT-8612.jpg
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
@@ -15,10 +16,10 @@ ht-degree: 6%
 
 # Lägga till formulärfält i ett taggat PDF
 
-Denna on demand-session fokuserar på att lägga till formulärfält i ett tidigare taggat PDF.
+Sessionen på begäran fokuserar på att lägga till formulärfält i ett tidigare taggat PDF.
 
 Klicka [här](../assets/accessibilitysession5.zip) om du vill hämta en zip-fil med praktiska filer för den här sessionen.
 
-Markera bilden för att visa videon på en separat webbläsarflik.
+Välj bilden för att se videon på en separat webbläsarflik.
 
-[![Video om session 5](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target="_blank"}
+[![Session 5-video](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target="_blank"}

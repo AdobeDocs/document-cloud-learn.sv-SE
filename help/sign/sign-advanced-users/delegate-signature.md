@@ -1,12 +1,13 @@
 ---
-title: Använda rollen Delegerare
-description: Använd rollen delegerande för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering
+title: Använda rollen Delegerande
+description: Använd rollen delegerare för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering
+feature: Workflow, Sign
 role: User
 level: Intermediate
 jira: KT-5322
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%
@@ -15,11 +16,11 @@ ht-degree: 3%
 
 # Använda delegerarerollen
 
-Lär dig använda rollen delegerande för att skicka ett dokument till en mellanhand som sedan kan skicka dokumentet för signering.
+Lär dig använda delegeringsrollen när du vill skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering.
 
 >[!NOTE]
 >
->Delegeringsrollen är bara tillgänglig för planer på företagsnivå. Din Acrobat Sign-administratör kan behöva aktivera **Tillåt avsändare att markera vissa mottagare som delegerare** i **Skicka-inställningar** den del av **Kontoinställningar** för att använda den här funktionen.
+>Delegeringsrollen är bara tillgänglig för planer på företagsnivå. Din Acrobat Sign-administratör kan behöva aktivera **Tillåt avsändare att ange vissa mottagare som delegerare** inställning i **Skicka-inställningar** avsnitt i **Kontoinställningar** om du vill använda den här funktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 

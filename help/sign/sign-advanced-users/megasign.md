@@ -1,31 +1,32 @@
 ---
 title: Skicka och samla in flera signaturer samtidigt
-description: Lär dig hur du samlar in hundratals signaturer samtidigt för alla dokument i några få korta steg
+description: Lär dig samla hundratals signaturer samtidigt för alla dokument i bara några korta steg
+feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Skicka och samla in flera signaturer samtidigt
+# Skicka och samla in signaturer gruppvis
 
-Lär dig hur du samlar in hundratals underskrifter i bara några korta steg. I det här fallet får alla sina egna ansvarsbefrielser för att skriva under, och du kan spåra förloppet för varje enskilt undantag - så att du vet exakt vem eller vilka som inte har skrivit under. Varje onlinesignatur du fångar är säker, säker och juridiskt giltig.
+Lär dig samla hundratals signaturer i bara några korta steg. I detta fall får alla sina egna ansvarsfriskrivningar att signera, och du kan spåra förloppet för varje enskilt avstående - så att du vet exakt vem eller vilka som inte har signerat. Varje onlinesignatur du hämtar är säker, säker och giltig i juridiskt hänseende.
 
-Kolla in den här extra verkligheten [Distansarbetsavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) användningsfall.
+Ta en titt på den här extra verklighetstrogna [Distansarbetsavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) användningsfall.
 
 >[!NOTE]
 >
->Enterprise- och företagsplaner kan skicka upp till 300 e-postmeddelanden i en transaktion med verktyget Massutskick. Glöm inte att checka ut [GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en) om du behöver samla in fler än 300 signaturer samtidigt.
+>Enterprise- och företagsplaner kan skicka upp till 300 e-postmeddelanden i en transaktion med verktyget Massutskick. Se till att du checkar ut [GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en) om du behöver samla in fler än 300 signaturer samtidigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Hämta ett exempel på en CSV-fil i ZIP-format](../assets/megasign_merge_sample.zip)
+[Hämta CSV-exempelfilen i ZIP-format](../assets/megasign_merge_sample.zip)
 
 >[!TIP]
 >

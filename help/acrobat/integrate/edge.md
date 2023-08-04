@@ -1,27 +1,28 @@
 ---
-title: Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]
-description: Läs om hur du arkiverar webbsidor till PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]
+title: Skapa PDF-innehåll när du surfar med [!DNL Microsoft Edge]
+description: Läs om hur du arkiverar webbsidor i PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8495.jpg
 jira: KT-8495
+thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]
+# Skapa PDF-innehåll när du surfar med [!DNL Microsoft Edge]
 
-Läs om hur du arkiverar webbsidor till PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]. Det här verktyget är endast för Windows och är ovärderligt för forskningsprojekt och offline-visning av webbaserad information.
+Läs om hur du arkiverar webbsidor i PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]. Detta verktyg är endast för Windows och är ovärderligt för forskningsprojekt och offlinevisning av webbaserad information.
 
 >[!TIP]
 >
->Kolla in de här andra Microsoft [integreringar](../integrate/integrate-overview.md#microsoft).
+>Ta en titt på de här andra Microsoft [integreringar](../integrate/integrate-overview.md#microsoft).
 
 <br> 
 

@@ -1,12 +1,13 @@
 ---
 title: Produktivitet i farten
-description: Gör mer direkt från din surfplatta eller mobiltelefon med mobilappen Acrobat Reader
+description: Gör mer direkt från din surfplatta eller mobiltelefon med Acrobat Reader-mobilappen
+feature: Mobile
 role: User
 level: Beginner
-thumbnail: KT-9155.jpg
 jira: KT-9155
+thumbnail: KT-9155.jpg
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -15,11 +16,11 @@ ht-degree: 0%
 
 # Produktivitet i farten
 
-Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och skalbart. Läs om hur du kan göra mer rätt från din surfplatta eller mobiltelefon med mobilappen Acrobat Reader.
+Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och i stor skala. Läs om hur du kan göra mer direkt från din surfplatta eller mobiltelefon med Acrobat Reader-mobilappen.
 
 >[!TIP]
 >
->Vill du veta mer om verktygen i Acrobat som du kan använda var du än är? Checka ut [Arbeta var som helst med Acrobat på webben](acrobatweb.md).
+>Vill du veta mer om Acrobat-verktyg som du kommer åt var du än befinner dig? Utcheckning [Arbeta överallt med Acrobat web](acrobatweb.md).
 
 <br> 
 

@@ -1,12 +1,13 @@
 ---
 title: Lägga till formulärfält i ett otaggat PDF
-description: Den här on demand-sessionen går djupare in på att skapa manuella formulärfält och ytterligare formulärfältsegenskaper
+description: Denna on demand-session går djupare in i att skapa manuella formulärfält och ytterligare formulärfältsegenskaper
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8613.jpg
 jira: KT-8613
+thumbnail: KT-8613.jpg
 exl-id: 73e0e348-126b-440b-a90e-061911781b76
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -19,6 +20,6 @@ Denna on demand-session går djupare in på att skapa manuella formulärfält oc
 
 Klicka [här](../assets/accessibilitysession6.zip) om du vill hämta en zip-fil med praktiska filer för den här sessionen.
 
-Markera bilden för att visa videon på en separat webbläsarflik.
+Välj bilden för att se videon på en separat webbläsarflik.
 
 [![Video om session 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target="_blank"}

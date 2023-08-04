@@ -1,13 +1,14 @@
 ---
-title: Branscher och avdelningar - översikt
-description: Se hur ni kan omvandla kundupplevelser och anställdas e-signeringsupplevelser med hjälp av de verkliga användningsfallen, recepten och webbinarierna från branschen och avdelningen
+title: Översikt över branscher och avdelningar
+description: Se hur du kan förändra kundupplevelser och anställdas e-signeringsupplevelser med hjälp av de här praktiska användningsfallen, recepten och webbseminarierna från branschen och avdelningen
+feature: Use Cases, Skill Builder
 role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -18,42 +19,42 @@ ht-degree: 0%
 
 ![Acrobat Sign-branschbild](../assets/Hero-Industry.png)
 
-Lär dig hur du kan förändra organisationens e-signeringsupplevelser genom att utforska de verkliga användningsfallen, recepten och webbinarierna för branschen och avdelningen.
+Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom att utforska de här verkliga användningsfallen, recepten och webbseminarierna för branschen och avdelningen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="innovation-series.md">
-      <img alt="Färdighetsbyggare" src="../assets/SB_1280.jpg" />
+      <img alt="Kompetensbyggaren" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Färdighetsbyggare</strong></a>
+    <a href="innovation-series.md"><strong>Kompetensbyggaren</strong></a>
     </div>
-    <em>Skaffa en 30 minuter lång "Skill Builder" där du lär dig hur du sätter e-signaturer i arbete - utan att behöva lägga till något extra</em>
+    <em>Delta i en 30-minuters kompetensbyggare och lär dig sätta e-signaturer i arbete - utan att lägga till extra arbete</em>
     <br>
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Recept för användningsfall" src="../assets/Expand_RecipeR.png" />
+      <img alt="Använd skiftlägesrecept" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Recept för användningsfall</strong></a>
+    <a href="recipes.md"><strong>Använd skiftlägesrecept</strong></a>
     </div>
-    <em>Hämta de resurser du behöver för att snabbt driftsätta olika arbetsflöden för e-signaturavdelningen på egen hand</em>
+    <em>Hämta de resurser du behöver för att snabbt driftsätta olika arbetsflöden på e-signaturavdelningen på egen hand</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Exempel på användningsfall" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="Visa användningsfall" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Exempel på användningsfall</strong></a>
+    <a href="use-case-showcase.md"><strong>Visa användningsfall</strong></a>
     </div>
-    <em>Titta på live- eller inspelningssessioner som presenterar dig för nya användningsfall och trender i Acrobat Sign</em>
+    <em>Se livesessioner eller inspelade sessioner som presenterar nya användningsfall och trender för Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

@@ -1,24 +1,25 @@
 ---
-title: Översikt över mobilen
-description: Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringar i realtid på din mobila enhet
+title: Mobil översikt
+description: Skicka dokument för signering, spåra e-signeringsförloppet och få uppdateringar i realtid på din mobila enhet
+feature: Mobile
 role: User
 level: Intermediate
 jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 34%
 
 ---
 
-# Översikt över mobilen
+# Mobil översikt
 
-![Sign Mobile Image](../assets/Hero-Mobile.png)
+![Signera mobilbild](../assets/Hero-Mobile.png)
 
-Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringar i realtid på din mobila enhet.
+Skicka dokument för signering, spåra e-signeringsförloppet och få uppdateringar i realtid på din mobila enhet.
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +30,7 @@ Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringa
     <div>
     <a href="liquidmode.md"><strong>Liquid Mode i Acrobat Sign</strong></a>
     </div>
-    <em>Läs om hur Liquid Mode förbättrar den mobila signeringsupplevelsen</em>
+    <em>Läs mer om hur Liquid Mode förbättrar den mobila signeringsupplevelsen</em>
     <br>
   </td>
   <td>
@@ -49,7 +50,7 @@ Skicka dokument för signering, följ e-signeringsprocessen och få uppdateringa
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

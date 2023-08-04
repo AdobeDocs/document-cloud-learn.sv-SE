@@ -1,25 +1,26 @@
 ---
-title: Justera layout automatiskt
-description: Läs mer om det nya redigeringsläget som automatiskt justerar innehåll
+title: Automatisk justering av layout
+description: Läs mer om det nya redigeringsläget för automatisk justering av innehåll
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-10835.jpg
 jira: KT-10835
+thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Justera layout automatiskt
+# Automatisk justering av layout
 
-Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt justerar layouten på sidorna i PDF. I den här videosjälvstudien används [ny arbetsyta](new-workspace.md).
+Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt justerar layouten på sidorna i PDF. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
 
 >[!NOTE]
 >
->Layouten för automatisk justering stöder ännu inte alla typer av PDF-innehåll eller -språk.
+>Den automatiska justeringen av layouten stöder ännu inte alla typer av PDF-innehåll eller -språk.
 
 <br> 
 

@@ -1,20 +1,21 @@
 ---
 title: Lägga till fält i dokument
-description: Lär dig hur du lägger till olika typer av fält i dina dokument
+description: Lär dig hur du lägger till olika typer av fält i dokument
+feature: Sign, Workspace
 role: User
 level: Beginner
 jira: KT-10604
 thumbnail: KT-10604.jpg
 exl-id: 1a736446-ae0d-45c0-b253-666bcef1559c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Lägga till fält i dina dokument
+# Lägga till fält i dokument
 
-Läs om hur du placerar fält automatiskt i dokumentet eller använder redigeringsmiljön med dra och släpp-funktioner i Acrobat Sign.
+Lär dig placera fält i dokumentet automatiskt eller använda dra och släpp-redigeringsmiljön i Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)

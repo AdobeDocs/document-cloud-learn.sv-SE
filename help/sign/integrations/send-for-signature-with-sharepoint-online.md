@@ -1,6 +1,7 @@
 ---
-title: Send for Signature i SharePoint Online
-description: Skicka ett dokument för signering direkt i SharePoint Online
+title: SEND FOR SIGNATURE i SHAREPOINT ONLINE
+description: Skicka ett dokument för signering direkt inom SharePoint Online
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate
@@ -8,7 +9,7 @@ jira: KT-6464
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # Skicka för signering i SharePoint Online
 
-Lär dig hur du effektiviserar dokumentarbetsflöden genom att skicka ett dokument för signering direkt i [!DNL Microsoft Sharepoint Online].
+Lär dig effektivisera arbetsflöden för dokument genom att skicka ett dokument för signering direkt inom [!DNL Microsoft Sharepoint Online].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
 

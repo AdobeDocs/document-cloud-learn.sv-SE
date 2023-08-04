@@ -1,14 +1,15 @@
 ---
 title: Översikt över Acrobat-integreringar
-description: Integrera Acrobat med Box, Dropbox, Google Drive, OneDrive och Microsoft-program
+description: Integrera Acrobat med programmen Box, Dropbox, Google Drive, OneDrive och Microsoft
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
@@ -17,13 +18,13 @@ ht-degree: 1%
 
 # Översikt över integreringar
 
-![Integrerad image för Acrobat](../assets/Hero-Integrate.png)
+![Integrerad Acrobat-image](../assets/Hero-Integrate.png)
 
 Integrera Acrobat med [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]och [!DNL Microsoft] program.
 
 ## Microsoft
 
-Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+Lär dig hur alla i ditt team kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -34,7 +35,7 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <div>
     <a href="createfromword.md"><strong>Skapa PDF-filer från [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Skapa funktionsrika PDF-filer med hyperlänkade innehållsförteckningar och korsreferenser, bokmärken och till och med bilagor direkt från [!DNL Microsoft Word]</em>
+    <em>Skapa funktionsrika, robusta PDF-filer med hyperlänkade innehållsförteckningar och korsreferenser, bokmärken och till och med bilagor direkt från [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -44,15 +45,15 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <div>
     <a href="createofficeweb.md"><strong>Skapa PDF i [!DNL Office] för webben</strong></a>
     </div>
-    <em>Lär dig hur du skapar PDF-filer utan att behöva lämna [!DNL Microsoft Office] för webbappar</em>
+    <em>Lär dig skapa PDF-filer utan att någonsin lämna [!DNL Microsoft Office] för webbappar</em>
     <br>
   </td> 
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Arbeta med [!DNL SharePoint] filer" src="../assets/SharePoint.png" />
+      <img alt="Arbeta med din [!DNL SharePoint] filer" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>Arbeta med [!DNL SharePoint] filer</strong></a>
+    <a href="acrobatandsp.md"><strong>Arbeta med din [!DNL SharePoint] filer</strong></a>
     </div>
     <em>Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat</em>
     <br>
@@ -64,7 +65,7 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <div>
     <a href="acrobatandteams.md"><strong>PDF i [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Samarbeta och samarbeta med kollegor genom att visa, kommentera och granska PDF utan att behöva lämna det [!DNL Microsoft Teams]</em>
+    <em>Samarbeta och arbeta med kollegor genom att visa, anteckna i och granska PDF utan att någonsin lämna det [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
@@ -76,31 +77,31 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
     <div>
     <a href="outlook.md"><strong>Konvertera e-postmeddelanden och bilagor till PDF i [!DNL Outlook]</strong></a>
     </div>
-    <em>Läs om hur man levererar information på ett mer professionellt och säkert sätt i [!DNL Outlook]</em>
+    <em>Lär dig leverera information på ett mer professionellt och säkert sätt i [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="Skapa PDF-innehåll när du surfar med [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>Skapa PDF-innehåll när du surfar med [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Läs om hur du arkiverar webbsidor till PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]</em>
+    <em>Läs om hur du arkiverar webbsidor i PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
     <a href="microsoftsensitivitylabels.md">
-      <img alt="Skapa PDF-innehåll när du bläddrar med [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+      <img alt="Skapa PDF-innehåll när du surfar med [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
     </a>
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Protect PDF med [!DNL Microsoft Purview Information] känslighetsetiketter</strong></a>
     </div>
-    <em>Lär dig hur du skyddar PDF genom att lägga till, redigera, anpassa och ta bort [!DNL Microsoft Purview] känslighetsetiketter direkt i Acrobat</em>
+    <em>Lär dig skydda PDF genom att lägga till, redigera, anpassa och ta bort [!DNL Microsoft Purview] känslighetsetiketter direkt i Acrobat</em>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -109,7 +110,7 @@ Se hur alla i teamet kan arbeta smidigt med PDF-filer direkt i [Microsoft 365](h
 
 ## Google Drive
 
-Läs om hur du får mer gjort på kortare tid med de verktyg för PDF och e-signaturer som behövs [!DNL Google Drive].
+Lär dig hur du får mer gjort på kortare tid med viktiga PDF- och e-signaturverktyg på insidan [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -120,21 +121,21 @@ Läs om hur du får mer gjort på kortare tid med de verktyg för PDF och e-sign
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat för [!DNL Google Drive]</strong></a>
     </div>
-    <em>Få tillgång till tidsbesparande verktyg för PDF och e-signaturarbetsflöden direkt i [!DNL Google Drive] app</em>
+    <em>Få tillgång till tidsbesparande PDF-verktyg och arbetsflöden för e-signaturer direkt i [!DNL Google Drive] app</em>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -143,7 +144,7 @@ Läs om hur du får mer gjort på kortare tid med de verktyg för PDF och e-sign
 
 ## Dropbox
 
-Läs om hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL Dropbox].
+Lär dig hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL Dropbox].
 
 <table style="table-layout:fixed">
 <tr>
@@ -154,21 +155,21 @@ Läs om hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL
     <div>
     <a href="acrobat-dropbox.md"><strong>Arbeta med filer från [!DNL Dropbox]</strong></a>
     </div>
-    <em>Lär dig hur du öppnar, skapar, redigerar, signerar och sparar ändringar i dina [!DNL Dropbox] filer inifrån Acrobat</em>
+    <em>Lär dig öppna, skapa, redigera, signera och spara ändringar i [!DNL Dropbox] filer inifrån Acrobat</em>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+   <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -177,4 +178,4 @@ Läs om hur enkelt det är att komma åt och arbeta med filer som lagras i [!DNL
 
 ## Box
 
-Läs om hur Acrobat och [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} gör det enklare för alla i organisationen att hålla verksamheten igång.
+Lär dig hur Acrobat och [Ruta](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} gör det enklare för alla i organisationen att hålla igång verksamheten.

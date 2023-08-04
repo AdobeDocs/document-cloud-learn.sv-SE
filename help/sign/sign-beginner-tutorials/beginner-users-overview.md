@@ -1,30 +1,31 @@
 ---
-title: Komma igång - översikt
-description: Få information om hur du skickar, signerar och spårar dokument med de här korta stegvisa självstudiekurserna
+title: Översikt över Komma igång
+description: Få uppdaterad information om hur du skickar, signerar och spårar dokument med dessa korta stegvisa självstudiekurser
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
 
 ---
 
-# Komma igång - översikt
+# Översikt över Komma igång
 
-![Komma igång-bild för Sign](../assets/Hero-GettingStarted.png)
+![Bild för att komma igång med Sign](../assets/Hero-GettingStarted.png)
 
-Få information om hur du skickar, signerar och spårar dokument med dessa korta steg-för-steg-självstudiekurser. Få en snabbgenomgång av Acrobat Sign och börja sedan skicka ett dokument till en eller flera personer. Det här innehållet är utformat för att underlätta för dig att komma in i e-signaturarbetsflöden.
+Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta självstudiekurser. Få en snabb genomgång av Acrobat Sign och börja sedan skicka ett dokument till en eller flera personer. Innehållet är utformat för att underlätta för dig att komma in i arbetsflöden för e-signaturer.
 
 ## Nyheter
 
 * [Komma igång med Acrobat Sign](new-sender.md)
-Har du inte använt Acrobat Sign förut? Den här självstudiekursen är en bra utgångspunkt.
+Har du inte använt Acrobat Sign förut? Den här självstudiekursen är en utmärkt utgångspunkt.
 * [Ange tidsgränser och påminnelser](set-deadlines-reminders.md)
-Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att få dina dokument signerade snabbt
+Lär dig hur du skickar vanliga e-postpåminnelser och tidsgränser för att få dokument signerade snabbt
 
 ## Skickar
 
@@ -37,7 +38,7 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="quick-tour.md"><strong>Allmänt om arbetsytan</strong></a>
     </div>
-    <em>Ta en snabbtitt på arbetsytan i Acrobat Sign för att komma igång</em>
+    <em>Ta en rundtur på arbetsytan i Acrobat Sign för att komma igång</em>
     <br>
   </td>
   <td>
@@ -47,17 +48,17 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="new-sender.md"><strong>Komma igång med Acrobat Sign</strong></a>
     </div>
-    <em>Den här omfattande självstudiekursen är en bra utgångspunkt för nya avsändare i Acrobat Sign</em>
+    <em>Den här omfattande självstudiekursen är en utmärkt utgångspunkt för nya avsändare i Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Skicka till en mottagare" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Skickar till en mottagare" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Skicka till en enda mottagare</strong></a>
     </div>
-    <em>Hoppa in och lär dig hur enkelt det är att skicka ett dokument för signering</em>
+    <em>Sätt igång och lär dig hur enkelt det är att skicka ett dokument för signering</em>
     <br>
   </td>
   <td>
@@ -84,12 +85,12 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Lägga till fält i dina dokument" src="../assets/AddingFields.png" />
+      <img alt="Lägga till fält i dokument" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="adding-fields.md"><strong>Lägga till fält i dina dokument</strong></a>
+    <a href="adding-fields.md"><strong>Lägga till fält i dokument</strong></a>
     </div>
-    <em>Lär dig hur du lägger till olika typer av fält i dina dokument</em>
+    <em>Lär dig hur du lägger till olika typer av fält i dokument</em>
     <br>
   </td>
   <td>
@@ -99,7 +100,7 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="modify-in-flight.md"><strong>Ändra ett dokument efter sändning</strong></a>
     </div>
-    <em>Ändra ett dokument som redan bearbetas</em>
+    <em>Ändra ett dokument som redan pågår</em>
     <br>
   </td>
   <td>
@@ -109,7 +110,7 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="replace-signer.md"><strong>Ersätta en signerare</strong></a>
     </div>
-    <em>Lär dig hur du ändrar signeraren för ett dokument som redan pågår</em>
+    <em>Lär dig ändra signerare av ett dokument som redan pågår</em>
      <br>
   </td>
 </tr>
@@ -121,21 +122,21 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
       <div>
       <a href="set-deadlines-reminders.md"><strong>Ange tidsgränser och påminnelser</strong></a>
       </div>
-      <em>Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att få dina dokument signerade snabbt</em>
+      <em>Lär dig hur du skickar vanliga e-postpåminnelser och tidsgränser för att få dokument signerade snabbt</em>
       <br>
     </td> 
   <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
     <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
     <td>
-      <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
@@ -173,7 +174,7 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="sign-in-person.md"><strong>Hämta en signatur personligen</strong></a>
     </div>
-    <em>Få någon annans namnteckning personligen med mobilappen Acrobat Sign</em>
+    <em>Hämta någon annans signatur personligen med Acrobat Sign-mobilappen</em>
     <br>
   </td>
   <td>
@@ -183,17 +184,17 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="delegate-signing.md"><strong>Delegera signering till någon annan</strong></a>
     </div>
-    <em>Lär dig hur du delegerar signeringen av ett dokument till någon annan</em>
+    <em>Lär dig delegera signeringen av ett dokument till någon annan</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Vad är en digital signatur?" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Vad är en digital signatur" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>Vad är en digital signatur?</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>Vad är en digital signatur</strong></a>
     </div>
     <em>Läs mer om certifikatbaserade digitala signaturer</em>
     <br>
@@ -205,16 +206,16 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signera med en stämpel</strong></a>
     </div>
-    <em>Använda stämplar för att markera ett godkänt eller ifyllt dokument</em>
+    <em>Använd stämplar för att markera ett godkänt eller slutfört dokument</em>
      <br>
   </td> 
  <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -242,16 +243,16 @@ Lär dig hur du skickar regelbundna e-postpåminnelser och deadlines för att f�
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
     </div>
-    <em>Skapa en återanvändbar dokumentmall för att snabba upp och göra organisationen enhetlig</em>
+    <em>Skapa en återanvändbar dokumentmall för att göra organisationen snabbare och mer konsekvent</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
