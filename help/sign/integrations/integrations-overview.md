@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 ## Nyheter
 
+* [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
+Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] för Fältservice används för att effektivisera kundengagemang på plats
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
 Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal
 * [Integrera ett webbformulär med [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
@@ -132,8 +134,13 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    </div>
+    <em>Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] för Fältservice används för att effektivisera kundengagemang på plats</em>
     <br>
   </td>
   <td>
