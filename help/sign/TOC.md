@@ -11,10 +11,10 @@ breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -108,6 +108,7 @@ ht-degree: 10%
       + [Dokumentautomatisering med Acrobat Sign för [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Skicka för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
+      + [Microsoft Dynamics 365 for Field Service](integrations/dynamics-field-service.md)
    + attestera {#notarize}
       + [Skicka dokument för bestyrkande](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
@@ -138,7 +139,7 @@ ht-degree: 10%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Lönecheckningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärrorderbegäran](sign-usecase/usecasegovremote.md)
-      + Kommersiellt {#com}
+      + Reklam {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)
