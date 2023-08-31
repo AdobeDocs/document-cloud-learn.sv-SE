@@ -1,12 +1,12 @@
 ---
 title: Övningar för att släppa loss digitala upplevelser med Adobe Document Cloud
 description: Läs om några trick och tips för att använda Adobe Document Cloud
-featre: Form, Sign, Share, Collaboration
+feature: Form, Sign, Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Övningar för att släppa loss digitala upplevelser med Adobe Document Cloud
 
-[![323](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
+[![bild](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 Den här åhörarkopian innehåller fler övningar och en genomgång av de arbetsflöden som omfattas. Nedan finns de demofiler vi använder i följande övningar. Varje övning listar också detta innehåll:
 
