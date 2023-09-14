@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 ## Nyheter
 
+* [Skapa ett enkelt arbetsflöde med [!DNL Power Automate]](simple-workflow-power-automate.md)
+Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för försäljning används för att automatisera signeringsprocessen för försäljningsoffert
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] för Fältservice används för att effektivisera kundengagemang på plats
-* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal
-* [Integrera ett webbformulär med [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL SharePoint] lista
+
 
 ## Självstudiekurser om Microsoft-integreringar
 
@@ -68,7 +67,7 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Skicka för signering i SharePoint Online</strong></a>
     </div>
-    <em>Skicka ett dokument för signering direkt inom SharePoint Online</em>
+    <em>Skicka ett dokument för signering direkt inifrån Sharepoint Online</em>
     <br>
   </td>
    <td>
@@ -126,13 +125,23 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Skapa ett enkelt arbetsflöde med Power Automate" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Skapa ett enkelt arbetsflöde med Power Automate</strong></a>
+    </div>
+    <em>Lär dig hur du skapar ett enkelt arbetsflöde med [!DNL Power Automate] kontakter</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
     <div>
     <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal</em>
+    <em>Läs om Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundtjänst används för att förbättra kundnöjdheten på en självbetjäningsportal för kunder</em>
     <br>
   </td>
   <td>
@@ -153,11 +162,6 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för försäljning används för att automatisera signeringsprocessen för försäljningsoffert</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -201,12 +205,12 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Document Builder för [!DNL Salesforce]" src="../assets/SF-Template.png" />
+      <img alt="Document Builder for [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Document Builder för [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Document Builder for [!DNL Salesforce]</strong></a>
     </div>
-    <em>Lär dig skapa en återanvändbar dokumentmall med Document Builder för [!DNL Salesforce]</em>
+    <em>Lär dig hur du skapar en återanvändbar dokumentmall med Document Builder för [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -253,7 +257,7 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
     <div>
     <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till Acrobat Sign + Workday nyanställningar</strong></a>
     </div>
-    <em>Lär dig effektivisera introduktionsarbetsflöden med Acrobat Sign + Workday</em>
+    <em>Lär dig effektivisera arbetsflöden för introduktion med Acrobat Sign + Workday</em>
     <br>
   </td>
  <td>
@@ -285,17 +289,17 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
     <div>
     <a href="marketo-salesforce-sms.md"><strong>Skicka meddelanden med Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller push-meddelande för att informera undertecknaren om att ett avtal är på väg</em>
+    <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande så att signeraren vet att ett avtal är på väg</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Skicka påminnelser med videosjälvstudiekursen om Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Skicka påminnelser med videosjälvstudiekurser om Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen om Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekurser om Adobe Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en tidsperiod</em>
+    <em>Lär dig hur du skickar en påminnelse via e-post från Marketo när ett avtal förblir osignerat efter en viss tid</em>
     <br>
   </td>
   <td>
@@ -341,7 +345,7 @@ Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL ShareP
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <img alt="Avstånd" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
