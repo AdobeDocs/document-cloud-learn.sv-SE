@@ -8,7 +8,7 @@ jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -28,88 +28,88 @@ Den här detaljerade självstudiekursen handlar om följande ämnen:
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/337151?hidetitle=true">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?hidetitle=true"><strong>Logga in</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Logga in</strong></a>
          <br>
         <em>Börja vid 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>Startsida</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>Startsida</strong></a>
          <br>
         <em>Börja vid 0:56</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>Konfigurera din profil</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>Konfigurera din profil</strong></a>
         <br>
         <em>Börja vid 2:33</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>Skicka-inställningar</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>Skicka-inställningar</strong></a>
         <br>
         <em>Börja kl. 4.32</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Lägg till ifyllbara fält</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>Lägg till ifyllbara fält</strong></a>
          <br>
         <em>Börja kl. 9.11</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>Signeringsupplevelse</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>Signeringsupplevelse</strong></a>
         <br>
         <em>Börja kl. 11:59</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>Hantera och spåra dokument</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Hantera och spåra dokument</strong></a>
         <br>
         <em>Börja kl. 12.54</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
+    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>Support och resurser</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>Support och resurser</strong></a>
         <br>
         <em>Börja kl. 14.58</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true)
