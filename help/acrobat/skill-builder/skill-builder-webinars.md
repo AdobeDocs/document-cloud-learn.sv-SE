@@ -7,16 +7,14 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: f07f19cd96b9615a4f5fdf8ddf4d7eec51ed5fe0
 workflow-type: tm+mt
-source-wordcount: '1111'
+source-wordcount: '1107'
 ht-degree: 0%
 
 ---
 
 # Adobe Acrobat Skill Builder-webbseminarier
-
-![ACROBAT SKICKLIGHETSSKAPARBILD](../assets/sbacrobatwebinars.png)
 
 Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden i PDF till nästa nivå. Varje månad markeras ett nytt ämne.
 
