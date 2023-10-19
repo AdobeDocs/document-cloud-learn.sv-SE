@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# Självstudiekurser om Acrobat {#acrobat-learning}
+# Acrobat Tutorials {#acrobat-learning}
 
 + [Översikt](overview.md)
 + Komma igång {#getting-started}
@@ -86,7 +86,7 @@ ht-degree: 5%
    + [Dela för att få kommentarer](60-second/share-comment.md)
    + [Dela och kommentera PDF-filer i Teams](60-second/share-comment-teams.md)
    + [Wrangling PDF kommentarer med Sammanfatta](60-second/summarize-comments.md)
-   + [Läsa in PDF-kommentarer i InDesign](60-second/indesign.md)
+   + [Läs in PDF-kommentarer i InDesign](60-second/indesign.md)
    + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
    + [Anpassa en PDF till ett standardformat](60-second/conform.md)
    + [Se skillnaderna med PDF Jämför](60-second/compare.md)

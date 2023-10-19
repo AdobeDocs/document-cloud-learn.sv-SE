@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '465'
 ht-degree: 5%
 
 ---
 
 # Översikt över Komma igång
-
-![Bild för att komma igång med Sign](../assets/Hero-GettingStarted.png)
 
 Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta självstudiekurser. Få en snabb genomgång av Acrobat Sign och börja sedan skicka ett dokument till en eller flera personer. Innehållet är utformat för att underlätta för dig att komma in i arbetsflöden för e-signaturer.
 

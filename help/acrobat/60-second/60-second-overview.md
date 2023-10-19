@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # 60-sekunders översikt över Acrobat
-
-![60-sekunders Acrobat-bild](../assets/Hero-60sec.png)
 
 60-sekunders Acrobat ger dig självstudiekurser i bitstorlek som hjälper dig att lära dig ett nytt trick i Acrobat på en minut eller mindre. Dessa uppgiftsbaserade tips hjälper dig att plocka upp nya färdigheter för att arbeta med PDF filer genom att låsa upp några av Acrobat dolda pärlor. Du kan titta på en för att få ett snabbt svar, eller titta på fem för att öka dokumentproduktiviteten - och fortfarande ha tid att njuta av din kaffepaus.
 
@@ -332,12 +330,12 @@ ht-degree: 0%
   </td>
    <td>
     <a href="indesign.md">
-      <img alt="Läsa in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="Läs in PDF-kommentarer i InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
     <div>
-    <a href="indesign.md"><strong>Läsa in PDF-kommentarer i InDesign</strong></a>
+    <a href="indesign.md"><strong>Läs in PDF-kommentarer i InDesign</strong></a>
     </div>
-    <em>Lär dig hur du läser in PDF-kommentarer tillbaka till InDesign efter en Acrobat-delad granskning</em>
+    <em>Lär dig hur du läser in PDF-kommentarer tillbaka i InDesignen efter en Acrobat-delad granskning</em>
     <br>
   </td>
 </tr>

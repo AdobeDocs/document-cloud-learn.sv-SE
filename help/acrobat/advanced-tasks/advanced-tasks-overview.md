@@ -7,16 +7,14 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '364'
 ht-degree: 2%
 
 ---
 
 # Översikt över avancerade uppgifter
-
-![Bild för Acrobat Komma igång](../assets/Hero-AdvancedTasks.png)
 
 Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Lär dig skapa funktionsmakron för att upprepa vardagliga uppgifter, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa allmänt tillgängliga PDF-filer.
 

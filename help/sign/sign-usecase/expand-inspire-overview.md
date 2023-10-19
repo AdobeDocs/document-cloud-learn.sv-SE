@@ -8,16 +8,14 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # Översikt över branscher och avdelningar
-
-![Acrobat Sign-branschbild](../assets/Hero-Industry.png)
 
 Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom att utforska de här verkliga användningsfallen, recepten och webbseminarierna för branschen och avdelningen.
 

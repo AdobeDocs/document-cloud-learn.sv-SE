@@ -7,16 +7,14 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
 
 # Översikt över avancerade uppgifter
-
-![Avancerad Sign-bild](../assets/Hero-Advanced.png)
 
 Lär dig hur du skickar ut ett dokument för signering till 100-tals mottagare samtidigt, skapar ett signaturfärdigt dokument för din webbplats, hanterar signaturtransaktioner samt skapar och hanterar dokumentmallar. De här självstudiekurserna är till för alla som redan känner till grunderna för att skicka och begära signaturer och vill lära sig fler sätt som Acrobat Sign kan arbeta för dem.
 

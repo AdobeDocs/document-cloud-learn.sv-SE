@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Översikt över digitalt ID
-
-![Signera med digital ID-bild](../assets/Hero-DigitalID.png)
 
 Ett digitalt ID (digitalt ID) är ungefär som ett pass i elektronisk form och gör att du på ett säkert sätt kan bevisa att du är den du säger att du är. Och när du e-signerar i Acrobat Sign ger ett digitalt ID dig större säkerhet att du har godkänt din e-signatur på just det dokumentet. Följande självstudiekurser visar hur du använder elektroniska ID:n från hela världen med Acrobat Sign.
 

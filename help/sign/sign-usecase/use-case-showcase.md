@@ -8,16 +8,14 @@ jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
 
 # Visa användningsfall
-
-![banderoll för användningsfall](../assets/UCSC_Rebrand.png)
 
 Showcase för användning är en liveströmssession som presenterar dig för nya användningsfall och trender för Acrobat Sign och visar hur din organisation kan implementera och dra nytta av dem. Varje månad markeras ett nytt ämne.
 

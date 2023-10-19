@@ -10,16 +10,14 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '739'
 ht-degree: 0%
 
 ---
 
 # Översikt över integreringar
-
-![Sign-integreringsbild](../assets/Hero-Integrate.png)
 
 Du kan använda Acrobat Sign i andra program som ditt företag redan använder, t.ex. Microsoft, Salesforce, Workday och Marketo, för att nämna några. Lär dig förenkla arbetsflödena för e-signaturer i dessa integreringsguider och självstudiekurser.
 
@@ -67,7 +65,7 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Skicka för signering i SharePoint Online</strong></a>
     </div>
-    <em>Skicka ett dokument för signering direkt inifrån Sharepoint Online</em>
+    <em>Skicka ett dokument för signering direkt inom SharePoint Online</em>
     <br>
   </td>
    <td>
@@ -131,7 +129,7 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
     <div>
     <a href="simple-workflow-power-automate.md"><strong>Skapa ett enkelt arbetsflöde med Power Automate</strong></a>
     </div>
-    <em>Lär dig hur du skapar ett enkelt arbetsflöde med [!DNL Power Automate] kontakter</em>
+    <em>Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar</em>
     <br>
   </td>
   <td>
@@ -141,7 +139,7 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
     <div>
     <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>Läs om Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundtjänst används för att förbättra kundnöjdheten på en självbetjäningsportal för kunder</em>
+    <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal</em>
     <br>
   </td>
   <td>
@@ -205,12 +203,12 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Document Builder for [!DNL Salesforce]" src="../assets/SF-Template.png" />
+      <img alt="Document Builder för [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Document Builder for [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Document Builder för [!DNL Salesforce]</strong></a>
     </div>
-    <em>Lär dig hur du skapar en återanvändbar dokumentmall med Document Builder för [!DNL Salesforce]</em>
+    <em>Lär dig skapa en återanvändbar dokumentmall med Document Builder för [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -257,7 +255,7 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
     <div>
     <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till Acrobat Sign + Workday nyanställningar</strong></a>
     </div>
-    <em>Lär dig effektivisera arbetsflöden för introduktion med Acrobat Sign + Workday</em>
+    <em>Lär dig effektivisera introduktionsarbetsflöden med Acrobat Sign + Workday</em>
     <br>
   </td>
  <td>
@@ -289,17 +287,17 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
     <div>
     <a href="marketo-salesforce-sms.md"><strong>Skicka meddelanden med Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar ett textmeddelande, ett e-postmeddelande eller ett push-meddelande så att signeraren vet att ett avtal är på väg</em>
+    <em>Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller push-meddelande för att informera undertecknaren om att ett avtal är på väg</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Skicka påminnelser med videosjälvstudiekurser om Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Skicka påminnelser med videosjälvstudiekursen om Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekurser om Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen om Adobe Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar en påminnelse via e-post från Marketo när ett avtal förblir osignerat efter en viss tid</em>
+    <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en tidsperiod</em>
     <br>
   </td>
   <td>
@@ -345,7 +343,7 @@ Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] f�
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Grayspacer.png" />
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

@@ -8,16 +8,14 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '165'
 ht-degree: 13%
 
 ---
 
 # Översikt över Framkalla
-
-![Bild för att utveckla Sign](../assets/Hero-Develop.png)
 
 40 % av avtalen i Acrobat Sign skapas med API:er. Använd API:er för att skapa anpassade program för dina team, partner och kunder.
 
