@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 5%
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
@@ -20,10 +20,10 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
+* [Stilisera denna PDF](stylize-this-PDF.md)
+Lär dig skapa proffsiga PDF med hjälp av de inbyggda, lättanvända designverktygen i Adobe Express
 * [Arbeta överallt med Acrobat web](acrobatweb.md)
 Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i din webbläsare
-* [Samarbeta i realtid](collaborate.md)
-Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var som helst
 
 ## Självstudiekurser för att komma igång
 
@@ -166,6 +166,16 @@ Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra 
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Stilisera denna PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Stilisera denna PDF</strong></a>
+      </div>
+      <em>Läs mer om det nya redigeringsläget för automatisk justering av innehåll</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Automatisk justering av layout" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra 
       <a href="export-pdf.md"><strong>Exportera en PDF till redigerbara format</strong></a>
       </div>
       <em>Lär dig hur du exporterar dina PDF-filer till redigerbara format</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
