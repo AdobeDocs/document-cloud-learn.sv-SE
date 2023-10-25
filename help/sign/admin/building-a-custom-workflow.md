@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 Lär dig att skräddarsy och automatisera dokumentarbetsflöden för att få elektroniska signaturer, samla in formulärdata och bekräfta leveransen av ett viktigt dokument för att effektivisera arbetsflödeshanteringen.
 
-Kolla in de här extra användningsfallen i verkligheten:
+[!BADGE Användningsfall]
 
-* [Statliga avtal och rekvisition i Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) användningsfall.
-* [Affärskontrakt och rekvisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) användningsfall.
+* [Anpassat arbetsflöde för IEP-process för utbildning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+Lär dig hur den anpassade arbetsflödesdesignern används för att digitalisera en IEP-process (Individualized Education Program)
+* [Statliga avtal och rekvisition i Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Affärskontrakt och rekvisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
