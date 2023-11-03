@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 ## Nyheter
 
-* [Fliken Dokument i [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [Integrering av fliken Dokument för [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]
 * [Live Sign i Adobe Acrobat Sign för [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under en [!DNL Microsoft Teams] möte
@@ -133,10 +133,10 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="Skapa ett enkelt arbetsflöde med Power Automate" src="../assets/Documents-tab.png" />
+      <img alt="Integrering av fliken Dokument för [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Fliken Dokument i [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integrering av fliken Dokument för [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]</em>
     <br>
