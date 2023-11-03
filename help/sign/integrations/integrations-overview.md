@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -132,11 +132,21 @@ Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar
     <br>
   </td>
    <td>
+    <a href="acrobat-sign-teams-documents-tab.md">
+      <img alt="Skapa ett enkelt arbetsflöde med Power Automate" src="../assets/Documents-tab.png" />
+    </a>
+    <div>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Fliken Dokument i [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+ <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="Skapa ett enkelt arbetsflöde med Power Automate" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Skapa ett enkelt arbetsflöde med Power Automate</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>Skapa ett enkelt arbetsflöde med [!DNL Power Automate]</strong></a>
     </div>
     <em>Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar</em>
     <br>
@@ -151,6 +161,7 @@ Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar
     <em>Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
@@ -161,7 +172,6 @@ Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar
     <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal</em>
     <br>
   </td>
-<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -180,11 +190,6 @@ Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för försäljning används för att automatisera signeringsprocessen för försäljningsoffert</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
