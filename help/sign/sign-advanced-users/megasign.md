@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 44c0c060f7847efb1f20bd0dc0de5bbcbfc49f5e
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '175'
 ht-degree: 3%
 
 ---
@@ -25,7 +25,7 @@ Lär dig hur du skickar och samlar in tusentals signaturer med bara några korta
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Hämta CSV-exempelfilen i ZIP-format](../assets/sendInBulkSample.zip)
+[Hämta CSV-exempelfilen i ZIP-format](../assets/sendInBulkSample.zip). Läs mer om alla värden du kan ange i CSV-filen [här](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
