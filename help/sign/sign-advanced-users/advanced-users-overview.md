@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ Lär dig hur du skickar ut ett dokument för signering till 100-tals mottagare s
 
 ## Nyheter
 
+* [Massutskick](megasign.md)
+Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
 * [Autentiseringsmetoder i Acrobat Sign](authentication-methods.md)
 Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som undertecknar ett dokument
-* [Ställ in onlinebetalningar](set-up-online-payments.md)
-Lär dig ställa in och acceptera onlinebetalningar i dokument
 
-## Skickar
+## Skicka
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Lär dig ställa in och acceptera onlinebetalningar i dokument
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Skicka och samla in signaturer gruppvis" src="../assets/Megasign.png" />
+        <img alt="Massutskick" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Skicka och samla in signaturer gruppvis</strong></a>
+      <a href="megasign.md"><strong>Massutskick</strong></a>
       </div>
-      <em>Samla hundratals signaturer samtidigt för alla dokument i bara några korta steg</em>
+      <em>Samla in tusentals signaturer samtidigt för alla dokument i några få korta steg</em>
       <br>
   </td>
  <td>

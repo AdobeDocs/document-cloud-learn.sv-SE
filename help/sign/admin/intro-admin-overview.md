@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 ## Nyheter
 
+* [Massutskick](../sign-advanced-users/megasign.md)
+Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
 * [Rapportalternativ](report-options.md)
 Lär dig ställa in rapportalternativ för användare
 * [Lägga till användare](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Lär dig lägga till och hantera användare för Acrobat Sign
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Skicka och samla in signaturer gruppvis" src="../assets/Megasign.png" />
+      <img alt="Massutskick" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Skicka och samla in signaturer gruppvis</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Massutskick</strong></a>
     </div>
-    <em>Samla hundratals signaturer samtidigt för alla dokument</em>
+    <em>Samla in tusentals signaturer samtidigt för alla dokument</em>
     <br>
   </td>
 </tr>

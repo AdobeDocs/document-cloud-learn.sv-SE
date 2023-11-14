@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 10%
+source-wordcount: '544'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 + [Översikt](overview.md)
 + Komma igång {#getting-started}
    + [Översikt](sign-beginner-tutorials/beginner-users-overview.md)
-   + Skickar {#getting-started-sending}
+   + Skicka {#getting-started-sending}
       + [Allmänt om arbetsytan](sign-beginner-tutorials/quick-tour.md)
       + [Komma igång med Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Skicka till en enda mottagare](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -47,14 +47,14 @@ ht-degree: 10%
       + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](sign-advanced-users/advanced-users-overview.md)
-   + Skickar {#advanced-tasks-sending}
+   + Skicka {#advanced-tasks-sending}
       + [Konfigurera signeringsordning](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Använda godkännarrollen](sign-advanced-users/add-an-approver.md)
       + [Autentiseringsmetoder i Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Hantera formulärdata](sign-advanced-users/manage-form-data.md)
       + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
-      + [Skicka och samla in signaturer gruppvis](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Använda texttaggar i [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -77,7 +77,7 @@ ht-degree: 10%
       + [Rapportalternativ för användare](admin/report-options.md)
       + [Skapa ett webbformulär](sign-advanced-users/webform.md)
       + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [Skicka och samla in signaturer gruppvis](sign-advanced-users/megasign.md)
+      + [Massutskick](sign-advanced-users/megasign.md)
       + [Skapa ett anpassat arbetsflöde](admin/building-a-custom-workflow.md)
    + Avancerade uppgifter {#advanced-tasks-admins}
       + [Globala inställningar](admin/learn-about-global-settings.md)
