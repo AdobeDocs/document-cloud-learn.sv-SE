@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 5%
@@ -98,7 +98,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       <div>
       <a href="megasign.md"><strong>Massutskick</strong></a>
       </div>
-      <em>Samla in tusentals signaturer samtidigt för alla dokument i några få korta steg</em>
+      <em>Samla hundratals signaturer samtidigt för alla dokument i bara några korta steg</em>
       <br>
   </td>
  <td>

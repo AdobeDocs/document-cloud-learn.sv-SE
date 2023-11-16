@@ -1,13 +1,13 @@
 ---
 title: Massutskick
-description: Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
+description: Lär dig samla hundratals signaturer samtidigt för alla dokument i bara några korta steg
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 44c0c060f7847efb1f20bd0dc0de5bbcbfc49f5e
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Massutskick
 
-Lär dig hur du skickar och samlar in tusentals signaturer med bara några korta steg, vilket sparar organisationens timmar. Alla får sitt eget dokument att signera, och du kan spåra förloppet för varje person som du har skickat dokumentet till - så att du vet exakt vem eller vilka som inte har signerat. Varje onlinesignatur du hämtar är säker, säker och giltig i juridiskt hänseende.
+Lär dig hur du skickar och samlar in hundratals signaturer med bara några korta steg, vilket sparar organisationens timmar. Alla får sitt eget dokument att signera, och du kan spåra förloppet för varje person som du har skickat dokumentet till - så att du vet exakt vem eller vilka som inte har signerat. Varje onlinesignatur du hämtar är säker, säker och giltig i juridiskt hänseende.
 
 [!BADGE Användningsfall]
 
