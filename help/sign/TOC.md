@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [Översikt](sign-usecase/expand-inspire-overview.md)
    + Kompetensbyggaren {#innovation}
       + [Webbinarier](sign-usecase/innovation-series.md)
-   + Recept på användningsfall {#recipes}
+   + Användningsfall {#recipes}
       + [Översikt](sign-usecase/recipes.md)
-      + Offentlig myndighet {#gov}
+      + Myndigheter {#gov}
          + [Statlig låneansökan med flera okända undertecknare](sign-usecase/webform-multiple-signers.md)
          + [Företagsbidrag och företagslån](sign-usecase/usecasegovgrants.md)
          + [Distansarbetsavtal](sign-usecase/usecasegovtelework.md)
@@ -145,7 +145,7 @@ ht-degree: 11%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Lönecheckningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärrorderbegäran](sign-usecase/usecasegovremote.md)
-      + Kommersiellt {#com}
+      + Reklam {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)
@@ -162,7 +162,7 @@ ht-degree: 11%
       + [Skapa inbäddade e-signaturer och dokumentupplevelser](develop/embeddedesignature.md)
 + Driftsätta {#deploy}
    + [Översikt](deploy-overview.md)
-+ Mobilt {#mobile}
++ Mobil {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + Mobila självstudiekurser {#mobile-tutorials}
       + [Signera dokument var som helst](mobile/sign-mobile.md)
