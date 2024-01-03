@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom a
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Använd skiftlägesrecept" src="../assets/Expand_RecipeR.png" />
+      <img alt="Användningsfall" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Använd skiftlägesrecept</strong></a>
+    <a href="recipes.md"><strong>Användningsfall</strong></a>
     </div>
-    <em>Hämta de resurser du behöver för att snabbt driftsätta olika arbetsflöden på e-signaturavdelningen på egen hand</em>
+    <em>Utforska hur olika organisationer använder Acrobat Sign med dessa riktiga användningsfall</em>
     <br>
   </td>
   <td>
