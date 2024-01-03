@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom a
     <div>
     <a href="recipes.md"><strong>Användningsfall</strong></a>
     </div>
-    <em>Utforska hur olika organisationer använder Acrobat Sign med dessa riktiga användningsfall</em>
+    <em>Utforska hur olika organisationer använder Acrobat Sign med dessa verklighetstrogna användningsfall</em>
     <br>
   </td>
   <td>
