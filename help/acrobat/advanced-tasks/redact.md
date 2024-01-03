@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,9 @@ Lär dig använda verktyget Redigera bort för att permanent ta bort privat elle
 >
 >Endast tillgängligt i Acrobat Pro.
 
+[!BADGE ORGANISATORISK EFFEKT]
+Kunddataskydd, riskhantering
+
 ## Redigera text och bilder
 
 1. Välj **[!UICONTROL Redigera]** från [!UICONTROL Verktyg] mitten eller högra rutan.
@@ -32,21 +35,21 @@ Lär dig använda verktyget Redigera bort för att permanent ta bort privat elle
 
    ![Redigera steg 2](../assets/Redact_2.png)
 
-   Redigera informationen genom att först markera objekten som ska tas bort och sedan tillämpa bortredigeringarna. Du kan redigera hela sidor eller markerat innehåll.
+Redigera informationen genom att först markera objekten som ska tas bort och sedan tillämpa bortredigeringarna. Du kan redigera hela sidor eller markerat innehåll.
 
 1. Välj **[!UICONTROL Redigera sidor]**, välj sedan den sida eller det sidintervall som ska redigeras och välj **[!UICONTROL OK]**.
 
    ![Redigera steg 4](../assets/Redact_3.png)
 
-   Du kan också använda markören för att välja innehållet som ska redigeras bort. Du kan se en förhandsgranskning av redigeringen genom att hålla muspekaren över det valda innehållet.
+Du kan också använda markören för att välja innehållet som ska redigeras bort. Du kan se en förhandsgranskning av redigeringen genom att hålla muspekaren över det valda innehållet.
 
    ![Redigera steg 5a](../assets/Redact_4.png)
 
 1. Välj **[!UICONTROL Redigera text och bilder]** **>** **[!UICONTROL Sök efter text och redigera bort]** för att hitta specifikt innehåll att redigera bort.
 
-   Använd sökrutan för att söka efter ett visst ord eller en viss fras.
+Använd sökrutan för att söka efter ett visst ord eller en viss fras.
 
-1. Välj **[!UICONTROL Mönster]** för att hitta vissa typer av information, markera sedan rutorna och välj **[!UICONTROL Söka efter och ta bort text]**.
+1. Välj **[!UICONTROL Mönster]** för att hitta vissa typer of information, markerar sedan rutorna och väljer **[!UICONTROL Söka efter och ta bort text]**.
 
    ![Redigera steg 5b](../assets/Redact_5.png)
 
@@ -64,8 +67,8 @@ Lär dig använda verktyget Redigera bort för att permanent ta bort privat elle
 
 >[!TIP]
 >
->För att påskynda bortredigeringsprocessen, kolla in [Action Wizard](../advanced-tasks/action.md).
+För att påskynda bortredigeringsprocessen, kolla in [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
+Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
