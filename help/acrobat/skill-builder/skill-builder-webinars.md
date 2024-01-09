@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: f07f19cd96b9615a4f5fdf8ddf4d7eec51ed5fe0
+source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,26 @@ ht-degree: 0%
 Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden i PDF till nästa nivå. Varje månad markeras ett nytt ämne.
 
 ## Månatliga sessioner
+
+**[Upptäck sex viktiga Adobe Acrobat-verktyg](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
+Datum: 24 januari 2024 Läs mer om branschrapporter om topptrender inom digitalt arbete och hur Acrobat enkelt konsoliderar dokumentarbetsflöden för att spara värdefull tid för varje team.
+Vi visar dig hur du:
+
+* Förflytta dig smidigt på flera Acrobat-ytor
+* Kombinera och redigera dokument enkelt
+* Samarbeta smidigt - även i Microsoft Teams
+* Protect-dokument med säkerhet i världsklass
+* Skicka och e-signera dokument snabbt
+
+**[Kom igång med Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
+Datum: 18 januari 2024 Läs mer om hur Adobe Acrobat utför tunga dokumentuppgifter för att stödja snabba och säkra företag.
+Du får lära dig att
+
+* Förflytta dig smidigt på flera Acrobat-ytor
+* Kombinera och redigera dokument snabbt
+* Samarbeta enkelt - även i Microsoft Teams
+* Enkla steg till värdefull information om Protect
+* Skapa enkla arbetsflöden för e-signaturer med Adobe Acrobat Sign
 
 **[Enkel automatisering med Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
 Datum: 16 november 2023 Sluta upprepa enkla manuella uppgifter. I den här sessionen lär du dig hur du använder Action Wizard i Acrobat Pro för att gruppbearbeta PDF-filer och utföra automatiska, upprepade åtgärder som att göra dokument tillgängliga, skydda dokument, optimera filer, arkivera med mera. Du får lära dig:
