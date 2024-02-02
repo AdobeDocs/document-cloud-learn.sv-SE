@@ -5,10 +5,11 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 5%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -107,7 +108,7 @@ ht-degree: 5%
    + [Arbeta med filer från [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branscher och avdelningar {#by-industry}
    + [Översikt](industry/industry-overview.md)
-   + Offentlig myndighet {#gov}
+   + Myndigheter {#gov}
       + [Översikt](industry/gov/gov-overview.md)
       + Fem tips för att arbeta var som helst med Acrobat {#tips}
          + [Fem tips för att arbeta var som helst med Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -127,7 +128,7 @@ ht-degree: 5%
 + Driftsätta {#deploy}
    + [Översikt](deploy/deploy-overview.md)
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
-+ Mobilt {#mobile}
++ Mobil {#mobile}
    + [Översikt](mobile/mobile-overview.md)
    + [Produktivitet i farten](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna till PDF](mobile/scan-mobile-app.md)
