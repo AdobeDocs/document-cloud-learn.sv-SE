@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
+source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 
 >[!IMPORTANT]
 >
->GigaSign uppdateras inte längre till den senaste versionen av Java eller Acrobat Sign och kommer bara att ha begränsat stöd. Funktionerna i GigaSign läggs till i produkten under [Massutskick](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) funktionalitet. Använd Massutskick för alla användningsfall som inte uttryckligen kräver användning av GigaSign.
+>GigaSign uppdateras inte längre till den senaste versionen av Java eller Acrobat Sign och kommer bara att ha begränsat stöd. Funktionerna i GigaSign läggs till i produkten under [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) funktionalitet. Använd Massutskick för alla användningsfall som inte uttryckligen kräver användning av GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
