@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
+* [Skapa en PDF](create-pdf.md)
+Lär dig hur du skapar PDF från alla typer av dokument
+
 * [Stilisera denna PDF](stylize-this-PDF.md)
 Lär dig skapa proffsiga PDF med hjälp av de inbyggda, lättanvända designverktygen i Adobe Express
-* [Arbeta överallt med Acrobat web](acrobatweb.md)
-Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i din webbläsare
 
 ## Självstudiekurser för att komma igång
 
