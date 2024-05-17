@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: e17e2c1550578dac2b477943e31b46d603d62e44
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 6%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
 # Skapa en PDF
 
-Så här gör du [skapa PDF från alla olika dokumenttyper](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats.
+Så här gör du [skapa PDF från alla olika dokumenttyper](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats. Att omvandla innehåll till PDF är ett bekvämt och pålitligt sätt att dela, bevara och säkra dokument samtidigt som de behåller sin ursprungliga formatering. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
 
 >[!TIP]
 >

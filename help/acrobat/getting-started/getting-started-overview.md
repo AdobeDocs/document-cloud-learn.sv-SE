@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 4%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -110,7 +110,7 @@ Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Skapa PDF-filer" src="../assets/Create.jpg" />
+        <img alt="Skapa PDF-filer" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Skapa en PDF</strong></a>
@@ -160,7 +160,7 @@ Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-
         <img alt="Redigera en PDF-fil" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Redigera en PDF-fil</strong></a>
+      <a href="edit-pdf.md"><strong>Redigera en PDF</strong></a>
       </div>
       <em>Redigera text och bilder i PDF-filer</em>
       <br>
