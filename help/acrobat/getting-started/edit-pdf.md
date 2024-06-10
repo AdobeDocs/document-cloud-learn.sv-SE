@@ -1,22 +1,22 @@
 ---
-title: Redigera en PDF-fil
-description: Lär dig redigera text och bilder i PDF-filer
+title: Redigera text i en PDF
+description: Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 11%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
-# Redigera en PDF-fil
+# Redigera text i en PDF
 
-Så här gör du [redigera text och bilder i PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Klicka eller tryck för att lägga till ett nytt stycke eller rätta till ett stavfel. Du kan till och med lägga till bilder [eller beskära ett foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. Genom att redigera text direkt i Acrobat kan du uppdatera innehåll exakt och professionellt utan att behöva gå fram och tillbaka mellan olika appar. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
 
 >[!TIP]
 >

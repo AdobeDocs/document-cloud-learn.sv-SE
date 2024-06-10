@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
+* [Redigera text i en PDF](edit-pdf.md)
+Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
+
 * [Skapa en PDF](create-pdf.md)
 Lär dig hur du skapar PDF från alla typer av dokument
-
-* [Stilisera denna PDF](stylize-this-PDF.md)
-Lär dig skapa proffsiga PDF med hjälp av de inbyggda, lättanvända designverktygen i Adobe Express
 
 ## Självstudiekurser för att komma igång
 
@@ -158,7 +158,7 @@ Lär dig skapa proffsiga PDF med hjälp av de inbyggda, lättanvända designverk
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Redigera en PDF-fil" src="../assets/Edit.jpg" />
+        <img alt="Redigera text i en PDF" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>Redigera en PDF</strong></a>
