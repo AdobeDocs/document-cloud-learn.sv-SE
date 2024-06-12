@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 3%
@@ -32,7 +32,7 @@ ht-degree: 3%
    + [Redigera text i en PDF](getting-started/edit-pdf.md)
    + [Stilisera denna PDF](getting-started/stylize-this-PDF.md)
    + [Automatisk justering av layout](getting-started/auto-adjust-layout.md)
-   + [Exportera en PDF till redigerbara format](getting-started/export-pdf.md)
+   + [Konvertera PDF till olika filformat](getting-started/export-pdf.md)
    + [Samarbeta i realtid](getting-started/collaborate.md)
    + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
    + [Skapa ifyllningsbara formulär](getting-started/create-fillable-forms.md)

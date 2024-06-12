@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera dina PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, detta innehåll är utformat för att underlätta för dig att komma in i arbetsflöden i PDF.
 
 ## Nyheter
+
+* [Konvertera PDF till olika filformat](export-pdf.md)
+Lär dig hur du konverterar dina PDF-filer till olika filformat - som Microsoft Word, Excel eller PowerPoint
 
 * [Redigera text i en PDF](edit-pdf.md)
 Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
@@ -188,12 +191,12 @@ Lär dig hur du skapar PDF från alla typer av dokument
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Exportera en PDF till redigerbara format" src="../assets/Export.jpg" />
+        <img alt="Konvertera PDF till olika filformat" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Exportera en PDF till redigerbara format</strong></a>
+      <a href="export-pdf.md"><strong>Konvertera PDF till olika filformat</strong></a>
       </div>
-      <em>Lär dig hur du exporterar dina PDF-filer till redigerbara format</em>
+      <em>Lär dig hur du konverterar dina PDF-filer till olika filformat - som Microsoft Word, Excel eller PowerPoint</em>
       <br>
     </td>
   </tr>

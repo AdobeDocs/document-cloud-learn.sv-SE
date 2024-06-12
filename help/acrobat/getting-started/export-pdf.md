@@ -1,22 +1,22 @@
 ---
-title: Exportera en PDF till Microsoft Office-format
-description: Lär dig exportera dina PDF-filer till redigerbara format som Microsoft Word, Excel eller PowerPoint
+title: Konvertera PDF till olika filformat
+description: Lär dig hur du konverterar dina PDF-filer till olika filformat - som Microsoft Word, Excel eller PowerPoint
 feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
-# Exportera en PDF till Microsoft Office-format
+# Konvertera PDF till olika filformat
 
-Lär dig hur du exporterar dina PDF-filer till redigerbara format - som [Microsoft Word](https://www.adobe.com/se/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/se/acrobat/online/pdf-to-ppt.html)och [Excel](https://www.adobe.com/se/acrobat/online/pdf-to-excel.html). Att exportera till ett annat filformat låter dig göra betydande revideringar och uppdateringar av dina dokument.
+Lär dig konvertera dina PDF-filer till olika filformat - som [Microsoft Word](https://www.adobe.com/se/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/se/acrobat/online/pdf-to-ppt.html)och [Excel](https://www.adobe.com/se/acrobat/online/pdf-to-excel.html). Konvertera din PDF till [Adobe Express](https://express.adobe.com) för att lägga till designelement med varumärken omfattas också. När du konverterar PDF till ett annat filformat som Microsoft Word förbättras dokumentarbetsflödet och du sparar mycket tid när du gör omfattande ändringar i långa dokument.
 
 >[!TIP]
 >
