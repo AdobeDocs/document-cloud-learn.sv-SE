@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera dina PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, detta innehåll är utformat för att underlätta för dig att komma in i arbetsflöden i PDF.
 
 ## Nyheter
+
+* [Upptäck PDF-insikter med AI Assistant](ai-assistant.md)
+Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
 
 * [Konvertera PDF till olika filformat](export-pdf.md)
 Lär dig hur du konverterar dina PDF-filer till olika filformat - som Microsoft Word, Excel eller PowerPoint
@@ -54,6 +57,16 @@ Lär dig hur du skapar PDF från alla typer av dokument
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="Upptäck PDF-insikter med AI Assistant" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Upptäck PDF-insikter med AI Assistant</strong></a>
+    </div>
+    <em>Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Arbeta överallt med Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ Lär dig hur du skapar PDF från alla typer av dokument
     <em>Lär dig hantera affärsdokumentförfrågningar från var som helst med Acrobat-webbverktygen i din webbläsare</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="Produktivitet i farten" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ Lär dig hur du skapar PDF från alla typer av dokument
     <em>Gör mer direkt från din surfplatta eller mobiltelefon med Acrobat Reader-mobilappen</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Arbeta med Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ Lär dig hur du skapar PDF från alla typer av dokument
       <a href="where-do-pdfs-come-from.md"><strong>Var kommer PDF ifrån?</strong></a>
       </div>
       <em>Förstå varifrån PDF kommer och hur det används</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
