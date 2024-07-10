@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
+* [Ny arbetsyta](new-workspace.md)
+Lär dig mer om den nya arbetsytan i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina arbetsuppgifter i PDF effektivt
+
 * [Upptäck PDF-insikter med AI Assistant](ai-assistant.md)
 Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
 
@@ -29,13 +32,21 @@ Lär dig hur du konverterar dina PDF-filer till olika filformat - som Microsoft 
 * [Redigera text i en PDF](edit-pdf.md)
 Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
 
-* [Skapa en PDF](create-pdf.md)
-Lär dig hur du skapar PDF från alla typer av dokument
 
 ## Självstudiekurser för att komma igång
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Ny arbetsyta" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Ny arbetsyta</strong></a>
+    </div>
+    <em>Lär dig mer om den nya arbetsytan i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina arbetsuppgifter i PDF effektivt</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Allmänt om arbetsytan" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ Lär dig hur du skapar PDF från alla typer av dokument
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Allmänt om arbetsytan</strong></a>
     </div>
     <em>Se hur Acrobat-arbetsytan gör det enkelt att komma åt filer och verktyg på datorer, webben och mobiler</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="Ny arbetsyta" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>Ny arbetsyta</strong></a>
-    </div>
-    <em>Läs mer om den nya arbetsytan som du kan aktivera i Acrobat</em>
     <br>
   </td>
   <td>
