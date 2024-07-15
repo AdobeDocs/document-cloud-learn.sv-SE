@@ -7,10 +7,10 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 2%
+source-wordcount: '136'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Lär dig skapa funk
 
 ## Nyheter
 
-* [Optimize PDF för SEO (Search Engine Optimization)](optimizeseo.md)
+* [Optimize PDF för SEO (sökmotoroptimering)](optimizeseo.md)
 Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
 
 ## Självstudiekurser om avancerade uppgifter
@@ -29,149 +29,79 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
 <tr>
   <td>
     <a href="bookmarks.md">
-      <img alt="Lägga till bokmärken och hyperlänkar" src="../assets/Bookmarks_1280.png" />
+      <img alt="Lägga till bokmärken och hyperlänkar" src="../assets/bookmarks.png" />
     </a>
-    <div>
-    <a href="bookmarks.md"><strong>Lägga till bokmärken och hyperlänkar</strong></a>
-    </div>
-    <em>Lär dig hur du lägger till bokmärken och hyperlänkar för bättre navigering och interaktion</em>
-    <br>
   </td>
   <td>
     <a href="optimizescan.md">
-      <img alt="Optimera skannade dokument" src="../assets/Scan_1280.png" />
+      <img alt="Optimera skannade dokument" src="../assets/optimize.png" />
     </a>
-    <div>
-    <a href="optimizescan.md"><strong>Optimera skannade dokument</strong></a>
-    </div>
-    <em>Lär dig hur du förbättrar skannade dokument för en bättre visnings- och sökupplevelse i PDF</em>
-    <br>
   </td>
   <td>
     <a href="custom.md">
-      <img alt="Anpassade kommandon och verktyg" src="../assets/Createcustom_1280.png" />
+      <img alt="Anpassade kommandon och verktyg" src="../assets/custom-commands.png" />
     </a>
-    <div>
-    <a href="custom.md"><strong>Anpassade kommandon och verktyg</strong></a>
-    </div>
-    <em>Förbättra arbetsflödet för dokument genom att använda anpassade kommandon och verktyg</em>
-    <br>
   </td>
   <td>
     <a href="advancedforms.md">
-      <img alt="Avancerade formulärfält" src="../assets/Advancedforms_1280.png" />
+      <img alt="Avancerade formulärfält" src="../assets/advanced-forms.png" />
     </a>
-    <div>
-    <a href="advancedforms.md"><strong>Avancerade formulärfält</strong></a>
-    </div>
-    <em>Lär dig avancerade tekniker för att bygga professionella PDF forms</em>
-    <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF för SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDF för SEO (Search Engine Optimization)" src="../assets/seo.png" />
     </a>
-    <div>
-    <a href="optimizeseo.md"><strong>Optimize PDF för SEO (Search Engine Optimization)</strong></a>
-    </div>
-    <em>Optimera en PDF för förbättrad upptäckbarhet och sökmotorrankning på webben</em>
-    <br>
   </td>
   <td>
     <a href="workforms.md">
-      <img alt="Arbeta med formulärfält" src="../assets/Workform_1280.png" />
+      <img alt="Arbeta med formulärfält" src="../assets/work-forms.png" />
     </a>
-    <div>
-    <a href="workforms.md"><strong>Arbeta med formulärfält</strong></a>
-    </div>
-    <em>Lägg till olika typer av formulärfält, ange formulärfältegenskaper och lägg till säkerhet för att skapa professionella formulär av hög kvalitet</em>
-    <br>
   </td>
   <td>
     <a href="enhance.md">
-      <img alt="Förbättra din PDF" src="../assets/Enhance_1280.png" />
+      <img alt="Förbättra din PDF" src="../assets/enhance.png" />
     </a>
-    <div>
-    <a href="enhance.md"><strong>Förbättra din PDF</strong></a>
-    </div>
-    <em>Gör om din PDF genom att lägga till grafikförbättringar och automatisk numrering</em>
-    <br>
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Identifiera skillnader mellan två PDF" src="../assets/Compare_1280.png" />
+      <img alt="Identifiera skillnader mellan två PDF" src="../assets/compare.png" />
     </a>
-    <div>
-    <a href="compare.md"><strong>Identifiera skillnader mellan två PDF</strong></a>
-    </div>
-    <em>Identifiera snabbt och exakt skillnaderna mellan två PDF-filer</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/Action.jpg" />
+      <img alt="Action Wizard" src="../assets/action-wizard.png" />
     </a>
-    <div>
-    <a href="action.md"><strong>Action Wizard</strong></a>
-    </div>
-    <em>Spara tid och tangenttryckningar genom att använda ett funktionsmakro för att automatiskt tillämpa en uppsättning kommandon på en eller flera filer</em>
-    <br>
   </td>
   <td>
     <a href="redact.md">
-      <img alt="Redigera och sanera" src="../assets/Redact.jpg" />
+      <img alt="Redigera och sanera" src="../assets/redact.png" />
     </a>
-    <div>
-    <a href="redact.md"><strong>Redigera och sanera</strong></a>
-    </div>
-    <em>Ta bort privat eller känslig information från PDF permanent</em>
-    <br>
   </td>
  <td>
     <a href="reduce.md">
-      <img alt="Minska filstorleken och optimera" src="../assets/Reduce.jpg" />
+      <img alt="Minska filstorleken och optimera" src="../assets/reduce.png" />
     </a>
-    <div>
-    <a href="reduce.md"><strong>Minska filstorleken och optimera</strong></a>
-    </div>
-    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
-    <br>
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/FormData.jpg" />
+      <img alt="Action Wizard" src="../assets/form-data.png" />
     </a>
-    <div>
-    <a href="formdata.md"><strong>Arbeta med formulärdata</strong></a>
-    </div>
-    <em>Kompilera formulärdata i ett enda kalkylblad</em>
-    <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="accessibility.md">
-      <img alt="Kontrollera PDF-tillgänglighet" src="../assets/Checkaccessible_1280.jpg" />
+      <img alt="Kontrollera PDF-tillgänglighet" src="../assets/accessibility.png" />
     </a>
-    <div>
-    <a href="accessibility.md"><strong>Kontrollera PDF-tillgänglighet</strong></a>
-    </div>
-    <em>Kontrollera om PDF är allmänt tillgängligt för funktionshindrade</em>
-    <br>
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="Förbereda tillgängliga PDF-filer" src="../assets/Accessibilityseries_1280.png" />
+      <img alt="Förbereda tillgängliga PDF-filer" src="../assets/accessibility-series.png" />
     </a>
-    <div>
-    <a href="accessibility-series.md"><strong>Acrobat Accessibility-serien</strong></a>
-    </div>
-    <em>I den här sex delar långa webbseminarieserien går du från grunderna i tillgänglighet till en djupdykning av taggning av dina PDF-filer</em>
-    <br>
   </td>
   <td>
    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
