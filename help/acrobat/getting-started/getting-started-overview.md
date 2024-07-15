@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Samarbeta i realtid" src="../assets/Collaborate_1280.png" />
+        <img alt="Samarbeta i realtid" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>Samarbeta i realtid</strong></a>
-      </div>
-      <em>Utveckla dina projekt genom att samla in kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var du än befinner dig</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Kommentera en PDF" src="../assets/Comment.jpg" />
+        <img alt="Kommentera en PDF" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Kommentera en PDF</strong></a>
-      </div>
-      <em>Lägg till kommentarer i en PDF-fil och dela den sedan med andra</em>
-      <br>
     </td>
     <td>
     <img alt="Avgränsare" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Skapa ifyllningsbara formulär" src="../assets/Form_1280.png" />
+      <img alt="Skapa ifyllningsbara formulär" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>Skapa ifyllningsbara formulär</strong></a>
-    </div>
-    <em>Omvandla ett dokument som har skapats i ett annat program till ett ifyllbart PDF-formulär</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Fyll i och signera ett PDF-formulär" src="../assets/FillSign_1280.png" />
+      <img alt="Fyll i och signera ett PDF-formulär" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
-    </div>
-    <em>Fyll snabbt i och signera ett PDF-formulär</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Skanning &amp; OCR" src="../assets/Scan.jpg" />
+      <img alt="Skanning &amp; OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Skanning och OCR</strong></a>
-    </div>
-    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect en PDF-fil med ett lösenord" src="../assets/Protect.jpg" />
+      <img alt="Protect en PDF-fil med ett lösenord" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect en PDF-fil med ett lösenord</strong></a>
-    </div>
-    <em>Lägg till ett lösenord på din PDF för att skydda andra från att öppna eller redigera filen</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Hämta signaturer" src="../assets/Signatures_1280.png" />
+      <img alt="Hämta signaturer" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>Hämta signaturer</strong></a>
-    </div>
-    <em>Få fart på verksamheten genom att samla in juridiskt bindande e-signaturer från andra - var som helst</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Spåra dina dokument" src="../assets/Track_1280.png" />
+      <img alt="Spåra dina dokument" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>Spåra dina dokument</strong></a>
-    </div>
-    <em>Du kan alltid veta vilka filer som väntar på signaturer och vilka som har signerats</em>
-    <br>
   </td>
   <td>
    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
