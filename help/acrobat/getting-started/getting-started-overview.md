@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
+* [Redigera grafik i en PDF](edit-graphics.md)
+Lär dig skapa, redigera och förbättra grafik i din PDF
 * [Ny arbetsyta](new-workspace.md)
 Lär dig mer om den nya arbetsytan i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina arbetsuppgifter i PDF effektivt
 * [Upptäck PDF-insikter med AI-assistenten](ai-assistant.md)
 Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
-* [Konvertera PDF till olika filformat](export-pdf.md)
-Lär dig hur du konverterar dina PDF-filer till olika filformat - som Microsoft Word, Excel eller PowerPoint
-* [Redigera text i en PDF](edit-pdf.md)
-Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
 
 ## Självstudiekurser för att komma igång
 
@@ -112,6 +110,11 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Redigera grafik i en PDF" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Stilisera denna PDF" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
         <img alt="Automatisk justering av layout" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Konvertera PDF till olika filformat" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Självstudiekurser om samarbete
 
