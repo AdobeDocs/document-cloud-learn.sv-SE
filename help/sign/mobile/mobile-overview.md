@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -26,7 +26,7 @@ Skicka dokument för signering, spåra e-signeringsförloppet och få uppdaterin
       <img alt="Signera dokument var som helst" src="assets/signmobile.png" />
     </a>
     <div>
-    <a href="sign-mobile.md"><strong>Signera dokument var som helst</strong></a>
+    <a href="sign-mobile.md"><strong>Signera dokument var du än är</strong></a>
     </div>
     <em>Lär dig hur du signerar dokument med Acrobat Sign-mobilappen</em>
     <br>

@@ -1,6 +1,6 @@
 ---
-title: Live Sign i Adobe Acrobat Sign för [!DNL Microsoft Teams]
-description: Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under en [!DNL Microsoft Teams] möte
+title: Live Sign i Adobe Acrobat Sign för  [!DNL Microsoft Teams]
+description: Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under ett  [!DNL Microsoft Teams] möte
 feature: Integrations
 role: User
 topic: Integrations

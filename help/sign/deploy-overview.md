@@ -9,8 +9,8 @@ thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ Artiklar med metodtips om hur du driftsätter Acrobat Sign i ditt företag.
     <div>
     <a href="https://helpx.adobe.com/se/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Hantera Acrobat Sign på Admin Console</strong></a>
     </div>
-    <em>Lär dig hantera Acrobat Sign-användare och licenser på Adobe företagsplattform via Adobe Admin Console</em>
+    <em>Lär dig hantera Acrobat Sign-användare och licenser på Adobe företagsplattform i Adobe Admin Console</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Artiklar med metodtips om hur du driftsätter Acrobat Sign i ditt företag.
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials-studieguiden</strong></a>
     </div>
-    <em>Acrobat Sign studiehandbok för Acrobat Sign Essentials-utvärderingen (AD3-D104)</em>
+    <em>Acrobat Sign-studieguide för Acrobat Sign Essentials-utvärderingen (AD3-D104)</em>
     <br>
   </td>
   <td>

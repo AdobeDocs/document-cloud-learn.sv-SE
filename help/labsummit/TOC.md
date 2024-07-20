@@ -20,7 +20,7 @@ ht-degree: 0%
 # Släpp loss dina digitala upplevelser med Adobe Document Cloud {#lab719}
 
 + [Lab - översikt och introduktion](overview.md)
-+ Släpp loss dina digitala upplevelser med Adobe Document Cloud {#gsd}
++ Frigör digitala upplevelser med Adobe Document Cloud {#gsd}
    + [Släpp loss dina digitala upplevelser med Adobe Document Cloud](gsd.md)
    + [Exempel 1: Skanna alla formulär](scan.md)
    + [Exempel 2: Fyll i och signera alla formulär](fillsign.md)

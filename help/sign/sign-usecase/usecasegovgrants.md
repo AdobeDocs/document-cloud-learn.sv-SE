@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Statliga affärsbidrag och företagslån
 
-Ge snabbt stöd till företag genom att ge tillgång till bidrag, lån och skatteuppskov. Lär dig skapa ett online-webbformulär som kan fyllas i **och** undertecknad utan att skriva ut eller skicka något.
+Ge snabbt stöd till företag genom att ge tillgång till bidrag, lån och skatteuppskov. Lär dig hur du skapar ett onlinewebbformulär som kan slutföras **och** signerade utan att skriva ut eller skicka något.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Markera för att ladda ner eller öppna ett steg-för-steg-PDF-recept för affärsbidrag och lån.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

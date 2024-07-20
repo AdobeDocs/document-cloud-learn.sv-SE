@@ -56,8 +56,8 @@ ht-degree: 7%
       + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
       + [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign-texttaggar](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-      + [Använda texttaggar i [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
+      + [Acrobat Sign-texttaggning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Använda texttaggar i  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Hantera {#advanced-tasks-managing}
       + [Skapa en rapport](sign-advanced-users/creating-a-report.md)
       + [Hantera dokumentmallar](sign-advanced-users/edit-a-template.md)
@@ -90,7 +90,7 @@ ht-degree: 7%
    + Aadhaar {#aadhaar}
       + [Signera med Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Registrera och signera med [!DNL Digidentity]](digitalid/digidentity-sign.md)
+      + [Registrera och signera med  [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrera och signera med [!DNL D-Trust]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
@@ -100,35 +100,35 @@ ht-degree: 7%
 + Integreringar {#integrations}
    + [Översikt](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Fylla i och logga in [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Skicka för signering i [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
-      + [Skicka för signering i [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Inspårning [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Integrera ett webbformulär med [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
-      + [Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Dokumentautomatisering med Acrobat Sign för [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
-      + [Skicka för signering i [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Fyller i och signerar  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [Skicka för signering om  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [Skicka för signering om  [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Spåra i  [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Integrera ett webbformulär med  [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
+      + [Arkivera filer automatiskt i  [!DNL SharePoint] med [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
+      + [Dokumentautomatisering med Acrobat Sign för  [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [Skicka för signering om  [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Live Sign i Adobe Acrobat Sign för [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
-      + [Integrering av fliken Dokument för [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
-      + [Skapa ett enkelt arbetsflöde i [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
-      + [Skapa ett avancerat arbetsflöde i [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
-      + [[!DNL Microsoft Dynamics 365] för kundservice](integrations/dynamics-customer-service.md)
-      + [[!DNL Microsoft Dynamics 365] för Fältservice](integrations/dynamics-field-service.md)
+      + [Integrering av fliken Dokument för  [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
+      + [Skapa ett enkelt arbetsflöde i  [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
+      + [Skapa ett avancerat arbetsflöde i  [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
+      + [[!DNL Microsoft Dynamics 365] för kundtjänst](integrations/dynamics-customer-service.md)
+      + [[!DNL Microsoft Dynamics 365] för fälttjänst](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] för försäljning](integrations/dynamics-sales.md)
-   + attestera {#notarize}
+   + Attestera {#notarize}
       + [Skicka dokument för bestyrkande](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Document Builder för [!DNL Salesforce]](integrations/create-an-agreement-template.md)
+      + [Document Builder för  [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [Konfigurera datamappning](integrations/set-up-data-mapping.md)
       + [Konfigurera kopplingsmappning](integrations/set-up-merging-map.md)
       + [Skapa en anpassad knapp](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Konfigurera Acrobat Sign med [!DNL Workday]](integrations/workday.md)
+      + [Konfigurerar Acrobat Sign med  [!DNL Workday]](integrations/workday.md)
       + [Introduktion till Acrobat Sign + Workday nyanställningar](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [Skicka aviseringar med Acrobat Sign för [!DNL Salesforce] och Marketo](integrations/marketo-salesforce-sms.md)
-      + [Skicka påminnelser med Acrobat Sign för [!DNL Salesforce] och Marketo - videosjälvstudiekurs](integrations/marketo-salesforce-reminder-video.md)
-      + [Skicka påminnelser med Acrobat Sign för [!DNL Salesforce] och konfigurationsguide för Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Skicka påminnelser med videosjälvstudiekursen om Acrobat Sign för  [!DNL Salesforce]  och Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Skicka påminnelser med konfigurationshandboken för Acrobat Sign för  [!DNL Salesforce]  och Marketo](integrations/marketo-salesforce-reminder.md)
       + [Skicka aviseringar med Acrobat Sign för [!DNL Microsoft Dynamics] och Marketo](integrations/marketo-dynamics-sms.md)
       + [Skicka påminnelser med Acrobat Sign för [!DNL Microsoft Dynamics 365] och Marketo](integrations/marketo-dynamics-reminder.md)
 + Branscher och avdelningar {#expand}
@@ -137,7 +137,7 @@ ht-degree: 7%
       + [Webbinarier](sign-usecase/innovation-series.md)
    + Användningsfall {#recipes}
       + [Översikt](sign-usecase/recipes.md)
-      + Myndigheter {#gov}
+      + Myndighet {#gov}
          + [Statlig låneansökan med flera okända undertecknare](sign-usecase/webform-multiple-signers.md)
          + [Företagsbidrag och företagslån](sign-usecase/usecasegovgrants.md)
          + [Distansarbetsavtal](sign-usecase/usecasegovtelework.md)
@@ -145,7 +145,7 @@ ht-degree: 7%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Lönecheckningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärrorderbegäran](sign-usecase/usecasegovremote.md)
-      + Reklam {#com}
+      + Kommersiell {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)
@@ -160,10 +160,10 @@ ht-degree: 7%
    + Anpassade API:er {#custom}
       + [Samla dokument med stora volymer med GigaSign](develop/gigasign.md)
       + [Skapa inbäddade e-signaturer och dokumentupplevelser](develop/embeddedesignature.md)
-+ Driftsätta {#deploy}
++ Distribuera {#deploy}
    + [Översikt](deploy-overview.md)
 + Mobil {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + Mobila självstudiekurser {#mobile-tutorials}
+   + Självstudiekurser för mobila enheter {#mobile-tutorials}
       + [Signera dokument var som helst](mobile/sign-mobile.md)
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)

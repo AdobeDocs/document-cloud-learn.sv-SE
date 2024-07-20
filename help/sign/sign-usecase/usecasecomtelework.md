@@ -22,4 +22,4 @@ Lär dig samla in signaturer från alla dina anställda effektivt om distansavta
 
 Markera om du vill hämta eller öppna ett steg-för-steg-PDF-recept för distansavtal.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

@@ -11,8 +11,8 @@ kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 2%
+source-wordcount: '832'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ I del 1 lär du dig hur du kommer igång med allt du behöver för delarna 2-4. 
 
 * [Utvecklarkonto för Acrobat Sign](https://acrobat.adobe.com/se/sv/sign/developer-form.html)
 * [Startkod](https://github.com/benvanderberg/adobe-sign-api-tutorial)
-* [VS Code (eller valfri editor)](https://code.visualstudio.com)
+* [VS-kod (eller valfri editor)](https://code.visualstudio.com)
 * Python 3.x
    * Mac - Homebrew
    * Linux - inbyggt installationsprogram
@@ -45,9 +45,9 @@ I del 2 utforskar du alternativet låg/ingen kod för att använda webbformulär
 
 1. Kom åt Acrobat Sign med ditt utvecklarkonto.
 
-1. Välj **Publicera ett webbformulär** på startsidan.
+1. Markera **Publish ett webbformulär** på startsidan.
 
-   ![Skärmdump från Acrobat Sign-startsidan](assets/embeddedesignature/embed_1.png)
+   ![Startsida för skärmbilden i Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
 1. Skapa ett avtal.
 
@@ -69,19 +69,19 @@ I del 3 skapar du avtal dynamiskt.
 
 Först måste du upprätta åtkomst. Med Acrobat Sign finns det två sätt att ansluta via API. OAuth-tokens och integrationsnycklar. Om du inte har ett mycket specifikt skäl till att använda OAuth med ditt program bör du utforska Integreringsnycklar först.
 
-1. Välj **Integreringsnyckel** om **API-information** menyn under **Konto** i Acrobat Sign.
+1. Välj **Integreringsnyckel** på menyn **API-information** på fliken **Konto** i Acrobat Sign.
 
    ![Skärmbild av var integreringsnyckeln finns](assets/embeddedesignature/embed_4.png)
 
 Nu när du har åtkomst och kan interagera med API:et, se vad du kan göra med API:et.
 
-1. Gå till [Acrobat Sign REST API Version 6-metoder](http://adobesign.com/public/docs/restapi/v6).
+1. Gå till [Acrobat Sign REST API Version 6-metoderna](http://adobesign.com/public/docs/restapi/v6).
 
    ![Skärmbild av navigering i Acrobat Sign REST API Version 6-metoder](assets/embeddedesignature/embed_5.png)
 
 1. Använd token som ett bärarvärde.
 
-   ![Skärmbild av ägarvärde](assets/embeddedesignature/embed_6.png)
+   ![Skärmbild av bärarvärde](assets/embeddedesignature/embed_6.png)
 
 När du vill skicka ditt första avtal är det bäst att förstå hur du använder API:et.
 
@@ -99,7 +99,7 @@ När du har skickat ett avtal för första gången är du redo att lägga till l
 
 ![Skärmbild av valideringslogik](assets/embeddedesignature/embed_8.png)
 
-**Rubriker/Autentisering**
+**Rubriker/autentisering**
 
 ![Skärmbild av rubriker/autentiseringslogik](assets/embeddedesignature/embed_9.png)
 
@@ -108,11 +108,13 @@ När du har skickat ett avtal för första gången är du redo att lägga till l
 ![Skärmbild av bas-URI-logik](assets/embeddedesignature/embed_10.png)
 
 Var medveten om var Övergående dokument hamnar i signeringsekosystemets stora schema.
-Övergående -> Avtal övergående -> Mall -> Avtal övergående -> Widget -> Avtal
+Övergående -> Avtal
+Övergående -> Mall -> Avtal
+Övergående -> Widget -> Avtal
 
 I det här exemplet används en mall som dokumentkälla. Detta är vanligtvis det bästa sättet om du inte har en solid anledning att dynamiskt generera dokument för signatur (t.ex. äldre kod eller dokumentgenerering).
 
-Koden är ganska enkel. Den använder ett biblioteksdokument (mall) för dokumentkällan. Den första och andra undertecknaren tilldelas dynamiskt. Inställningen `IN_PROCESS` tillstånd innebär att dokumentet skickas omedelbart. Dessutom `mergeFieldInfo` används för att fylla i fält dynamiskt.
+Koden är ganska enkel. Den använder ett biblioteksdokument (mall) för dokumentkällan. Den första och andra undertecknaren tilldelas dynamiskt. Tillståndet `IN_PROCESS` innebär att dokumentet skickas omedelbart. Dessutom utnyttjas `mergeFieldInfo` för att fylla i fält dynamiskt.
 
 ![Skärmbild av kod för att lägga till signaturer dynamiskt](assets/embeddedesignature/embed_11.png)
 
@@ -140,7 +142,7 @@ När du har uppdaterat processen för att skapa avtal genereras signerings-URL:e
 >
 >Observera att anropet för att skapa avtal är tekniskt asynkront. Det innebär att ett anrop till ett &quot;POST&quot;-avtal kan göras, men avtalet är inte klart än. Det bästa sättet är att skapa en upprepningsslinga. Använd ett nytt försök eller något som är det bästa tillvägagångssättet för din miljö.
 
-![Skärmdump som säger att det är bästa praxis att etablera en återförsöksslinga](assets/embeddedesignature/embed_15.png)
+![Skärmbild som visar att det är bäst att försöka igen](assets/embeddedesignature/embed_15.png)
 
 När allt är sammansatt är lösningen ganska enkel. Du skapar ett avtal och sedan en signerings-URL som signeraren kan klicka på och påbörja signeringsritualen.
 
@@ -148,11 +150,11 @@ När allt är sammansatt är lösningen ganska enkel. Du skapar ett avtal och se
 
 ## Ytterligare ämnen
 
-* [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
+* [JS-händelser](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-händelser
    * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
    * [Webhookar i Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
-* [Återaktivera e-postförfrågningar (med händelser)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
+* [Återaktivera e-postmeddelanden om förfrågningar (med händelser)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Ersätt timeout med ett nytt försök](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * Anpassade påminnelser
    * Med det första skapandet

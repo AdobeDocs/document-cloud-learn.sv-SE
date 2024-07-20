@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Stöd till återanställning
 
-Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i linje med helt digitala ansökningsformulär som kan publiceras i dagar. Lär dig skapa ett online-webbformulär som kan fyllas i **och** undertecknad utan att skriva ut eller skicka något.
+Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i linje med helt digitala ansökningsformulär som kan publiceras i dagar. Lär dig hur du skapar ett onlinewebbformulär som kan slutföras **och** signerade utan att skriva ut eller skicka något.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
 Klicka här för att ladda ner eller öppna ett steg-för-steg-PDF-recept för återanställningsstöd.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

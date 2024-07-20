@@ -16,11 +16,11 @@ ht-degree: 2%
 
 # Konvertera PDF till olika filformat
 
-Lär dig konvertera dina PDF-filer till olika filformat - som [Microsoft Word](https://www.adobe.com/se/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/se/acrobat/online/pdf-to-ppt.html)och [Excel](https://www.adobe.com/se/acrobat/online/pdf-to-excel.html). Konvertera din PDF till [Adobe Express](https://express.adobe.com) för att lägga till designelement med varumärken omfattas också. När du konverterar PDF till ett annat filformat som Microsoft Word förbättras dokumentarbetsflödet och du sparar mycket tid när du gör omfattande ändringar i långa dokument. Den här videosjälvstudiekursen använder den nya arbetsytan.
+Lär dig hur du konverterar dina PDF-filer till olika filformat, t.ex. [Microsoft Word](https://www.adobe.com/se/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/se/acrobat/online/pdf-to-ppt.html) och [Excel](https://www.adobe.com/se/acrobat/online/pdf-to-excel.html). Omfattar även konvertering av din PDF till [Adobe Express](https://express.adobe.com) för att lägga till designelement med varumärken. När du konverterar PDF till ett annat filformat som Microsoft Word förbättras dokumentarbetsflödet och du sparar mycket tid när du gör omfattande ändringar i långa dokument. Den här videosjälvstudiekursen använder den nya arbetsytan.
 
 >[!TIP]
 >
->Om du vill exportera flera PDF-filer till ett annat format kan du prova att använda [Action Wizard](../advanced-tasks/action.md).
+>Om du vill exportera flera PDF-filer till ett annat format kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
 
 <br> 
 
@@ -32,4 +32,4 @@ Lär dig konvertera dina PDF-filer till olika filformat - som [Microsoft Word](h
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!

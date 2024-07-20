@@ -1,6 +1,6 @@
 ---
-title: Signera med [!DNL Aadhaar]
-description: Lär dig använda din [!DNL Aadhaar] digitalt ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument i Acrobat Sign
+title: Signerar med  [!DNL Aadhaar]
+description: Lär dig hur du använder ditt  [!DNL Aadhaar] digitala ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument i Acrobat Sign
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Signera med [!DNL Aadhaar]
+# Signerar med [!DNL Aadhaar]
 
-Lär dig använda din [!DNL Aadhaar] digitalt ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument i Acrobat Sign.
+Lär dig hur du använder ditt [!DNL Aadhaar] digitala ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument i Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

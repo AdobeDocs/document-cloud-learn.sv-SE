@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -34,9 +34,9 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       <img alt="Konfigurera signeringsordning" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Konfigurera signeringsordning</strong></a>
+    <a href="setting-up-routing.md"><strong>Konfigurerar signeringsordning</strong></a>
     </div>
-    <em>Ställa in signeringsordning för flera signerare</em>
+    <em>Ställ in signeringsordning för flera signerare</em>
     <br>
   </td>
   <td>
@@ -44,9 +44,9 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       <img alt="Delegera till någon annan" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Använda delegerarerollen</strong></a>
+    <a href="delegate-signature.md"><strong>Använda delegeringsrollen</strong></a>
     </div>
-    <em>Använd rollen delegerare för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering</em>
+    <em>Använd delegeringsrollen för att skicka ett dokument till en mellanhand som sedan kan vidarebefordra dokumentet för signering</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       <img alt="Använda godkännarrollen" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Använda godkännarrollen</strong></a>
+    <a href="add-an-approver.md"><strong>Använder godkännarrollen</strong></a>
     </div>
     <em>Lägg till en godkännarroll i godkännandeprocessen för ditt avtal</em>
     <br>
@@ -66,7 +66,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
     <div>
     <a href="authentication-methods.md"><strong>Autentiseringsmetoder i Acrobat Sign</strong></a>
     </div>
-    <em>Läs mer om de olika metoder för identitetsautentisering som finns i Acrobat Sign</em>
+    <em>Läs mer om de olika metoderna för identitetsautentisering som är tillgängliga i Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -88,7 +88,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
     <div>
     <a href="set-up-online-payments.md"><strong>Ställ in onlinebetalningar</strong></a>
     </div>
-    <em>Lär dig ställa in och acceptera onlinebetalningar i dokument</em>
+    <em>Lär dig ställa in och acceptera onlinebetalningar i dina dokument</em>
     <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
       <div>
       <a href="megasign.md"><strong>Massutskick</strong></a>
       </div>
-      <em>Samla hundratals signaturer samtidigt för alla dokument i bara några korta steg</em>
+      <em>Samla hundratals signaturer samtidigt för alla dokument i några få korta steg</em>
       <br>
   </td>
  <td>
@@ -118,9 +118,9 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
         <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggning</strong></a>
       </div>
-      <em>Bygga Acrobat Sign-formulärfält genom texttaggning med Adobe Acrobat</em>
+      <em>Skapa Acrobat Sign-formulärfält genom texttaggning med Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -177,7 +177,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera ident
     <div>
     <a href="modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
     </div>
-    <em>Lär dig inaktivera, redigera och återaktivera ett befintligt webbformulär</em>
+    <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
     <br>
   </td>  
   <td>

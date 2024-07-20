@@ -9,14 +9,14 @@ thumbnail: KT-8257.jpg
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # Hämta signaturer
 
-Få fart på verksamheten genom att samla in rättsligt bindande [e-signaturer](https://www.adobe.com/se/acrobat/online/request-signature.html){target="_blank"} från andra - överallt.
+Håll verksamheten i rörelse genom att samla in rättsligt bindande [e-signaturer](https://www.adobe.com/se/acrobat/online/request-signature.html){target="_blank"} från andra - var som helst.
 
 >[!IMPORTANT]
 >
@@ -26,4 +26,4 @@ Få fart på verksamheten genom att samla in rättsligt bindande [e-signaturer](
 
 >[!TIP]
 >
->Så här gör du [spåra dina dokument](track.md) som har skickats ut för signering på en enkel plats.
+>Läs om hur du [spårar dokument](track.md) som har skickats ut för signering på en enkel plats.

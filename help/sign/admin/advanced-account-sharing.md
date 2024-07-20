@@ -10,8 +10,8 @@ thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
@@ -27,4 +27,4 @@ Lär dig konfigurera avancerad kontodelning, så att administratörer och använ
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Avancerade uppgifter för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Avancerade aktiviteter för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) som är tillgänglig kostnadsfritt på Experience League!

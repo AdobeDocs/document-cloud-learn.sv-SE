@@ -1,6 +1,6 @@
 ---
-title: Arbeta med filer från [!DNL Dropbox]
-description: Lär dig öppna, skapa, redigera, signera och spara ändringar i [!DNL Dropbox] filer inifrån Acrobat
+title: Arbeta med filer från  [!DNL Dropbox]
+description: Läs om hur du öppnar, skapar, redigerar, signerar och sparar ändringar i dina [!DNL Dropbox] filer inifrån Acrobat
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Arbeta med filer från [!DNL Dropbox]
 
-Lär dig öppna, skapa, redigera, signera och spara ändringar i [!DNL Dropbox] filer inifrån Acrobat. Att ansluta ditt Dropbox-konto till Acrobat är en verklig tidsbesparing - det sparar mycket tid eftersom du har alla filer nära till hands.
+Läs om hur du öppnar, skapar, redigerar, signerar och sparar ändringar i dina [!DNL Dropbox]-filer inifrån Acrobat. Att ansluta ditt Dropbox-konto till Acrobat är en verklig tidsbesparing - det sparar mycket tid eftersom du har alla filer nära till hands.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # Lägg till anpassad sida
 
-Lär dig hur du lägger till anpassade Adobe Expresser i PDF med hjälp av den inbyggda mallappen, som innehåller tusentals mallar att välja mellan. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
+Lär dig hur du lägger till anpassade Adobe Expresser i PDF med hjälp av den inbyggda mallappen, som innehåller tusentals mallar att välja mellan. Den här videosjälvstudiekursen använder den [nya arbetsytan](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

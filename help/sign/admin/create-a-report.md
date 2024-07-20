@@ -9,8 +9,8 @@ thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 18%
 
 ---
 
@@ -26,4 +26,4 @@ Lär dig skapa, spara och hantera egna anpassade rapporter och dataexporter i en
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig kostnadsfritt på Experience League!

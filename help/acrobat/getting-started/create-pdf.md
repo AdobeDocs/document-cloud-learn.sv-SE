@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Skapa en PDF
 
-Så här gör du [skapa PDF från alla olika dokumenttyper](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats. Att omvandla innehåll till PDF är ett bekvämt och pålitligt sätt att dela, bevara och säkra dokument samtidigt som de behåller sin ursprungliga formatering. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
+Lär dig hur du [skapar PDF från alla olika dokumenttyper](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats. Att omvandla innehåll till PDF är ett bekvämt och pålitligt sätt att dela, bevara och säkra dokument samtidigt som de behåller sin ursprungliga formatering. Den här videosjälvstudiekursen använder den [nya arbetsytan](new-workspace.md).
 
 >[!TIP]
 >
->Använder du Microsoft Office hela tiden? Kolla in de här [integreringar](../integrate/integrate-overview.md#microsoft) så att du kan skapa PDF direkt i dina favoritprogram från Office.
+>Använder du Microsoft Office hela tiden? Ta en titt på de här [integreringarna](../integrate/integrate-overview.md#microsoft) där du kan skapa PDF direkt i dina favoritprogram från Office.
 
 <br> 
 

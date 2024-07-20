@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Liquid Mode i Acrobat Sign
 
-Läs mer om hur Liquid Mode förbättrar den mobila signeringsupplevelsen. Nu behöver du inte längre nypa och zooma när du försöker läsa och signera dokument. I den här självstudiekursen beskrivs hur du skickar ett _Formulär för HTML_ ut för signering och automatiskt skapa en förbättrad signeringsupplevelse för mobila användare.
+Läs mer om hur Liquid Mode förbättrar den mobila signeringsupplevelsen. Nu behöver du inte längre nypa och zooma när du försöker läsa och signera dokument. I den här självstudiekursen beskrivs hur du kan skicka ett _HTML-formulär_ för signering och automatiskt skapa en förbättrad signeringsupplevelse för mobila användare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)

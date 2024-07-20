@@ -8,7 +8,7 @@ level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -25,38 +25,38 @@ Samla ett visitkort, kvitto eller något annat pappersföremål som du vill arbe
 
 **Steg 1:** Hämta Adobe Scan-appen från Apple App Store eller Google Play.
 
-**Steg 2:** Öppna Adobe Scan -programmet.
+**Steg 2:** Öppna Adobe Scan-programmet.
 
 **Steg 3:** Ta ett foto av visitkortet från appen som innehåller den kontaktinformation du vill spara på telefonen.
 
-![b-kortsbild](assets/scanbcard.png)
+![b-kortbild](assets/scanbcard.png)
 
 
-**Steg 4:** När skanningen är klar gör du justeringar för att säkerställa att kortet befinner sig inom begränsningsramen.
+**Steg 4:** När skanningen är klar gör du justeringar för att kontrollera att kortet befinner sig inom markeringsramen.
 
-**Steg 5:** Tryck **[!UICONTROL Spara PDF]** längst upp till höger. Tryck sedan på **[!UICONTROL Spara kontakt]**.
+**Steg 5:** Tryck på **[!UICONTROL Spara PDF]** längst upp till höger. Tryck sedan på **[!UICONTROL Spara kontakt]**.
 
 
 ![spara med kortbild](assets/savecontact.jpg)
 
-![b-kortsbild](assets/savecontact.png)
+![b-kortbild](assets/savecontact.png)
 
-**Steg 6:** Gör önskade redigeringar eller tillägg till kontaktinformationen innan du lagrar i din telefon. Tryck &quot;Spara&quot; en gång till för att slutföra spara till kontakter.
+**Steg 6:** Gör önskade redigeringar eller tillägg till kontaktinformationen innan du lagrar den på din telefon. Tryck &quot;Spara&quot; en gång till för att slutföra spara till kontakter.
 
 ## Skanna och lagra ett kvitto
 
 Adobe Scan-appen kan också vara användbar för att skanna och lagra ett kvitto som du behöver vid ett senare tillfälle (till exempel en utgiftsrapport eller annan ersättning).
 
-**Steg 1:** Öppna Adobe Scan-appen och ta ett foto av kvittot du vill lagra.
+**Steg 1:** Ta ett foto av kvittot du vill lagra när Adobe Scan-appen är öppen.
 
-![skanna kvittobild](assets/scanreceipt.png)
+![Skanna kvittobild](assets/scanreceipt.png)
 
 
 **Steg 2:** Observera att appen automatiskt identifierar ditt kvitto och hämtar dess innehåll.
 
-![b-kortsbild](assets/receiptoutput.jpg)
+![b-kortbild](assets/receiptoutput.jpg)
 
-**Steg 3:** Tryck **[!UICONTROL Spara PDF]** i det övre högra hörnet för att lagra kvittot i telefonen.
+**Steg 3:** Tryck på **[!UICONTROL Spara PDF]** längst upp till höger för att spara kvittot på telefonen.
 
 
 ## Sammanfattning:

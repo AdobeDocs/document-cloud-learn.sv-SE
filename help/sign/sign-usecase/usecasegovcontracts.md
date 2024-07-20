@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Offentliga kontrakt och rekvisitionsformulär
 
-Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, inklusive granskningsrapporter. Lär dig använda Acrobat Sign arbetsflödesdesigner för att effektivisera hela processen.
+Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, inklusive granskningsrapporter. Lär dig använda Acrobat Sign Designer-arbetsflödesverktyg för att effektivisera hela processen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
 Markera om du vill hämta eller öppna ett steg-för-steg-recept från PDF för kontrakt och rekvisitionsformulär.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

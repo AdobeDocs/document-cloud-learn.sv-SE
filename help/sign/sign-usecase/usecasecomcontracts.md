@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Affärskontrakt och rekvisitionsformulär
 
-Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, inklusive granskningsrapporter. Läs mer om [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) verktyg som underlättar hela processen.
+Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, inklusive granskningsrapporter. Läs mer om verktyget [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) som hjälper dig att effektivisera hela processen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Markera om du vill hämta eller öppna ett steg-för-steg-recept från PDF för kontrakt och rekvisitionsformulär.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

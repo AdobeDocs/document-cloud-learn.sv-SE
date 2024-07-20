@@ -9,7 +9,7 @@ thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Klicka [här](../assets/accessibilitysession2.zip) för att hämta en zip-mapp m
 
 Välj bilden för att se videon på en separat webbläsarflik.
 
-[![Video om session 2](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}
+[![SESSION 2-VIDEO](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}

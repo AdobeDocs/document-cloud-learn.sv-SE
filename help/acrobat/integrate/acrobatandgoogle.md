@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat för [!DNL Google Drive]
-description: Få tillgång till tidsbesparande PDF-verktyg och arbetsflöden för e-signaturer direkt i [!DNL Google Drive] app
+title: Adobe Acrobat för  [!DNL Google Drive]
+description: Få tillgång till tidsbesparande PDF-verktyg och arbetsflöden för e-signaturer direkt i  [!DNL Google Drive] appen
 feature: Integrations, Sign
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Adobe Acrobat för [!DNL Google Drive]
 
-Lär dig hur du får tillgång till tidsbesparande PDF-verktyg och arbetsflöden för e-signaturer direkt i [!DNL Google Drive] appen.
+Lär dig hur du får tillgång till tidsbesparande PDF-verktyg och arbetsflöden för e-signaturer direkt i [!DNL Google Drive]-programmet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)

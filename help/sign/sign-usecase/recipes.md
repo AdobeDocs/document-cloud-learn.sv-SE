@@ -21,13 +21,13 @@ Utforska hur olika organisationer använder Acrobat Sign för att förändra fö
 
 ## Nyheter
 
-* [Anpassat arbetsflöde för IEP-process för utbildning](usecase-edu-iep.md)
-Lär dig hur den anpassade arbetsflödesdesignern används för att digitalisera en IEP-process (Individualized Education Program)
-* [Program för praktik i utbildningswebbformulär](usecase-edu-intern.md)
+* [Anpassat arbetsflöde för utbildning, IEP-process](usecase-edu-iep.md)
+Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalisera en IEP-process (Individualized Education Program)
+* [Program för praktik med webbformulär för utbildning](usecase-edu-intern.md)
 Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär
-* [Skapa ett praktikprogram för utbildningswebbformulär](usecase-edu-intern-create.md)
+* [Skapa ett praktikprogram för ett utbildningswebbformulär](usecase-edu-intern-create.md)
 Lär dig skapa ett webbformulär för praktikplatser
-* [Statlig låneansökan med flera okända undertecknare](webform-multiple-signers.md)
+* [Statliga låneansökningar med flera okända signerare](webform-multiple-signers.md)
 Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar som involverar flera okända deltagare
 
 ## Användningsfall för myndigheter
@@ -39,9 +39,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Statlig låneansökan med flera okända undertecknare" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>Statlig låneansökan med flera okända undertecknare</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Statliga låneansökningar med flera okända signerare</strong></a>
     </div>
-    <em>Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar som involverar flera okända deltagare</em>
+    <em>Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar från myndigheter som involverar flera okända deltagare</em>
     <br>
   </td> 
   <td>
@@ -51,7 +51,7 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
     <div>
     <a href="usecasegovgrants.md"><strong>Företagsbidrag och företagslån</strong></a>
     </div>
-    <em>Ge snabbt stöd till företag genom att ge dem tillgång till bidrag, lån och ansökningar om uppskov med skattebetalning</em>
+    <em>Ge snabbt stöd till företag genom att ge dem tillgång till formulär för beviljande, lån och uppskjutande av skatt</em>
     <br>
   </td> 
   <td>
@@ -69,9 +69,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Kontrakt och rekvisitionsblanketter" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Kontrakt och rekvisitionsblanketter</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Kontrakt och rekvisitionsformulär</strong></a>
     </div>
-    <em>Ersätt snabbt pappersbearbetningen med kompatibla digitala arbetsflöden, inklusive granskningsrapporter</em>
+    <em>Ersätt snabbt pappersbearbetningen med kompatibla digitala arbetsflöden, komplett med granskningsrapporter</em>
     <br>
   </td>
 </tr>
@@ -81,9 +81,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="ÅTERANSTÄLLNINGSSTÖD" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>ÅTERANSTÄLLNINGSSTÖD</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Hjälp vid återanställning</strong></a>
     </div>
-    <em>Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i kö med helt digitala ansökningsblanketter som kan publiceras i dagar</em>
+    <em>Hjälp medborgarna att få den hjälp de behöver utan att behöva stå i kö med helt digitala ansökningsformulär som kan publiceras om dagar</em>
     <br>
   </td>
   <td>
@@ -91,7 +91,7 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Lönecheckningsskydd" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Lönecheckningsskydd</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>LÖNECHECKSSKYDD</strong></a>
     </div>
     <em>Se hur du kan använda Acrobat Sign för att konvertera formuläret Payment Protection Program till ett interaktivt onlineformulär</em>
     <br>
@@ -101,9 +101,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Fjärrorderbegäran" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Fjärrorderbegäran</strong></a>
+    <a href="usecasegovremote.md"><strong>Begäran om fjärrorder</strong></a>
     </div>
-    <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och säkra fullmakter från domare</em>
+    <em>Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det tar att begära och säkra order från domare</em>
     <br>
   </td>
   <td>
@@ -123,9 +123,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Kontrakt och rekvisitionsblanketter" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Kontrakt och rekvisitionsblanketter</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Kontrakt och rekvisitionsformulär</strong></a>
     </div>
-    <em>Ersätt snabbt pappersbearbetningen med kompatibla digitala arbetsflöden, inklusive granskningsrapporter</em>
+    <em>Ersätt snabbt pappersbearbetningen med kompatibla digitala arbetsflöden, komplett med granskningsrapporter</em>
     <br>
   </td> 
   <td>
@@ -145,7 +145,7 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
     <div>
     <a href="usecasecomtelework.md"><strong>Distansarbetsavtal</strong></a>
     </div>
-    <em>Samla in signaturer från alla dina anställda på distansavtal</em>
+    <em>Samla effektivt in signaturer från alla dina anställda på distansavtal</em>
     <br>
   </td>
   <td>
@@ -165,9 +165,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Program för praktik i utbildningswebbformulär" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Program för praktik i utbildningswebbformulär</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Program för praktik med webbformulär för utbildning</strong></a>
     </div>
-    <em>Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär</em>
+    <em>Lär dig hur webbformulär används för att förbättra elevernas åtkomst till obligatoriska formulär</em>
     <br>
   </td> 
   <td>
@@ -175,7 +175,7 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Skapa ett praktikprogram för utbildningswebbformulär" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>Skapa ett praktikprogram för utbildningswebbformulär</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>Skapa ett praktikprogram för ett utbildningswebbformulär</strong></a>
     </div>
     <em>Lär dig skapa ett webbformulär för praktikplatser</em>
     <br>
@@ -185,9 +185,9 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
       <img alt="Anpassat arbetsflöde för IEP-process för utbildning" src="../assets/Workflow-iep.png" />
     </a>
     <div>
-    <a href="usecase-edu-iep.md"><strong>Anpassat arbetsflöde för IEP-process för utbildning</strong></a>
+    <a href="usecase-edu-iep.md"><strong>Anpassat arbetsflöde för utbildning, IEP-process</strong></a>
     </div>
-    <em>Lär dig hur den anpassade arbetsflödesdesignern används för att digitalisera en IEP-process (Individualized Education Program)</em>
+    <em>Lär dig hur Designer för anpassat arbetsflöde används för att digitalisera en IEP-process (Individualized Education Program)</em>
     <br>
   </td>
   <td>

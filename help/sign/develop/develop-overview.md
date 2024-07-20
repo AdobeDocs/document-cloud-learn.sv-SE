@@ -10,8 +10,8 @@ thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 13%
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Se vad du kan göra</strong></a>
     </div>
-    <em>Lär dig hur du kan införliva funktionerna i Acrobat Sign i externa program</em>
+    <em>Lär dig använda funktionerna i Acrobat Sign i externa program</em>
     <br>
   </td>  
   <td>
@@ -46,7 +46,7 @@ ht-degree: 13%
       <img alt="Samla dokument med stora volymer med GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Samla dokument med stora volymer med GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Samla in stora dokument med GigaSign</strong></a>
     </div>
     <em>Skicka, samla in och spåra dokument för signering till tusentals personer samtidigt</em>
     <br>
@@ -58,7 +58,7 @@ ht-degree: 13%
     <div>
     <a href="embeddedesignature.md"><strong>Skapa inbäddade e-signaturer och dokumentupplevelser</strong></a>
     </div>
-    <em>Lär dig hur du använder Acrobat Sign API:er för att bädda in e-signatur- och dokumentupplevelser i dina webbplattformar och system för innehålls- och dokumenthantering</em>
+    <em>Lär dig hur du använder API:er i Acrobat Sign för att bädda in e-signatur- och dokumentupplevelser i dina webbplattformar och system för hantering av innehåll och dokument</em>
     <br>
   </td>
 </tr>

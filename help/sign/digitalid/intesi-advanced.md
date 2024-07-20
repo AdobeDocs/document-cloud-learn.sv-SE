@@ -1,6 +1,6 @@
 ---
-title: Hämta ett digitalt ID från [!DNL Intesi Group] (Avancerat)
-description: Lär dig hur du får ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]
+title: Hämta ett digitalt ID från  [!DNL Intesi Group] (avancerat)
+description: Lär dig hur du erhåller ett avancerat digitalt signeringscertifikat från  [!DNL Intesi Group]
 feature: Digital ID
 role: User
 level: Beginner
@@ -10,18 +10,18 @@ exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Hämta ett digitalt ID från [!DNL Intesi Group] (Avancerat)
+# Hämta ett digitalt ID från [!DNL Intesi Group] (avancerat)
 
-Lär dig hur du får ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]. När du har registrerat dig och din identitet har verifierats [!DNL Intesi Group] får du ett elektroniskt ID som används för att tillämpa en Acrobat Sign-molnsignatur.
+Lär dig hur du erhåller ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]. När du har registrerat dig och din identitet har verifierats utfärdar [!DNL Intesi Group] ett digitalt ID till dig som används för att tillämpa en Acrobat Sign-molnsignatur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**Välj bilden nedan för att lära dig hur du använder din avancerade [!DNL Intesi Group] digitalt ID i Acrobat Sign.**
+**Markera bilden nedan om du vill veta mer om hur du använder ditt avancerade [!DNL Intesi Group] digitala ID i Acrobat Sign.**
 
-[![323](assets/IntesiSign_400.png)](intesi-sign.md)
+[![bild](assets/IntesiSign_400.png)](intesi-sign.md)

@@ -9,7 +9,7 @@ thumbnail: 41205.jpg
 exl-id: a914d230-da29-4278-9189-77e3a2486ae8
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,5 @@ Se en kort videoutflykt på arbetsytan i Acrobat Sign för att komma igång.
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig kostnadsfritt på Experience League!
 

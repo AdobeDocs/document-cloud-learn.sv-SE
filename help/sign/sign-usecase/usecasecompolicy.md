@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Handelspolitiska avtal
 
-Samla in signaturer från alla dina anställda om policyavtal, policyuppdateringar och annat. Lär dig skapa ett online-webbformulär som kan fyllas i **och** undertecknad utan att skriva ut eller skicka något.
+Samla in signaturer från alla dina anställda om policyavtal, policyuppdateringar och annat. Lär dig hur du skapar ett onlinewebbformulär som kan slutföras **och** signerade utan att skriva ut eller skicka något.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Markera om du vill hämta eller öppna ett steg-för-steg-recept för PDF för policyavtal.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

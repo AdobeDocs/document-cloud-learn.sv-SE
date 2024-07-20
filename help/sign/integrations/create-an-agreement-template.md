@@ -1,5 +1,5 @@
 ---
-title: Document Builder för [!DNL Salesforce]
+title: Document Builder för  [!DNL Salesforce]
 description: Lär dig hur du skapar en återanvändbar dokumentmall med Document Builder för Salesforce
 feature: Integrations
 role: User, Admin

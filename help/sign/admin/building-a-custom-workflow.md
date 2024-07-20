@@ -9,7 +9,7 @@ thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Lär dig att skräddarsy och automatisera dokumentarbetsflöden för att få ele
 
 [!BADGE Användningsfall]
 
-* [Anpassat arbetsflöde för IEP-process för utbildning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
-Lär dig hur den anpassade arbetsflödesdesignern används för att digitalisera en IEP-process (Individualized Education Program)
-* [Statliga avtal och rekvisition i Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [Affärskontrakt och rekvisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [Anpassat arbetsflöde för utbildning, IEP-process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalisera en IEP-process (Individualized Education Program)
+* [Offentliga avtal och rekvisition för Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Affärskontrakt och rekvisition på Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
->Gruppadministratörer kan tilldela arbetsflöden till alla grupper som de administrerar (inte bara deras primära grupp). Gruppadministratörer kan också redigera alla arbetsflöden som är tilldelade till en grupp som de administrerar.
+Gruppadministratörer kan tilldela arbetsflöden till alla grupper som de administrerar (inte bara deras primära grupp). Gruppadministratörer kan också redigera alla arbetsflöden som är tilldelade till en grupp som de administrerar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig gratis på Experience League!
+Den här videon ingår i kursen [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig kostnadsfritt på Experience League!

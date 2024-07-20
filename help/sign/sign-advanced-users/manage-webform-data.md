@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Hantera webbformulärdata
 
-Lär dig spåra, hantera och exportera data från [webbformulär](webform.md). Den här självstudiekursen visar ytterligare ett arbetsflöde för webbformulär och hur du konsoliderar flera datainmatningar till en enda .csv-fil för visning och analys.
+Lär dig spåra, hantera och exportera data från ett [webbformulär](webform.md). Den här självstudiekursen visar ytterligare ett arbetsflöde för webbformulär och hur du konsoliderar flera datainmatningar till en enda .csv-fil för visning och analys.
 
 >[!NOTE]
 >

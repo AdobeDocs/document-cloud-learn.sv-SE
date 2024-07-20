@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Fylla i och signera ett dokument
 
-Lär dig hur du fyller i formulär **OCH** lägg till din elektroniska signatur i dokument.
+Lär dig hur du fyller i formulär **OCH** och lägger till din elektroniska signatur i dokument.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

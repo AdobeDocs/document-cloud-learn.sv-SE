@@ -9,7 +9,7 @@ thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Lär dig skapa en återanvändbar dokumentmall och lägga till den i ditt Acroba
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig kostnadsfritt på Experience League!

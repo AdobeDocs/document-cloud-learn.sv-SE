@@ -20,7 +20,7 @@ Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och i s
 
 >[!TIP]
 >
->Vill du veta mer om Acrobat-verktyg som du kommer åt var du än befinner dig? Utcheckning [Arbeta överallt med Acrobat web](acrobatweb.md).
+>Vill du veta mer om Acrobat-verktyg som du kommer åt var du än befinner dig? Se [Arbeta var som helst med Acrobat web](acrobatweb.md).
 
 <br> 
 

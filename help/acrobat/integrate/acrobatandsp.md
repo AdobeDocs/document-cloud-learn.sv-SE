@@ -1,6 +1,6 @@
 ---
-title: Arbeta med din [!DNL SharePoint] Filer
-description: Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med Adobe Acrobat för [!DNL Microsoft 365]
+title: Arbeta med dina [!DNL SharePoint] filer
+description: Effektivisera dokumentarbetsflöden med  [!DNL SharePoint] och Acrobat med Adobe Acrobat för [!DNL Microsoft 365]
 feature: Integrations, Create PDF, Collaboration
 role: User
 topic: Integrations
@@ -11,18 +11,18 @@ thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
-# Arbeta med din [!DNL SharePoint] filer
+# Arbeta med dina [!DNL SharePoint]-filer
 
-Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med hjälp av [Adobe Acrobat för Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Konvertera säkert [!DNL Microsoft 365] Filer till PDF. [kombinera PDF-dokument](https://www.adobe.com/se/acrobat/online/merge-pdf.html){target="_blank"} i en fil, kommentera och ordna om sidor - direkt från [!DNL SharePoint] online.
+Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med [Adobe Acrobat för Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Konvertera [!DNL Microsoft 365]-filer till PDF på ett säkert sätt, [kombinera PDF-dokument](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} till en fil, kommentera och ordna om sidor - direkt från [!DNL SharePoint] online.
 
 >[!NOTE]
 >
->Adobe Acrobat för [!DNL SharePoint], [!DNL OneDrive]och [!DNL Office 365] innehåller kostnadsfria funktioner (som att visa och söka i PDF) som är tillgängliga för alla användare. För vissa funktioner (t.ex. att skapa och kombinera PDF) krävs en betald prenumeration på Acrobat for teams eller Acrobat for enterprise.
+>Adobe Acrobat för [!DNL SharePoint], [!DNL OneDrive] och [!DNL Office 365] innehåller kostnadsfria funktioner (som att visa och söka inom PDF) som är tillgängliga för alla användare. För vissa funktioner (t.ex. att skapa och kombinera PDF) krävs en betald prenumeration på Acrobat for teams eller Acrobat for enterprise.
 
 <br> 
 
@@ -30,4 +30,4 @@ Effektivisera dokumentarbetsflöden med [!DNL SharePoint] och Acrobat med hjälp
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!

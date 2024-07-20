@@ -1,6 +1,6 @@
 ---
-title: Använda texttaggar i [!DNL Microsoft Word]
-description: Lär dig skapa en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]
+title: Använda texttaggar i  [!DNL Microsoft Word]
+description: Lär dig skapa en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i  [!DNL Microsoft Word]
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Använda texttaggar i [!DNL Microsoft Word]
+# Använda texttaggning i [!DNL Microsoft Word]
 
-Lär dig skapa en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]. Texttaggning skapar automatiskt formulärfält i dokumentet när det skickas för signering. Ingen manuell fältplacering krävs. Den här processen minskar avsevärt den tid det tar att göra ändringar och modifieringar i [!DNL Microsoft Word] dokument som du skickar ut för signering.
+Lär dig skapa en återanvändbar dokumentmall genom att lägga till Acrobat Sign-texttaggar i [!DNL Microsoft Word]. Texttaggning skapar automatiskt formulärfält i dokumentet när det skickas för signering. Ingen manuell fältplacering krävs. Den här processen minskar avsevärt den tid det tar att göra ändringar i och modifieringar av [!DNL Microsoft Word] dokument som du skickar ut för signering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)

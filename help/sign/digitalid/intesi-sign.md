@@ -1,6 +1,6 @@
 ---
-title: Signera med [!DNL Intesi Group]
-description: Lär dig använda din [!DNL Intesi Group] digitalt ID med Acrobat Sign
+title: Signerar med  [!DNL Intesi Group]
+description: Lär dig använda ditt  [!DNL Intesi Group] digitala ID med Acrobat Sign
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Signera med [!DNL Intesi Group]
+# Signerar med [!DNL Intesi Group]
 
-Lär dig använda din [!DNL Intesi Group] digitalt ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument.
+Lär dig hur du använder ditt [!DNL Intesi Group] digitala ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)

@@ -10,7 +10,7 @@ kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Den här detaljerade självstudiekursen handlar om följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Logga in</strong></a>
          <br>
-        <em>Börja vid 0:00</em>
+        <em>Börja 0:00</em>
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
@@ -65,7 +65,7 @@ Den här detaljerade självstudiekursen handlar om följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>Skicka-inställningar</strong></a>
         <br>
-        <em>Börja kl. 4.32</em>
+        <em>Börja vid 4:32</em>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ Den här detaljerade självstudiekursen handlar om följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>Lägg till ifyllbara fält</strong></a>
          <br>
-        <em>Börja kl. 9.11</em>
+        <em>Börja kl. 9:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
@@ -97,7 +97,7 @@ Den här detaljerade självstudiekursen handlar om följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Hantera och spåra dokument</strong></a>
         <br>
-        <em>Börja kl. 12.54</em>
+        <em>Börja kl. 12:54</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
@@ -107,7 +107,7 @@ Den här detaljerade självstudiekursen handlar om följande ämnen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>Support och resurser</strong></a>
         <br>
-        <em>Börja kl. 14.58</em>
+        <em>Börja kl. 14:58</em>
     </td>
   </tr>
   </table>

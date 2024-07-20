@@ -28,7 +28,7 @@ Kostnadsbesparingar, organisatorisk effektivitet, tidsbesparingar, kvalitetssäk
 
 >[!TIP]
 >
-Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
+Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
 
 >[!NOTE]
 >

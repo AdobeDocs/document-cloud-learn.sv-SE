@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Automatisk justering av layout
 
-Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt justerar layouten på sidorna i PDF. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
+Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt justerar layouten på sidorna i PDF. Den här videosjälvstudiekursen använder den [nya arbetsytan](new-workspace.md).
 
 >[!NOTE]
 >

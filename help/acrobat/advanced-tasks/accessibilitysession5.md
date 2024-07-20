@@ -9,8 +9,8 @@ thumbnail: KT-8612.jpg
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 Sessionen på begäran fokuserar på att lägga till formulärfält i ett tidigare taggat PDF.
 
-Klicka [här](../assets/accessibilitysession5.zip) om du vill hämta en zip-fil med praktiska filer för den här sessionen.
+Klicka [här](../assets/accessibilitysession5.zip) för att ladda ned en zip-fil med praktiska filer för den här sessionen.
 
 Välj bilden för att se videon på en separat webbläsarflik.
 

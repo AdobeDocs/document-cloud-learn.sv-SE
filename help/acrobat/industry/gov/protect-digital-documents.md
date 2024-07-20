@@ -8,14 +8,14 @@ thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # Fem tips för att arbeta var som helst med Acrobat - Protect digitala dokument
 
-[Lägg till ett lösenord till din PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"}  för att förhindra kopiering, redigering eller utskrift.
+[Lägg till ett lösenord i din PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} för att förhindra kopiering, redigering eller utskrift.
 
 ## Tips #3 - Protect digitala dokument (1:23)
 

@@ -20,7 +20,7 @@ Lär dig hur Acrobat-gränssnittet gör det enkelt att komma åt filer och verkt
 
 >[!TIP]
 >
->Vill du veta mer om den nya arbetsytan som du kan aktivera i Acrobat? Utcheckning [Ny arbetsyta](new-workspace.md).
+>Vill du veta mer om den nya arbetsytan som du kan aktivera i Acrobat? Kolla in [Ny arbetsyta](new-workspace.md).
 
 <br> 
 

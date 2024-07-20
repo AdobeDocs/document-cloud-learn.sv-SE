@@ -25,9 +25,9 @@ Ett digitalt ID (digitalt ID) är ungefär som ett pass i elektronisk form och g
 ## Nyheter
 
 * [Registrera och signera med Digidentity](digidentity-sign.md)
-Läs om hur du registrerar och använder [!DNL Digidentity] digitalt ID med Acrobat Sign
+Lär dig registrera och använda ditt digitala ID för [!DNL Digidentity] med Acrobat Sign
 * [Registrera och signera med D-Trust](d-trust.md)
-Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign
+Lär dig hur du registrerar din identitet med [!DNL D-Trust] och sedan använda den digitala signaturen [!DNL D-Trust] på ett dokument i Acrobat Sign
 
 ## [!DNL Aadhaar]
 
@@ -38,9 +38,9 @@ Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Tr
       <img alt="Signera med [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
     </a>
     <div>
-    <a href="aadhaar-sign.md"><strong>Signera med [!DNL Aadhaar]</strong></a>
+    <a href="aadhaar-sign.md"><strong>Signerar med [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Lär dig använda din [!DNL Aadhaar] digitalt ID med Acrobat Sign</em>
+    <em>Lär dig använda ditt [!DNL Aadhaar] digitala ID med Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -67,12 +67,12 @@ Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Tr
 <tr>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="Registrera och signera med en [!DNL Digidentity] digitalt ID" src="assets/Digidentitysign_1280.png" />
+      <img alt="Registrera och signera med ett digitalt ID för [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
     <a href="digidentity-sign.md"><strong>Registrera och signera med [!DNL Digidentity]</strong></a>
     </div>
-    <em>Läs om hur du registrerar och använder [!DNL Digidentity] digitalt ID med Acrobat Sign</em>
+    <em>Lär dig hur du registrerar och använder ditt [!DNL Digidentity] digitala ID med Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Tr
     <div>
     <a href="d-trust.md"><strong>Registrera och signera med D-Trust</strong></a>
     </div>
-    <em>Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign</em>
+    <em>Lär dig hur du registrerar din identitet med [!DNL D-Trust] och sedan använda den digitala signaturen [!DNL D-Trust] på ett dokument i Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -134,19 +134,19 @@ Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Tr
       <img alt="Skaffa ett digitalt ID från Intesi Group (avancerat)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>Hämta ett digitalt ID från [!DNL Intesi Group] (Avancerat)</strong></a>
+    <a href="intesi-advanced.md"><strong>Hämta ett digitalt ID från [!DNL Intesi Group] (avancerat)</strong></a>
     </div>
-    <em>Lär dig hur du får ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]</em>
+    <em>Lär dig hur du erhåller ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="Hämta ett digitalt ID från [!DNL Intesi Group] (Kvalificerad)" src="assets/IntesiQualified_1280.png" />
+      <img alt="Hämta ett digitalt ID från [!DNL Intesi Group] (kvalificerat)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Hämta ett digitalt ID från [!DNL Intesi Group] (Kvalificerad)</strong></a>
+    <a href="intesi-qualified.md"><strong>Hämta ett digitalt ID från [!DNL Intesi Group] (kvalificerat)</strong></a>
     </div>
-    <em>Lär dig hur du erhåller ett kvalificerat digitalt signeringscertifikat från [!DNL Intesi Group]</em>
+    <em>Så här skaffar du ett kvalificerat digitalt signeringscertifikat från [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -154,9 +154,9 @@ Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Tr
       <img alt="Signera med Intesi Group" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>Signera med [!DNL Intesi Group]</strong></a>
+    <a href="intesi-sign.md"><strong>Signerar med [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Lär dig använda din [!DNL Intesi Group] digitalt ID med Acrobat Sign</em>
+    <em>Lär dig använda ditt [!DNL Intesi Group] digitala ID med Acrobat Sign</em>
     <br>
   </td>
   <td>

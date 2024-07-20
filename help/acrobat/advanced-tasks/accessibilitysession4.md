@@ -9,7 +9,7 @@ thumbnail: KT-8611.jpg
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här on demand-sessionen tar du itu med de mer komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor.
 
-Klicka [här](../assets/accessibilitysession4.zip) om du vill hämta en zip-fil med praktiska filer för den här sessionen.
+Klicka [här](../assets/accessibilitysession4.zip) för att ladda ned en zip-fil med praktiska filer för den här sessionen.
 
 Välj bilden för att se videon på en separat webbläsarflik.
 

@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Redigera text i en PDF
 
-Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. Genom att redigera text direkt i Acrobat kan du uppdatera innehåll exakt och professionellt utan att behöva gå fram och tillbaka mellan olika appar. Den här videosjälvstudiekursen använder [ny arbetsyta](new-workspace.md).
+Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. Genom att redigera text direkt i Acrobat kan du uppdatera innehåll exakt och professionellt utan att behöva gå fram och tillbaka mellan olika appar. Den här videosjälvstudiekursen använder den [nya arbetsytan](new-workspace.md).
 
 >[!TIP]
 >
->Lär dig mer om det nya redigeringsläget som [justerar innehåll automatiskt](auto-adjust-layout.md).
+>Läs mer om det nya redigeringsläget som [automatiskt justerar innehåll](auto-adjust-layout.md).
 
 <br> 
 
@@ -28,4 +28,4 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. 
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!

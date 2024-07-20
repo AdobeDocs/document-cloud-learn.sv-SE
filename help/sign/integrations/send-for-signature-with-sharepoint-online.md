@@ -11,7 +11,7 @@ thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Lär dig effektivisera arbetsflöden för dokument genom att skicka ett dokument
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Använda Acrobat Sign Inside Microsoft-program](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Använda Acrobat Sign Inside Microsoft-appar](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) som är tillgänglig kostnadsfritt på Experience League!

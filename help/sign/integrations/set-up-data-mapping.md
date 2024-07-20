@@ -1,6 +1,6 @@
 ---
 title: Konfigurera datamappning
-description: Lär dig konfigurera en datamappning för Acrobat Sign i [!DNL Salesforce]
+description: Lär dig hur du konfigurerar en datamappning för Acrobat Sign i  [!DNL Salesforce]
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera datamappning i [!DNL Salesforce]
+# Konfigurerar datamappning i [!DNL Salesforce]
 
-Lär dig konfigurera datamappning för Acrobat Sign i [!DNL Salesforce]. Datamappning låter dig hämta data _baksida_ in i [!DNL Salesforce] efter det att ett avtal har undertecknats.
+Lär dig konfigurera datamappning för Acrobat Sign i [!DNL Salesforce]. Med datamappning kan du hämta data _tillbaka_ till [!DNL Salesforce] efter att ett avtal har signerats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

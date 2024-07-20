@@ -1,6 +1,6 @@
 ---
-title: Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]
-description: Lär dig arkivera signerade dokument automatiskt på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate]
+title: Arkivera filer automatiskt i  [!DNL SharePoint] med [!DNL Power Automate]
+description: Lär dig hur du automatiskt arkiverar signerade dokument i ett  [!DNL SharePoint] bibliotek med  [!DNL Power Automate]
 feature: Integrations
 role: Admin, User
 level: Intermediate
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]
 
-Lär dig arkivera signerade dokument automatiskt på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate].
+Lär dig hur du automatiskt arkiverar signerade dokument i ett [!DNL SharePoint]-bibliotek med [!DNL Power Automate].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

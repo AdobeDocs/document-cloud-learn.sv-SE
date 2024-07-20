@@ -8,8 +8,8 @@ level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 10%
+source-wordcount: '534'
+ht-degree: 8%
 
 ---
 
@@ -22,15 +22,15 @@ I den här övningen går vi igenom hur du
 * Skicka personliga inbjudningar för att kommentera
 * Skicka en anonym eller offentlig länk i ett e-postmeddelande
 
-Här är de [demofiler](assets/01_Review.zip) för detta ändamål.
+Här är [demofilerna](assets/01_Review.zip) för den här övningen.
 
 ## Skicka personliga inbjudningar för att kommentera
 
-**Steg 1:** Öppna fönstret `localFoodTruckmenu_start.pdf` -filen i Adobe Acrobat.
+**Steg 1:** Öppna filen `localFoodTruckmenu_start.pdf` i Adobe Acrobat.
 
-![Bild för steg 1](assets/Step1.png)
+![Steg 1 bild](assets/Step1.png)
 
-**Steg 2:** Klicka på **[!UICONTROL Send forar Comments]** i den högra panelen eller **[!UICONTROL Dela den här filen med andra]** ![kommentarerikon](assets/sendforcommentsicon.png)  längst upp till höger.
+**Steg 2:** Klicka på **[!UICONTROL Send forar Comments]** i den högra panelen eller ikonen **[!UICONTROL Dela den här filen med andra]** ![kommentarer](assets/sendforcommentsicon.png) längst upp till höger.
 
 **Steg 3:** Ange mottagarnas e-postadresser. Du kan ange ett meddelande till mottagarna eller lägga till en tidsgräns för granskning.
 
@@ -42,43 +42,43 @@ Du får ett e-postmeddelande när mottagarna har visat filen.
 
 ## Granskningsupplevelse
 
-Granskarna får en e-postinbjudan med en länk till PDF-dokumentet som ska granskas. När de klickar på länken eller **[!UICONTROL Granska]** -knappen i inbjudan öppnas PDF i en webbläsare. De kan använda kommentarsverktygen om de vill lägga till kommentarer i PDF-dokumentet. De kan även använda datorprogrammen Acrobat Reader eller Acrobat för att lägga till kommentarer.
+Granskarna får en e-postinbjudan med en länk till PDF-dokumentet som ska granskas. När användaren klickar på länken eller knappen **[!UICONTROL Granska]** i inbjudan öppnas PDF i en webbläsare. De kan använda kommentarsverktygen om de vill lägga till kommentarer i PDF-dokumentet. De kan också lägga till kommentarer med hjälp av Acrobat Reader- eller Acrobat-datorprogrammen.
 
 ## Skicka en anonym eller offentlig länk i ett e-postmeddelande
 
-**Steg 1:** Öppna fönstret `localFoodTruckmenu_start.pdf` -filen i Adobe Acrobat.
+**Steg 1:** Öppna filen `localFoodTruckmenu_start.pdf` i Adobe Acrobat.
 
-**Steg 2:** Klicka **[!UICONTROL Dela en länk]** ![länkikon](assets/sendlinkicon.png). Den delade länken genereras direkt. Du behöver inte vänta på att filen ska överföras till molnet. Som standard visas [!UICONTROL Tillåt kommentarer] -knappen är på.
+**Steg 2:** Klicka på **[!UICONTROL Dela en länk]** ![linkIkon](assets/sendlinkicon.png). Den delade länken genereras direkt. Du behöver inte vänta på att filen ska överföras till molnet. Som standard är knappen [!UICONTROL Tillåt kommentarer] aktiverad.
 
 ![Steg 2L bild](assets/Step2L.png)
 
-**Steg 3:** Klicka **[!UICONTROL Kopiera länk]** och dela länken med mottagarna.
+**Steg 3:** Klicka på **[!UICONTROL Kopiera länk]** och dela länken med mottagarna.
 
 ## Kommentera
 
-**Steg 1:** Klicka på **[!UICONTROL Kommentar]** på den högra panelen.
+**Steg 1:** Klicka på **[!UICONTROL kommentaren]** på den högra panelen.
 
-![Klicka på kommentar](assets/Cselect.jpg)
+![Klicka på kommentaren](assets/Cselect.jpg)
 
 **Steg 2:** Använd det övre menyfliksverktyget för att markera dokumentet och/eller skriva en kommentar.
 
-![kommentarsgränssnitt](assets/commentsui.png)
+![användargränssnitt för kommentarer](assets/commentsui.png)
 
 Dina kommentarer sparas automatiskt och kan visas för andra.
 
 ## Importera PDF-kommentarer till InDesign
 
-Med InDesign CC 2019 kan du importera kommentarer direkt från PDF-filer. Du kan importera, acceptera och tillämpa ändringarna med bara ett klick. Om du väljer en kommentar på den nya PDF-kommentarspanelen hittas och markeras kommentaren i InDesign-filen.
+I InDesign CC 2019 kan du importera kommentarer direkt från PDF-filer. Du kan importera, acceptera och tillämpa ändringarna med bara ett klick. Genom att välja en kommentar på den nya PDF-kommentarspanelen hittas och markeras kommentaren i InDesignen.
 
 **Steg 1:** Hämta PDF-filen som innehåller kommentarerna.
 
-**Steg 2:** Öppna din InDesign-fil.
+**Steg 2:** Öppna filen InDesign.
 
-**Steg 3:** Klicka **[!UICONTROL Fil]** från den övre menyn.
+**Steg 3:** Klicka på **[!UICONTROL Fil]** i den övre menyn.
 
 ![PDF-kommentarer i indd](assets/inddpdf.png)
 
-**Steg 4:** Klicka **[!UICONTROL Importera PDF-kommentarer]** i listrutan.
+**Steg 4:** Klicka på **[!UICONTROL Importera PDF-kommentarer]** i listrutan.
 
 **Steg 5:** Öppna PDF där kommentarerna finns.
 

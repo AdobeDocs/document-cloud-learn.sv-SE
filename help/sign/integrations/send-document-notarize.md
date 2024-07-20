@@ -21,10 +21,10 @@ Adobe Acrobat Sign samarbetar med Notarize, Inc. för att tillhandahålla online
 
 >[!NOTE]
 >
->Acrobat Sign-integreringen med [!DNL Notarize] Inc.:s onlinetjänster för attestering kan endast användas i USA med serviceplaner på företags- och storföretagsnivå.
+>Acrobat Sign-integreringen med [!DNL Notarize] Inc.:s onlinetjänster för attestering kan bara användas i USA med serviceplaner på företags- och storföretagsnivå.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->När attestering har aktiverats för ett Acrobat Sign-konto kan avsändaren välja **Kräver bestyrkande** genom att markera ellipsen till höger om mottagarposten. Alternativet attestering är bara tillgängligt för mottagare med rollen som Undertecknare.
+>När attestering har aktiverats för ett Acrobat Sign-konto kan avsändaren markera **Kräver attestering** genom att markera ellipsen till höger om mottagarposten. Alternativet attestering är bara tillgängligt för mottagare med rollen som Undertecknare.

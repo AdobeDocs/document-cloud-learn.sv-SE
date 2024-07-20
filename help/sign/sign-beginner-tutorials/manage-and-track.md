@@ -9,7 +9,7 @@ thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Lär dig hantera och spåra dokument som skickats för signering i Acrobat Sign.
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) som är tillgänglig kostnadsfritt på Experience League!

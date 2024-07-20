@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Registrera och signera med [!DNL D-Trust]
 
-Lär dig registrera din identitet med [!DNL D-Trust]och använd sedan [!DNL D-Trust] elektronisk underskrift på ett dokument i Acrobat Sign.
+Läs om hur du registrerar din identitet med [!DNL D-Trust] och sedan använder den digitala signaturen [!DNL D-Trust] på ett dokument i Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

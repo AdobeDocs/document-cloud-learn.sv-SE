@@ -5,7 +5,8 @@ feature: Use Cases, Web Forms, Mobile
 role: User
 level: Intermediate
 jira: KT-13607
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: ba19bca2-d4ab-41c2-9235-40672dc58929
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -16,6 +17,6 @@ ht-degree: 0%
 
 Lär dig hur webbformulär används för att förbättra elevernas åtkomst till obligatoriska formulär som kan skickas från valfri enhet och valfri plats, vilket snabbar upp godkännandeprocessen för utbildning. I det här exemplet är arbetsflödet för varje elev unikt beroende på deras kurs - eftersom varje elev måste lägga till sin egen fakultetsansvarige och avdelningschef för godkännande.
 
-Utcheckning [Skapa ett praktikprogram för utbildningswebbformulär](usecase-edu-intern-create.md) om du vill lära dig hur du skapar det här webbformuläret.
+Läs [Skapa ett praktikprogram för ett utbildningswebbformulär](usecase-edu-intern-create.md) om du vill veta hur du skapar det här webbformuläret.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)

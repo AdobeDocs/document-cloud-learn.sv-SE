@@ -10,13 +10,13 @@ thumbnail: 17362.jpg
 exl-id: 0b45fb6b-170e-4842-8627-dd9f0bc7b25d
 source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
 # Hämta en signatur personligen
 
-Lär dig hur du skaffar någon annans signatur personligen med [Acrobat Sign-mobilapp](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Läs om hur du skaffar någon annans signatur personligen med [Acrobat Sign-mobilappen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

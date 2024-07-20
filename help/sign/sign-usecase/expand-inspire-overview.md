@@ -26,9 +26,9 @@ Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom a
       <img alt="Kompetensbyggaren" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Kompetensbyggaren</strong></a>
+    <a href="innovation-series.md"><strong>KOMPETENSBYGGARE</strong></a>
     </div>
-    <em>Delta i en 30-minuters kompetensbyggare och lär dig sätta e-signaturer i arbete - utan att lägga till extra arbete</em>
+    <em>Delta i en 30-minuters kompetensbyggare och lär dig sätta dina e-signaturer i arbete - utan att lägga till extra arbete på din dag</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom a
     <div>
     <a href="recipes.md"><strong>Användningsfall</strong></a>
     </div>
-    <em>Utforska hur olika organisationer använder Acrobat Sign med dessa verklighetstrogna användningsfall</em>
+    <em>Utforska hur olika organisationer använder Acrobat Sign med dessa verkliga användningsfall</em>
     <br>
   </td>
   <td>

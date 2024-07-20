@@ -29,7 +29,7 @@ Lär dig hur du kan förändra kund- och medarbetarupplevelser genom att utforsk
     <div>
     <a href="gov/gov-overview.md"><strong>Självstudiekurser för myndigheter</strong></a>
     </div>
-    <em>Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statliga och lokala myndigheter</em>
+    <em>Utforska våra självstudiekurser för Acrobat som är särskilt utformade för myndigheter på federal, delstatlig och lokal nivå</em>
     <br>
   </td>
   <td>

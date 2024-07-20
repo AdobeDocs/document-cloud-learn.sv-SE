@@ -22,4 +22,4 @@ Använd e-signaturer och webbkonferenser tillsammans för att minska den tid det
 
 Markera om du vill hämta eller öppna ett steg-för-steg-PDF-recept för begäran om fjärrstyrd garanti.
 
-[![Hämta PDF recept](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![Hämta PDF-receptet](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

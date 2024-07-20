@@ -21,7 +21,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 
 >[!IMPORTANT]
 >
->GigaSign uppdateras inte längre till den senaste versionen av Java eller Acrobat Sign och kommer bara att ha begränsat stöd. Funktionerna i GigaSign läggs till i produkten under [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) funktionalitet. Använd Massutskick för alla användningsfall som inte uttryckligen kräver användning av GigaSign.
+>GigaSign uppdateras inte längre till den senaste versionen av Java eller Acrobat Sign och kommer bara att ha begränsat stöd. Funktionerna i GigaSign läggs till i produkten under funktionen [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Använd Massutskick för alla användningsfall som inte uttryckligen kräver användning av GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
@@ -29,7 +29,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 
 [Hämta zip-filen GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8 hämtningslänk (endast vid behov)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Java 1.8-hämtningslänk (endast vid behov)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
 [IP-adresser till tillåtelselista (endast vid behov)](https://helpx.adobe.com/se/sign/system-requirements.html#IPs){target="_blank"}
 
@@ -37,7 +37,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 
 1. Logga in på ditt Acrobat Sign-konto.
 
-1. Klicka **[!UICONTROL Grupp]** eller **[!UICONTROL Konto]**, beroende på vad du ser högst upp.
+1. Klicka på **[!UICONTROL Grupp]** eller **[!UICONTROL Konto]**, beroende på vilket som visas högst upp.
 
 1. Skriv &quot;Åtkomsttoken&quot; i sökfältet på vänster sida av skärmen.
 
@@ -49,7 +49,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 
 1. Öppna GigaSign.
 
-1. Klicka på **[!UICONTROL Inställningar]** längst upp till höger.
+1. Klicka på ikonen **[!UICONTROL Inställningar]** längst upp till höger.
 
 1. Klistra in integreringsnyckeln på den första raden.
 

@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
 * [Rapportalternativ](report-options.md)
 Lär dig ställa in rapportalternativ för användare
-* [Lägga till användare](add-users-to-your-account.md)
+* [Lägger till användare](add-users-to-your-account.md)
 Lär dig lägga till och hantera användare för Acrobat Sign
 
 ## Komma igång
@@ -47,7 +47,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
       <img alt="Komma igång för administratörer" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Komma igång för administratörer</strong></a>
+    <a href="up-and-running-admin.md"><strong>Start och körning för administratörer</strong></a>
     </div>
     <em>Översikt över sju nyckelområden där administratörer kan komma igång snabbt i Acrobat Sign</em>
     <br>
@@ -59,7 +59,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
     </div>
-    <em>Konfigurera aviseringar för händelser och varningar för ditt konto</em>
+    <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
     <br>
   </td>
   <td>
@@ -67,9 +67,9 @@ Lär dig lägga till och hantera användare för Acrobat Sign
       <img alt="Lägga till användare" src="../assets/Adding-Users.png" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Lägga till användare</strong></a>
+    <a href="add-users-to-your-account.md"><strong>Lägger till användare</strong></a>
     </div>
-    <em>Lägga till och hantera användare i Acrobat Sign</em>
+    <em>Lägg till och hantera användare för Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -89,9 +89,9 @@ Lär dig lägga till och hantera användare för Acrobat Sign
       <img alt="Upprätta ett externt arkiv" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Upprätta ett externt arkiv</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>Skapa ett externt arkiv</strong></a>
     </div>
-    <em>Skapa ett externt arkiv för säkerhetskopior av signerade avtal</em>
+    <em>Skapa ett externt arkiv för säkerhetskopior av avtal som har signerats</em>
     <br>
   </td>
   <td>
@@ -143,7 +143,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
     </div>
-    <em>Lär dig inaktivera, redigera och återaktivera ett befintligt webbformulär</em>
+    <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
     <br>
   </td>
   <td>
@@ -165,7 +165,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="building-a-custom-workflow.md"><strong>Konfigurera ett arbetsflöde</strong></a>
     </div>
-    <em>Automatisera dokumentarbetsflöden för att snabbt få elektroniska signaturer och data</em>
+    <em>Automatisera arbetsflöden för dokument för att snabbt få elektroniska signaturer och data</em>
     <br>
   </td>
   <td>
@@ -216,7 +216,7 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <div>
     <a href="advanced-account-sharing.md"><strong>Avancerad kontodelning</strong></a>
     </div>
-    <em>Konfigurera kontodelning så att administratörer och användare kan delegera sina behörigheter för att skicka, ändra och visa</em>
+    <em>Konfigurera kontodelning så att administratörer och användare kan delegera behörighet att skicka, ändra och visa</em>
     <br>
   </td>
   <td>
@@ -236,9 +236,9 @@ Lär dig lägga till och hantera användare för Acrobat Sign
       <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggar</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggning</strong></a>
     <div>
-    <em>Bygga Acrobat Sign-formulärfält genom texttaggning med Adobe Acrobat</em>
+    <em>Skapa Acrobat Sign-formulärfält genom texttaggning med Adobe Acrobat</em>
     <br>
   </td>
   <td>

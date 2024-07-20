@@ -9,7 +9,7 @@ thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
       <img alt="Fem tips för att arbeta var som helst med Acrobat (komplett 15:12)" src="../../assets/5tipscomplete.png" />
     </a>
     <div>
-    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>Fem tips för att arbeta var som helst med Acrobat (komplett 15:12)</strong></a>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 tips om att arbeta var som helst med Acrobat (fullständig 15:12)</strong></a>
     </div>
-    <em>Lär dig hur du får och använder verktygen i Acrobat och dess tillhörande mobilappar för att arbeta var som helst</em>
+    <em>Lär dig hur du skaffar och använder verktygen i Acrobat och dess tillhörande mobilappar för att arbeta var som helst</em>
     <br>
   </td>
   <td>
@@ -37,9 +37,9 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
       <img alt="Tips 1: Skaffa dina verktyg" src="../../assets/Tip1.png" />
     </a>
     <div>
-    <a href="get-your-tools.md"><strong>Tips 1: Skaffa dina verktyg</strong></a>
+    <a href="get-your-tools.md"><strong>Tips 1: Få tillgång till dina verktyg</strong></a>
     </div>
-    <em>Det första steget för att börja arbeta var du än är att skaffa dina Acrobat-verktyg och tillhörande mobilappar</em>
+    <em>Det första steget för att börja arbeta var du än är att skaffa Acrobat-verktyg och tillhörande mobilappar</em>
     <br>
   </td>  
   <td>
@@ -47,7 +47,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
       <img alt="Tips 2: Samarbeta i dokument" src="../../assets/Tip2.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>Tips 2: Samarbeta i dokument</strong></a>
+    <a href="collaborate-on-documents.md"><strong>Tips 2: Samarbeta om dokument</strong></a>
     </div>
     <em>Skapa enkla och smidiga arbetsflöden för samarbete i dokument</em>
     <br>
@@ -57,7 +57,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
       <img alt="Tips: 3Protect digitala dokument" src="../../assets/Tip3.png" />
     </a>
     <div>
-    <a href="protect-digital-documents.md"><strong>Tips 3: Protect digitala dokument</strong></a>
+    <a href="protect-digital-documents.md"><strong>Tips 3: Digitala Protect-dokument</strong></a>
     </div>
     <em>Lägg till ett lösenord till din PDF för att förhindra kopiering, redigering eller utskrift</em>
     <br>
@@ -80,7 +80,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
     <div>
     <a href="scan-and-edit-on-mobile.md"><strong>Tips 5: Skanna och redigera på mobilen</strong></a>
     </div>
-    <em>Lär dig arbeta med Adobe Scan- och Acrobat Reader-mobilappar för att få jobbet gjort var som helst</em>
+    <em>Lär dig arbeta med Adobe Scan- och Acrobat Reader-mobilappar för att få jobbet gjort överallt</em>
     <br>
   </td>
   <td>
@@ -107,7 +107,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
     <div>
     <a href="making-pdfs-accessible.md"><strong>Göra PDF tillgängligt (fullständig 14:11)</strong></a>
     </div>
-    <em>Läs mer om det bästa arbetsflödet för att skapa hjälpmedelsanpassade PDF-filer</em>
+    <em>Lär dig mer om det optimala arbetsflödet för att skapa tillgängliga PDF-filer</em>
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
       <img alt="Göra PDF tillgänglig: Förstå hjälpmedel" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
-    <a href="understanding-accessibility.md"><strong>Göra PDF tillgänglig: Förstå hjälpmedel</strong></a>
+    <a href="understanding-accessibility.md"><strong>Göra PDF tillgängligt: Förstå hjälpmedel</strong></a>
     </div>
     <em>Läs mer om vad det innebär att göra en PDF tillgänglig för funktionshindrade</em>
     <br>
@@ -125,7 +125,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
       <img alt="Göra PDF tillgänglig: Skapa i Word" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>Göra PDF tillgänglig: Skapa i Word</strong></a>
+    <a href="collaborate-on-documents.md"><strong>Göra PDF tillgängligt: Redigera i Word</strong></a>
     </div>
     <em>Lär dig bästa sättet att skapa PDF-filer som är skapade i [!DNL Microsoft Word]</em>
     <br>
@@ -137,7 +137,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
     <div>
     <a href="finishing-in-acrobat.md"><strong>Göra PDF tillgängligt: Slutföra i Acrobat</strong></a>
     </div>
-    <em>Läs om hur du slutför tillgängliggörandet av din PDF-fil med verktygen i Acrobat Pro</em>
+    <em>Lär dig hur du slutför tillgängliggörandet av din PDF-fil med verktygen i Acrobat Pro</em>
     <br>
   </td>
 </tr>
@@ -149,7 +149,7 @@ Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statl
     <div>
     <a href="making-pdf-ballots-accessible.md"><strong>Göra röstsedlar i PDF mer tillgängliga</strong></a>
     </div>
-    <em>Detta webbseminarium tar upp de viktigaste tillgänglighetsområdena för PDF som behövs för att användare av hjälpmedelstekniker, t.ex. skärmläsare, ska kunna läsa och slutföra sina omröstningar</em>
+    <em>Det här webbseminariet tar upp viktiga tillgänglighetsområden i PDF som behövs för att användare av hjälpmedelstekniker, t.ex. skärmläsare, ska kunna läsa och slutföra sina omröstningar</em>
     <br>
   </td>  
   <td>

@@ -12,7 +12,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 * [Integrering av fliken Dokument för [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]
 * [Live Sign i Adobe Acrobat Sign för [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under en [!DNL Microsoft Teams] möte
-* [Skapa ett avancerat arbetsflöde med [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
+Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under ett [!DNL Microsoft Teams]-möte
+* [Skapa ett avancerat arbetsflöde med  [!DNL Power Automate]](advanced-workflow-power-automate.md)
+Lär dig skapa ett avancerat arbetsflöde med hjälp av [!DNL Power Automate] anslutningar
 
 ## Självstudiekurser om Microsoft-integreringar
 
@@ -86,7 +86,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="integrate-web-form-sharepoint-online.md"><strong>Integrera ett webbformulär med [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Lär dig mappa data som samlats in från ett webbformulär till ett [!DNL SharePoint] lista</em>
+    <em>Lär dig mappa data som samlats in från ett webbformulär till en [!DNL SharePoint]-lista</em>
     <br>
   </td>
   <td>
@@ -96,7 +96,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="auto-archive-sharepoint-power-automate.md"><strong>Arkivera filer automatiskt i [!DNL SharePoint] med [!DNL Power Automate]</strong></a>
     </div>
-    <em>Lär dig arkivera signerade dokument automatiskt på en [!DNL SharePoint] bibliotek använda [!DNL Power Automate]</em>
+    <em>Lär dig arkivera signerade dokument automatiskt i ett [!DNL SharePoint]-bibliotek med [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -106,7 +106,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="documentautomation.md"><strong>Dokumentautomatisering med [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Lär dig aktivera och använda [!DNL Acrobat Sign] och [!DNL Adobe PDF Tools] anslutningar för [!DNL Microsoft Power] appar</em>
+    <em>Lär dig hur du aktiverar och använder [!DNL Acrobat Sign]- och [!DNL Adobe PDF Tools]-kopplingar för [!DNL Microsoft Power]-program</em>
     <br>
   </td>
    <td>
@@ -114,7 +114,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Skicka dokument för signering i [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Skicka för signering i [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Skicka för signering om [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Skicka dokument för signering direkt inom [!DNL Microsoft Teams]</em>
     <br>
@@ -128,7 +128,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="live-sign-microsoft-teams.md"><strong>Live Sign i Adobe Acrobat Sign för [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under en [!DNL Microsoft Teams] möte</em>
+    <em>Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under ett [!DNL Microsoft Teams]-möte</em>
     <br>
   </td>
    <td>
@@ -138,7 +138,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="acrobat-sign-teams-documents-tab.md"><strong>Integrering av fliken Dokument för [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]</em>
+    <em>Lär dig hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]</em>
     <br>
   </td>
  <td>
@@ -148,7 +148,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="simple-workflow-power-automate.md"><strong>Skapa ett enkelt arbetsflöde med [!DNL Power Automate]</strong></a>
     </div>
-    <em>Lär dig skapa ett enkelt arbetsflöde med [!DNL Power Automate] anslutningar</em>
+    <em>Lär dig skapa ett enkelt arbetsflöde med hjälp av [!DNL Power Automate] anslutningar</em>
     <br>
   </td>
   <td>
@@ -158,7 +158,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="advanced-workflow-power-automate.md"><strong>Skapa ett avancerat arbetsflöde med Power Automate</strong></a>
     </div>
-    <em>Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar</em>
+    <em>Lär dig skapa ett avancerat arbetsflöde med hjälp av [!DNL Power Automate] anslutningar</em>
     <br>
   </td>
 <tr>
@@ -167,9 +167,9 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
     <div>
-    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 för kundtjänst</strong></a>
     </div>
-    <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundservice används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal</em>
+    <em>Läs om hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundtjänst används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal</em>
     <br>
   </td>
   <td>
@@ -177,9 +177,9 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
     </a>
     <div>
-    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 för fälttjänsten</strong></a>
     </div>
-    <em>Lär dig Acrobat Sign, [!DNL Power Automate]och [!DNL Microsoft Dynamics 365] för Fältservice används för att effektivisera kundengagemang på plats</em>
+    <em>Lär dig hur Acrobat Sign, [!DNL Power Automate] och [!DNL Microsoft Dynamics 365] för fälttjänsten används för att effektivisera kundengagemang på plats</em>
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
-    <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för försäljning används för att automatisera signeringsprocessen för försäljningsoffert</em>
+    <em>Lär dig hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för försäljning används för att automatisera signeringsprocessen för försäljningsofferter</em>
     <br>
   </td>
   <td>
@@ -200,7 +200,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
 </tr>
 </table>
 
-## [!DNL Notarize] självstudiekurser om integration
+## Självstudiekurser om [!DNL Notarize]-integrering
 
 <table style="table-layout:fixed">
 <tr>
@@ -251,7 +251,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Konfigurera datamappning" src="../assets/SF-DataMapping.png" />
     </a>
     <div>
-    <a href="set-up-data-mapping.md"><strong>Konfigurera datamappning</strong></a>
+    <a href="set-up-data-mapping.md"><strong>Konfigurerar datamappning</strong></a>
     </div>
     <em>Hämta tillbaka data till Salesforce efter att ett avtal har signerats</em>
     <br>
@@ -261,7 +261,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Konfigurera kopplingsmappning i Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Konfigurera kopplingsmappning i Salesforce</strong></a>
+    <a href="set-up-merging-map.md"><strong>Konfigurerar kopplingsmappning i Salesforce</strong></a>
     </div>
     <em>Lär dig hur du sammanfogar data från Salesforce direkt i ett Acrobat Sign-dokument</em>
     <br>
@@ -288,7 +288,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Introduktion till Acrobat Sign + Workday nyanställningar" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till Acrobat Sign + Workday nyanställningar</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Introduktion till Acrobat Sign + Workday för nyanställningar</strong></a>
     </div>
     <em>Lär dig effektivisera introduktionsarbetsflöden med Acrobat Sign + Workday</em>
     <br>
@@ -330,9 +330,9 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Skicka påminnelser med videosjälvstudiekursen om Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekursen om Adobe Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med videosjälvstudiekurserna Adobe Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en tidsperiod</em>
+    <em>Lär dig hur du skickar en e-postpåminnelse från Marketo när ett avtal fortfarande är osignerat efter en tidsperiod</em>
     <br>
   </td>
   <td>
@@ -340,9 +340,9 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
       <img alt="Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med konfigurationshandboken för Acrobat Sign för Salesforce och Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Skicka påminnelser med konfigurationsguiden för Acrobat Sign för Salesforce och Marketo</strong></a>
     </div>
-    <em>Läs hur du skickar en e-postpåminnelse från Marketo när ett avtal förblir osignerat efter en tidsperiod</em>
+    <em>Läs om hur du skickar en e-postpåminnelse från Marketo när ett avtal fortfarande är osignerat efter en tidsperiod</em>
     <br>
   </td>
    <td>
@@ -352,7 +352,7 @@ Lär dig skapa ett avancerat arbetsflöde med [!DNL Power Automate] anslutningar
     <div>
     <a href="marketo-dynamics-reminder.md"><strong>Skicka påminnelser med Acrobat Sign för Microsoft Dynamics och Marketo</strong></a>
     </div>
-    <em>Lär dig skicka en e-postpåminnelse när ett avtal förblir osignerat efter en tid</em>
+    <em>Lär dig hur du skickar en e-postpåminnelse när ett avtal förblir osignerat efter en tidsperiod</em>
     <br>
   </td>
 </tr>

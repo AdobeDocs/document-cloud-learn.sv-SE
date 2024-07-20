@@ -29,7 +29,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession1.md"><strong>Introduktion till PDF-tillgänglighet</strong></a>
     </div>
-    <em>I den här on demand-sessionen kan du läsa vad det innebär att göra ett PDF tillgängligt, hur du konfigurerar Acrobat Pro så att det fungerar på PDF och hur du konverterar från ett källdokument till ett PDF</em>
+    <em>I den här on demand-sessionen kan du ta reda på vad det innebär att göra en PDF tillgänglig, hur du konfigurerar Acrobat Pro så att det fungerar på PDF och hur du konverterar från ett källdokument till en PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession2.md"><strong>Åtgärda ett otillgängligt PDF</strong></a>
     </div>
-    <em>Lär dig i den här on demand-sessionen hur du konverterar ett Word-dokument och åtgärdar några grundläggande taggningsproblem med Acrobat Pro-verktygen som visas i introduktionswebbseminariet</em>
+    <em>I den här on demand-sessionen kan du lära dig hur du konverterar ett Word-dokument och åtgärdar några grundläggande taggningsproblem med Acrobat Pro-verktygen som visas på introduktionswebbseminariet</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession3.md"><strong>Komplexa tabeller</strong></a>
     </div>
-    <em>Denna session på begäran åtgärdar ett av de vanligaste och mest utmanande problemen med att åtgärda en PDF för hjälpmedel - komplexa tabeller</em>
+    <em>Den här sessionen på begäran åtgärdar ett av de vanligaste och svårare problemen med att reparera en PDF för hjälpmedel - komplexa tabeller</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession4.md"><strong>Skannade dokument och komplexa listor</strong></a>
     </div>
-    <em>I den här sessionen hanteras på begäran de mer komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor</em>
+    <em>Denna session på begäran åtgärdar de mer komplexa problem som människor ofta stöter på, som skannade dokument och komplexa listor</em>
     <br>
   </td>
   <td>
@@ -71,7 +71,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession5.md"><strong>Lägga till formulärfält i ett taggat PDF</strong></a>
     </div>
-    <em>Sessionen på begäran fokuserar på att lägga till formulärfält i ett tidigare taggat PDF</em>
+    <em>Den här sessionen fokuserar på begäran på att lägga till formulärfält i ett PDF som taggats tidigare</em>
     <br>
   </td>  
   <td>
@@ -81,7 +81,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession6.md"><strong>Lägga till formulärfält i ett otaggat PDF</strong></a>
     </div>
-    <em>Denna on demand-session går djupare in i att skapa manuella formulärfält och ytterligare formulärfältsegenskaper</em>
+    <em>Den här sessionen går djupare in på att skapa manuella formulärfält och ytterligare formulärfältsegenskaper</em>
     <br>
   </td> 
 </tr>

@@ -22,26 +22,26 @@ För att kunna leverera de bästa kundupplevelserna måste innehållet skapas sn
 >
 >Endast tillgängligt i Acrobat Pro.
 
-1. Välj **[!UICONTROL Action Wizard]** från [!UICONTROL Verktyg] mitten eller högra rutan.
+1. Markera **[!UICONTROL Action Wizard]** i mitten av [!UICONTROL Verktyg] eller i den högra rutan.
 
    ![Action Wizard Steg 1](../assets/ActionWizard_1.png)
 
-   Fördefinierade åtgärder visas i **Åtgärdslista**.
+   Fördefinierade åtgärder visas i listan **Åtgärder**.
 
 1. Välj **[!UICONTROL Ny åtgärd]** på den övre menyn för att skapa en anpassad åtgärd.
 
    ![Action Wizard Steg 2](../assets/ActionWizard_2.png)
 
-1. Välj en uppgift i listan till vänster och välj sedan mittpilen för att lägga till den i den högra kolumnen i **[!UICONTROL Skapa ny åtgärd]** dialogrutan.
+1. Välj en aktivitet i listan till vänster och välj sedan mittpilen för att lägga till den i den högra kolumnen i dialogrutan **[!UICONTROL Skapa ny åtgärd]**.
 
-   *Inställningarna för varje uppgift är förinställda i den här dialogrutan, eller så kan du uppmana användaren att fatta alla nödvändiga beslut medan åtgärden körs.*
+   *Inställningarna för varje aktivitet är förinställda i den här dialogrutan, eller så kan du uppmana användaren att fatta alla nödvändiga beslut medan åtgärden körs.*
 
    ![Action Wizard Steg 3](../assets/ActionWizard_3.png)
 
-1. Välj **[!UICONTROL Spara]** och namnge åtgärden så att den visas på **[!UICONTROL Åtgärdslista]**.
+1. Välj **[!UICONTROL Spara]** och namnge åtgärden så att den visas i listan **[!UICONTROL Åtgärder]**.
 
 Nu kan du köra den anpassade åtgärden när du behöver utföra dessa specifika stegserier på en eller flera PDF-filer.
 
 >[!TIP]
 >
->Den här videon är en del av kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig gratis på Experience League!
+>Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!

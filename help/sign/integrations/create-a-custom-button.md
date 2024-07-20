@@ -18,6 +18,6 @@ ht-degree: 16%
 
 # Skapa en anpassad knapp i Acrobat Sign för [!DNL Salesforce]
 
-Lär dig hur du skapar en egen knapp i ett standardobjekt i Salesforce.com. I det här exemplet läggs en anpassad knapp till i en **Kontakt** i [!DNL Salesforce]. När du klickar på knappen startas sändningsprocessen och information fylls i från **Kontakt** direkt i avtalet.
+Lär dig hur du skapar en egen knapp i ett standardobjekt i Salesforce.com. I det här exemplet läggs en anpassad knapp till i en **kontakt** i [!DNL Salesforce]. När du klickar på knappen startas sändningsprocessen och information fylls i från **kontakten** direkt i avtalet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Registrera och signera med [!DNL Digidentity]
-description: Läs om hur du registrerar och använder [!DNL Digidentity] digitalt ID med Acrobat Sign
+title: Registrera och signera med  [!DNL Digidentity]
+description: Lär dig hur du registrerar och använder ditt  [!DNL Digidentity] digitala ID med Acrobat Sign
 feature: Digital ID
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ thumbnail: KT-8670.jpg
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---

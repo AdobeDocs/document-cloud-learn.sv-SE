@@ -12,8 +12,8 @@ thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 2%
+source-wordcount: '891'
+ht-degree: 0%
 
 ---
 
@@ -25,39 +25,39 @@ Lär dig skicka en e-postpåminnelse när ett avtal förblir osignerat efter en 
 
 1. Installera Marketo Microsoft Dynamics Sync.
 
-   Information och det senaste plugin-programmet för Microsoft Dynamics Sync är tillgängliga [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Information och det senaste plugin-programmet för Microsoft Dynamics Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installera [Acrobat Sign för Microsoft Dynamics](https://appsource.microsoft.com/sv-se/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
-   Information om detta plugin-program är tillgänglig [här.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Information om det här plugin-programmet finns [här.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Hitta det anpassade objektet
 
 När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign för Dynamics är klara visas två nya alternativ i Marketo Admin Terminal.
 
-![Administration](assets/adminTerminal.png)
+![Administratör](assets/adminTerminal.png)
 
-1. Klicka **[!UICONTROL Dynamics - entitetssynkronisering]**.
+1. Klicka på **[!UICONTROL Dynamics Entities Sync]**.
 
-   Synkronisering måste inaktiveras innan anpassade entiteter synkroniseras. Klicka **Synkroniseringsschema** om det här är första gången du gör det. Klicka annars på **Uppdatera schema**.
+   Synkronisering måste inaktiveras innan anpassade entiteter synkroniseras. Klicka på **Synkroniseringsschema** om det är första gången du gör det. Klicka annars på **Uppdatera schema**.
 
    ![Uppdatera](assets/refreshSchema.png)
 
 ## Synkronisera det anpassade objektet
 
-1. Leta på höger sida [!UICONTROL Lead], [!UICONTROL Kontakt]och [!UICONTROL Konto]-baserade anpassade objekt.
+1. Leta reda på [!UICONTROL Lead], [!UICONTROL Kontakt] och [!UICONTROL Konto]-baserade anpassade objekt på höger sida.
 
-   * **Aktivera synkronisering** för objekt under **[!UICONTROL Lead]** om du vill skicka en påminnelse när en [!UICONTROL Lead] har inte signerat ett avtal i Dynamics.
+   * **Aktivera synkronisering** för objekten under **[!UICONTROL Lead]** om du vill skicka en påminnelse när en [!UICONTROL lead] inte har signerat ett avtal i Dynamics.
 
-   * **Aktivera synkronisering** för objekt under **[!UICONTROL Kontakt]** om du vill skicka en påminnelse när en [!UICONTROL Kontakt] har inte signerat ett avtal i Dynamics.
+   * **Aktivera synkronisering** för objekt under **[!UICONTROL Kontakt]** om du vill skicka en påminnelse när en [!UICONTROL kontakt] inte har signerat ett avtal i Dynamics.
 
-   * **Aktivera synkronisering** för objekt under **[!UICONTROL Konto]** om du vill skicka en påminnelse när en [!UICONTROL Konto] har inte signerat ett avtal i Dynamics.
+   * **Aktivera synkronisering** för objekten under **[!UICONTROL Konto]** om du vill skicka en påminnelse när ett [!UICONTROL konto] inte har signerat ett avtal i Dynamics.
 
-   * **Aktivera synkronisering** för avtalsobjektet under det önskade **[!UICONTROL Mall]** ([!UICONTROL Lead], [!UICONTROL Kontakt], eller [!UICONTROL Konto]).
+   * **Aktivera synkronisering** för avtalsobjektet under önskad **[!UICONTROL överordnad]** ([!UICONTROL lead], [!UICONTROL kontakt] eller [!UICONTROL konto]).
 
    ![Anpassade objekt](assets/enableSyncDynamics.png)
 
-1. I det nya fönstret väljer du de egenskaper du vill ha under Avtal och aktiverar sedan rutorna under **Begränsning** och **Utlösare** för att exponera dem för dina marknadsföringsaktiviteter.
+1. Markera de egenskaper du vill använda under Avtal i det nya fönstret och aktivera sedan rutorna under **Begränsning** och **Utlösare** för att visa dem för dina marknadsföringsaktiviteter.
 
    ![Anpassad synkronisering 1](assets/entitySync1.png)
 
@@ -65,7 +65,7 @@ När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign fö
 
 1. Återaktivera synkroniseringen när du har aktiverat synkronisering med de anpassade objekten.
 
-   Gå tillbaka till administratörsterminalen och klicka på **Microsoft Dynamics** och klicka sedan på **Aktivera synkronisering**.
+   Gå tillbaka till Admin Terminal, klicka på **Microsoft Dynamics** och klicka sedan på **Aktivera synkronisering**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -73,13 +73,13 @@ När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign fö
 
 ## Skapa programmet och token
 
-1. I avsnittet Marknadsföringsaktiviteter i Marketo högerklickar du på **Marknadsföringsaktiviteter** i det vänstra fältet.
+1. Högerklicka på **Marknadsföringsaktiviteter** i det vänstra fältet i avsnittet Marknadsföringsaktiviteter i Marketo.
 
    Välj **Ny kampanjmapp** och ge den ett namn.
 
    ![Ny mapp](assets/newFolder.png)
 
-1. Högerklicka på den skapade mappen och välj **Nytt program** och ge den ett namn.
+1. Högerklicka på mappen som skapats, välj **Nytt program** och ge den ett namn.
 
    Låt allt annat vara standard och klicka sedan på **Skapa**.
 
@@ -87,7 +87,7 @@ När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign fö
 
    ![Nytt program 2](assets/newProgram2.png)
 
-1. Klicka på **Mina tokens** och dra sedan **E-postskript** över till arbetsytan.
+1. Klicka på **Mina token** och dra sedan **e-postskriptet** över till arbetsytan.
 
    ![E-postskript](assets/emailScript.png)
 
@@ -95,9 +95,9 @@ När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign fö
 
    ![Namnge och redigera](assets/nameAndSave.png)
 
-1. Expandera **[!UICONTROL Anpassade objekt]** till höger och sedan utöka **[!UICONTROL Avtal]** objekt.
+1. Expandera **[!UICONTROL Anpassade objekt]** till höger och expandera sedan objektet **[!UICONTROL Avtal]**.
 
-   Hitta och dra [!UICONTROL Namn], Avtalsstatus, Skickat den och Aktuell signerar-URL på arbetsytan.
+   Hitta och dra [!UICONTROL Namn], Avtalsstatus, Skickat den och Aktuell signerings-URL till arbetsytan.
 
 1. Skriv ett hastighetsskript med dessa token för att visa avtals-URL:en för ett avtal som förblir osignerat i en vecka. Här är ett exempel som jämför det aktuella datumet som ska skickas den:
 
@@ -131,11 +131,11 @@ När konfigurationerna för Marketo Microsoft Dynamics Sync och Acrobat Sign fö
 
 Exempel på anpassning är: signerarens namn, avtalsnamnet, en länk till avtalet osv.
 
-1. Högerklicka på programmet du skapade och klicka på **[!UICONTROL Ny lokal resurs]** och välj sedan **[!UICONTROL Mejl]**.
+1. Högerklicka på programmet du skapade och klicka på **[!UICONTROL Ny lokal resurs]**. Välj sedan **[!UICONTROL E-post]**.
 
    ![Ny e-postadress](assets/createNewEmail.png)
 
-1. Ange ett värde på den nya fliken **[!UICONTROL Namn]** och **[!UICONTROL Beskrivning]** för e-postmeddelandet och välj en mall från mallväljaren.
+1. Ange ett **[!UICONTROL namn]** och en **[!UICONTROL beskrivning]** för e-postmeddelandet på den nya fliken och välj en mall i mallväljaren.
 
    ![Mallväljare](assets/templatePicker.png)
 
@@ -143,11 +143,11 @@ Exempel på anpassning är: signerarens namn, avtalsnamnet, en länk till avtale
 
 1. Ange **[!UICONTROL Från namn]** och **[!UICONTROL Från adress]**.
 
-   ![E-postpåminnelse](assets/reminderEmail.png)
+   ![Påminnelsemeddelande](assets/reminderEmail.png)
 
 1. Klicka på meddelandetexten för att aktivera redigeraren.
 
-   Klicka på **[!UICONTROL Infoga token]** hittar du den anpassade token för avtals-URL som du skapade och klickar sedan på **[!UICONTROL Infoga]**. Slutför anpassningen av e-postadressen och klicka på **[!UICONTROL Spara]**.
+   Klicka på knappen **[!UICONTROL Infoga token]**, leta reda på den anpassade token för avtals-URL som du skapade och klicka sedan på **[!UICONTROL Infoga]**. Slutför anpassningen av e-postadressen och klicka på **[!UICONTROL Spara]**.
 
    ![Infoga token](assets/insertToken.png)
 
@@ -161,11 +161,11 @@ Exempel på anpassning är: signerarens namn, avtalsnamnet, en länk till avtale
 
 1. Högerklicka på programmet du skapade och klicka sedan på **[!UICONTROL Ny smart kampanj]**.
 
-   ![Smart Campaign 1](assets/smartCampaign1.png)
+   ![Smart kampanj 1](assets/smartCampaign1.png)
 
 1. Ge den ett namn du väljer och klicka sedan på **[!UICONTROL Skapa]**.
 
-   ![Smart Campaign 2](assets/smartCampaign2.png)
+   ![Smart kampanj 2](assets/smartCampaign2.png)
 
 1. Sök efter och klicka och dra **[!UICONTROL Har avtal]** till den smarta listan.
 
@@ -173,15 +173,15 @@ Exempel på anpassning är: signerarens namn, avtalsnamnet, en länk till avtale
 
    Fälten som du exponerade för utlösaren ska vara tillgängliga i **[!UICONTROL Lägg till begränsning]**.
 
-1. Välj **[!UICONTROL Avtalsstatus]** och alla andra fält som du vill filtrera efter.
+1. Välj **[!UICONTROL Avtalsstatus]** och eventuella andra fält som du vill filtrera efter.
 
-   För varje fält som läggs till anger du de värden som du vill filtrera efter. I detta fall utlöses den endast när **[!UICONTROL Avtalsstatus]** är *Skickat för signatur* och **[!UICONTROL Skickat den]** är *tidigare än 1 vecka*.
+   För varje fält som läggs till anger du de värden som du vill filtrera efter. I detta fall utlöses det bara när **[!UICONTROL Avtalsstatus]** är *Skickat för signatur* och **[!UICONTROL Skickat den]** är *förflutet före 1 vecka*.
 
    ![Avtalsstatus](assets/hasAgreementDynaSentOn.png)
 
    >[!NOTE]
    >
-   > Lägg till en unik identifierare till begränsningarna, som **Namn**, om du vill att den här kampanjen endast ska köras för vissa avtal.
+   > Lägg till en unik identifierare i begränsningarna, t.ex. **Namn**, om du vill att den här kampanjen endast ska köras för vissa avtal.
 
 1. Bekräfta kampanjgruppen och se vem som kvalificerar sig på fliken Schema.
 
@@ -189,22 +189,22 @@ Exempel på anpassning är: signerarens namn, avtalsnamnet, en länk till avtale
 
 ## Ställ in flödet Smart Campaign
 
-Eftersom kampanjfiltret **Dagar tills förfallodatum** används kan du använda en schemalagd upprepning för kampanjen.
+Eftersom kampanjfiltret **Dagar tills förfallodatum** användes kan du använda en schemalagd upprepning för kampanjen.
 
-1. Klicka på **[!UICONTROL Flöde]** fliken i [!UICONTROL Smart Campaign].
+1. Klicka på fliken **[!UICONTROL Flöde]** i [!UICONTROL Smart kampanj].
 
-   Sök efter och dra **Skicka mejl** flöda till arbetsytan och välj e-postpåminnelsen som du skapade i föregående avsnitt.
+   Sök efter och dra flödet **Skicka e-post** till arbetsytan och välj e-postpåminnelsen som du skapade i föregående avsnitt.
 
-   ![Skicka mejl](assets/sendEmail.png)
+   ![Skicka e-post](assets/sendEmail.png)
 
-1. Klicka på **[!UICONTROL Schemalägg]** i Smart Campaign. Se till att kampanjflödet är begränsat till att endast köras en gång per person i **Inställningar för smart kampanj**. Klicka sedan på **Schemalägg upprepning** -fliken.
+1. Klicka på fliken **[!UICONTROL Schemalägg]** i den smarta kampanjen. Se till att kampanjflödet begränsas till att endast köras en gång per person i inställningarna för **Smart kampanj**. Klicka sedan på fliken **Schemalägg upprepning**.
 
    ![Fliken Schemalägg](assets/scheduleTab.png)
 
-1. Ange **Schemalägg** till _Dagligen_. Välj en startdag, starttid och slutdatum för kampanjen om det behövs.
+1. Ställ in **Schema** på _Dagligen_. Välj en startdag, starttid och slutdatum för kampanjen om det behövs.
 
    ![Schemainställningar](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->Den här självstudiekursen är en del av kursen [Påskynda försäljningscyklerna med Acrobat Sign för Microsoft Dynamics och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig gratis på Experience League!
+>Den här självstudiekursen ingår i kursen [Påskynda försäljningscyklerna med Acrobat Sign för Microsoft Dynamics och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig kostnadsfritt på Experience League!

@@ -9,8 +9,8 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 1%
+source-wordcount: '750'
+ht-degree: 0%
 
 ---
 
@@ -31,8 +31,9 @@ Innehållet i PDF bör vara unikt och strukturerat enligt följande:
 * Använda korta stycken som innehåller nyckelord och listor
 * Lägg till interna och externa hyperlänkar (innehåll på din webbplats eller andra webbplatser)
 * Lägga till en hyperlänkad innehållsförteckning för dokument som är längre än 25 sidor
-* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) i alla skannade dokument
-* Skapa PDF som är mobilvänliga För att kontrollera mobilvisningsupplevelsen för din PDF ska du öppna filen i [Acrobat Reader-mobilapp](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktivera Liquid Mode. Om det behövs kan du lägga till fler underrubriker för att förbättra navigeringen.
+* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) på alla skannade dokument
+* Bygg PDF som är mobilvänliga
+Om du vill kontrollera mobilvisningsupplevelsen för PDF öppnar du filen i mobilappen [Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktiverar Liquid Mode. Om det behövs kan du lägga till fler underrubriker för att förbättra navigeringen.
 
   ![Skärmbild av Liquid Mode i Acrobat Reader-mobilappen](../assets/optimizeseo1.png)
 
@@ -46,14 +47,14 @@ PDF-filer har en rubrik och en metabeskrivning precis som en webbsida.
 
 +++Visa information om hur du lägger till dokumentegenskaper
 
-Lägg till nyckel **[!UICONTROL Dokumentegenskaper]** enligt följande:
+Lägg till nyckeln **[!UICONTROL Dokumentegenskaper]** enligt följande:
 
-1. Välj **[!UICONTROL Arkiv > Egenskaper]** eller använd kortkommandot *Ctrl + D* I Windows eller *Cmd + D* på Mac och välj **[!UICONTROL Beskrivning]** -fliken.
-1. Ange en nyckelordsoptimerad titel i **[!UICONTROL Titel:]** område.
-1. Kontrollera att **[!UICONTROL Författare:]** fältet identifierar inte en specifik person i organisationen.
-1. Ange en nyckelordsoptimerad sammanfattning av dokumentet i **[!UICONTROL Motiv:]** område.
+1. Markera **[!UICONTROL Arkiv > Egenskaper]** eller använd kortkommandot *Ctrl + D* i Windows eller *Cmd + D* i Mac och klicka på fliken **[!UICONTROL Beskrivning]**.
+1. Ange en nyckelordsoptimerad titel i fältet **[!UICONTROL Titel:]**.
+1. Se till att fältet **[!UICONTROL Författare:]** inte identifierar någon specifik person i organisationen.
+1. Ange en nyckelordsoptimerad sammanfattning av dokumentet i fältet **[!UICONTROL Ämne:]**.
 Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, Utforska osv.
-1. Välj **[!UICONTROL Ytterligare metadata]** lägga till information om upphovsrätt eller allmän egendom om tillämpligt.
+1. Välj **[!UICONTROL Ytterligare metadata]** om du vill lägga till information om upphovsrätt eller offentlig domän.
 
    ![Skärmbild av dokumentegenskaper](../assets/optimizeseo2.png)
 
@@ -63,17 +64,17 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 ## 3. Tagga din PDF
 
-Att tagga innehåll i din PDF gör inte bara filen [Tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionsnedsättning - det förbättrar också SEO.
+Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder, utan det förbättrar även SEO.
 
 +++Visa information om hur du taggar en PDF
 
 Tagga en PDF på följande sätt:
 
-1. Välj **[!UICONTROL Tillgänglighet]** i **[!UICONTROL Verktyg]** centrera.
-1. Välj **[!UICONTROL Tagga dokument automatiskt]** i det högra fönstret.
-1. Följ tipsen för reparation i den vänstra rutan **[!UICONTROL Tolkningsrapport]**.
-1. Kör **[!UICONTROL Ange alternativ text]** vid behov.
-1. Använda nyckelord för att beskriva bilden i **[!UICONTROL Alternativ text]**.
+1. Välj **[!UICONTROL Tillgänglighet]** i **[!UICONTROL Verktygscenter]**.
+1. Välj **[!UICONTROL Märk dokument automatiskt]** i den högra rutan.
+1. Följ tipsen för reparation i den vänstra rutan **[!UICONTROL Identifieringsrapport]**.
+1. Kör **[!UICONTROL Ange alternativ text]** om det behövs.
+1. Använd nyckelord för att beskriva bilden i den **[!UICONTROL alternativa texten]**.
 
    ![Skärmbild av inställning av alternativ text i PDF](../assets/optimizeseo3.png)
 
@@ -87,7 +88,7 @@ Tagga en PDF på följande sätt:
 
 ## 4. Förbered för webben
 
-Optimera upplevelsen av att interagera med PDF genom att förbereda den för visning på webben och [minska filstorleken på PDF](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimera interaktionen med PDF genom att förbereda den för webbvisning och [minska PDF-filstorleken](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Visa information om hur du förbereder din PDF för webben
 
@@ -97,7 +98,7 @@ Om du vill förbereda PDF för webben väljer du **[!UICONTROL Arkiv > Spara som
 
 ![Skärmbild av dokumentegenskaper](../assets/optimizeseo4.png)
 
-Det här steget minskar filstorleken och gör att **Snabb webbvisning** i PDF. **Snabb webbvisning** gör att filen kan öppnas, visas och sökas direkt innan hela filen strömmas eller hämtas, vilket skapar en optimal slutanvändarupplevelse. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* I Windows eller *Cmd + D* på Mac) för att avgöra om **Snabb webbvisning** har aktiverats.
+Det här steget minskar filstorleken och möjliggör **snabb webbvisning** i PDF. Med **snabb webbvisning** kan filen öppnas, visas och sökas direkt innan hela filen strömmas eller hämtas, vilket skapar en optimal slutanvändarupplevelse. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* i Windows eller *Cmd + D* i Mac) för att avgöra om **Snabb webbvisning** har aktiverats.
 
 ![Skärmbild av dokumentegenskaper](../assets/optimizeseo5.png)
 
@@ -123,16 +124,16 @@ Filnamnet blir en del av URL-adressen när en PDF läggs upp på webben. Ett tip
 
 ## 6. Säkra PDF
 
-Det sista steget är att [skydda din PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} för att förhindra obehöriga ändringar.
+Sista steget är att [skydda din PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} för att förhindra obehöriga ändringar.
 
 +++Visa information om hur du skyddar din PDF
 
 Säkra PDF på följande sätt:
 
-1. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* I Windows eller *Cmd + D* på Mac) och välj **[!UICONTROL Säkerhet]** -fliken.
-1. Kontroll **[!UICONTROL Skriva ut redigering och utskrift av dokumentet. Ett lösenord krävs för att ändra dessa inställningar.]**
-1. Under **[!UICONTROL Tillåtna ändringar:]** markera **[!UICONTROL Ingen]**.
-1. Kontroll **[!UICONTROL Aktivera textåtkomst för skärmläsarenheter för synskadade.]**
+1. Öppna **[!UICONTROL Dokumentegenskaper]** (*Ctrl + D* i Windows eller *Cmd + D* i Mac) och välj fliken **[!UICONTROL Säkerhet]**.
+1. Markera **[!UICONTROL Skriva ut redigering och utskrift av dokumentet. Ett lösenord krävs för att ändra dessa inställningar.]**
+1. Under **[!UICONTROL Tillåtna ändringar:]** välj **[!UICONTROL Inga]**.
+1. Markera **[!UICONTROL Aktivera textåtkomst för skärmläsarenheter för synskadade.]**
 1. Ange och bekräfta ett starkt lösenord.
 1. Välj **[!UICONTROL OK]** och spara filen.
 
