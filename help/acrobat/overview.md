@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 40960e4931e5491275f63775590e7029ff698c49
+source-git-commit: 6756af6adb638285d01f16a8340dd3d1c8dfe782
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -29,25 +29,56 @@ Adobe Acrobat är en Adobe Document Cloud-lösning som hjälper företag att hå
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+ <td>
     <a href="getting-started/getting-started-overview.md">
       <img alt="Komma igång" src="assets/start.png" />
     </a>
+    <div>
+    <a href="getting-started/getting-started-overview.md"><strong>Komma i gång</strong></a>
+    </div>
+    Kom igång snabbt med att skapa, redigera, konvertera, skydda och mycket mer med PDF-filer
+    <br>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
       <img alt="Avancerade uppgifter" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Avancerade uppgifter</strong></a>
+    </div>
+    Gå längre än grunderna med specifika uppgifter och automatisering
+    <br>
   </td>
   <td>
     <a href="60-second/60-second-overview.md">
       <img alt="60 sekunder lång Acrobat" src="assets/60-sec.png" />
     </a>
+  <div>
+    <a href="60-second/60-second-overview.md"><strong>60-sekunders Acrobat</strong></a>
+    </div>
+    Självstudiekurser i bitstorlek som hjälper dig att lära dig ett nytt trick i Acrobat på en minut eller mindre
+    <br>
   </td>
+</tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="Integreringar" src="assets/integrations.png" />
     </a>
+    <div>
+    <a href="integrate/integrate-overview.md"><strong>Integreringar</strong></a>
+    </div>
+    Lägg till Acrobat i dina befintliga program, som Microsoft, Google Drive, Dropbox och Box
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
