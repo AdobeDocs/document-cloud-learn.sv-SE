@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Grundläggande om arbetsytan</strong></a>
     </div>
-    Lär dig komma åt filer och verktyg på datorer, webben och mobiler
+    Lär dig grunderna i Acrobat-arbetsytan
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="ai-assistant.md"><strong>Upptäck PDF-insikter med AI-assistenten</strong></a>
     </div>
-    Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
+    Få insikter från dina PDF-filer med hjälp av AI-assistenten
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="acrobatweb.md"><strong>Arbeta överallt med Acrobat på webben</strong></a>
     </div>
-    Lär dig hantera affärsdokumentförfrågningar från var som helst
+    Lär dig arbeta var du än är
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="productivity.md"><strong>Produktivitet var du än är</strong></a>
     </div>
-    Lär dig göra mer direkt från din surfplatta eller mobiltelefon
+    Läs om hur du kan göra mer med din surfplatta eller mobiltelefon
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeta med Microsoft 365</strong></a>
       </div>
-      Lär dig hur du arbetar sömlöst med PDF-filer direkt i Microsoft 365
+      Arbeta smidigt med PDF-filer direkt i Microsoft 365
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>Var kommer PDF ifrån?</strong></a>
       </div>
-      Lär dig var PDF kommer ifrån och hur du kan använda dem i digitala arbetsflöden
+      Lär dig var PDF kommer ifrån och hur du kan använda dem
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="create-pdf.md"><strong>Skapa PDF-filer</strong></a>
       </div>
-      Lär dig hur du skapar PDF från alla typer av dokument
+      Skapa PDF från alla typer av dokument
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="combine-to-pdf.md"><strong>Kombinera filer till en PDF</strong></a>
       </div>
-      Lär dig hur du smidigt kombinerar många olika filtyper i en och samma PDF
+      Kombinera smidigt många olika filtyper i en och samma PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="edit-pdf.md"><strong>Redigera text i en PDF</strong></a>
       </div>
-      Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF
+      Redigera ord, fraser eller till och med hela sidor på din PDF
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="export-pdf.md"><strong>Konvertera PDF till olika filformat</strong></a>
       </div>
-      Lär dig hur du konverterar dina PDF-filer till olika filformat
+      Konvertera dina PDF-filer till olika filformat
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
       <div>
       <a href="comment-on-pdf-files.md"><strong>Kommentera en PDF</strong></a>
       </div>
-      Lär dig hur du lägger till kommentarer i en PDF-fil och sedan delar filen med andra
+      Lägg till kommentarer och dela sedan din PDF med andra
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="scan-and-ocr.md"><strong>Skanning och OCR</strong></a>
     </div>
-    Konvertera skanningar eller dokumentbilder till sökbara, redigerbara PDF-filer
+    Konvertera skanningar eller bilder till sökbara, redigerbara PDF-filer
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="signatures.md"><strong>Hämta signaturer</strong></a>
     </div>
-    Få fart på verksamheten genom att samla in rättsligt bindande e-signaturer
+    Lär dig samla in rättsligt bindande e-signaturer
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     <div>
     <a href="track.md"><strong>Spåra dina dokument</strong></a>
     </div>
-    Lär dig spåra och hantera dokument för e-signaturer
+    Spåra och hantera dina dokument för e-signaturer
     <br>
   </td>
   <td>
