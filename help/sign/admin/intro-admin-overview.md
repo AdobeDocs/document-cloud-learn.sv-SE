@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 ## Nyheter
 
+* [Granskningsrapporter](audit-reports.md)
+Lär dig komma åt, använda och konfigurera granskningsrapporter som passar organisationens behov
 * [Massutskick](../sign-advanced-users/megasign.md)
 Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
 * [Rapportalternativ](report-options.md)
 Lär dig ställa in rapportalternativ för användare
-* [Lägger till användare](add-users-to-your-account.md)
-Lär dig lägga till och hantera användare för Acrobat Sign
 
 ## Komma igång
 
@@ -169,8 +169,13 @@ Lär dig lägga till och hantera användare för Acrobat Sign
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="Granskningsrapporter" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>Granskningsrapporter</strong></a>
+    </div>
+    <em>Lär dig hur du får tillgång till, använder och konfigurerar granskningsrapporter</em>
     <br>
   </td>
   <td>

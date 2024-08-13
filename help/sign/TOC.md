@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
@@ -79,6 +79,7 @@ ht-degree: 7%
       + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Massutskick](sign-advanced-users/megasign.md)
       + [Skapa ett anpassat arbetsflöde](admin/building-a-custom-workflow.md)
+      + [Granskningsrapporter](admin/audit-reports.md)
    + Avancerade uppgifter {#advanced-tasks-admins}
       + [Globala inställningar](admin/learn-about-global-settings.md)
       + [Delar kontoåtkomst](admin/share-account-access.md)
