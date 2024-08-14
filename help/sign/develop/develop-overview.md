@@ -8,16 +8,21 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Översikt över Framkalla
 
 40 % av avtalen i Acrobat Sign skapas med API:er. Använd API:er för att skapa anpassade program för dina team, partner och kunder.
+
+## Nyheter
+
+* [Så här konfigurerar du webhooks](webhooks.md)
+Lär dig hur du skapar en webhook för att automatisera processer som normalt skulle kräva manuell åtgärd
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,6 +64,33 @@ ht-degree: 2%
     <a href="embeddedesignature.md"><strong>Skapa inbäddade e-signaturer och dokumentupplevelser</strong></a>
     </div>
     <em>Lär dig hur du använder API:er i Acrobat Sign för att bädda in e-signatur- och dokumentupplevelser i dina webbplattformar och system för hantering av innehåll och dokument</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="webhooks.md">
+      <img alt="Så här konfigurerar du webhooks" src="../assets/how-webhooks.png" />
+    </a>
+    <div>
+    <a href="webhooks.md"><strong>Så här konfigurerar du webhooks</strong></a>
+    </div>
+    <em>Lär dig hur du skapar en webhook för att automatisera processer som normalt kräver manuell åtgärd</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

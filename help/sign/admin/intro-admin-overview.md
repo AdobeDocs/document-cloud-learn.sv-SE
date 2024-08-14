@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 ## Nyheter
 
+* [Så här konfigurerar du sekretessadministratörer](privacy.md)
+Läs om hur du konfigurerar och använder sekretessadministratörer
+* [Verktyget Hämta i grupp](bulk-download-tool.md)
+Lär dig använda verktyget Hämta i grupp för att snabbt hämta alla dina signerade avtal
 * [Granskningsrapporter](audit-reports.md)
 Lär dig komma åt, använda och konfigurera granskningsrapporter som passar organisationens behov
-* [Massutskick](../sign-advanced-users/megasign.md)
-Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
-* [Rapportalternativ](report-options.md)
-Lär dig ställa in rapportalternativ för användare
+
 
 ## Komma igång
 
@@ -225,13 +226,13 @@ Lär dig ställa in rapportalternativ för användare
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Använda bioläkemedelsinställningar" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Hämta verktyg i grupp" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Använda bioläkemedelsinställningar</strong></a>
+    <a href="bulk-download-tool.md"><strong>Verktyget Hämta i grupp</strong></a>
     </div>
-    <em>Ställ in bioläkemedelsinställningar så att du kan uppfylla kraven i FDA 21 CFR Part 11</em>
+    <em>Lär dig använda verktyget Hämta i grupp för att snabbt hämta alla dina signerade avtal</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ Lär dig ställa in rapportalternativ för användare
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Använda bioläkemedelsinställningar" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Använda bioläkemedelsinställningar</strong></a>
+    </div>
+    <em>Ställ in bioläkemedelsinställningar så att du kan uppfylla kraven i FDA 21 CFR Part 11</em>
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="Konfigurera sekretessadministratör" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>Så här konfigurerar du sekretessadministratörer</strong></a>
+    </div>
+    <em>Lär dig hur du konfigurerar och använder sekretessadministratörer</em>
     <br>
   </td>
   <td>

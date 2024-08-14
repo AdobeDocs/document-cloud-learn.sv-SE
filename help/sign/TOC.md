@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '525'
 ht-degree: 7%
 
 ---
@@ -84,8 +84,10 @@ ht-degree: 7%
       + [Globala inställningar](admin/learn-about-global-settings.md)
       + [Delar kontoåtkomst](admin/share-account-access.md)
       + [Avancerad kontodelning](admin/advanced-account-sharing.md)
-      + [Använd bioläkemedelsinställningar](admin/use-bio-pharma-settings.md)
+      + [Hämta verktyg i grupp](admin/bulk-download-tool.md)
       + [Acrobat Sign-texttaggar](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Använd bioläkemedelsinställningar](admin/use-bio-pharma-settings.md)
+      + [Konfigurera sekretessadministratörer](admin/privacy.md)
 + Digitalt ID {#digital-id}
    + [Översikt](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -158,9 +160,10 @@ ht-degree: 7%
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Framkalla {#develop}
    + [Översikt](develop/develop-overview.md)
-   + Anpassade API:er {#custom}
+   + API:er och webhookar {#custom}
       + [Samla dokument med stora volymer med GigaSign](develop/gigasign.md)
       + [Skapa inbäddade e-signaturer och dokumentupplevelser](develop/embeddedesignature.md)
+      + [Så här konfigurerar du webhooks](develop/webhooks.md)
 + Distribuera {#deploy}
    + [Översikt](deploy-overview.md)
 + Mobil {#mobile}
