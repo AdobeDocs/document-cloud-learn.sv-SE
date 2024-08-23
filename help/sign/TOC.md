@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 7%
+source-wordcount: '538'
+ht-degree: 6%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Acrobat Sign-texttaggning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Använda texttaggar i  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Hantera {#advanced-tasks-managing}
-      + [Skapa en rapport](sign-advanced-users/creating-a-report.md)
+      + [Rapportering och transaktionsanvändning](sign-advanced-users/creating-a-report.md)
       + [Hantera dokumentmallar](sign-advanced-users/edit-a-template.md)
       + [Ändra ett befintligt webbformulär](sign-advanced-users/modify-webform.md)
       + [Hantera webbformulärdata](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [Skapa och hantera grupper](admin/create-and-manage-groups.md)
       + [Upprätta ett externt arkiv](admin/set-up-your-external-archive.md)
       + [Skapa en mall](sign-advanced-users/create-a-template.md)
-      + [Skapa ett rapportdiagram](admin/create-a-report.md)
+      + [Rapporterings- och transaktionsanvändning](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportalternativ för användare](admin/report-options.md)
       + [Skapa ett webbformulär](sign-advanced-users/webform.md)
       + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [Konfigurera datamappning](integrations/set-up-data-mapping.md)
       + [Konfigurera kopplingsmappning](integrations/set-up-merging-map.md)
       + [Skapa en anpassad knapp](integrations/create-a-custom-button.md)
+      + [Konfigurera automatiska uppdateringar](integrations/salesforce-automatic-updates.md)
+      + [Konfigurera stora filer och push-mappningar](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [Konfigurerar Acrobat Sign med  [!DNL Workday]](integrations/workday.md)
       + [Introduktion till Acrobat Sign + Workday nyanställningar](integrations/acrobat-sign-workday-onboarding.md)

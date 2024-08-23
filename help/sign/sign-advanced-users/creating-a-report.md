@@ -1,22 +1,22 @@
 ---
-title: Skapa en rapport
-description: Lär dig skapa egna rapporter för att få insyn i dokumentsigneringsprocessen
+title: Rapportering och transaktionsanvändning
+description: Lär dig hur du genererar rapporter och spårar transaktionsanvändning
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Skapa en rapport
+# Rapportering och transaktionsanvändning
 
-Lär dig skapa egna rapporter för att få insyn i dokumentsigneringsprocessen eller se hur enskilda grupper eller användare gör.
+Lär dig skapa rapporter och spåra transaktionsanvändning. Dessa rapporter kan innehålla information som procentandelen avtal som har signerats eller den genomsnittliga tiden det tar att signera. Genom att skapa rapporter och spåra användning får du insyn i dokumentsigneringsprocesserna.
 
 >[!NOTE]
 >

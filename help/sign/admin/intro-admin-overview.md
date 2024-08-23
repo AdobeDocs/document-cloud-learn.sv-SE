@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ Lär dig komma åt, använda och konfigurera granskningsrapporter som passar org
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="Skapa ett rapportdiagram" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="Rapportering och transaktionsanvändning" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Skapa ett rapportdiagram</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>Rapporterings- och transaktionsanvändning</strong></a>
     </div>
-    <em>Lär dig skapa, spara och hantera egna anpassade rapporter och dataexporter</em>
+    <em>Lär dig hur du skapar rapporter och spårar transaktionsanvändning</em>
     <br>
   </td>
 </tr>

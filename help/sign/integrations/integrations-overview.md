@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 ## Nyheter
 
+* [Konfigurera stora filer och push-mappningar](salesforce-large-files.md)
+Lär dig hur du konfigurerar stora dokument och push-avtalstjänster i Salesforce
+* [Konfigurera automatiska uppdateringar](salesforce-automatic-updates.md)
+Lär dig hur du enkelt länkar ditt konto till Salesforce för att få automatiska uppdateringar
 * [Integrering av fliken Dokument för [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]
-* [Live Sign i Adobe Acrobat Sign för [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under ett [!DNL Microsoft Teams]-möte
-* [Skapa ett avancerat arbetsflöde med  [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Lär dig skapa ett avancerat arbetsflöde med hjälp av [!DNL Power Automate] anslutningar
 
 ## Självstudiekurser om Microsoft-integreringar
 
@@ -275,6 +275,38 @@ Lär dig skapa ett avancerat arbetsflöde med hjälp av [!DNL Power Automate] an
     </div>
     <em>Skapa en anpassad knapp som startar sändningsprocessen och automatiskt fyller i ett avtal i Salesforce</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="Konfigurera automatiska uppdateringar" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>Konfigurera automatiska uppdateringar</strong></a>
+    </div>
+    <em>Lär dig hur du enkelt länkar ditt konto till Salesforce för att få automatiska uppdateringar</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="Konfigurera stora filer och push-mappningar" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>Konfigurera stora filer och push-mappningar</strong></a>
+    </div>
+    <em>Lär dig konfigurera stora dokument och push-avtalstjänster i Salesforce</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>
