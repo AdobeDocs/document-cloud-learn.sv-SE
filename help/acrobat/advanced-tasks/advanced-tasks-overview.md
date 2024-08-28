@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Lär dig skapa funktionsmakron för att upprepa vardagliga uppgifter, ta bort känslig information, minska och optimera stora filer, snabbt samla in formulärdata och skapa allmänt tillgängliga PDF-filer.
 
 ## Nyheter
+
+* [Guidade åtgärder](action.md)
+Lär dig hur du förbättrar effektiviteten med hjälp av guidade åtgärder
 
 * [Optimize PDF för SEO (sökmotoroptimering)](optimizeseo.md)
 Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
@@ -105,12 +108,12 @@ Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning a
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="Guidade åtgärder" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>Guidade åtgärder</strong></a>
       </div>
-      Lär dig hur du förbättrar effektiviteten med hjälp av åtgärder
+      Lär dig hur du förbättrar effektiviteten med hjälp av guidade åtgärder
   </td>
   <td>
     <a href="redact.md">

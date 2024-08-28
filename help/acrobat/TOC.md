@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91017fe122eae4de793037372f249aba9308350b
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
    + [Arbeta med formulärfält](advanced-tasks/workforms.md)
    + [Förbättra din PDF](advanced-tasks/enhance.md)
    + [Identifiera skillnader mellan två PDF](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [Guidade åtgärder](advanced-tasks/action.md)
    + [Redigera och sanera](advanced-tasks/redact.md)
    + [Minska filstorleken och optimera](advanced-tasks/reduce.md)
    + [Arbeta med formulärdata](advanced-tasks/formdata.md)
