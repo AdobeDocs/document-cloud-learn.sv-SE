@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 4%
 
 ---
 
@@ -31,52 +31,97 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="Komma igång" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="Komma igång" src="assets/getting-started.png" />
     </a>
+    <div>
+      <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Komma i gång</strong></a>
+      </div>
+      <em>Kom igång snabbt med att skicka, signera och spåra dokument</em>
+      <br>
   </td>
   <td>
     <a href="sign-advanced-users/advanced-users-overview.md">
-      <img alt="Avancerade uppgifter" src="assets/AS_Title_Advanced.png" />
+      <img alt="Avancerade uppgifter" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+      <a href="sign-advanced-users/advanced-users-overview.md"><strong>Avancerade uppgifter</strong></a>
+      </div>
+      <em>Gå längre än grunderna med specifika uppgifter och automatisering</em>
+      <br>
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="Administrera" src="assets/AS_Title_Administer.png" />
+      <img alt="Administrera" src="assets/administer.png" />
     </a>
+    <div>
+      <a href="admin/intro-admin-overview.md"><strong>Administrera</strong></a>
+      </div>
+      <em>Grundläggande till avancerade konfigurationstips för organisationen</em>
+      <br>
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
-      <img alt="Digitalt ID" src="assets/AS_Title_DigitalID.png" />
+      <img alt="Digitalt ID" src="assets/identity.png" />
     </a>
+     <div>
+      <a href="digitalid/digitalid-overview.md"><strong>Digitalt ID</strong></a>
+      </div>
+      <em>Lär dig använda elektroniska ID:n från hela världen i Acrobat Sign</em>
+      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Integreringar" src="assets/AS_Title_Integrate.png" />
+      <img alt="Integreringar" src="assets/integrations.png" />
     </a>
+    <div>
+      <a href="integrations/integrations-overview.md"><strong>Integreringar</strong></a>
+      </div>
+      <em>Lägg till Acrobat Sign direkt i andra program som organisationen redan använder</em>
+      <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Branscher och avdelningar" src="assets/AS_Title_Industry.png" />
+      <img alt="Branscher och avdelningar" src="assets/industries.png" />
     </a>
+    <div>
+      <a href="sign-usecase/expand-inspire-overview.md"><strong>Branscher och avdelningar</strong></a>
+      </div>
+      <em>Utforska verkliga användningsfall inom industri och avdelning</em>
+      <br>
   </td>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="Framkalla" src="assets/AS_Title_Develop.png" />
+      <img alt="Framkalla" src="assets/develop.png" />
     </a>
+    <div>
+      <a href="develop/develop-overview.md"><strong>Framkalla</strong></a>
+      </div>
+      <em>Skaffa utvecklingsresurser för Acrobat Sign I/O</em>
+      <br>
   </td>
    <td>
     <a href="deploy-overview.md">
-      <img alt="Driftsätta" src="assets/AS_Title_Deploy.png" />
+      <img alt="Driftsätta" src="assets/deploy.png" />
     </a>
+    <div>
+      <a href="deploy-overview.md"><strong>Distribuera</strong></a>
+      </div>
+      <em>Insikter och bästa metoder för att driftsätta Acrobat Sign i organisationen</em>
+      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="Mobilt" src="assets/AS_Title_Mobile.png" />
+      <img alt="Mobilt" src="assets/mobile.png" />
     </a>
+    <div>
+      <a href="mobile/mobile-overview.md"><strong>Mobilt</strong></a>
+      </div>
+      <em>Skicka, signera och få uppdateringar i realtid på din mobila enhet</em>
+      <br>
   </td>  
 </tr>
 </table>
