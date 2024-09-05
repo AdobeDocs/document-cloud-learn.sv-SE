@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Komma i gång</strong></a>
       </div>
-      <em>Kom igång snabbt med att skicka, signera och spåra dokument</em>
+      Kom igång snabbt med att skicka, signera och spåra dokument
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>Avancerade uppgifter</strong></a>
       </div>
-      <em>Gå längre än grunderna med specifika uppgifter och automatisering</em>
+      Gå längre än grunderna med specifika uppgifter och automatisering
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="admin/intro-admin-overview.md"><strong>Administrera</strong></a>
       </div>
-      <em>Grundläggande till avancerade konfigurationstips för organisationen</em>
+      Grundläggande till avancerade konfigurationstips för organisationen
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>Digitalt ID</strong></a>
       </div>
-      <em>Lär dig använda elektroniska ID:n från hela världen i Acrobat Sign</em>
+      Lär dig använda elektroniska ID:n från hela världen i Acrobat Sign
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="integrations/integrations-overview.md"><strong>Integreringar</strong></a>
       </div>
-      <em>Lägg till Acrobat Sign direkt i andra program som organisationen redan använder</em>
+      Lägg till Acrobat Sign direkt i andra program som ditt företag redan använder
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>Branscher och avdelningar</strong></a>
       </div>
-      <em>Utforska verkliga användningsfall inom industri och avdelning</em>
+      Utforska verkliga användningsfall för industri och avdelningar
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="develop/develop-overview.md"><strong>Framkalla</strong></a>
       </div>
-      <em>Skaffa utvecklingsresurser för Acrobat Sign I/O</em>
+      Hämta utvecklingsresurser för Acrobat Sign I/O
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="deploy-overview.md"><strong>Distribuera</strong></a>
       </div>
-      <em>Insikter och bästa metoder för att driftsätta Acrobat Sign i organisationen</em>
+      Insikt och bästa praxis för att driftsätta Acrobat Sign i företaget
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Acrobat Sign är en Adobe Document Cloud-lösning som kan skalas för att uppfyl
     <div>
       <a href="mobile/mobile-overview.md"><strong>Mobilt</strong></a>
       </div>
-      <em>Skicka, signera och få uppdateringar i realtid på din mobila enhet</em>
+      Skicka, signera och få uppdateringar i realtid på din mobila enhet
       <br>
   </td>  
 </tr>
