@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '584'
 ht-degree: 2%
 
 ---
@@ -21,13 +21,12 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 ## Nyheter
 
+* [Så här använder du flera profiler](multiple-profiles.md)
+Lär dig använda profilväljaren för att arbeta med flera Acrobat Sign-konton
 * [Så här konfigurerar du sekretessadministratörer](privacy.md)
 Läs om hur du konfigurerar och använder sekretessadministratörer
 * [Verktyget Hämta i grupp](bulk-download-tool.md)
 Lär dig använda verktyget Hämta i grupp för att snabbt hämta alla dina signerade avtal
-* [Granskningsrapporter](audit-reports.md)
-Lär dig komma åt, använda och konfigurera granskningsrapporter som passar organisationens behov
-
 
 ## Komma igång
 
@@ -180,8 +179,13 @@ Lär dig komma åt, använda och konfigurera granskningsrapporter som passar org
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <a href="multiple-profiles.md">
+      <img alt="Använda flera profiler" src="../assets/multiple-profiles.png" />
+    </a>
     <div>
+    <a href="multiple-profiles.md"><strong>Så här använder du flera profiler</strong></a>
+    </div>
+    <em>Lär dig använda profilväljaren för att arbeta med flera Acrobat Sign-konton</em>
     <br>
   </td>
   <td>
