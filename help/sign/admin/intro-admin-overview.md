@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '584'
-ht-degree: 2%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,8 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 ## Nyheter
 
+* [Så här uppgraderar du en användare till en administratörsroll](promote-admin.md)
+Lär dig hur du uppgraderar en användare till en Acrobat Sign-administratörsroll med Admin Console
 * [Så här använder du flera profiler](multiple-profiles.md)
 Lär dig använda profilväljaren för att arbeta med flera Acrobat Sign-konton
 * [Så här konfigurerar du sekretessadministratörer](privacy.md)
@@ -189,8 +191,13 @@ Lär dig använda verktyget Hämta i grupp för att snabbt hämta alla dina sign
     <br>
   </td>
   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="Så här uppgraderar du en användare till en administratörsroll" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong>Så här uppgraderar du en användare till en administratörsroll</strong></a>
+    </div>
+    <em>Lär dig hur du uppgraderar en användare till en Acrobat Sign-administratörsroll med Admin Console</em>
     <br>
   </td>
 </table>

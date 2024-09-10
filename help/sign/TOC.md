@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '552'
 ht-degree: 6%
 
 ---
@@ -81,6 +81,7 @@ ht-degree: 6%
       + [Skapa ett anpassat arbetsflöde](admin/building-a-custom-workflow.md)
       + [Granskningsrapporter](admin/audit-reports.md)
       + [Använda flera profiler](admin/multiple-profiles.md)
+      + [Så här uppgraderar du en användare till en administratörsroll](admin/promote-admin.md)
    + Avancerade uppgifter {#advanced-tasks-admins}
       + [Globala inställningar](admin/learn-about-global-settings.md)
       + [Delar kontoåtkomst](admin/share-account-access.md)
