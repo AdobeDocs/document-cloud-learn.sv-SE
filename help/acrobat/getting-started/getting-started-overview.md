@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
-* [Designa en ny sida](add-custom-page.md)
-Lär dig skapa en ny sida med professionellt utseende i PDF med Adobe Express
-* [Redigera grafik i en PDF](edit-graphics.md)
-Lär dig skapa, redigera och förbättra grafik i din PDF
-* [Ny arbetsyta](new-workspace.md)
-Lär dig mer om den nya arbetsytan i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina arbetsuppgifter i PDF effektivt
-* [Upptäck PDF-insikter med AI-assistenten](ai-assistant.md)
-Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
+>[!BEGINTABS]
+
+>[!TAB Designa en ny sida]
+
+Lär dig att [designa en ny sida med professionellt utseende](add-custom-page.md) i PDF med hjälp av Adobe Express.
+
+>[!TAB Redigera grafik i en PDF]
+
+Lär dig att [skapa, redigera och förbättra grafik](edit-graphics.md) i din PDF.
+
+>[!TAB Ny arbetsyta]
+
+Läs mer om den [nya arbetsytan](new-workspace.md) i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina PDF-uppgifter effektivt.
+
+>[!TAB Upptäck PDF-insikter med AI-assistenten]
+
+Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten.
+
+>[!ENDTABS]
 
 ## Självstudiekurser för att komma igång
 
