@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,8 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 ## Nyheter
 
+* [Designa en ny sida](add-custom-page.md)
+Lär dig skapa en ny sida med professionellt utseende i PDF med Adobe Express
 * [Redigera grafik i en PDF](edit-graphics.md)
 Lär dig skapa, redigera och förbättra grafik i din PDF
 * [Ny arbetsyta](new-workspace.md)
