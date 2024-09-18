@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
-   + [Lägg till anpassad sida](getting-started/add-custom-page.md)
+   + [Designa en ny sida](getting-started/add-custom-page.md)
    + [Redigera text i en PDF](getting-started/edit-pdf.md)
    + [Redigera grafik i en PDF](getting-started/edit-graphics.md)
    + [Stilisera denna PDF](getting-started/stylize-this-PDF.md)

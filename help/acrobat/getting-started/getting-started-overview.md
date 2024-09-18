@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -147,12 +147,12 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI-assistenten
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Lägg till anpassad sida" src="../assets/custom.png" />
+        <img alt="Designa en ny sida" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>Lägg till anpassad sida</strong></a>
+      <a href="add-custom-page.md"><strong>Designa en ny sida</strong></a>
       </div>
-      Lär dig hur du lägger till anpassade sidor i din PDF
+     Lär dig skapa en ny sida med professionellt utseende i PDF
       <br>
     </td>
   </tr>
