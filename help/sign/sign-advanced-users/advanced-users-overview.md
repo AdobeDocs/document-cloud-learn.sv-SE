@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ Lär dig hur du skickar ut ett dokument för signering till 100-tals mottagare s
 
 ## Nyheter
 
-* [Massutskick](megasign.md)
-Lär dig samla in tusentals signaturer samtidigt för alla dokument i bara några få korta steg
-* [Autentiseringsmetoder i Acrobat Sign](authentication-methods.md)
-Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som undertecknar ett dokument
+>[!BEGINTABS]
+
+>[!TAB Massutskick]
+
+Lär dig att [samla in tusentals](megasign.md) signaturer samtidigt för alla dokument i bara några korta steg.
+
+>[!TAB Autentiseringsmetoder i Acrobat Sign]
+
+Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](authentication-methods.md) identiteten för någon som signerar ett dokument.
+
+>[!ENDTABS]
 
 ## Skicka
 

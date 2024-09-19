@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ Du kan använda Acrobat Sign i andra program som ditt företag redan använder, 
 
 ## Nyheter
 
-* [Konfigurera stora filer och push-mappningar](salesforce-large-files.md)
-Lär dig hur du konfigurerar stora dokument och push-avtalstjänster i Salesforce
-* [Konfigurera automatiska uppdateringar](salesforce-automatic-updates.md)
-Lär dig hur du enkelt länkar ditt konto till Salesforce för att få automatiska uppdateringar
-* [Integrering av fliken Dokument för [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams]
+>[!BEGINTABS]
+
+>[!TAB Konfigurera stora filer och push-mappningar]
+
+Lär dig hur du konfigurerar [stora dokument och push-avtalstjänster](salesforce-large-files.md) i Salesforce.
+
+>[!TAB Konfigurera automatiska uppdateringar]
+
+Lär dig hur du enkelt länkar ditt konto till Salesforce för att få [automatiska uppdateringar](salesforce-automatic-updates.md).
+
+>[!TAB Integrering av fliken Dokument för Microsoft Teams]
+
+Läs om hur du skickar dokument för signering direkt från fliken [Dokument](acrobat-sign-teams-documents-tab.md) i [!DNL Microsoft Teams].
+
+>[!ENDTABS]
 
 ## Självstudiekurser om Microsoft-integreringar
 

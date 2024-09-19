@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ Ett digitalt ID (digitalt ID) är ungefär som ett pass i elektronisk form och g
 
 ## Nyheter
 
-* [Registrera och signera med Digidentity](digidentity-sign.md)
-Lär dig registrera och använda ditt digitala ID för [!DNL Digidentity] med Acrobat Sign
-* [Registrera och signera med D-Trust](d-trust.md)
-Lär dig hur du registrerar din identitet med [!DNL D-Trust] och sedan använda den digitala signaturen [!DNL D-Trust] på ett dokument i Acrobat Sign
+>[!BEGINTABS]
+
+>[!TAB Registrera och signera med Digidentity]
+
+Lär dig hur du registrerar och använder ditt digitala ID [[!DNL Digidentity]](digidentity-sign.md) med Acrobat Sign.
+
+>[!TAB Registrera och signera med D-Trust]
+
+Läs om hur du registrerar din identitet med [[!DNL D-Trust]](d-trust.md) och sedan använder den digitala signaturen [!DNL D-Trust] på ett dokument i Acrobat Sign.
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 

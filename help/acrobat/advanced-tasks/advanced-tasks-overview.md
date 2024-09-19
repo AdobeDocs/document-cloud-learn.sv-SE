@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 1%
@@ -20,11 +20,17 @@ Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Lär dig skapa funk
 
 ## Nyheter
 
-* [Guidade åtgärder](action.md)
-Lär dig hur du förbättrar effektiviteten med hjälp av guidade åtgärder
+>[!BEGINTABS]
 
-* [Optimize PDF för SEO (sökmotoroptimering)](optimizeseo.md)
-Lär dig hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben
+>[!TAB Guidade åtgärder]
+
+Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
+
+>[!TAB Optimize PDF för SEO (sökmotoroptimering)]
+
+Läs om hur du [optimerar en PDF](optimizeseo.md) för förbättrad upptäckbarhet och bättre rangordning av sökmotorer på webben.
+
+>[!ENDTABS]
 
 ## Självstudiekurser om avancerade uppgifter
 

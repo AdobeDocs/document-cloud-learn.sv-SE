@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta
 
 ## Nyheter
 
-* [Komma igång med Acrobat Sign](new-sender.md)
-Har du inte använt Acrobat Sign förut? Den här självstudiekursen är en utmärkt utgångspunkt.
-* [Ange tidsgränser och påminnelser](set-deadlines-reminders.md)
-Lär dig hur du skickar vanliga e-postpåminnelser och tidsgränser för att få dokument signerade snabbt
+>[!BEGINTABS]
+
+>[!TAB Komma igång med Acrobat Sign]
+
+Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sender.md)) är ett bra ställe att börja på.
+
+>[!TAB Ange tidsgränser och påminnelser]
+
+Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgränser](set-deadlines-reminders.md) för att få dina dokument signerade snabbt.
+
+>[!ENDTABS]
 
 ## Skicka
 

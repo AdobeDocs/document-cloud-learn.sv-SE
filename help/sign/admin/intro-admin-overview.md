@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 ## Nyheter
 
-* [Så här uppgraderar du en användare till en administratörsroll](promote-admin.md)
-Lär dig hur du uppgraderar en användare till en Acrobat Sign-administratörsroll med Admin Console
-* [Så här använder du flera profiler](multiple-profiles.md)
-Lär dig använda profilväljaren för att arbeta med flera Acrobat Sign-konton
-* [Så här konfigurerar du sekretessadministratörer](privacy.md)
-Läs om hur du konfigurerar och använder sekretessadministratörer
-* [Verktyget Hämta i grupp](bulk-download-tool.md)
-Lär dig använda verktyget Hämta i grupp för att snabbt hämta alla dina signerade avtal
+>[!BEGINTABS]
+
+>[!TAB Så här uppgraderar du en användare till en administratörsroll]
+
+Lär dig hur du [befordrar en användare](promote-admin.md) till en Acrobat Sign-administratörsroll med Admin Console.
+
+>[!TAB Så här använder du flera profiler]
+
+Lär dig använda [profilväljaren](multiple-profiles.md) för att arbeta med flera Acrobat Sign-konton.
+
+>[!TAB Så här konfigurerar du sekretessadministratörer]
+
+Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
+
+>[!TAB Verktyget Hämta i grupp]
+
+Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för att snabbt hämta alla dina signerade avtal.
+
+>[!ENDTABS]
 
 ## Komma igång
 

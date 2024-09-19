@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ Utforska hur olika organisationer använder Acrobat Sign för att förändra fö
 
 ## Nyheter
 
-* [Anpassat arbetsflöde för utbildning, IEP-process](usecase-edu-iep.md)
-Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalisera en IEP-process (Individualized Education Program)
-* [Program för praktik med webbformulär för utbildning](usecase-edu-intern.md)
-Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär
-* [Skapa ett praktikprogram för ett utbildningswebbformulär](usecase-edu-intern-create.md)
-Lär dig skapa ett webbformulär för praktikplatser
-* [Statliga låneansökningar med flera okända signerare](webform-multiple-signers.md)
-Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar som involverar flera okända deltagare
+>[!BEGINTABS]
+
+>[!TAB Anpassat arbetsflöde för utbildning, IEP-process]
+
+Se hur [Anpassat arbetsflöde i Designer](usecase-edu-iep.md) används för att digitalisera en IEP-process (Individualized Education Program).
+
+>[!TAB Program för praktik med webbformulär för utbildning]
+
+Se hur [webbformulär](usecase-edu-intern.md) används för att förbättra elevernas åtkomst till obligatoriska formulär.
+
+>[!TAB Skapa ett praktikprogram för ett utbildningswebbformulär]
+
+Lär dig skapa ett [webbformulär](usecase-edu-intern-create.md) för praktikplatser.
+
+>[!TAB Statliga låneansökningar med flera okända signerare]
+
+Lär dig hur ett [webbformulär](webform-multiple-signers.md) används för ett komplext arbetsflöde för låneansökningar från myndigheter som involverar flera okända deltagare.
+
+>[!ENDTABS]
 
 ## Användningsfall för myndigheter
 
