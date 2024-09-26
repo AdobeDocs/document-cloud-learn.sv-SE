@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="quick-tour.md"><strong>Grundläggande om arbetsytan</strong></a>
     </div>
-    <em>Ta en rundtur på arbetsytan i Acrobat Sign för att komma igång</em>
+    Ta en rundtur på arbetsytan i Acrobat Sign för att komma igång
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="new-sender.md"><strong>Komma igång med Acrobat Sign</strong></a>
     </div>
-    <em>Den här omfattande självstudiekursen är en utmärkt utgångspunkt för nya avsändare i Acrobat Sign</em>
+    Den här omfattande självstudiekursen är en utmärkt utgångspunkt för nya avsändare i Acrobat Sign
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="send-to-single-recipient.md"><strong>Skicka till en mottagare</strong></a>
     </div>
-    <em>Sätt igång och lär dig hur enkelt det är att skicka ett dokument för signering</em>
+    Sätt igång och lär dig hur enkelt det är att skicka ett dokument för signering
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Skicka till flera mottagare</strong></a>
     </div>
-    <em>Skicka ett dokument för e-signering till fler än en person i exakt den ordning du vill</em>
+    Skicka ett dokument för e-signering till mer än en person i exakt den ordning du vill
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="sending-options.md"><strong>Konfigurera sändningsalternativ</strong></a>
     </div>
-    <em>Lär dig konfigurera olika alternativ när du skickar ett dokument för signering</em>
+    Lär dig konfigurera olika alternativ när du skickar ett dokument för signering
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="adding-fields.md"><strong>Lägga till fält i dokument</strong></a>
     </div>
-    <em>Lär dig lägga till olika typer av fält i dina dokument</em>
+    Lär dig hur du lägger till olika typer av fält i dokument
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="modify-in-flight.md"><strong>Ändra ett dokument efter sändning</strong></a>
     </div>
-    <em>Ändra ett dokument som redan pågår</em>
+    Ändra ett dokument som redan pågår
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="replace-signer.md"><strong>Ersätta en signerare</strong></a>
     </div>
-    <em>Lär dig hur du ändrar signeraren av ett dokument som redan pågår</em>
+    Lär dig ändra signerare av ett dokument som redan pågår
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
       <div>
       <a href="set-deadlines-reminders.md"><strong>Ange tidsgränser och påminnelser</strong></a>
       </div>
-      <em>Lär dig hur du skickar vanliga e-postpåminnelser och tidsgränser för att få dokument signerade snabbt</em>
+      Lär dig hur du skickar vanliga e-postpåminnelser och tidsgränser för att få dokument signerade snabbt
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="electronically-sign-a-document.md"><strong>Signera ett dokument elektroniskt</strong></a>
     </div>
-    <em>Lär dig hur enkelt det är att signera ett dokument som skickas till dig med Acrobat Sign</em>
+    Lär dig hur enkelt det är att signera ett dokument som skickas till dig med Acrobat Sign
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="fill-and-sign.md"><strong>Fylla i och signera ett dokument</strong></a>
     </div>
-    <em>Fyll i formulär och lägg till din elektroniska signatur i dokument</em>
+    Fyll i formulär och lägg till din elektroniska signatur i dokument
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="sign-in-person.md"><strong>Hämta en signatur personligen</strong></a>
     </div>
-    <em>Hämta någon annans signatur personligen med Acrobat Sign-mobilappen</em>
+    Hämta någon annans signatur personligen med Acrobat Sign-mobilappen
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="delegate-signing.md"><strong>Delegera signering till någon annan</strong></a>
     </div>
-    <em>Lär dig delegera signeringen av ett dokument till någon annan</em>
+    Lär dig delegera signeringen av ett dokument till någon annan
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Vad är en digital signatur</strong></a>
     </div>
-    <em>Läs mer om certifikatbaserade digitala signaturer</em>
+    Läs mer om certifikatbaserade digitala signaturer
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signera med en stämpel</strong></a>
     </div>
-    <em>Använd stämplar för att markera ett godkänt eller slutfört dokument</em>
+    Använd stämplar för att markera ett godkänt eller slutfört dokument
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="manage-and-track.md"><strong>Hantera och spåra avtal</strong></a>
     </div>
-    <em>Lär dig hantera och spåra avtal som skickats för signering</em>
+    Lär dig hantera och spåra avtal som skickats för signering
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
     </div>
-    <em>Skapa en återanvändbar dokumentmall för att göra organisationen snabbare och mer konsekvent</em>
+    Skapa en återanvändbar dokumentmall för att göra organisationen snabbare och mer konsekvent
     <br>
   </td>
   <td>
