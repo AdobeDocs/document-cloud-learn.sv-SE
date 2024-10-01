@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -204,7 +204,3 @@ Eftersom kampanjfiltret **Dagar tills förfallodatum** användes kan du använda
 1. Ställ in **Schema** på _Dagligen_. Välj en startdag, starttid och slutdatum för kampanjen om det behövs.
 
    ![Schemainställningar](assets/scheduleSettings.png)
-
->[!TIP]
->
->Den här självstudiekursen ingår i kursen [Påskynda försäljningscyklerna med Acrobat Sign för Microsoft Dynamics och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig kostnadsfritt på Experience League!

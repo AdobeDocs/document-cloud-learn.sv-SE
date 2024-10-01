@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -71,4 +71,4 @@ Se [Actionen Wizard](../advanced-tasks/action.md) för att snabba på bortredige
 
 >[!TIP]
 >
-Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
+Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!

@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-5328
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Lär dig redigera eller ta bort en mall i biblioteket.
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Avancerade uppgifter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) som är tillgänglig kostnadsfritt på Experience League!

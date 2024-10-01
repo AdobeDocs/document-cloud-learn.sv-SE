@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. 
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!

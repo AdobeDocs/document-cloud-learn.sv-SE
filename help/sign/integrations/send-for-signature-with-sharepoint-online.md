@@ -9,7 +9,7 @@ jira: KT-6464
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Lär dig effektivisera arbetsflöden för dokument genom att skicka ett dokument
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Använda Acrobat Sign Inside Microsoft-appar](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Använda Acrobat Sign Inside Microsoft-appar](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps) som är tillgänglig kostnadsfritt på Experience League!

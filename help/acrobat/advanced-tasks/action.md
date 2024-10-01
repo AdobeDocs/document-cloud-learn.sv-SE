@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ För att kunna leverera de bästa kundupplevelserna måste innehållet skapas sn
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!

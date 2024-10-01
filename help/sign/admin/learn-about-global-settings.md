@@ -8,7 +8,7 @@ jira: KT-5503
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 2%
@@ -23,4 +23,4 @@ Avsnittet Globala inställningar på fliken Konto är ett av de mer funktionsrik
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Avancerade aktiviteter för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Avancerade aktiviteter för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) som är tillgänglig kostnadsfritt på Experience League!

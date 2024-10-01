@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Gruppadministratörer kan tilldela arbetsflöden till alla grupper som de admini
 
 >[!TIP]
 >
-Den här videon ingår i kursen [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) som är tillgänglig kostnadsfritt på Experience League!
+Den här videon ingår i spellistan [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) som är tillgänglig kostnadsfritt på Experience League!

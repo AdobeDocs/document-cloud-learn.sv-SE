@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-8494
 thumbnail: KT-8494.jpg
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Läs om hur du arkiverar e-postmeddelanden och bilagor i PDF i [!DNL Outlook] f�
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) som är tillgänglig kostnadsfritt på Experience League!

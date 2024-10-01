@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 2%
 
 ---
@@ -32,4 +32,4 @@ Lär dig hur du konverterar dina PDF-filer till olika filformat, t.ex. [Microsof
 
 >[!TIP]
 >
->Den här videon ingår i kursen [Arbeta smartare med Acrobat DC och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!

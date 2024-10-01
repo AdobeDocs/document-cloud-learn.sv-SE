@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -152,6 +152,3 @@ Hämta parametrarna från ditt konto. Öppna nu Marketo-instansen.
    ![Anropa webhook](assets/callWebhook.png)
 
 1. Din SMS-meddelandekampanj för leads som läggs till i ett avtal har nu konfigurerats.
->[!TIP]
->
->Den här självstudiekursen ingår i kursen [Påskynda försäljningscyklerna med Acrobat Sign för Microsoft Dynamics och Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) som är tillgänglig kostnadsfritt på Experience League!
