@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Se hur alla i ditt team kan arbeta smidigt med PDF-filer direkt i [Microsoft 365
     <div>
     <a href="createofficeweb.md"><strong>Skapa PDF i [!DNL Office] för webben</strong></a>
     </div>
-    Lär dig hur du skapar innehållsrika, robusta PDF-filer direkt från Microsoft Word
+    Lär dig hur du skapar PDF-filer utan att behöva lämna dina [!DNL Microsoft Office] för webbappar
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Se hur alla i ditt team kan arbeta smidigt med PDF-filer direkt i [Microsoft 365
     <div>
     <a href="acrobatandteams.md"><strong>PDF-samarbete i [!DNL Microsoft Teams]</strong></a>
     </div>
-    Samarbeta och arbeta med kollegor genom att visa, kommentera och granska PDF utan att någonsin lämna [!DNL Microsoft Teams]
+    Samarbeta och granska PDF utan att någonsin lämna [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Se hur alla i ditt team kan arbeta smidigt med PDF-filer direkt i [Microsoft 365
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Protect PDF med [!DNL Microsoft Purview Information] känslighetsetiketter</strong></a>
     </div>
-    Lär dig skydda PDF genom att lägga till, redigera, anpassa och ta bort känslighetsetiketter för Microsoft Purview Information direkt i Acrobat
+    Lär dig hur du skyddar PDF med Microsoft Purview Information sensitivitetsetiketter direkt i Acrobat
     <br>
   </td>
   <td>
