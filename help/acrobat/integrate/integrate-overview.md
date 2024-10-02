@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
+source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Se hur alla i ditt team kan arbeta smidigt med PDF-filer direkt i [Microsoft 365
     <div>
     <a href="edge.md"><strong>Skapa PDF-innehåll när du surfar med [!DNL Microsoft Edge]</strong></a>
     </div>
-    Lär dig hur du förvandlar webbsidor till PDF i farten med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]
+    Lär dig hur du gör om webbsidor till PDF med Adobe Acrobat-tillägget för [!DNL Microsoft Edge]
     <br>
   </td>
   <td>
