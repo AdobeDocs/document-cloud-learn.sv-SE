@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # Översikt över Komma igång
 
-Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera dina PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, är detta innehåll utformat för att underlätta för dig att komma in i PDF-arbetsflöden.
+Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudiekurserna. Från att skapa ett dokument till att skydda eller [redigera dina PDF-filer](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}, är detta innehåll utformat för att underlätta för dig att komma in i PDF-arbetsflöden. Kolla in den här expertkurerade [spellistan](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) om du vill komma igång med Acrobat.
 
 ## Nyheter
 
