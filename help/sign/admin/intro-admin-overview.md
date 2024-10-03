@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 >[!TAB Så här uppgraderar du en användare till en administratörsroll]
 
 Lär dig hur du [befordrar en användare](promote-admin.md) till en Acrobat Sign-administratörsroll med Admin Console.
-
->[!TAB Så här använder du flera profiler]
-
-Lär dig använda [profilväljaren](multiple-profiles.md) för att arbeta med flera Acrobat Sign-konton.
 
 >[!TAB Så här konfigurerar du sekretessadministratörer]
 
@@ -192,16 +188,6 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="Använda flera profiler" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong>Så här använder du flera profiler</strong></a>
-    </div>
-    <em>Lär dig använda profilväljaren för att arbeta med flera Acrobat Sign-konton</em>
-    <br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="Så här uppgraderar du en användare till en administratörsroll" src="../assets/promote-admin.png" />
     </a>
@@ -209,6 +195,11 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <a href="promote-admin.md"><strong>Så här uppgraderar du en användare till en administratörsroll</strong></a>
     </div>
     <em>Lär dig hur du uppgraderar en användare till en Acrobat Sign-administratörsroll med Admin Console</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </table>
