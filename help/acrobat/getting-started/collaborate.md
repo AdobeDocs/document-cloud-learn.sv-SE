@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-8255
 thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Samarbeta i realtid
 
-Med fjärrarbete överallt är det viktigt med sömlöst samarbete för att kunna leverera innehåll snabbt och skalbart. Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var som helst. Den här videosjälvstudiekursen använder den [nya arbetsytan](new-workspace.md)
+Med fjärrarbete överallt är det viktigt med sömlöst samarbete för att kunna leverera innehåll snabbt och skalbart. Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var som helst. Lär dig skapa en dokumentgranskningsprocess som inte bara förbättrar effektiviteten utan även höjer innehållskvaliteten. Den här videosjälvstudiekursen använder den [nya arbetsytan](new-workspace.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 

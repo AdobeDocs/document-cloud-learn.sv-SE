@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 >[!BEGINTABS]
 
+>[!TAB Samarbeta i realtid]
+
+Lär dig hur du skapar en [granskningsprocess](collaborate.md) för dokument som inte bara förbättrar effektiviteten utan även höjer innehållskvaliteten.
+
 >[!TAB Designa en ny sida]
 
 Lär dig att [designa en ny sida med professionellt utseende](add-custom-page.md) i PDF med hjälp av Adobe Express.
@@ -33,10 +37,6 @@ Lär dig att [skapa, redigera och förbättra grafik](edit-graphics.md) i din PD
 >[!TAB Ny arbetsyta]
 
 Läs mer om den [nya arbetsytan](new-workspace.md) i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina PDF-uppgifter effektivt.
-
->[!TAB Upptäck PDF-insikter med AI-assistenten]
-
-Lär dig hur du får insikter från dina PDF-filer med hjälp av [AI Assistant](ai-assistant.md).
 
 >[!ENDTABS]
 
