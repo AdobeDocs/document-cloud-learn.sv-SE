@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cce27a2470b64de753992cbaa849043b79c936b3
+source-git-commit: 527eb69a9444db7dea38d41d7240cecc5cc62677
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -118,6 +118,16 @@ Läs mer om den [nya arbetsytan](new-workspace.md) i Acrobat som hjälper dig at
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="acrobatweb.md">
+      <img alt="Arbeta överallt med Acrobat web" src="../assets/acrobat-web.png" />
+    </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Arbeta överallt med Acrobat på webben</strong></a>
+    </div>
+    Lär dig arbeta var du än är
+    <br>
+  </td>
   <td>
     <a href="productivity.md">
       <img alt="Produktivitet i farten" src="../assets/productivity.png" />
