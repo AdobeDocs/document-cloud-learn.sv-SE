@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
    + [Produktivitet i farten](getting-started/productivity.md)
    + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
    + [Hämta signaturer](getting-started/signatures.md)
    + [Spåra dina dokument](getting-started/track.md)
+   + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](advanced-tasks/advanced-tasks-overview.md)
    + [Lägga till bokmärken och hyperlänkar](advanced-tasks/bookmarks.md)
