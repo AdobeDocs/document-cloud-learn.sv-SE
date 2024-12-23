@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -74,3 +74,4 @@ Ange 2 till 26 under avsnittet **Sidor från:** och välj sedan **OK**.
 1. Välj **Spara inställningar**.
 Skriv *Revision 3.0* i rutan och välj **OK**.
 1. Klicka på **OK** om du vill använda den nya sidfoten på PDF.
+
