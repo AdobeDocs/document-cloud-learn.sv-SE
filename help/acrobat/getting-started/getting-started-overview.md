@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cb41e14f914f1fe25dfe37ba8f2104d147198c7a
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '854'
 ht-degree: 1%
 
 ---
@@ -90,7 +90,7 @@ Läs mer om den [nya arbetsytan](new-workspace.md) i Acrobat som hjälper dig at
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with AI Assistant">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
@@ -103,9 +103,9 @@ Läs mer om den [nya arbetsytan](new-workspace.md) i Acrobat som hjälper dig at
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_self" rel="referrer" title="Upptäck PDF-insikter med AI Assistant">Upptäck PDF-insikter med AI-assistenten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_self" rel="referrer" title="Upptäck PDF-insikter med AI Assistant">Upptäck PDF-insikter med AI Assistant</a>
                     </p>
-                    <p class="is-size-6">Få insikter från dina PDF-filer med hjälp av AI-assistenten</p>
+                    <p class="is-size-6">Få insikter från dina PDF-filer med hjälp av AI Assistant</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
