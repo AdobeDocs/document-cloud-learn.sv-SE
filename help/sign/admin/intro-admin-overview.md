@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 2%
+source-wordcount: '593'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 >[!BEGINTABS]
 
->[!TAB Så här uppgraderar du en användare till en administratörsroll]
+>[!TAB Lägg till en ny användare]
 
-Lär dig hur du [befordrar en användare](promote-admin.md) till en Acrobat Sign-administratörsroll med Admin Console.
+Lär dig att [lägga till och hantera användare i Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Så här konfigurerar du sekretessadministratörer]
 
@@ -73,10 +73,10 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Lägga till användare" src="../assets/Adding-Users.png" />
+      <img alt="Lägg till en ny användare" src="../assets/Add-a-new-user.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Lägger till användare</strong></a>
+    <a href="add-users-to-your-account.md"><strong>Lägg till en ny användare</strong></a>
     </div>
     <em>Lägg till och hantera användare för Acrobat Sign</em>
     <br>
