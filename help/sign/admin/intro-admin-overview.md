@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 >[!TAB Lägg till en ny användare]
 
-Lär dig att [lägga till och hantera användare i Acrobat Sign](add-users-to-your-account.md).
+Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Så här konfigurerar du sekretessadministratörer]
 
@@ -72,6 +72,18 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Lägg till en ny användare" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Lägg till en ny användare</strong></a>
+    </div>
+    <em>Lär dig lägga till nya användare i Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Lägg till en ny kontoadministratör" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <a href="add-admin.md"><strong>Lägg till en ny kontoadministratör</strong></a>
     </div>
     <em>Lär dig hur du skapar en ny användare eller befordrar en befintlig användare till Acrobat Sign-administratörsrollen</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Skapa och hantera grupper" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Skapa och hantera grupper</strong></a>
-    </div>
-    <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
     <br>
   </td>
   <td>
