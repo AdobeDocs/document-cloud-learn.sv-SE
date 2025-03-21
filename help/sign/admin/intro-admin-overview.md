@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -72,18 +72,28 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="Lägg till en ny användare" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="Lägg till en ny kontoadministratör" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Lägg till en ny användare</strong></a>
+    <a href="add-admin.md"><strong>Lägg till en ny kontoadministratör</strong></a>
     </div>
-    <em>Lägg till nya användare i Acrobat Sign</em>
+    <em>Lär dig hur du skapar en ny användare eller befordrar en befintlig användare till Acrobat Sign-administratörsrollen</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="Skapa och hantera grupper" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong>Skapa och hantera grupper</strong></a>
+    </div>
+    <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="Skapa och hantera grupper" src="../assets/Creating-Groups.png" />
     </a>
@@ -113,6 +123,8 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Skapa en återanvändbar dokumentmall för snabbhet och konsekvens</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Rapportering och transaktionsanvändning" src="../assets/reporting.png" />
@@ -123,8 +135,6 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Lär dig hur du skapar rapporter och spårar transaktionsanvändning</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="Rapportalternativ för användare" src="../assets/report-options.png" />
@@ -155,6 +165,8 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Massutskick" src="../assets/send-in-bulk.png" />
@@ -165,8 +177,6 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Samla in tusentals signaturer samtidigt för alla dokument</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Konfigurera ett arbetsflöde" src="../assets/BuildingWorkflow.png" />
@@ -197,11 +207,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Lär dig hur du uppgraderar en användare till en Acrobat Sign-produktadministratörsroll eller supportadministratörsroll med Admin Console</em>
     <br>
   </td>
-   <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## Avancerade uppgifter
