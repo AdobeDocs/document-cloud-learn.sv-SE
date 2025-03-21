@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
+source-git-commit: 1d7e3bf8a00967726b0b4200a047e3519ddfe484
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '615'
 ht-degree: 1%
 
 ---
@@ -204,7 +204,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <div>
     <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
     </div>
-    <em>Lär dig hur du uppgraderar en användare till en Acrobat Sign-produktadministratörsroll eller supportadministratörsroll med Admin Console</em>
+    <em>Lär dig tilldela en Acrobat Sign-användarroll som produktadministratör och supportadministratör i Admin Console</em>
     <br>
   </td>
 </tr> 
