@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <div>
     <a href="add-users-to-your-account.md"><strong>Lägg till en ny användare</strong></a>
     </div>
-    <em>Lägg till och hantera användare för Acrobat Sign</em>
+    <em>Lägg till nya användare i Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Så här uppgraderar du en användare till en administratörsroll" src="../assets/promote-admin.png" />
+      <img alt="Tilldela administratörsroller för produkter och support" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>Så här uppgraderar du en användare till en administratörsroll</strong></a>
+    <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
     </div>
-    <em>Lär dig hur du uppgraderar en användare till en Acrobat Sign-administratörsroll med Admin Console</em>
+    <em>Lär dig hur du uppgraderar en användare till en Acrobat Sign-produktadministratörsroll eller supportadministratörsroll med Admin Console</em>
     <br>
   </td>
    <td>

@@ -1,21 +1,21 @@
 ---
 title: Lägg till en ny användare
-description: Lägga till och hantera användare i Acrobat Sign
+description: Lägg till nya användare i Acrobat Sign
 feature: Administration, Deploy
 role: Admin
 level: Intermediate
 jira: KT-17584
 topic-revisit: Administration
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '28'
 ht-degree: 3%
 
 ---
 
 # Lägg till en ny användare
 
-Lär dig lägga till och hantera användare för Acrobat Sign. Användarhantering sker inom [Admin Console](https://adminconsole.adobe.com/).
+Lär dig hur du lägger till nya användare i Acrobat Sign i [Admin Console](https://adminconsole.adobe.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453158?quality=12&learn=on&hidetitle=true)
