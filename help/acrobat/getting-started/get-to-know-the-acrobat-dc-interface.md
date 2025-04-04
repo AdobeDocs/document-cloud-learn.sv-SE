@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5531
 thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 6%
@@ -20,7 +20,7 @@ Lär dig hur Acrobat-gränssnittet gör det enkelt att komma åt filer och verkt
 
 >[!TIP]
 >
->Vill du veta mer om den nya arbetsytan som du kan aktivera i Acrobat? Kolla in [Ny arbetsyta](new-workspace.md).
+>Vill du veta mer om den nya Acrobat-upplevelsen som du kan aktivera i Acrobat? Ta en titt på [den nya Acrobat-upplevelsen](new-workspace.md).
 
 <br> 
 

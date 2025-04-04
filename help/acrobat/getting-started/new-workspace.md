@@ -1,21 +1,21 @@
 ---
-title: Ny arbetsyta
-description: Lär dig mer om den nya arbetsytan i Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina arbetsuppgifter i PDF effektivt
+title: Ny Acrobat-upplevelse
+description: Lär dig mer om den nya Acrobat-upplevelsen som hjälper dig att snabbt hitta verktyg och slutföra dina PDF-uppgifter effektivt
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-10781
 thumbnail: KT-10781.jpg
 exl-id: 5d88d96d-ae44-4c75-b4bd-d51d864c707c
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# Ny arbetsyta
+# ny Acrobat-upplevelse
 
-Läs mer om den nya arbetsytan i datorversionen av Acrobat som hjälper dig att snabbt hitta verktyg och slutföra dina uppgifter i PDF på ett effektivt sätt. Arbetsytan är intuitiv och smidig och ger enhetliga upplevelser på alla arbetsytor - dator, webb och mobil.
+Läs om den nya Acrobat-upplevelsen i datorversionen av Acrobat så att du snabbt kan hitta verktyg och slutföra dina PDF-uppgifter effektivt. Användargränssnittet är intuitivt och smidigt och erbjuder enhetliga upplevelser på alla platser - dator, webb och mobil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345949?quality=12&learn=on&hidetitle=true)

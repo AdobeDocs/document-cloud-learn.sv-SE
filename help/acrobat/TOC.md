@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -19,7 +19,7 @@ ht-degree: 3%
 + [Översikt](overview.md)
 + Komma igång {#getting-started}
    + [Översikt](getting-started/getting-started-overview.md)
-   + [Ny arbetsyta](getting-started/new-workspace.md)
+   + [Ny Acrobat-upplevelse](getting-started/new-workspace.md)
    + [Allmänt om arbetsytan](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
