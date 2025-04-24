@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Lär dig börja använda Adobe Acrobat via de här korta stegvisa självstudieku
 
 >[!BEGINTABS]
 
+>[!TAB Kommentera en PDF]
+
+Läs om hur du [kommenterar ett delat PDF](comment-on-pdf-files.md) med bara en webbläsare.
+
 >[!TAB Samarbeta i realtid]
 
 Lär dig hur du skapar en [granskningsprocess](collaborate.md) för dokument som inte bara förbättrar effektiviteten utan även höjer innehållskvaliteten.
@@ -33,10 +37,6 @@ Lär dig att [designa en ny sida med professionellt utseende](add-custom-page.md
 >[!TAB Redigera grafik i en PDF]
 
 Lär dig att [skapa, redigera och förbättra grafik](edit-graphics.md) i din PDF.
-
->[!TAB ny Acrobat-upplevelse]
-
-Läs mer om [den nya Acrobat-upplevelsen](new-workspace.md) som hjälper dig att snabbt hitta verktyg och slutföra dina PDF-uppgifter effektivt.
 
 >[!ENDTABS]
 
