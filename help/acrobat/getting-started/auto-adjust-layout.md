@@ -24,4 +24,4 @@ Läs mer om det nya redigeringsläget som flödar om innehåll och automatiskt j
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441224?quality=12&learn=on&hidetitle=true&captions=swe)

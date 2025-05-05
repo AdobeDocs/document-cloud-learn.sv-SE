@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Se hur en fältservicesändare och tekniker använder Acrobat Sign, [!DNL Power Automate] och [!DNL Dynamics 365] för att effektivisera fältservicesamarbete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447302?quality=12&learn=on&hidetitle=true&captions=swe)

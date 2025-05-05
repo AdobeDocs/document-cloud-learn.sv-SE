@@ -31,7 +31,7 @@ Exempelfiler att öva med (ZIP, 342 kB)
 
 Använd verktyget [Redigera PDF](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"} för att lägga till bakgrundsgrafik i din PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443821?hidetitle=true&captions=swe)
 
 <br> 
 
@@ -51,7 +51,7 @@ Ange 2 till 26 i avsnittet **Sidor från** och välj sedan **OK**.
 
 Använd redigeringsverktyget för att lägga till en ny sidfot på PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437736?hidetitle=true&captions=swe)
 
 <br> 
 

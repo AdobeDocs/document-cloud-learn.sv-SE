@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar en signeringsupplevelse online som liknar personlig signering under ett Microsoft Teams-möte. Med Live Sign kan du vara värd för en personlig, snabb och säker signeringsupplevelse från vilken enhet som helst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445944?quality=12&learn=on&hidetitle=true&captions=swe)

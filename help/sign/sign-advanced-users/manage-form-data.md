@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig konsolidera formulärdata från dokument så att du kan visa och hantera dem i en rapport eller ett Excel-kalkylblad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443522?quality=12&learn=on&hidetitle=true&captions=swe)

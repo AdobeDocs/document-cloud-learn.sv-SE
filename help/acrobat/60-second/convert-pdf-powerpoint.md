@@ -17,4 +17,4 @@ ht-degree: 0%
 
 I den här 60 sekunder långa videosjälvstudiekursen lär du dig konvertera en PDF-fil till ett fullt redigerbart Microsoft PowerPoint-dokument.
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437336?quality=12&learn=on&hidetitle=true&captions=swe)

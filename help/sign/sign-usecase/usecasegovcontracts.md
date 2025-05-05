@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Ersätt snabbt pappersbearbetning med kompatibla digitala arbetsflöden, inklusive granskningsrapporter. Lär dig använda Acrobat Sign Designer-arbetsflödesverktyg för att effektivisera hela processen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448055?quality=12&learn=on&hidetitle=true&captions=swe)
 
 Markera om du vill hämta eller öppna ett steg-för-steg-recept från PDF för kontrakt och rekvisitionsformulär.
 

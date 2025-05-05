@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Läs om hur du konfigurerar och använder sekretessadministratörer för Acrobat Sign-arbetsflöden i Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448220?quality=12&learn=on&hidetitle=true&captions=swe)

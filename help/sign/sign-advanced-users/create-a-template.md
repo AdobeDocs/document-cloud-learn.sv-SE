@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Lär dig skapa en återanvändbar dokumentmall och lägga till den i ditt Acrobat Sign-bibliotek för framtida bruk. Dokumentmallarna ger dig snabbhet och konsekvens i dina Sign-transaktioner och möjlighet att hantera dokumentändringar och ändringar.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425337?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

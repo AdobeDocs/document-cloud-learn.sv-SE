@@ -19,4 +19,4 @@ Lär dig hur webbformulär används för att förbättra elevernas åtkomst till
 
 Läs [Skapa ett praktikprogram för ett utbildningswebbformulär](usecase-edu-intern-create.md) om du vill veta hur du skapar det här webbformuläret.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430544?quality=12&learn=on&hidetitle=true&captions=swe)

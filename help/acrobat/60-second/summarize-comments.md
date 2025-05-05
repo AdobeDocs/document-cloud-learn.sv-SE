@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig skapa en sammanfattning av alla kommentarer och markeringar i PDF-filen i den här 60 sekunder långa videosjälvstudiekursen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436971?quality=12&learn=on&hidetitle=true&captions=swe)

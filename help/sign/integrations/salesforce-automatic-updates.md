@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du enkelt länkar ditt konto till [!DNL Salesforce] för att få automatiska uppdateringar - effektivisering och noggrannhet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439596?quality=12&learn=on&hidetitle=true&captions=swe)

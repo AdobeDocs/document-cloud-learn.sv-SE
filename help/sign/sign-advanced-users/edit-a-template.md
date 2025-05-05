@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Lär dig redigera eller ta bort en mall i biblioteket.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426027?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

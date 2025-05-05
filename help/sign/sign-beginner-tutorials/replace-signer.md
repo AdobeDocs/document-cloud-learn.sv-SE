@@ -22,4 +22,4 @@ Lär dig hur du ersätter en signerare, som när fel e-postadress användes när
 >
 >Standardinställningen för Ersätt mottagare är att helt ersätta den aktuella mottagaren med en ny mottagare. Det finns ytterligare alternativ för planer på företags- och storföretagsnivå.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425308?quality=12&learn=on&hidetitle=true&captions=swe)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 I den här 60 sekunder långa videosjälvstudiekursen lär du dig skapa PDF från Microsoft 365-filer direkt i Acrobat-datorprogrammet.
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437210?quality=12&learn=on&hidetitle=true&captions=swe)

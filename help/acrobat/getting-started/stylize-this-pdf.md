@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig skapa proffsigt PDF med de inbyggda, lättanvända designverktygen i [Adobe Express](https://express.adobe.com). Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445545?enablevpops&quality=12&learn=on&hidetitle=true&captions=swe)

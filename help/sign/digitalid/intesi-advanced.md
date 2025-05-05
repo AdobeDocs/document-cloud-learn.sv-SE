@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Lär dig hur du erhåller ett avancerat digitalt signeringscertifikat från [!DNL Intesi Group]. När du har registrerat dig och din identitet har verifierats utfärdar [!DNL Intesi Group] ett digitalt ID till dig som används för att tillämpa en Acrobat Sign-molnsignatur.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449900?quality=12&learn=on&hidetitle=true&captions=swe)
 
 <br> 
 

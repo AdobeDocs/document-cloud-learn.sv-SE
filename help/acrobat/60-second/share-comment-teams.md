@@ -17,4 +17,4 @@ ht-degree: 0%
 
 I den här 60 sekunder långa videosjälvstudiekursen lär du dig samarbeta i realtid med en PDF-fil i Microsoft Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437478?quality=12&learn=on&hidetitle=true&captions=swe)

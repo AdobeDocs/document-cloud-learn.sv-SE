@@ -17,4 +17,4 @@ ht-degree: 3%
 
 I den här 60 sekunder långa videosjälvstudiekursen lär du dig att [skapa en PDF från Microsoft Word](https://www.adobe.com/se/acrobat/online/word-to-pdf.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437082?quality=12&learn=on&hidetitle=true&captions=swe)

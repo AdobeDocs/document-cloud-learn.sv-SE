@@ -20,4 +20,4 @@ Digidentity är en EU-kvalificerad betrodd tjänsteleverantör (QTSP). Digidenti
 
 I den här videosjälvstudiekursen får du information om hur det går till när e-postmeddelandet med registreringsinbjudan tas emot, och hur du använder ett digitalt ID för att autentisera och tillämpa en molnsignatur i Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449786?quality=12&learn=on&hidetitle=true&captions=swe)

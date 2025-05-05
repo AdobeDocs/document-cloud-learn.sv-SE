@@ -22,5 +22,5 @@ Lär dig hur du skickar vanliga e-postpåminnelser och tidsgränser för att få
 >
 >I företagsplaner och företagsplaner kan du välja att visa alternativet Påminnelse under sändningsprocessen eller aktivera automatisering på konto- eller gruppnivå.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425319?quality=12&learn=on&hidetitle=true&captions=swe)
 

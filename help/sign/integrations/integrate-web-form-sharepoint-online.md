@@ -23,4 +23,4 @@ Lär dig mappa data som samlats in från ett webbformulär till en [!DNL SharePo
 >
 >Fältmappning mellan Acrobat Sign-webbformulär och [!DNL SharePoint]-listor är endast tillgänglig för onlineinstallationer och inte för lokala installationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432458?quality=12&learn=on&hidetitle=true&captions=swe)

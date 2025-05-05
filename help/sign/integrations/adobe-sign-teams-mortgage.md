@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig hur du skickar avtal för signering, kontrollerar avtalsstatus och skickar påminnelser inifrån [!DNL Microsoft Teams]. I det här exemplet går en mäklare som skickar ut en låneansökan för underskrift direkt i Teams. Denna täta integration påskyndar processen för hypotekslån - även när du arbetar med hypotekssökande i en arbetsmiljö på distans.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446197?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

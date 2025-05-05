@@ -21,4 +21,4 @@ Du som är administratör i Acrobat Sign kan läsa mer om hur du konfigurerar ra
 >
 >Rapportering är endast tillgängligt för planer på företags- och storföretagsnivå.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437148?quality=12&learn=on&hidetitle=true&captions=swe)

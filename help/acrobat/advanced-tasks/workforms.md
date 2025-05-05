@@ -37,7 +37,7 @@ Använd Prepare Form-verktyget för att automatiskt lägga till formulärfält i
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448515?quality=12&learn=on&hidetitle=true&captions=swe)
 
 <br> 
 
@@ -94,7 +94,7 @@ Kombinationsegenskaper används för att sprida text jämnt över ett textfälts
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439896?hidetitle=true&captions=swe)
 
 <br> 
 

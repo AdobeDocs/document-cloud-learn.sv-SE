@@ -19,7 +19,7 @@ ht-degree: 2%
 
 Avsnittet Globala inställningar på fliken Konto är ett av de mer funktionsrika avsnitten och alla inställningar är skiftlägesspecifika. Lär dig redigera inställningar globalt för hela organisationen eller specifika grupper.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452106?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

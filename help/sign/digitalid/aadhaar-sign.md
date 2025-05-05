@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur du använder ditt [!DNL Aadhaar] digitala ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument i Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444516?quality=12&learn=on&hidetitle=true&captions=swe)

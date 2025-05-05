@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig komma åt, använda och konfigurera granskningsrapporter som passar organisationens behov. Varje dokument i Acrobat Sign går igenom en serie av milstolpar som definierar transaktionens förlopp. Dessa milstolpar dokumenteras noggrant i en granskningsrapport för varje transaktion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448549?quality=12&learn=on&hidetitle=true&captions=swe)

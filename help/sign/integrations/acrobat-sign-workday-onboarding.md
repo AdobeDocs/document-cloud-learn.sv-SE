@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Sign i Workday gör det enkelt att effektivisera registreringsarbetsflöden med en 100 % digital process för insamling av signaturer. Ge teamet möjlighet att lägga mindre tid på att hantera signeringsprocesser och mer tid på att få värdefullt arbete gjort.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446637?quality=12&learn=on&hidetitle=true&captions=swe)

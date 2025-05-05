@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalisera en IEP-process (Individualized Education Program) för en grund- och gymnasieskola. IEP är skrivna utbildningsplaner som är utformade för att uppfylla en elevs behov och som kräver signaturer från flera IEP-teammedlemmar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432428?quality=12&learn=on&hidetitle=true&captions=swe)

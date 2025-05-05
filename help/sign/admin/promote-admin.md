@@ -17,4 +17,4 @@ ht-degree: 2%
 
 Lär dig tilldela en Acrobat Sign-användarroll som produktadministratör och supportadministratör i [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453162?quality=12&learn=on&hidetitle=true&captions=swe)

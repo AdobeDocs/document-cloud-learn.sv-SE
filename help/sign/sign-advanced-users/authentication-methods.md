@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Läs mer om de olika metoder som finns i Acrobat Sign för att autentisera identiteten på någon som undertecknar ett dokument. Identitetsautentisering hjälper till att minska bedrägerier och lägger till ytterligare ett säkerhetslager till dokument som signeras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447586?quality=12&learn=on&hidetitle=true&captions=swe)

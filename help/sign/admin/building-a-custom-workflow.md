@@ -29,7 +29,7 @@ Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalise
 >
 >Gruppadministratörer kan tilldela arbetsflöden till alla grupper som de administrerar (inte bara deras primära grupp). Gruppadministratörer kan också redigera alla arbetsflöden som är tilldelade till en grupp som de administrerar.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425544?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

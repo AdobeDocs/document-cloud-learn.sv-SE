@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Se hur Acrobat Sign och [!DNL Microsoft Dynamics 365] för kundtjänst används för att förbättra kundnöjdheten på en självbetjänad kundwebbportal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422046?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445977?quality=12&learn=on&hidetitle=true&captions=swe)

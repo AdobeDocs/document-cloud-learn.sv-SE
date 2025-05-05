@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Se en kort videoutflykt på arbetsytan i Acrobat Sign för att komma igång.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425260?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

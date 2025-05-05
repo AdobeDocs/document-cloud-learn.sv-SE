@@ -22,4 +22,4 @@ Lär dig skapa rapporter och spåra transaktionsanvändning. Dessa rapporter kan
 >
 >Rapportering är endast tillgängligt för planer på företags- och storföretagsnivå.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444686?quality=12&learn=on&hidetitle=true&captions=swe)

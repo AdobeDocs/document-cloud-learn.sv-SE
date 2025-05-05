@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Det vanligaste arbetsflödet i Acrobat Sign - skicka ett dokument för signering. Läs om hur du överför ett dokument, lägger till formulärfält och skickar det till någon för signering.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425275?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

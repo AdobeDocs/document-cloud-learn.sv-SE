@@ -17,4 +17,4 @@ ht-degree: 0%
 
 I den här 60 sekunder långa videosjälvstudiekursen får du lära dig hur du delar en PDF för att snabbt samla in feedback från flera personer i en enda fil.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437192?quality=12&learn=on&hidetitle=true&captions=swe)

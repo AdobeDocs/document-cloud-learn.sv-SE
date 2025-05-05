@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig effektivisera arbetsflöden för dokument genom att fylla i och signera ett formulär direkt inom [!DNL Microsoft Outlook].
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443456?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

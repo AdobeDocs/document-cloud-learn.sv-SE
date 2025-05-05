@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Läs om hur du skyddar PDF genom att lägga till, redigera, anpassa och ta bort [känslighetsetiketter för Microsoft Purview Information](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) direkt i Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444302?quality=12&learn=on&hidetitle=true&captions=swe)

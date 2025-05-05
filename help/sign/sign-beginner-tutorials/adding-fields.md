@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig placera fält i dokumentet automatiskt eller använda dra och släpp-redigeringsmiljön i Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425297?quality=12&learn=on&hidetitle=true&captions=swe)

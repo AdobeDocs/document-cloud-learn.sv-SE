@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig konfigurera stora dokument och push-avtalstjänster i Acrobat Sign för [!DNL Salesforce]. Med push-avtal kan du skicka dokument, skapa ett webbformulär och skicka avtal precis som om de hade skapats i [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455781?quality=12&learn=on&hidetitle=true&captions=swe)

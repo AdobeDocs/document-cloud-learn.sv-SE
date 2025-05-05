@@ -19,4 +19,4 @@ Lär dig skapa, redigera och förbättra grafik i din PDF. Genom att redigera gr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446933?enablevpops&quality=12&learn=on&hidetitle=true&captions=swe)

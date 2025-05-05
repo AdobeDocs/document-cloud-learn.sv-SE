@@ -18,4 +18,4 @@ ht-degree: 3%
 
 Lär dig hur du lägger till nya användare i Acrobat Sign i [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453158?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453184?quality=12&learn=on&hidetitle=true&captions=swe)

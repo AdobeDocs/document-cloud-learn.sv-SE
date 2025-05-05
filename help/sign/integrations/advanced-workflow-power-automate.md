@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Se hur icke-tekniska medlemmar i organisationen kan avancerade enkla arbetsflöden som ansluter till andra system med hjälp av de färdiga [!DNL Microsoft Power Automate]-anslutningarna som ingår kostnadsfritt med Acrobat Sign. Dessa automatiserade dokumentarbetsflöden hjälper till att öka hastigheten och effektiviteten i vanliga processer, minska den tid som läggs på repetitiva uppgifter och minimera fel och omarbetningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425147?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441257?quality=12&learn=on&hidetitle=true&captions=swe)

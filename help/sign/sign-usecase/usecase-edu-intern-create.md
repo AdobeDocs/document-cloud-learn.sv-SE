@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig skapa ett webbformulär för praktikplatser för att förbättra elevernas åtkomst till obligatoriska formulär som kan skickas in från valfri enhet och valfri plats. I det här exemplet är arbetsflödet för varje elev unikt beroende på deras kurs - eftersom varje elev måste lägga till sin egen fakultetsansvarige och avdelningschef för godkännande.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432433?quality=12&learn=on&hidetitle=true&captions=swe)

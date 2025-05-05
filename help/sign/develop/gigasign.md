@@ -23,7 +23,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 >
 >GigaSign uppdateras inte längre till den senaste versionen av Java eller Acrobat Sign och kommer bara att ha begränsat stöd. Funktionerna i GigaSign läggs till i produkten under funktionen [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=sv-SE&). Använd Massutskick för alla användningsfall som inte uttryckligen kräver användning av GigaSign.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453514?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Hämta och installera GigaSign-appen
 

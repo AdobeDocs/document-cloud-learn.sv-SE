@@ -29,7 +29,7 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
 * [Företagsbidrag och företagslån](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=sv-SE)
 * [Hjälp vid återanställning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=sv-SE)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425323?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

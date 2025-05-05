@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Lär dig hur du skapar en ny användare eller befordrar en befintlig användare till Acrobat Sign-administratörsrollen i [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453173?quality=12&learn=on&hidetitle=true&captions=swe)

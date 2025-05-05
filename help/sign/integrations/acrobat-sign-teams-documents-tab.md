@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Läs om hur du skickar dokument för signering direkt från fliken Dokument i [!DNL Microsoft Teams].
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439652?quality=12&learn=on&hidetitle=true&captions=swe)

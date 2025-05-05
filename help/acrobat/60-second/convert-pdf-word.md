@@ -17,4 +17,4 @@ ht-degree: 2%
 
 I den här 60 sekunder långa videosjälvstudiekursen får du lära dig att [konvertera en PDF-fil till ett fullt redigerbart Microsoft Word-dokument](https://www.adobe.com/se/acrobat/online/pdf-to-word.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428842?quality=12&learn=on&hidetitle=true&captions=swe)

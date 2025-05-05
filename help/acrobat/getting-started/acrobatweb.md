@@ -24,7 +24,7 @@ Med fjärrarbete överallt är det viktigt att leverera innehåll snabbt och i s
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443534?enablevpops&quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >

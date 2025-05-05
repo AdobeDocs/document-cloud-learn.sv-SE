@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur du använder ditt [!DNL Intesi Group] digitala ID för att autentisera din identitet och godkänna en digital fjärrsignatur (molnsignatur) i ett dokument.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443665?quality=12&learn=on&hidetitle=true&captions=swe)
