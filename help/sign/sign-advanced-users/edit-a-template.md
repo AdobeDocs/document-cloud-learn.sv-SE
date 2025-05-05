@@ -22,4 +22,4 @@ Lär dig redigera eller ta bort en mall i biblioteket.
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Avancerade uppgifter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Avancerade uppgifter för användare](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-perform-advanced-tasks-business-users) som är tillgänglig kostnadsfritt på Experience League!

@@ -25,7 +25,7 @@ Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller push-meddelan
 
 1. Installera Marketo Microsoft Dynamics Sync.
 
-   Information och det senaste plugin-programmet för Microsoft Dynamics Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Information och det senaste plugin-programmet för Microsoft Dynamics Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=sv-SE)
 
 1. Installera Acrobat Sign för Microsoft Dynamics.
 

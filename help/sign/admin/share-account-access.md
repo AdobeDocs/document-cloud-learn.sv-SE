@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar skrivskyddad åtkomst till transaktioner på en ann
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Avancerade aktiviteter för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Avancerade aktiviteter för administratörer](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-perform-advanced-tasks-administrators) som är tillgänglig kostnadsfritt på Experience League!

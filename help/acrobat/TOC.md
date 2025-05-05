@@ -24,7 +24,7 @@ ht-degree: 3%
    + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
    + [Produktivitet i farten](getting-started/productivity.md)
-   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
@@ -132,5 +132,5 @@ ht-degree: 3%
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobil {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=sv-SE)
    + [Skanna till PDF](mobile/scan-mobile-app.md)

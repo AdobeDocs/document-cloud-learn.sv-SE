@@ -70,8 +70,8 @@ Användare kan logga in på https://documentcloud.adobe.com/ för att komma åt 
 
 ## Mer information finns på följande sidor:
 
-* [Logga in på Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [Hantera filer (var är mina filer?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Logga in på Adobe Document Cloud](https://helpx.adobe.com/se/document-cloud/help/sign-in.html)
+* [Hantera filer (var är mina filer?)](https://helpx.adobe.com/se/document-cloud/help/manage-files.html)
 * [Använder [!UICONTROL Acrobat Customization Wizard] för konfiguration](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Översikt över [!UICONTROL Admin Console]](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
 * [Hantera Adobe Sign på [!UICONTROL Admin Console]](https://helpx.adobe.com/se/enterprise/using/adobe-sign-for-enterprise.html)

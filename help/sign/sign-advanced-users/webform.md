@@ -20,17 +20,17 @@ Lär dig skapa ett dokument som kan signeras elektroniskt direkt på din webbpla
 
 [!BADGE Användningsfall]
 
-* [Program för praktik med webbformulär för utbildning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Program för praktik med webbformulär för utbildning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=sv-SE)
 Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär
-* [Skapa ett praktikprogram för ett utbildningswebbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Skapa ett praktikprogram för ett utbildningswebbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=sv-SE)
 Lär dig skapa ett webbformulär för praktikplatser
-* [Statliga låneansökningar med flera okända signerare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+* [Statliga låneansökningar med flera okända signerare](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=sv-SE)
 Lär dig hur ett webbformulär används för ett komplext arbetsflöde för låneansökningar som involverar flera okända deltagare
-* [Företagsbidrag och företagslån](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Hjälp vid återanställning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Företagsbidrag och företagslån](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=sv-SE)
+* [Hjälp vid återanställning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=sv-SE)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!
+>Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!

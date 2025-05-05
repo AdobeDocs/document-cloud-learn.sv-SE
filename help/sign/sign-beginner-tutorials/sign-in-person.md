@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Hämta en signatur personligen
 
-Läs om hur du skaffar någon annans signatur personligen med [Acrobat Sign-mobilappen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Läs om hur du skaffar någon annans signatur personligen med [Acrobat Sign-mobilappen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

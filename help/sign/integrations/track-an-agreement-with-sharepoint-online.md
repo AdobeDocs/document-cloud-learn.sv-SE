@@ -24,4 +24,4 @@ Lär dig spåra hur det går med ett avtal direkt i Microsoft SharePoint. När d
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Använda Acrobat Sign Inside Microsoft-appar](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Använda Acrobat Sign Inside Microsoft-appar](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-integrate-microsoft-apps) som är tillgänglig kostnadsfritt på Experience League!

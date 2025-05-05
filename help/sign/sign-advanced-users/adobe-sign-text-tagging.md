@@ -24,4 +24,4 @@ I det här inspelade webbseminariet (ingen registrering behövs) kan du lära di
 
 >[!TIP]
 >
->Den här videon är en del av [Avancerade uppgifter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) och [Avancerade uppgifter för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!
+>Den här videon är en del av [Avancerade uppgifter för användare](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-get-started-business-users) och [Avancerade uppgifter för administratörer](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-perform-advanced-tasks-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!

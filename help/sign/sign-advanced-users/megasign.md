@@ -20,13 +20,13 @@ Lär dig hur du skickar och samlar in hundratals signaturer (upp till 1 000 mott
 
 [!BADGE Användningsfall]
 
-* [Distansarbetsavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [Policyavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [Distansarbetsavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=sv-SE)
+* [Policyavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=sv-SE)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Hämta CSV-exempelfilen i ZIP-format](../assets/sendInBulkSample.zip). Läs mer om alla värden som du kan ange i CSV-filen [här](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[Hämta CSV-exempelfilen i ZIP-format](../assets/sendInBulkSample.zip). Läs mer om alla värden som du kan ange i CSV-filen [här](https://helpx.adobe.com/se/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
->Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!
+>Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!

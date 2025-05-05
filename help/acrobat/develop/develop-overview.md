@@ -28,4 +28,4 @@ Utveckla programvara som är integrerad med Acrobat och Adobe Reader med hjälp 
 [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [Adobe-dokumentgenererings-API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Självstudiekurser om Adobe Acrobat-tjänster](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Självstudiekurser om Adobe Acrobat-tjänster](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}

@@ -15,13 +15,13 @@ Det här projektet använder [Adobe Open Source Code of Analytics](code-of-condu
 
 ## Om dina bidrag till Adobe-innehåll
 
-Se [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Se [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/sv-SE/contributor/contributor-guide/introduction.html).
 
 Hur du bidrar beror på vem du är och vilka typer av ändringar du vill bidra med:
 
 ### Mindre ändringar
 
-Om du bidrar med mindre uppdateringar av hjärtat kan du gå till artikeln och klicka på länken **Redigera** i artikeln som går till artikelns GitHub-källa. Använd sedan bara GitHub-gränssnittet för att göra uppdateringar. Mer information finns i den allmänna [Adobe Docs contributor guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Om du bidrar med mindre uppdateringar av hjärtat kan du gå till artikeln och klicka på länken **Redigera** i artikeln som går till artikelns GitHub-källa. Använd sedan bara GitHub-gränssnittet för att göra uppdateringar. Mer information finns i den allmänna [Adobe Docs contributor guide](https://docs.adobe.com/content/help/sv-SE/contributor/contributor-guide/introduction.html).
 
 Mindre korrigeringar eller förtydliganden som du lämnar in för dokumentation och kodexempel i den här rapporten omfattas av Adobe användarvillkoren.
 
@@ -43,7 +43,7 @@ Om du är teknikskribent, programchef eller utvecklare för en Adobe Experience 
 
 Deltagare i communityn kan använda GitHub-gränssnittet för grundläggande redigering eller förgrena rapporten för att göra större insatser.
 
-Mer information finns i [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Mer information finns i [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/sv-SE/contributor/contributor-guide/introduction.html).
 
 ## Så här använder du kod för att formatera ditt ämne
 

@@ -22,4 +22,4 @@ I den här 60 sekunder långa videosjälvstudiekursen får du lära dig hur du g
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/sv/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!

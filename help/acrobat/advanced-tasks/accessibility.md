@@ -45,7 +45,7 @@ Lär dig hur du kontrollerar om PDF är allmänt tillgängligt för funktionshin
 
    ![Tillgänglighetssteg 4](../assets/Accessibility_4.png)
 
-Du kan också använda åtgärden [!UICONTROL Gör tillgänglig] i verktyget [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), som går igenom en grundläggande uppsättning steg för att skapa en tillgänglig PDF.
+Du kan också använda åtgärden [!UICONTROL Gör tillgänglig] i verktyget [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=sv-SE), som går igenom en grundläggande uppsättning steg för att skapa en tillgänglig PDF.
 
 ## Rätta till tillgänglighetsproblem
 

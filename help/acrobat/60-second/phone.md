@@ -22,4 +22,4 @@ I den här 60 sekunder långa videosjälvstudiekursen får du lära dig hur du k
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/?lang=sv&recommended=Acrobat-U-1-2021.microsoft365) som är tillgänglig kostnadsfritt på Experience League!

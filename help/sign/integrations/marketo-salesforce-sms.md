@@ -25,7 +25,7 @@ Lär dig hur du skickar ett textmeddelande, e-postmeddelande eller push-meddelan
 
 1. Installera Marketo Salesforce-synkroniseringen.
 
-   Information och det senaste plugin-programmet för Salesforce Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Information och det senaste plugin-programmet för Salesforce Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=sv-SE)
 
 1. Installera Acrobat Sign för Salesforce.
 

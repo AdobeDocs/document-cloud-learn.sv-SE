@@ -30,4 +30,4 @@ Lär dig hur du skapar PDF-filer utan att behöva lämna dina [!DNL Microsoft Of
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/sv/playlists/acrobat-integrate-microsoft-365) som är tillgänglig kostnadsfritt på Experience League!

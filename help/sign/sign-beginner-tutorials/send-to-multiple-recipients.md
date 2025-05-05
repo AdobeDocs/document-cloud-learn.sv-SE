@@ -22,4 +22,4 @@ Har du fler än en person som måste interagera med dokumentet? Lär dig hur du 
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Komma igång med Acrobat Sign](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!

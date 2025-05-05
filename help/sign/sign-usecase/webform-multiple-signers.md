@@ -19,11 +19,11 @@ Lär dig hur ett [webbformulär](../sign-advanced-users/webform.md) används fö
 
 [!BADGE Användningsfall]
 
-* [Program för praktik med webbformulär för utbildning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Program för praktik med webbformulär för utbildning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=sv-SE)
 Lär dig hur webbformulär används för att förbättra elevernas åtkomst till nödvändiga formulär
-* [Skapa ett praktikprogram för ett utbildningswebbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Skapa ett praktikprogram för ett utbildningswebbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=sv-SE)
 Lär dig skapa ett webbformulär för praktikplatser
-* [Företagsbidrag och företagslån](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Hjälp vid återanställning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Företagsbidrag och företagslån](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=sv-SE)
+* [Hjälp vid återanställning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=sv-SE)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

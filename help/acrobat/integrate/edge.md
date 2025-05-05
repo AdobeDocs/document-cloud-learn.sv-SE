@@ -30,4 +30,4 @@ Lär dig hur du förvandlar webbsidor till PDF i farten med Adobe Acrobat-tillä
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Integrera Acrobat och Microsoft 365](https://experienceleague.adobe.com/sv/playlists/acrobat-integrate-microsoft-365) som är tillgänglig kostnadsfritt på Experience League!

@@ -26,4 +26,4 @@ Lär dig de sju huvudområden som administratörer bör fokusera på för att ko
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-get-started-administrators) som är tillgänglig kostnadsfritt på Experience League!

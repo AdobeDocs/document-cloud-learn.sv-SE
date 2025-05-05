@@ -19,7 +19,7 @@ du förväntas hålla kvar den här koden. Rapportera oacceptabla beteenden till
 
 ## Dokumentation för Contributor-handboken
 
-Se [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Se [Contributor Guide](https://docs.adobe.com/content/help/sv-SE/contributor/contributor-guide/introduction.html).
 
 ## Har du en fråga?
 
@@ -57,4 +57,4 @@ Du kan kontakta befintliga committers och prata om det.
 
 ## Säkerhetsproblem
 
-Säkerhetsproblem bör inte rapporteras i den här ärendespåraren. [skicka i stället ett problem till våra säkerhetsexperter](https://helpx.adobe.com/security/alertus.html)
+Säkerhetsproblem bör inte rapporteras i den här ärendespåraren. [skicka i stället ett problem till våra säkerhetsexperter](https://helpx.adobe.com/se/security/alertus.html)
