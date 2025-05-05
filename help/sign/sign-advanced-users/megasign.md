@@ -29,4 +29,4 @@ Lär dig hur du skickar och samlar in hundratals signaturer (upp till 1 000 mott
 
 >[!TIP]
 >
-Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!
+>Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!

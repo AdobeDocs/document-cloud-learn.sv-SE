@@ -20,7 +20,7 @@ Lär dig hur du konverterar dina PDF-filer till olika filformat, t.ex. [Microsof
 
 >[!TIP]
 >
->Om du vill exportera flera PDF-filer till ett annat format kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
+>Om du vill exportera flera PDF-filer till ett annat format kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
 
 <br> 
 

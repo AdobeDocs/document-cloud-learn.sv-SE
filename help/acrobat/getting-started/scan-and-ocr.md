@@ -20,7 +20,7 @@ Gå vidare genom att konvertera skanningar eller dokumentbilder till sökbara [r
 
 >[!TIP]
 >
->Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
 
 1. Välj **[!UICONTROL Skanning och OCR]** i mitten av [!UICONTROL Verktyg] eller i den högra rutan.
 

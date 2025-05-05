@@ -20,7 +20,7 @@ Lär dig hur du [lägger till ett lösenord till din PDF](https://www.adobe.com/
 
 >[!TIP]
 >
->Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
+>Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
 
 [!BADGE ORGANISATORISK EFFEKT]
 Informationsskydd, riskhantering
@@ -29,4 +29,4 @@ Informationsskydd, riskhantering
 
 >[!TIP]
 >
-Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!

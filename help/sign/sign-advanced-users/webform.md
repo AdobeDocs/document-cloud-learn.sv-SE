@@ -33,4 +33,4 @@ Lär dig hur ett webbformulär används för ett komplext arbetsflöde för lån
 
 >[!TIP]
 >
-Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!
+>Den här videon är en del av [Avancerade aktiviteter för användare](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) och [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) spellistor som är tillgängliga kostnadsfritt på Experience League!

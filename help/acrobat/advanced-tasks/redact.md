@@ -67,8 +67,8 @@ Använd sökrutan för att söka efter ett visst ord eller en viss fras.
 
 >[!TIP]
 >
-Se [Actionen Wizard](../advanced-tasks/action.md) för att snabba på bortredigeringsprocessen.
+>Se [Actionen Wizard](../advanced-tasks/action.md) för att snabba på bortredigeringsprocessen.
 
 >[!TIP]
 >
-Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!

@@ -29,7 +29,7 @@ Med GigaSign kan du skicka, samla in och spåra dokument för signering till tus
 
 [Hämta zip-filen GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8-hämtningslänk (endast vid behov)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Java 1.8-hämtningslänk (endast vid behov)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
 
 [IP-adresser till tillåtelselista (endast vid behov)](https://helpx.adobe.com/se/sign/system-requirements.html#IPs){target="_blank"}
 
