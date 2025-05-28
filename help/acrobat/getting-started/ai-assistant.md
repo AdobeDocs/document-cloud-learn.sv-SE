@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 5c8d2478290c935ae5d13b63b9493472eeda48e8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Upptäck PDF-insikter med AI Assistant
 
-Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant för att snabbt skapa effektfullt innehåll. AI Assistant är en säker konversationsmotor som förbättrar dokumentarbetsflöden och analyserar komplexa dokumentdata. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
+Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant. AI Assistant är en säker konversationsmotor som förbättrar dokumentarbetsflöden och analyserar komplexa dokumentdata. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
 
 ## Användningsfall
 
@@ -39,4 +39,4 @@ Granska mötesutskrifter och hjälp till att skapa en e-postsammanfattning med v
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3445826?enablevpops&quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
