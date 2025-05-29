@@ -3,14 +3,14 @@ title: Skicka påminnelser med Acrobat Sign för Microsoft Dynamics 365 och Mark
 description: Lär dig skicka en e-postpåminnelse när ett avtal förblir osignerat efter en tid
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Lär dig skicka en e-postpåminnelse när ett avtal förblir osignerat efter en 
 
 1. Installera Marketo Microsoft Dynamics Sync.
 
-   Information och det senaste plugin-programmet för Microsoft Dynamics Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=sv-SE)
+   Information och det senaste plugin-programmet för Microsoft Dynamics Sync finns [här.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installera [Acrobat Sign för Microsoft Dynamics](https://appsource.microsoft.com/sv-se/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
