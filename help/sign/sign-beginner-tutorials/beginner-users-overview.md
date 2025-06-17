@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Skickar till en mottagare" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Skickar till en mottagare" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Skicka till en mottagare</strong></a>
@@ -68,7 +68,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Skicka till flera mottagare" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Skicka till flera mottagare" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Skicka till flera mottagare</strong></a>
@@ -80,7 +80,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Konfigurera sändningsalternativ" src="../assets/Sendingoptions.png" />
+      <img alt="Konfigurera sändningsalternativ" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>Konfigurera sändningsalternativ</strong></a>
@@ -90,7 +90,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Lägga till fält i dokument" src="../assets/AddingFields.png" />
+      <img alt="Lägga till fält i dokument" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>Lägga till fält i dokument</strong></a>
@@ -100,7 +100,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Ändra ett dokument efter sändning" src="../assets/Modifying-sending.png" />
+      <img alt="Ändra ett dokument efter sändning" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>Ändra ett dokument efter sändning</strong></a>
@@ -110,7 +110,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Ersätta en signerare" src="../assets/replace-signer.png" />
+      <img alt="Ersätta en signerare" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>Ersätta en signerare</strong></a>
@@ -122,7 +122,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Ange tidsgränser och påminnelser" src="../assets/Reminders.png" />
+        <img alt="Ange tidsgränser och påminnelser" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Ange tidsgränser och påminnelser</strong></a>
@@ -154,7 +154,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Signera ett dokument elektroniskt" src="../assets/Electronically-sign.png" />
+      <img alt="Signera ett dokument elektroniskt" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Signera ett dokument elektroniskt</strong></a>
@@ -164,7 +164,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Fylla i och signera ett dokument" src="../assets/FillandSign.png" />
+      <img alt="Fylla i och signera ett dokument" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Fylla i och signera ett dokument</strong></a>
@@ -174,7 +174,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Hämta en signatur personligen" src="../assets/In-person.png" />
+      <img alt="Hämta en signatur personligen" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Hämta en signatur personligen</strong></a>
@@ -184,7 +184,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Delegera signering till någon annan" src="../assets/Delegatesigning.png" />
+      <img alt="Delegera signering till någon annan" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>Delegera signering till någon annan</strong></a>
@@ -196,7 +196,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Vad är en digital signatur" src="../assets/whatisdigsig.png" />
+      <img alt="Vad är en digital signatur" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Vad är en digital signatur</strong></a>
@@ -206,7 +206,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Signera med en stämpel" src="../assets/Stamp.png" />
+      <img alt="Signera med en stämpel" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signera med en stämpel</strong></a>
@@ -233,7 +233,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Hantera och spåra avtal" src="../assets/Manage.png" />
+      <img alt="Hantera och spåra avtal" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Hantera och spåra avtal</strong></a>
@@ -243,7 +243,7 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Skapa en dokumentmall" src="../assets/Template.png" />
+      <img alt="Skapa en dokumentmall" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
