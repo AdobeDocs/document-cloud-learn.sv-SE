@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Konfigurera signeringsordning" src="../assets/Routing.png">
+      <img alt="Konfigurera signeringsordning" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Konfigurerar signeringsordning</strong></a>
@@ -48,7 +48,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delegera till någon annan" src="../assets/Delegating.png" />
+      <img alt="Delegera till någon annan" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Använda delegeringsrollen</strong></a>
@@ -58,7 +58,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Använda godkännarrollen" src="../assets/Approver.png" />
+      <img alt="Använda godkännarrollen" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Använder godkännarrollen</strong></a>
@@ -90,7 +90,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Ställ in onlinebetalningar" src="../assets/Payments.png" />
+      <img alt="Ställ in onlinebetalningar" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>Ställ in onlinebetalningar</strong></a>
@@ -110,7 +110,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Skapa ett webbformulär" src="../assets/Webform.png" />
+        <img alt="Skapa ett webbformulär" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
@@ -122,7 +122,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign-texttaggar" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Sign-texttaggar" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-texttaggning</strong></a>
@@ -132,7 +132,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Använda texttaggar i [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Använda texttaggar i [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>Använda texttaggar i [!DNL Microsoft Word]</strong></a>
@@ -169,7 +169,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Hantera dokumentmallar" src="../assets/ManageTemplate.png" />
+      <img alt="Hantera dokumentmallar" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>Hantera dokumentmallar</strong></a>
@@ -179,7 +179,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Ändra ett befintligt webbformulär" src="../assets/Modifywebform.png" />
+      <img alt="Ändra ett befintligt webbformulär" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>Ändra ett befintligt webbformulär</strong></a>
@@ -189,7 +189,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Hantera webbformulärdata" src="../assets/Managewebform.png" />
+      <img alt="Hantera webbformulärdata" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Hantera webbformulärdata</strong></a>
