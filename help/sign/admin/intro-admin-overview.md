@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Komma igång för nya administratörer" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Komma igång för nya administratörer" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Komma igång för nya administratörer</strong></a>
@@ -53,7 +53,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Komma igång för administratörer" src="../assets/Up-Running.png" />
+      <img alt="Komma igång för administratörer" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Start och körning för administratörer</strong></a>
@@ -63,7 +63,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Konfigurera delade händelser och varningar" src="../assets/Notifications_1280.png" />
+      <img alt="Konfigurera delade händelser och varningar" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
@@ -73,7 +73,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Lägg till en ny användare" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Lägg till en ny användare" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Lägg till en ny användare</strong></a>
@@ -85,7 +85,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Lägg till en ny kontoadministratör" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Lägg till en ny kontoadministratör" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>Lägg till en ny kontoadministratör</strong></a>
@@ -95,7 +95,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Skapa och hantera grupper" src="../assets/Creating-Groups.png" />
+      <img alt="Skapa och hantera grupper" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Skapa och hantera grupper</strong></a>
@@ -105,7 +105,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Upprätta ett externt arkiv" src="../assets/ExternalArchive.png" />
+      <img alt="Upprätta ett externt arkiv" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Skapa ett externt arkiv</strong></a>
@@ -179,7 +179,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Konfigurera ett arbetsflöde" src="../assets/BuildingWorkflow.png" />
+      <img alt="Konfigurera ett arbetsflöde" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>Konfigurera ett arbetsflöde</strong></a>
@@ -189,7 +189,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Granskningsrapporter" src="../assets/audit-reports-configure.png" />
+      <img alt="Granskningsrapporter" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Granskningsrapporter</strong></a>
@@ -199,7 +199,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Tilldela administratörsroller för produkter och support" src="../assets/admin-roles.jpg" />
+      <img alt="Tilldela administratörsroller för produkter och support" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
@@ -216,7 +216,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Globala inställningar" src="../assets/GlobalSettings_1280.png">
+      <img alt="Globala inställningar" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>Globala inställningar</strong></a>
@@ -226,7 +226,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Delar kontoåtkomst" src="../assets/SharingAccess.png" />
+      <img alt="Delar kontoåtkomst" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>Delar kontoåtkomst</strong></a>
@@ -236,7 +236,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Avancerad kontodelning" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Avancerad kontodelning" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>Avancerad kontodelning</strong></a>
@@ -246,7 +246,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Hämta verktyg i grupp" src="../assets/bulk-download-tool.png" />
+      <img alt="Hämta verktyg i grupp" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>Verktyget Hämta i grupp</strong></a>
@@ -268,7 +268,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Använda bioläkemedelsinställningar" src="../assets/Bio_1280.png" />
+      <img alt="Använda bioläkemedelsinställningar" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Använda bioläkemedelsinställningar</strong></a>
@@ -278,7 +278,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="Konfigurera sekretessadministratör" src="../assets/privacy.png" />
+      <img alt="Konfigurera sekretessadministratör" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>Så här konfigurerar du sekretessadministratörer</strong></a>
