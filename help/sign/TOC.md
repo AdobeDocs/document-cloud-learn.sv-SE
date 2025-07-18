@@ -2,29 +2,29 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/se/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/se/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/se/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 6%
+source-wordcount: '553'
+ht-degree: 10%
 
 ---
 
 
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
-+ [Översikt](overview.md)
++ [Overview](overview.md)
 + Komma igång {#getting-started}
-   + [Översikt](sign-beginner-tutorials/beginner-users-overview.md)
+   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
    + Skicka {#getting-started-sending}
       + [Allmänt om arbetsytan](sign-beginner-tutorials/quick-tour.md)
       + [Komma igång med Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -44,9 +44,9 @@ ht-degree: 6%
       + [Signera med en stämpel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Hantera {#getting-started-managing}
       + [Hantera och spåra avtal](sign-beginner-tutorials/manage-and-track.md)
-      + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=sv-SE)
+      + [Skapa en dokumentmall](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Avancerade uppgifter {#advanced-tasks}
-   + [Översikt](sign-advanced-users/advanced-users-overview.md)
+   + [Overview](sign-advanced-users/advanced-users-overview.md)
    + Skicka {#advanced-tasks-sending}
       + [Konfigurera signeringsordning](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
@@ -54,9 +54,9 @@ ht-degree: 6%
       + [Autentiseringsmetoder i Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Hantera formulärdata](sign-advanced-users/manage-form-data.md)
       + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
-      + [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=sv-SE)
-      + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=sv-SE)
-      + [Acrobat Sign-texttaggning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=sv-SE)
+      + [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Acrobat Sign-texttaggning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Använda texttaggar i  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Hantera {#advanced-tasks-managing}
       + [Rapportering och transaktionsanvändning](sign-advanced-users/creating-a-report.md)
@@ -64,20 +64,21 @@ ht-degree: 6%
       + [Ändra ett befintligt webbformulär](sign-advanced-users/modify-webform.md)
       + [Hantera webbformulärdata](sign-advanced-users/manage-webform-data.md)
 + Administrera {#admin-set-up}
-   + [Översikt](admin/intro-admin-overview.md)
+   + [Overview](admin/intro-admin-overview.md)
    + Komma igång {#getting-started-admin}
       + [Komma igång för nya administratörer](admin/get-started-admin.md)
       + [Fungerar för administratörer](admin/up-and-running-admin.md)
-      + [Konfigurera meddelanden för händelser och varningar](admin/set-up-shared-events-and-alert.md)
+      + [Migrera dokumentmallar](admin/docusign-templates.md)
       + [Lägg till en ny användare](admin/add-users-to-your-account.md)
       + [Lägg till en ny kontoadministratör](admin/add-admin.md)
+      + [Konfigurera meddelanden för händelser och varningar](admin/set-up-shared-events-and-alert.md)
       + [Skapa och hantera grupper](admin/create-and-manage-groups.md)
       + [Upprätta ett externt arkiv](admin/set-up-your-external-archive.md)
       + [Skapa en mall](sign-advanced-users/create-a-template.md)
-      + [Rapporterings- och transaktionsanvändning](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Rapporterings- och transaktionsanvändning](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportalternativ för användare](admin/report-options.md)
       + [Skapa ett webbformulär](sign-advanced-users/webform.md)
-      + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=sv-SE)
+      + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Massutskick](sign-advanced-users/megasign.md)
       + [Skapa ett anpassat arbetsflöde](admin/building-a-custom-workflow.md)
       + [Granskningsrapporter](admin/audit-reports.md)
@@ -91,7 +92,7 @@ ht-degree: 6%
       + [Använd bioläkemedelsinställningar](admin/use-bio-pharma-settings.md)
       + [Konfigurera sekretessadministratörer](admin/privacy.md)
 + Digitalt ID {#digital-id}
-   + [Översikt](digitalid/digitalid-overview.md)
+   + [Overview](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Signera med Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
@@ -103,7 +104,7 @@ ht-degree: 6%
       + [Skaffa ett digitalt ID från Intesi Group (kvalificerat)](digitalid/intesi-qualified.md)
       + [Signera med Intesi Group](digitalid/intesi-sign.md)
 + Integreringar {#integrations}
-   + [Översikt](integrations/integrations-overview.md)
+   + [Overview](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Fyller i och signerar  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Skicka för signering om  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
@@ -120,7 +121,7 @@ ht-degree: 6%
       + [[!DNL Microsoft Dynamics 365] för kundtjänst](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] för fälttjänst](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] för försäljning](integrations/dynamics-sales.md)
-   + Attestera {#notarize}
+   + attestera {#notarize}
       + [Skicka dokument för bestyrkande](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder för  [!DNL Salesforce]](integrations/create-an-agreement-template.md)
@@ -139,12 +140,12 @@ ht-degree: 6%
       + [Skicka aviseringar med Acrobat Sign för [!DNL Microsoft Dynamics] och Marketo](integrations/marketo-dynamics-sms.md)
       + [Skicka påminnelser med Acrobat Sign för [!DNL Microsoft Dynamics 365] och Marketo](integrations/marketo-dynamics-reminder.md)
 + Branscher och avdelningar {#expand}
-   + [Översikt](sign-usecase/expand-inspire-overview.md)
+   + [Overview](sign-usecase/expand-inspire-overview.md)
    + Kompetensbyggaren {#innovation}
       + [Webbinarier](sign-usecase/innovation-series.md)
    + Användningsfall {#recipes}
-      + [Översikt](sign-usecase/recipes.md)
-      + Myndighet {#gov}
+      + [Overview](sign-usecase/recipes.md)
+      + Offentlig myndighet {#gov}
          + [Statlig låneansökan med flera okända undertecknare](sign-usecase/webform-multiple-signers.md)
          + [Företagsbidrag och företagslån](sign-usecase/usecasegovgrants.md)
          + [Distansarbetsavtal](sign-usecase/usecasegovtelework.md)
@@ -152,7 +153,7 @@ ht-degree: 6%
          + [Stöd till återanställning](sign-usecase/usecasegovreemployment.md)
          + [Lönecheckningsskydd](sign-usecase/usecasegovpaycheck.md)
          + [Fjärrorderbegäran](sign-usecase/usecasegovremote.md)
-      + Kommersiell {#com}
+      + Kommersiellt {#com}
          + [Kontrakt och rekvisitionsblanketter](sign-usecase/usecasecomcontracts.md)
          + [Policyavtal](sign-usecase/usecasecompolicy.md)
          + [Distansarbetsavtal](sign-usecase/usecasecomtelework.md)
@@ -163,15 +164,15 @@ ht-degree: 6%
    + Visa användningsfall {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + Framkalla {#develop}
-   + [Översikt](develop/develop-overview.md)
-   + API:er och webhookar {#custom}
+   + [Overview](develop/develop-overview.md)
+   + API:er och webbhookar {#custom}
       + [Samla dokument med stora volymer med GigaSign](develop/gigasign.md)
       + [Skapa inbäddade e-signaturer och dokumentupplevelser](develop/embeddedesignature.md)
       + [Så här konfigurerar du webhooks](develop/webhooks.md)
-+ Distribuera {#deploy}
-   + [Översikt](deploy-overview.md)
-+ Mobil {#mobile}
-   + [Översikt](mobile/mobile-overview.md)
-   + Självstudiekurser för mobila enheter {#mobile-tutorials}
++ Driftsätta {#deploy}
+   + [Overview](deploy-overview.md)
++ Mobilt {#mobile}
+   + [Overview](mobile/mobile-overview.md)
+   + Mobila självstudiekurser {#mobile-tutorials}
       + [Signera dokument var som helst](mobile/sign-mobile.md)
       + [Liquid Mode i Acrobat Sign](mobile/liquidmode.md)

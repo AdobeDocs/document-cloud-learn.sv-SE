@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 >[!BEGINTABS]
 
+>[!TAB Migrera dokumentmallar]
+
+Lär dig hur du smidigt [migrerar dokumentmallar](docusign-templates.md) och arbetsflöden i tre enkla steg.
+
 >[!TAB Lägg till en ny användare]
 
 Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-account.md).
@@ -30,10 +34,6 @@ Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-accou
 >[!TAB Så här konfigurerar du sekretessadministratörer]
 
 Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
-
->[!TAB Verktyget Hämta i grupp]
-
-Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för att snabbt hämta alla dina signerade avtal.
 
 >[!ENDTABS]
 
@@ -62,13 +62,13 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="Konfigurera delade händelser och varningar" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="Migrera dokumentmallar" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
+    <a href="docusign-templates.md"><strong>Migrera dokumentmallar</strong></a>
     </div>
-    <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
+    <em>Lär dig hur du migrerar dokumentmallar och arbetsflöden smidigt</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="Lägg till en ny kontoadministratör" src="../assets/add-admin.png" />
     </a>
@@ -94,25 +94,37 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Skapa och hantera grupper" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Skapa och hantera grupper</strong></a>
-    </div>
-    <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="Upprätta ett externt arkiv" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>Skapa ett externt arkiv</strong></a>
-    </div>
-    <em>Skapa ett externt arkiv för säkerhetskopior av avtal som har signerats</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Konfigurera delade händelser och varningar" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
+      </div>
+      <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="Skapa och hantera grupper" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>Skapa och hantera grupper</strong></a>
+      </div>
+      <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="Upprätta ett externt arkiv" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>Skapa ett externt arkiv</strong></a>
+      </div>
+      <em>Skapa ett externt arkiv för säkerhetskopior av avtal som har signerats</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Skapa en dokumentmall" src="../assets/create-template.png" />
@@ -123,8 +135,6 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Skapa en återanvändbar dokumentmall för snabbhet och konsekvens</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Rapportering och transaktionsanvändning" src="../assets/reporting.png" />
@@ -155,7 +165,9 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Skapa ett dokument som kan signeras elektroniskt direkt på din webbplats</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Ändra ett befintligt webbformulär" src="../assets/modify-web-form.png" />
     </a>
@@ -165,8 +177,6 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Lär dig hur du inaktiverar, redigerar och återaktiverar ett befintligt webbformulär</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Massutskick" src="../assets/send-in-bulk.png" />
@@ -197,17 +207,34 @@ Läs om hur du använder verktyget [Hämta i grupp](bulk-download-tool.md) för 
     <em>Lär dig hur du får tillgång till, använder och konfigurerar granskningsrapporter</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="Tilldela administratörsroller för produkter och support" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
-    </div>
-    <em>Lär dig tilldela en Acrobat Sign-användarroll som produktadministratör och supportadministratör i Admin Console</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Tilldela administratörsroller för produkter och support" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
+      </div>
+      <em>Lär dig tilldela en Acrobat Sign-användarroll som produktadministratör och supportadministratör i Admin Console</em>
+      <br>
+    </td>
+    <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## Avancerade uppgifter
