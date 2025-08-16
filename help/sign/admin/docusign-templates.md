@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du smidigt migrerar dokumentmallar och arbetsflöden till Acrobat Sign i tre enkla steg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465278?quality=12&learn=on&hidetitle=true&captions=swe)
