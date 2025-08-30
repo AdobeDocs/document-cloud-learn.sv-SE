@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ Läs allt om hur du skapar hjälpmedelsanpassade PDF-filer. Tutorials i serien s
 
 >[!BEGINTABS]
 
->[!TAB Hur och varför tillgängliga PDF-filer skapas]
+>[!TAB Vad och varför är tillgängliga PDF-filer]
 
-Läs [hur och varför det är viktigt att göra PDF-filer tillgängliga](how-why-accessible-pdf.md).
+Läs [vad en tillgänglig PDF-fil är och varför den är viktig](what-why-accessible-pdf.md).
 
 >[!TAB Konfigurera din arbetsyta]
 
@@ -43,13 +44,13 @@ Läs om hur du gör [formulär tillgängliga](create-accessible-forms.md) i Acro
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="Hur och varför tillgängliga PDF-filer" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="Vad och varför tillgängliga PDF-filer" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>Hur och varför tillgängliga PDF-filer skapas</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>Vad och varför är tillgängliga PDF-filer</strong></a>
     </div>
-    <em>Lär dig hur och varför det är viktigt att göra PDF-filer tillgängliga.</em>
+    <em>Ta reda på vad en tillgänglig PDF-fil är och varför den är viktig</em>
     <br>
   </td>
   <td>

@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
    + [Produktivitet i farten](getting-started/productivity.md)
-   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
+   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
@@ -68,7 +68,7 @@ ht-degree: 5%
       + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
 + Hjälpmedelsserie {#accessibility-tutorials}
    + [Overview](accessibility-series/accessibility-overview.md)
-   + [Hur och varför tillgängliga PDF-filer](accessibility-series/how-why-accessible-pdf.md)
+   + [Vad och varför tillgängliga PDF-filer](accessibility-series/what-why-accessible-pdf.md)
    + [Konfigurera din arbetsyta](accessibility-series/set-up-workspace.md)
    + [Skapa en tillgänglig PDF från Word](accessibility-series/create-accessible-from-word.md)
    + [Skapa tillgängliga formulär](accessibility-series/create-accessible-forms.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobilt {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=sv-SE)
+   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna till PDF](mobile/scan-mobile-app.md)
