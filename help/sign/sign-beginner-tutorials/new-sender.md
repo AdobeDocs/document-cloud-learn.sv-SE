@@ -30,4 +30,4 @@ I den här självstudiekursen beskrivs följande ämnen:
 * Hantera och spåra avtal
 * Få tillgång till support och resurser
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454387?quality=12&learn=on&hidetitle=true&captions=swe)
