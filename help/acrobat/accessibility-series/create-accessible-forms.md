@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Läs mer om hur du gör formulär tillgängliga i Acrobat. Om du följer de här sju stegen kan det snabba upp bearbetningen så att PDF med interaktiva formulärfält blir tillgängliga.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471666?quality=12&learn=on&hidetitle=true&captions=swe)

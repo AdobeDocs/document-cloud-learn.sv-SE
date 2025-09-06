@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger alla hjälpmedelsverktyg nära till hands för att effektivisera tillgänglighetsfunktioner i PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471620?quality=12&learn=on&hidetitle=true&captions=swe)
