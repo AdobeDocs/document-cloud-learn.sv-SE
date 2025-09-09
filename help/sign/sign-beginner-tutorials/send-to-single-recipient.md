@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Att skicka ett dokument för en enskild signatur är den vanligaste åtgärden i Acrobat Sign. I den här självstudiekursen lär du dig det enklaste sättet att förbereda och skicka ett dokument för signering.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425275?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >
