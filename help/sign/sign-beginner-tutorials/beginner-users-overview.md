@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta
 
 >[!TAB Skicka ett dokument till en signerare]
 
-Sätt igång och lär dig hur enkelt det är [att skicka ut ett dokument för signering](send-to-single-recipient.md)
+Sätt igång och lär dig hur enkelt det är att [skicka ut ett dokument för signering](send-to-single-recipient.md).
 
 >[!TAB Kom igång med Acrobat Sign]
 
