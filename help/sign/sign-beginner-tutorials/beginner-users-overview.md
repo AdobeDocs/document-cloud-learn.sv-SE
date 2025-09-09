@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta
 
 >[!BEGINTABS]
 
+>[!TAB Skicka ett dokument till en signerare]
+
+Sätt igång och lär dig hur enkelt det är [att skicka ut ett dokument för signering](send-to-single-recipient.md)
+
 >[!TAB Kom igång med Acrobat Sign]
 
 Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sender.md) är ett bra ställe att börja på.
-
->[!TAB Ange tidsgränser och påminnelser]
-
-Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgränser](set-deadlines-reminders.md) för att få dina dokument signerade snabbt.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Kom igång med Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Kom igång med Acrobat Sign</strong></a>
+    </div>
+    Den här självstudiekursen är en utmärkt utgångspunkt för nya användare i Acrobat Sign
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Allmänt om arbetsytan" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Lär dig hur du skickar vanliga e-postmeddelanden om [påminnelser och tidsgrän
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Kom igång med Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Kom igång med Acrobat Sign</strong></a>
-    </div>
-    Den här självstudiekursen är en utmärkt utgångspunkt för nya användare i Acrobat Sign
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Skickar till en mottagare" src="../assets/send-single-recipient.png" />
+      <img alt="Skicka ett dokument till en signerare" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Skicka till en mottagare</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Skicka ett dokument till en signerare</strong></a>
     </div>
     Sätt igång och lär dig hur enkelt det är att skicka ett dokument för signering
     <br>
