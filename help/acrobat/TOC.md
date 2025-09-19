@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
+source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 5%
    + [Allmänt om arbetsytan](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
-   + [Produktivitet i farten](getting-started/productivity.md)
-   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
+   + [Vad är Acrobat Studio?](getting-started/acrobat-studio.md)
+   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
@@ -42,6 +42,7 @@ ht-degree: 5%
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
    + [Hämta signaturer](getting-started/signatures.md)
    + [Spåra dina dokument](getting-started/track.md)
+   + [Produktivitet i farten](getting-started/productivity.md)
    + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
@@ -138,5 +139,5 @@ ht-degree: 5%
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobilt {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=sv-SE)
+   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna till PDF](mobile/scan-mobile-app.md)
