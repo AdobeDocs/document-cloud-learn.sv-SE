@@ -140,7 +140,7 @@ Läs om hur du [kommenterar ett delat PDF](comment-on-pdf-files.md) med bara en 
                       <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
                  <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Vad är Acrobat Studio?" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Vad är Acrobat Studio?" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Vad är Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,11 +149,11 @@ Läs om hur du [kommenterar ett delat PDF](comment-on-pdf-files.md) med bara en 
                      <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="Vad är Acrobat Studio?">Vad är Acrobat Studio?</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="Vad är Acrobat Studio?">Vad är Acrobat Studio?</a>
                     </p>
                     <p class="is-size-6">Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektivisera komplexa verk med Acrobat Studio</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
