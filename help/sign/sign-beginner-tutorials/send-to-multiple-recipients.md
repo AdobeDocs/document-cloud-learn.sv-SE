@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Har du fler än en person som måste signera dokumentet? Lär dig hur du skickar ett dokument för e-signatur till mer än en person i exakt den ordning du vill.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425286?quality=12&learn=on&hidetitle=true&captions=swe)
 
 >[!TIP]
 >
