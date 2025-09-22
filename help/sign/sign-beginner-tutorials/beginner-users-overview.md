@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta
 ## Nyheter
 
 >[!BEGINTABS]
+
+>[!TAB Skicka till flera signerare]
+
+Lär dig hur du skickar ett dokument för e-signering till [fler än en person](send-to-multiple-recipients.md) i exakt den ordning du vill.
 
 >[!TAB Skicka ett dokument till en signerare]
 
@@ -68,10 +72,10 @@ Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sende
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Skicka till flera mottagare" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Skicka till flera signerare" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Skicka till flera mottagare</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Skicka till flera signerare</strong></a>
     </div>
     Skicka ett dokument för e-signering till mer än en person i exakt den ordning du vill
     <br>
