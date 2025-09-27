@@ -18,4 +18,4 @@ Förvandla samlingar av filer och webbplatser till delbara, samtalsnav med hjäl
 
 PDF Spaces är tillgängliga för användare som köper Acrobat Studio- eller AI Assistant-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475136?quality=12&learn=on&hidetitle=true&captions=swe)
