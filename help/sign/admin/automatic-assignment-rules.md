@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Lär dig hur du konfigurerar regler för automatisk tilldelning som ger användare åtkomst till Acrobat Sign i [Admin Console](https://adminconsole.adobe.com/), vilket effektiviserar etablering och minskar antalet manuella administrationsuppgifter. Användare kan bjuda in andra användare till Acrobat Sign via URL:en för produktåtkomst som genereras från Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475288?quality=12&learn=on&hidetitle=true&captions=swe)
