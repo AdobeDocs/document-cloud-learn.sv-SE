@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 
 >[!BEGINTABS]
 
+>[!TAB Aktivera regler för automatisk användartilldelning]
+
+Lär dig hur du konfigurerar [regler för automatisk tilldelning](automatic-assignment-rules.md) så att användare får åtkomst till Acrobat Sign i Admin Console.
+
 >[!TAB Migrera dokumentmallar]
 
 Lär dig hur du smidigt [migrerar dokumentmallar](docusign-templates.md) och arbetsflöden i tre enkla steg.
@@ -30,10 +34,6 @@ Lär dig hur du smidigt [migrerar dokumentmallar](docusign-templates.md) och arb
 >[!TAB Lägg till en ny användare]
 
 Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-account.md).
-
->[!TAB Så här konfigurerar du sekretessadministratörer]
-
-Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="Aktivera regler för automatisk användartilldelning" src="../assets/add-admin.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>Aktivera regler för automatisk användartilldelning</strong></a>
+    </div>
+    <em>Lär dig ställa in regler för automatisk tilldelning som ger användare åtkomst till Acrobat Sign i Admin Console</em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="Lägg till en ny kontoadministratör" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
     <em>Lär dig hur du skapar en ny användare eller befordrar en befintlig användare till Acrobat Sign-administratörsrollen</em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="Konfigurera delade händelser och varningar" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Tilldela administratörsroller för produkter och support" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
+      <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
       </div>
-      <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
+      <em>Lär dig tilldela en Acrobat Sign-användarroll som produktadministratör och supportadministratör i Admin Console</em>
       <br>
     </td>
     <td>
@@ -113,7 +123,9 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
       <em>Skapa grupper, lägg till användare i grupper och redigera gruppinställningar</em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="Upprätta ett externt arkiv" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
       <em>Skapa ett externt arkiv för säkerhetskopior av avtal som har signerats</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Skapa en dokumentmall" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
     <em>Lär dig ställa in rapportalternativ för användare</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Skapa ett webbformulär" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
     <em>Skapa ett dokument som kan signeras elektroniskt direkt på din webbplats</em>
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Ändra ett befintligt webbformulär" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
     <em>Automatisera arbetsflöden för dokument för att snabbt få elektroniska signaturer och data</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="Granskningsrapporter" src="../assets/audit-report.png" />
     </a>
@@ -206,22 +218,15 @@ Lär dig konfigurera och använda [sekretessadministratörer](privacy.md).
     </div>
     <em>Lär dig hur du får tillgång till, använder och konfigurerar granskningsrapporter</em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="Tilldela administratörsroller för produkter och support" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>Tilldela administratörsroller för produkter och support</strong></a>
-      </div>
-      <em>Lär dig tilldela en Acrobat Sign-användarroll som produktadministratör och supportadministratör i Admin Console</em>
-      <br>
     </td>
     <td>
-      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Konfigurera delade händelser och varningar" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Konfigurera meddelanden för händelser och varningar</strong></a>
+      </div>
+      <em>Konfigurera aviseringar för händelser och aviseringar för ditt konto</em>
       <br>
     </td>
     <td>
