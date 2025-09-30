@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
+source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 1%
@@ -85,7 +85,7 @@ Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-accou
 <tr>
   <td>
     <a href="automatic-assignment-rules.md">
-      <img alt="Aktivera regler för automatisk användartilldelning" src="../assets/add-admin.png" />
+      <img alt="Aktivera regler för automatisk användartilldelning" src="../assets/automatic-assignment.png" />
     </a>
     <div>
     <a href="automatic-assignment-rules.md"><strong>Aktivera regler för automatisk användartilldelning</strong></a>
