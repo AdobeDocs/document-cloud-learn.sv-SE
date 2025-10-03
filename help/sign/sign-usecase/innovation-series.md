@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign Skill Builders är 30-minuterssessioner som är utformade för att e-signaturer ska fungera - utan att du behöver lägga till något extra. Varje månad markeras ett nytt ämne.
 
-Kolla in alla webbseminarier på begäran [här](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
+Kolla in alla webbseminarier på begäran [här](https://experienceleague.adobe.com/sv/docs/events/acrobat-sign-webinars/overview).
