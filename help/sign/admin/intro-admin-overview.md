@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -137,10 +137,10 @@ Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-accou
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Skapa en dokumentmall" src="../assets/create-template.png" />
+      <img alt="Skapa en återanvändbar mall" src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en mall som kan återanvändas</strong></a>
     </div>
     <em>Skapa en återanvändbar dokumentmall för snabbhet och konsekvens</em>
     <br>

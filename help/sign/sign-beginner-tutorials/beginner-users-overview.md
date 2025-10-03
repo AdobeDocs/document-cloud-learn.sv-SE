@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 2%
@@ -139,10 +139,15 @@ Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sende
       <br>
     </td> 
   <td>
-      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="Skapa en återanvändbar mall" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en mall som kan återanvändas</strong></a>
+    </div>
+    Skapa en återanvändbar dokumentmall för att göra organisationen snabbare och mer konsekvent
+    <br>
+  </td>
     <td>
       <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
@@ -250,13 +255,8 @@ Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sende
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Skapa en dokumentmall" src="../assets/create-template.png" />
-    </a>
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Skapa en dokumentmall</strong></a>
-    </div>
-    Skapa en återanvändbar dokumentmall för att göra organisationen snabbare och mer konsekvent
     <br>
   </td>
   <td>

@@ -6,11 +6,10 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
+source-git-commit: fc99c38ffd46d916b185ede7a3a442c3a0083e00
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -41,14 +40,10 @@ Lär dig hur du kan förändra din organisations e-signeringsupplevelser genom a
     <em>Utforska hur olika organisationer använder Acrobat Sign med dessa verkliga användningsfall</em>
     <br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="Visa användningsfall" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>Visa användningsfall</strong></a>
-    </div>
-    <em>Se livesessioner eller inspelade sessioner som presenterar nya användningsfall och trender för Acrobat Sign</em>
     <br>
   </td>
   <td>
