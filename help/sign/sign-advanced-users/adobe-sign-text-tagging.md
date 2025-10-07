@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ Lär dig skapa Acrobat Sign-formulärfält med texttaggar. Texttaggar kan lägga
 
 ## Komma igång
 
-Texttaggar är unikt formaterade textdelar som placeras var som helst i ett dokument och som är
-känns igen automatiskt som fält när de överförs till Acrobat Sign.
+Texttaggar är textstycken som har ett unikt format och som placeras var som helst i ett dokument och som automatiskt identifieras som fält när de överförs till Acrobat Sign.
 
-    ![Syntax för texttagg](../assets/syntax.png)
+![Syntax för texttagg](../assets/syntax.png)
 
-Texttaggar kan läggas till direkt i redigeringsverktyg som Microsoft Word, Adobe InDesign eller
-du har en PDF - Acrobat. Texttaggar gör det betydligt enklare att förbereda
-dokument som används i Acrobat Sign.
+Texttaggar kan läggas till direkt i redigeringsverktyg som Microsoft Word, Adobe InDesign eller om du har en PDF - Acrobat. Texttaggar gör det betydligt enklare att skapa dokument som används i Acrobat Sign.
 
-## Lägga till taggar i Microsoft Word
+### Lägga till taggar i Microsoft Word
 
 Om du vill lägga till texttaggar i ett Microsoft Word-dokument kan du titta på den här [videosjälvstudiekursen](text-tagging-word.md).
 
-## Lägga till taggar i Acrobat
+### Lägga till taggar i Acrobat
 
 Adobe Acrobat har en robust redigeringsmiljö för att dra och släppa formulär. Genom att använda texttaggar i Acrobat kan du utnyttja ytterligare funktioner som finns i Acrobat Sign.
 
@@ -69,7 +66,7 @@ Adobe Acrobat har en robust redigeringsmiljö för att dra och släppa formulär
 
 1. Ladda upp filen i Acrobat Sign och skapa en återanvändbar mall enligt beskrivningen i nästa avsnitt.
 
-## Skapa en återanvändbar mall
+### Skapa en återanvändbar mall
 
 När du har skapat ett taggat dokument kan du konfigurera det som en återanvändbar mall, vilket gör att ingen behöver lägga till fält i dokumenten.
 
