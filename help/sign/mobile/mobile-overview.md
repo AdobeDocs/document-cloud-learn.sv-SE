@@ -125,7 +125,7 @@ Skicka dokument för signering, spåra e-signeringsförloppet och få uppdaterin
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1#_blank" title="Hämta Acrobat Sign-mobilappen för Android" target="_self" rel="referrer">
+                    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank" title="Hämta Acrobat Sign-mobilappen för Android" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/mobile/media_161540190f21bf9bac11a88422b04d229fd1dd02b.png?width=400&format=webply&optimize=medium" alt="Hämta Acrobat Sign-mobilappen för Android"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -134,11 +134,11 @@ Skicka dokument för signering, spåra e-signeringsförloppet och få uppdaterin
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1#_blank" target="_self" rel="referrer" title="Hämta Acrobat Sign-mobilappen för Android">Hämta Acrobat Sign-mobilappen för Android</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank" target="_self" rel="referrer" title="Hämta Acrobat Sign-mobilappen för Android">Hämta Acrobat Sign-mobilappen för Android</a>
                     </p>
                     <p class="is-size-6">Hämta Acrobat Sign-mobilappen från Google Play</p>
                 </div>
-                <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1#_blank" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1#_blank" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Hämta</span>
                 </a>
             </div>

@@ -15,6 +15,6 @@ ht-degree: 5%
 
 # Signera dokument var som helst
 
-Läs om hur du signerar dokument med Acrobat Sign-mobilappen för [iOS](https://apps.apple.com/se/app/adobe-sign/id481082197) eller [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=sv).
+Läs om hur du signerar dokument med Acrobat Sign-mobilappen för [iOS](https://apps.apple.com/se/app/adobe-sign/id481082197) eller [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=sv).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439037?quality=12&learn=on&hidetitle=true&captions=swe)
