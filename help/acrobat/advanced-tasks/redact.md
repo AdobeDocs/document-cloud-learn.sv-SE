@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Kunddataskydd, riskhantering
 
 1. Välj **[!UICONTROL Sök efter text och redigera bort]** om du vill söka efter ett visst ord eller en viss fras, eller sök efter ett mönster om du vill hitta vissa typer av information. Ange din sökning och välj Sök efter och ta bort text.
 
-![Redigera steg 4](../assets/Redact_4.png)
+   ![Redigera steg 4](../assets/Redact_4.png)
 
 1. I dialogrutan med sökresultat markerar du rutorna bredvid objekten och väljer **[!UICONTROL Markera markerade resultat för bortredigering]**.
 
