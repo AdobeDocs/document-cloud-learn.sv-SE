@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
    ![Minska steg 1](../assets/Reduce_1.png)
 
-1. Markera **[!UICONTROL Enskilda filer]** eller **[!UICONTROL Flera filer]** på panelen **[!UICONTROL Komprimera en PDF]**.
+1. Markera **[!UICONTROL En fil]** eller **[!UICONTROL Flera filer]** på panelen **[!UICONTROL Komprimera en PDF]**.
 
    ![Minska steg 2](../assets/Reduce_2.png)
 
@@ -65,21 +65,19 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
    ![Optimera steg 1](../assets/Optimize_1.png)
 
-   Som standard är **Standard** valt på menyn **Inställningar**. Om du ändrar några inställningar i dialogrutan PDF-optimering växlar menyn **Inställningar** automatiskt till **Anpassad**.
-
 1. I listrutan **Gör kompatibel med** väljer du **Behåll befintlig** om du vill behålla den nuvarande PDF-versionen eller väljer en Acrobat-version. Markera kryssrutan bredvid en panel (t.ex. Bilder, Teckensnitt, Genomskinlighet) och välj alternativ på panelen. Välj sedan **[!UICONTROL OK]** och spara filen.
 
    ![Optimera steg 2](../assets/Optimize_2.png)
 
-   Om du vill förhindra att alla alternativ på en panel körs under optimeringen, avmarkerar du kryssrutan för den panelen.
+   Som standard är **Standard** valt på menyn **Inställningar**. Om du ändrar några inställningar i dialogrutan PDF-optimering växlar menyn **Inställningar** automatiskt till **Anpassad**. Om du vill förhindra att alla alternativ på en panel körs under optimeringen, avmarkerar du kryssrutan för den panelen.
 
-1. (Valfritt) Om du vill spara de anpassade inställningarna väljer du **[!UICONTROL Spara]** och ger inställningarna ett namn. Om du vill ta bort en sparad inställning väljer du den i menyn **Inställningar** och väljer **[!UICONTROL Ta bort]**.
+1. (Valfritt) Om du vill spara de anpassade inställningarna väljer du **[!UICONTROL Spara]** och ger inställningarna ett namn. Om du vill ta bort en sparad inställning väljer du den i listrutan **Inställningar** och väljer **[!UICONTROL Ta bort]**.
 
    ![Optimera steg 3](../assets/Optimize_3.png)
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
+>Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
 
 <table style="table-layout:fixed">
   <td>
