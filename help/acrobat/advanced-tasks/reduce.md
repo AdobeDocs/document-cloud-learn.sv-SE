@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
    ![Minska steg 1](../assets/Reduce_1.png)
 
-1. Markera **[!UICONTROL Enskilda filer]** eller **[!UICONTROL Flera filer]** på panelen **[!UICONTROL Komprimera en PDF]** och välj **[!UICONTROL Spara]**.
-
-   Filen minskas till minsta möjliga storlek men dokumentets kvalitet behålls.
+1. Markera **[!UICONTROL Enskilda filer]** eller **[!UICONTROL Flera filer]** på panelen **[!UICONTROL Komprimera en PDF]**.
 
    ![Minska steg 2](../assets/Reduce_2.png)
 
 1. Välj **[!UICONTROL Spara]**.
 
    ![Minska steg 3](../assets/Reduce_3.png)
+
+   Filen minskas till minsta möjliga storlek men dokumentets kvalitet behålls.
 
 
 ## Så här komprimerar du en PDF i Acrobat på webben
@@ -43,7 +43,7 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
    ![Minska steg 4](../assets/Reduce_4.png)
 
-1. Välj **[!UICONTROL Välj filer]**, markera dina filer och välj [!UICONTROL Öppna].
+1. Välj **[!UICONTROL Välj filer]**, markera dina filer och välj **[!UICONTROL Öppna]**.
 
    ![Minska steg 5](../assets/Reduce_5.png)
 
@@ -79,7 +79,7 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
+>Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
 
 <table style="table-layout:fixed">
   <td>
