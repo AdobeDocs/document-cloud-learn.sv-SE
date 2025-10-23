@@ -77,4 +77,4 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
+>Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
