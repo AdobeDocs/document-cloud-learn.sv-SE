@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
+source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -77,33 +77,4 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
-
-<table style="table-layout:fixed">
-  <td>
-    <a href="reduce.md">
-      <img alt="Komprimera och optimera en PDF" src="../assets/reduce.png" />
-    </a>
-    <div>
-    <a href="reduce.md"><strong>Komprimera och optimera en PDF</strong></a>
-    </div>
-    <em>Minska antalet stora filer och optimera PDF utan att kompromissa med kvaliteten för delning, publicering eller arkivering</em>
-    <br>
-  </td>
-  <td>
-        <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-      </td>
-    <td>
-        <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-</tr>
-</table>
+>Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
