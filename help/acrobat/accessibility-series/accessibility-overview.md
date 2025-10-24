@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Läs allt om hur du skapar hjälpmedelsanpassade PDF-filer. Tutorials i serien s
 
 >[!BEGINTABS]
 
->[!TAB Vad och varför är tillgängliga PDF-filer]
+>[!TAB Skannade dokument]
 
-Läs [vad en tillgänglig PDF-fil är och varför den är viktig](what-why-accessible-pdf.md).
+Lär dig hur du gör ett [skannat dokument](scanned-documents.md) tillgängligt.
 
 >[!TAB Konfigurera din arbetsyta]
 
@@ -74,14 +74,41 @@ Läs om hur du gör [formulär tillgängliga](create-accessible-forms.md) i Acro
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Skannade dokument" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Skannade dokument</strong></a>
+    </div>
+    <em>Lär dig hur du gör skannade dokument tillgängliga i Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Skapa tillgängliga formulär" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Skapa tillgängliga formulär</strong></a>
     </div>
-    <em>Lär dig hur du gör formulär tillgängliga i Acrobat</em>
+    <em>Lär dig hur du gör formulär tillgängliga i Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
