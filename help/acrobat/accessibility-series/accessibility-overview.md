@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
+source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Läs om hur du gör [formulär tillgängliga](create-accessible-forms.md) i Acro
     <div>
     <a href="set-up-workspace.md"><strong>Konfigurera din arbetsyta</strong></a>
     </div>
-    <em>Lär dig hur du lägger alla hjälpmedelsverktyg nära till hands för att effektivisera tillgänglighetsfunktioner i PDF</em>
+    <em>Lär dig att ha alla hjälpmedelsverktyg nära till hands</em>
     <br>
   </td>
   <td>
