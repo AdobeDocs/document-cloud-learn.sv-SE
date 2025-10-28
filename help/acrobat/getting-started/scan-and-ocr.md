@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Papper till PDF
 
-Lär dig hur du skannar (eller tar en bild) av ett pappersdokument och förvandlar det till en smart, sökbar [redigerbar PDF-fil](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Genom att konvertera papper till PDF blir det lättare att snabbt hitta information och göra den tillgänglig för personer med funktionsnedsättning. Dessutom kan du enkelt dela och samarbeta med andra elektroniskt genom att konvertera papper till PDF.
+Lär dig hur du skannar (eller tar en bild) av ett pappersdokument och förvandlar det till en sökbar och [redigerbar PDF-fil](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Genom att konvertera papper till PDF kan du snabbt hitta information och göra den tillgänglig för personer med funktionsnedsättning.
 
 ## Så här gör du om papper till en PDF i Acrobat på en dator
 
@@ -50,7 +50,7 @@ Filen är nu en sökbar, redigerbar PDF-fil.
 
    ![Skanna steg 5](../assets/Scan_5.png)
 
-1. Välj **[!UICONTROL Välj filer]**, markera filen och välj **[!UICONTROL Öppna]**.
+1. Välj **[!UICONTROL Välj filer]**, välj din fil och välj **[!UICONTROL Öppna]**.
 
    ![Skanna steg 6](../assets/Scan_6.png)
 
@@ -75,7 +75,7 @@ Filen är nu en sökbar, redigerbar PDF-fil.
 
 >[!TIP]
 >
->Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md) i Acrobat Pro på datorn.
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md) i Acrobat Pro på datorn.
 
 <table style="table-layout:fixed">
 <tr>
