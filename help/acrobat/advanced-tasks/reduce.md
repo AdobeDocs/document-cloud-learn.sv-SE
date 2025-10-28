@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
    Filen minskas till minsta möjliga storlek men dokumentets kvalitet behålls.
 
 
-## Så här komprimerar du en PDF i Acrobat på webben
+## Så här komprimerar du en PDF på Acrobat-webben
 
 1. Logga in på [acrobat.adobe.com](https://acrobat.adobe.com/se/sv) i en webbläsare.
 
@@ -77,4 +77,4 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
+>Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md) i Acrobat Pro på datorn.
