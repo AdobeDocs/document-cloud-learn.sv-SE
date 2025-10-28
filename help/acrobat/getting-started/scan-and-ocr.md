@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -75,34 +75,4 @@ Filen är nu en sökbar, redigerbar PDF-fil.
 
 >[!TIP]
 >
->Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md) i Acrobat Pro på datorn.
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="Papper till PDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Papper till PDF</strong></a>
-    </div>
-    <em>Lär dig hur du förvandlar ett pappersdokument till en smart, sökbar och redigerbar filfunktion i PDF</em>
-    <br>
-  </td>
-  <td>
-      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md) i Acrobat Pro på datorn.
