@@ -75,4 +75,4 @@ Filen är nu en sökbar, redigerbar PDF-fil.
 
 >[!TIP]
 >
->Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md) i Acrobat Pro på datorn.
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md) i Acrobat Pro på datorn.
