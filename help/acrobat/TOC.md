@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: d8e4e5b737bcc745c00cad43670f1edde15ad49e
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 4%
@@ -24,12 +24,13 @@ ht-degree: 4%
    + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
    + [Öka teamets effektivitet med PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [Vad är Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
+   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
    + [Ordna sidor](getting-started/organize.md)
    + [Designa en ny sida](getting-started/add-custom-page.md)
+   + [Papper till PDF](getting-started/scan-and-ocr.md)
    + [Redigera text i en PDF](getting-started/edit-pdf.md)
    + [Redigera grafik i en PDF](getting-started/edit-graphics.md)
    + [Stilisera denna PDF](getting-started/stylize-this-pdf.md)
@@ -39,7 +40,6 @@ ht-degree: 4%
    + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
    + [Skapa ifyllningsbara formulär](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Papper till PDF](getting-started/scan-and-ocr.md)
    + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
    + [Hämta signaturer](getting-started/signatures.md)
    + [Spåra dina dokument](getting-started/track.md)
@@ -77,11 +77,11 @@ ht-degree: 4%
       + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
 + AI-driven {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Stilisera den här PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [Stilisera den här PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60 sekunder lång Acrobat {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [Redigera PDF med Acrobat på webben](60-second/edit.md)
@@ -148,5 +148,5 @@ ht-degree: 4%
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobilt {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=sv-SE)
+   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna till PDF](mobile/scan-mobile-app.md)

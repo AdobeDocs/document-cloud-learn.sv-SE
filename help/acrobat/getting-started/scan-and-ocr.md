@@ -7,16 +7,17 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # Papper till PDF
 
-Lär dig hur du skannar (eller tar en bild) av ett pappersdokument och förvandlar det till en sökbar och [redigerbar PDF-fil](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Genom att konvertera papper till PDF kan du snabbt hitta information och göra den tillgänglig för personer med funktionsnedsättning.
+Lär dig hur du skannar (eller tar en bild) av ett pappersdokument och förvandlar det till en sökbar och [redigerbar PDF-fil](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Genom att konvertera papper till PDF kan du snabbt hitta information och göra den tillgänglig för personer med funktionsnedsättning. I den här självstudiekursen visas [den nya Acrobat-upplevelsen](new-workspace.md).
+
 
 ## Så här gör du om papper till en PDF i Acrobat på en dator
 
@@ -75,4 +76,4 @@ Filen är nu en sökbar, redigerbar PDF-fil.
 
 >[!TIP]
 >
->Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md) i Acrobat Pro på datorn.
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md) i Acrobat Pro på datorn.

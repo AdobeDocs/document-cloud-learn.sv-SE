@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Redigera text i en PDF
 
-Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. Genom att redigera text direkt i Acrobat kan du uppdatera innehåll exakt och professionellt utan att behöva gå fram och tillbaka mellan olika appar. Den här videosjälvstudiekursen använder [Mew Acrobat-upplevelsen](new-workspace.md).
+Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. Genom att redigera text direkt i Acrobat kan du uppdatera innehåll exakt och professionellt utan att behöva gå fram och tillbaka mellan olika appar. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
 
 >[!TIP]
 >
@@ -28,4 +28,4 @@ Lär dig hur du redigerar ord, fraser eller till och med hela sidor på en PDF. 
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/sv/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
