@@ -20,6 +20,6 @@ Lär dig hur du [lägger till ett lösenord till din PDF](https://www.adobe.com/
 
 >[!TIP]
 >
->Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
+>Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
 
 >[!SLIDE](protect-pdfs)
