@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 01b037690e249731ec29ff294cc8adce4378bacc
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 2%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
@@ -20,13 +20,6 @@ Lär dig hur du [lägger till ett lösenord till din PDF](https://www.adobe.com/
 
 >[!TIP]
 >
->Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
+>Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [](../advanced-tasks/action.md).
 
-[!BADGE ORGANISATORISK EFFEKT]
-Informationsskydd, riskhantering
-
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
-
->[!TIP]
->
->Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/sv/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>[!SLIDE](protect-pdfs)
