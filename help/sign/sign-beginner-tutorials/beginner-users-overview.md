@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta
 ## Nyheter
 
 >[!BEGINTABS]
+
+>[!TAB Signera ett dokument elektroniskt]
+
+Se hur enkelt det är att [signera](../sign-beginner-tutorials/electronically-sign-a-document.md) ett dokument som skickas till dig med Acrobat Sign.
 
 >[!TAB Skapa en mall som kan återanvändas]
 
@@ -33,14 +37,6 @@ Lär dig att [konfigurera olika alternativ](sending-options.md) när du skickar 
 >[!TAB Skicka till flera signerare]
 
 Lär dig hur du skickar ett dokument för e-signering till [fler än en person](send-to-multiple-recipients.md) i exakt den ordning du vill.
-
->[!TAB Skicka ett dokument till en signerare]
-
-Sätt igång och lär dig hur enkelt det är att [skicka ut ett dokument för signering](send-to-single-recipient.md).
-
->[!TAB Kom igång med Acrobat Sign]
-
-Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sender.md) är ett bra ställe att börja på.
 
 >[!ENDTABS]
 
@@ -70,7 +66,7 @@ Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sende
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Skicka ett dokument till en signerare" src="../assets/send-single-recipient.png" />
+      <img alt="Skicka ett dokument till en enda signatör" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Skicka ett dokument till en signerare</strong></a>
@@ -80,7 +76,7 @@ Har du inte använt Acrobat Sign förut? Den här [självstudiekursen](new-sende
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Skicka till flera signerare" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Skicka till flera signatörer" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Skicka till flera signerare</strong></a>
