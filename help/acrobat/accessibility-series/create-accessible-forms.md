@@ -22,4 +22,4 @@ Läs mer om hur du gör formulär tillgängliga i Acrobat. Om du följer de här
 >
 >Vissa funktioner i den här självstudiekursen är endast tillgängliga i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471666?captions=swe&quality=12&learn=on&hidetitle=true)

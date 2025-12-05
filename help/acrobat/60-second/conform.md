@@ -21,4 +21,4 @@ ht-degree: 0%
 
 I den här 60 sekunder långa videosjälvstudiekursen får du lära dig hur du validerar PDF-innehåll mot standardkriterier som PDF/X, PDF/A eller PDF/E från PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437289?captions=swe&quality=12&learn=on&hidetitle=true)
