@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -76,4 +76,4 @@ Filen är nu en sökbar, redigerbar PDF-fil.
 
 >[!TIP]
 >
->Om du vill använda OCR på flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md) i Acrobat Pro på datorn.
+>Om du vill använda OCR på flera PDF-filer kan du prova att använda [Actionen Wizard](../advanced-tasks/action.md) i Acrobat Pro, Premium eller Studio på datorn.

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
 >[!NOTE]
 >
->Optimering av en PDF är endast tillgängligt i Acrobat Pro för datorer.
+>Du kan bara optimera en PDF i Acrobat Pro, Premium eller Studio på datorn.
 
 1. Öppna en fil och välj **[!UICONTROL Alla verktyg]** i verktygsfältet. Välj sedan **[!UICONTROL Komprimera en PDF]**.
 
@@ -77,4 +77,4 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
 >[!TIP]
 >
->Om du vill optimera flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md) i Acrobat Pro på datorn.
+>Om du vill optimera flera PDF-filer kan du prova att använda [Actionen Wizard](../advanced-tasks/action.md) i Acrobat Pro, Premium eller Studio på datorn.

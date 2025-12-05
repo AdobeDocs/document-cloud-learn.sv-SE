@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession1.md"><strong>Introduktion till PDF-tillgänglighet</strong></a>
     </div>
-    <em>I den här on demand-sessionen kan du ta reda på vad det innebär att göra en PDF tillgänglig, hur du konfigurerar Acrobat Pro så att det fungerar på PDF och hur du konverterar från ett källdokument till en PDF</em>
+    <em>I den här on demand-sessionen kan du ta reda på vad det innebär att göra en PDF tillgänglig, hur du konfigurerar Acrobat Pro (Premium eller Studio) så att det fungerar med PDF och hur du konverterar från ett källdokument till en PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ I den här webbseminarieserien, som består av sex delar, går du från grundern
     <div>
     <a href="accessibilitysession2.md"><strong>Åtgärda ett otillgängligt PDF</strong></a>
     </div>
-    <em>I den här on demand-sessionen kan du lära dig hur du konverterar ett Word-dokument och åtgärdar några grundläggande taggningsproblem med Acrobat Pro-verktygen som visas på introduktionswebbseminariet</em>
+    <em>I den här on demand-sessionen kan du lära dig hur du konverterar ett Word-dokument och åtgärdar några grundläggande taggningsproblem med Acrobat Pro-verktygen (Premium eller Studio) som visas i introduktionswebbseminariet</em>
     <br>
   </td>  
   <td>

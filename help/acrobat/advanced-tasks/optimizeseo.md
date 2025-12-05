@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Läs om hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av sökmotorer på webben.
 
-## 1. Skapa unikt innehåll
+## &#x200B;1. Skapa unikt innehåll
 
 Skapa PDF-innehåll som skiljer sig från informationen på dina webbsidor.
 
@@ -31,7 +31,7 @@ Innehållet i PDF bör vara unikt och strukturerat enligt följande:
 * Använda korta stycken som innehåller nyckelord och listor
 * Lägg till interna och externa hyperlänkar (innehåll på din webbplats eller andra webbplatser)
 * Lägga till en hyperlänkad innehållsförteckning för dokument som är längre än 25 sidor
-* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=sv-SE) på alla skannade dokument
+* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) på alla skannade dokument
 * Bygg PDF som är mobilvänliga
 Om du vill kontrollera mobilvisningsupplevelsen för PDF öppnar du filen i mobilappen [Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktiverar Liquid Mode. Om det behövs kan du lägga till fler underrubriker för att förbättra navigeringen.
 
@@ -41,7 +41,7 @@ Om du vill kontrollera mobilvisningsupplevelsen för PDF öppnar du filen i mobi
 
 <br> 
 
-## 2. Lägg till dokumentegenskaper
+## &#x200B;2. Lägg till dokumentegenskaper
 
 PDF-filer har en rubrik och en metabeskrivning precis som en webbsida.
 
@@ -62,9 +62,9 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 <br> 
 
-## 3. Tagga din PDF
+## &#x200B;3. Tagga din PDF
 
-Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=sv-SE) för personer med funktionshinder, utan det förbättrar även SEO.
+Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder, utan det förbättrar även SEO.
 
 +++Visa information om hur du taggar en PDF
 
@@ -82,13 +82,13 @@ Tagga en PDF på följande sätt:
 
 >[!NOTE]
 >
->Endast tillgängligt i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro, Premium eller Studio.
 
 <br> 
 
-## 4. Förbered för webben
+## &#x200B;4. Förbered för webben
 
-Optimera interaktionen med PDF genom att förbereda den för webbvisning och [minska PDF-filstorleken](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimera interaktionen med PDF genom att förbereda den för webbvisning och [minska filstorleken för PDF](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Visa information om hur du förbereder din PDF för webben
 
@@ -104,13 +104,13 @@ Det här steget minskar filstorleken och möjliggör **snabb webbvisning** i PDF
 
 >[!TIP]
 >
->Om du har Acrobat Pro kör du Optimera för webben och mobiler i verktyget Action Wizard. Den här åtgärden konverterar färger till sRGB och bäddar in teckensnitt för konsekvent visning av PDF i webbläsare och på mobila enheter.
+>Om du har Acrobat Pro (Premium eller Studio) kör du Optimera för webben och mobiler i verktyget Action Wizard. Den här åtgärden konverterar färger till sRGB och bäddar in teckensnitt för konsekvent visning av PDF i webbläsare och på mobila enheter.
 
 +++
 
 <br> 
 
-## 5. Skapa ett nyckelordsfilnamn
+## &#x200B;5. Skapa ett nyckelordsfilnamn
 
 +++Visa information om hur du skapar ett nyckelordsfilnamn
 
@@ -122,7 +122,7 @@ Filnamnet blir en del av URL-adressen när en PDF läggs upp på webben. Ett tip
 
 <br> 
 
-## 6. Säkra PDF
+## &#x200B;6. Säkra PDF
 
 Sista steget är att [skydda din PDF](https://www.adobe.com/se/acrobat/online/password-protect-pdf.html){target="_blank"} för att förhindra obehöriga ändringar.
 

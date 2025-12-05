@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Lär dig hur du kontrollerar om PDF är allmänt tillgängligt för funktionshin
 
 >[!NOTE]
 >
->Endast tillgängligt i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro, Premium eller Studio.
 
 ## Tillgänglighetskontroll
 
@@ -45,7 +45,7 @@ Lär dig hur du kontrollerar om PDF är allmänt tillgängligt för funktionshin
 
    ![Tillgänglighetssteg 4](../assets/Accessibility_4.png)
 
-Du kan också använda åtgärden [!UICONTROL Gör tillgänglig] i verktyget [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=sv-SE), som går igenom en grundläggande uppsättning steg för att skapa en tillgänglig PDF.
+Du kan också använda åtgärden [!UICONTROL Gör tillgänglig] i verktyget [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), som går igenom en grundläggande uppsättning steg för att skapa en tillgänglig PDF.
 
 ## Rätta till tillgänglighetsproblem
 

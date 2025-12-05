@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Lär dig använda bortredigeringsverktyget för att permanent ta bort privat ell
 
 >[!NOTE]
 >
->Endast tillgängligt i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro, Premium eller Studio.
 
 [!BADGE ORGANISATORISK EFFEKT]
 Kunddataskydd, riskhantering
@@ -70,4 +70,4 @@ När du har bekräftat tas bortredigeringarna och den dolda informationen bort p
 
 >[!TIP]
 >
->Snabba upp bortredigeringsprocessen genom att läsa [Actionen Wizard](../advanced-tasks/action.md) i Acrobat Pro på datorn.
+>Om du vill snabba på bortredigeringsprocessen kan du titta på [Actionen Wizard](../advanced-tasks/action.md) i Acrobat Pro, Premium eller Studio på datorn.

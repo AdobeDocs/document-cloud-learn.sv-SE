@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-13297
 exl-id: a8fb0348-a247-4643-9c50-3758c5ac1ad2
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Endast tillgängligt i Acrobat Pro.
+>Endast tillgängligt i Acrobat Pro, Premium och Studio.
 
 I den här 60 sekunder långa videosjälvstudiekursen lär du dig se skillnaderna mellan två PDF-filer med verktyget Jämför filer i Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437475?quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
