@@ -31,7 +31,7 @@ Innehållet i PDF bör vara unikt och strukturerat enligt följande:
 * Använda korta stycken som innehåller nyckelord och listor
 * Lägg till interna och externa hyperlänkar (innehåll på din webbplats eller andra webbplatser)
 * Lägga till en hyperlänkad innehållsförteckning för dokument som är längre än 25 sidor
-* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) på alla skannade dokument
+* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=sv-SE) på alla skannade dokument
 * Bygg PDF som är mobilvänliga
 Om du vill kontrollera mobilvisningsupplevelsen för PDF öppnar du filen i mobilappen [Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktiverar Liquid Mode. Om det behövs kan du lägga till fler underrubriker för att förbättra navigeringen.
 
@@ -64,7 +64,7 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 ## &#x200B;3. Tagga din PDF
 
-Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) för personer med funktionshinder, utan det förbättrar även SEO.
+Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=sv-SE) för personer med funktionshinder, utan det förbättrar även SEO.
 
 +++Visa information om hur du taggar en PDF
 

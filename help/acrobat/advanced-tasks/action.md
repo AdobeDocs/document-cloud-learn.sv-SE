@@ -26,4 +26,4 @@ För att kunna leverera de bästa kundupplevelserna måste innehållet skapas sn
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/sv/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!
