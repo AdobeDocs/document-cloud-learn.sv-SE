@@ -23,7 +23,7 @@ Lär dig hur du skickar och samlar in hundratals signaturer (upp till 1 000 mott
 * [Distansarbetsavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=sv-SE)
 * [Policyavtal](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=sv-SE)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477302?captions=swe&quality=12&learn=on&hidetitle=true)
 
 [Hämta CSV-exempelfilen i ZIP-format](../assets/sendInBulkSample.zip). Läs mer om alla värden som du kan ange i CSV-filen [här](https://helpx.adobe.com/se/sign/adv-user/send-in-bulk/send-with-csv.html).
 

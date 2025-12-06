@@ -18,4 +18,4 @@ ht-degree: 30%
 
 Se hur enkelt det är att signera ett dokument som skickas till dig med Acrobat Sign. Titta på den här [självstudiekursen](../mobile/sign-mobile.md) om du vill veta hur du signerar dokument med Acrobat Sign-mobilappen för [iOS](https://apps.apple.com/se/app/adobe-sign/id481082197) eller [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=sv).
 
->[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477285?captions=swe&quality=12&learn=on&hidetitle=true)

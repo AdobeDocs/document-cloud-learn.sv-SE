@@ -22,4 +22,4 @@ Lär dig hur du konfigurerar signeringsordningen för flera signerare. Skicka et
 >
 >Hybridroutning är endast tillgänglig för planer på företagsnivå. Din Acrobat Sign-administratör kan behöva aktivera de här funktionerna i avsnittet Sändningsinställningar i Kontoinställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477310?captions=swe&quality=12&learn=on&hidetitle=true)

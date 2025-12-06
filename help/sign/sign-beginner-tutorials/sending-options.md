@@ -22,4 +22,4 @@ Lär dig anpassa avtalsinformation, bifoga filer och konfigurera ytterligare ins
 >
 >Din administratör kan ha anpassat sändningsalternativen, så de alternativ du ser kan skilja sig från dem som visas i den här självstudiekursen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475408?captions=swe&quality=12&learn=on&hidetitle=true)

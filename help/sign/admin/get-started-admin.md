@@ -21,142 +21,142 @@ Den här omfattande videoguiden är särskilt utformad för nya Acrobat Sign-adm
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=60">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=60">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=60"><strong>Åtkomst till Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=60"><strong>Åtkomst till Admin Console</strong></a>
          <br>
         <em>Börja kl. 1:00</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=105">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=105">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=105"><strong>Ge Acrobat Sign rätt till en användare</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=105"><strong>Ge Acrobat Sign rätt till en användare</strong></a>
         <br>
         <em>Börja vid 1:45</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=191">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=191">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=191"><strong>Översikt över Acrobat Sign-webbportalen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=191"><strong>Översikt över Acrobat Sign-webbportalen</strong></a>
         <br>
         <em>Börja kl. 3:11</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=358">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=358">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=358"><strong>Globala inställningar och konfigurationer</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=358"><strong>Globala inställningar och konfigurationer</strong></a>
         <br>
         <em>Börja vid 5:58</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=460">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=460">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=460"><strong>Varumärkning och konfiguration av konton</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=460"><strong>Varumärkning och konfiguration av konton</strong></a>
          <br>
         <em>Börja 7:40</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=502">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=502">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=502"><strong>Signaturinställningar</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=502"><strong>Signaturinställningar</strong></a>
         <br>
         <em>Börja kl. 8:22</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=543">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=543">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=543"><strong>Säkerhetsinställningar</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=543"><strong>Säkerhetsinställningar</strong></a>
         <br>
         <em>Börja kl. 9.03</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=595">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=595">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=595"><strong>Skicka-inställningar</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=595"><strong>Skicka-inställningar</strong></a>
         <br>
         <em>Börja kl. 9.55</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=720">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=720">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=720"><strong>Meddelandemallar</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=720"><strong>Meddelandemallar</strong></a>
          <br>
         <em>Börja kl. 12:00</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=755">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=755">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=755"><strong>E-postinställningar</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=755"><strong>E-postinställningar</strong></a>
         <br>
         <em>Börja kl. 12:35</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=783">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=783">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=783"><strong>Hantering av användare och grupper</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=783"><strong>Hantering av användare och grupper</strong></a>
         <br>
         <em>Börja kl. 13:03</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=917">
+    <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=917">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=917"><strong>Skapa och aktivera arbetsflöden</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=917"><strong>Skapa och aktivera arbetsflöden</strong></a>
         <br>
         <em>Börja kl. 15:17</em>
   </td>
 </tr>
 <tr>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=1145">
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=1145">
       <img alt="Snabbspolning framåt" src="../assets/Stepforward_18.png" />
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=1145"><strong>Få tillgång till support och ytterligare resurser</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true&t=1145"><strong>Få tillgång till support och ytterligare resurser</strong></a>
         <br>
         <em>Börja kl. 19:05</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477291?captions=swe&quality=12&learn=on&hidetitle=true)
