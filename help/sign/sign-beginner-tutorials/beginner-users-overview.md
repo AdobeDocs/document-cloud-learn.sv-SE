@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ Kom igång med att skicka, signera och spåra dokument med hjälp av dessa korta
 ## Nyheter
 
 >[!BEGINTABS]
+
+>[!TAB Hantera och spåra avtal]
+
+Lär dig hur du [hanterar och spårar avtal](../sign-beginner-tutorials/manage-and-track.md) som skickats för signering.
 
 >[!TAB Signera ett dokument elektroniskt]
 
@@ -33,10 +37,6 @@ Lär dig skapa en [återanvändbar dokumentmall](../sign-advanced-users/create-a
 >[!TAB Konfigurera sändningsalternativ]
 
 Lär dig att [konfigurera olika alternativ](sending-options.md) när du skickar ett dokument för signering.
-
->[!TAB Skicka till flera signerare]
-
-Lär dig hur du skickar ett dokument för e-signering till [fler än en person](send-to-multiple-recipients.md) i exakt den ordning du vill.
 
 >[!ENDTABS]
 
