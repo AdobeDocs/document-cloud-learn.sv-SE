@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ Läs allt om hur du skapar hjälpmedelsanpassade PDF-filer. Tutorials i serien s
 ## Nyheter
 
 >[!BEGINTABS]
+
+>[!TAB Komplexa listor]
+
+Lär dig tagga [komplexa listor](complex-lists.md) för tillgänglighet i Acrobat.
 
 >[!TAB Skannade dokument]
 
@@ -32,10 +36,6 @@ Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera
 >[!TAB Skapa en tillgänglig PDF från Word]
 
 Lär dig hur du [skapar en tillgänglig PDF-fil från Microsoft Word](create-accessible-from-word.md).
-
->[!TAB Skapa tillgängliga formulär]
-
-Läs om hur du gör [formulär tillgängliga](create-accessible-forms.md) i Acrobat.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Läs om hur du gör [formulär tillgängliga](create-accessible-forms.md) i Acro
     <br>
   </td>
   <td>
-        <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Komplexa listor" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>Komplexa listor</strong></a>
+    </div>
+    <em>Lär dig hur du taggar komplexa listor för tillgänglighet i Acrobat</em>
+    <br>
   </td>
   <td>
         <img alt="Avgränsare" src="../assets/Grayspacer.png" />
