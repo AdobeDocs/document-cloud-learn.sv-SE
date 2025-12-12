@@ -1,14 +1,14 @@
 ---
 title: SKANNADE DOKUMENT
-description: Läs om hur du gör skannade dokument tillgängliga i Acrobat Pro
+description: Läs om hur du gör skannade dokument tillgängliga i Acrobat
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Lär dig hur du gör skannade dokument tillgängliga i Acrobat. Inläst PDF kan 
 >
 >Vissa funktioner i den här självstudiekursen är endast tillgängliga i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476238?captions=swe&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)

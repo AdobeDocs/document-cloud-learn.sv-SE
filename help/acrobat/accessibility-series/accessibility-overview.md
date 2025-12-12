@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Läs allt om hur du skapar hjälpmedelsanpassade PDF-filer. Tutorials i serien s
 
 >[!BEGINTABS]
 
+>[!TAB Grunderna i taggning]
+
+Lär dig grunderna i att [tagga en PDF](basics-tagging.md)-fil för att göra den åtkomlig.
+
 >[!TAB Komplexa listor]
 
 Lär dig tagga [komplexa listor](complex-lists.md) för tillgänglighet i Acrobat.
@@ -32,10 +36,6 @@ Lär dig hur du gör ett [skannat dokument](scanned-documents.md) tillgängligt.
 >[!TAB Konfigurera din arbetsyta]
 
 Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera tillgänglighetsfunktioner för PDF-filer.
-
->[!TAB Skapa en tillgänglig PDF från Word]
-
-Lär dig hur du [skapar en tillgänglig PDF-fil från Microsoft Word](create-accessible-from-word.md).
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Lär dig hur du [skapar en tillgänglig PDF-fil från Microsoft Word](create-acc
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="Grunderna i taggning" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>Grunderna för märkning"</strong></a>
+    </div>
+    <em>Lär dig grunderna i att tagga en PDF-fil för att göra den åtkomlig</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="Skannade dokument" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ Lär dig hur du [skapar en tillgänglig PDF-fil från Microsoft Word](create-acc
     <em>Lär dig hur du gör skannade dokument tillgängliga i Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="Skapa tillgängliga formulär" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ Lär dig hur du [skapar en tillgänglig PDF-fil från Microsoft Word](create-acc
     <em>Lär dig hur du gör formulär tillgängliga i Acrobat</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="Komplexa listor" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ Lär dig hur du [skapar en tillgänglig PDF-fil från Microsoft Word](create-acc
     </div>
     <em>Lär dig hur du taggar komplexa listor för tillgänglighet i Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="Avgränsare" src="../assets/Grayspacer.png" />
