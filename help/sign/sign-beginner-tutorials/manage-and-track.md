@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Lär dig hantera och spåra dokument som skickats för signering i Acrobat Sign. Få statusuppdateringar och aviseringar i realtid för varje dokument du signerar eller skickar för signering.
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436622?captions=swe&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
