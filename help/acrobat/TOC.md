@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '570'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 4%
    + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
    + [Öka teamets effektivitet med PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [Vad är Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
+   + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
    + [Skapa en PDF](getting-started/create-pdf.md)
    + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
@@ -50,6 +50,7 @@ ht-degree: 4%
    + [Vad och varför tillgängliga PDF-filer](accessibility-series/what-why-accessible-pdf.md)
    + [Konfigurera din arbetsyta](accessibility-series/set-up-workspace.md)
    + [Skapa en tillgänglig PDF från Word](accessibility-series/create-accessible-from-word.md)
+   + [Skapa en tillgänglig PDF i Acrobat](accessibility-series/accessible-acrobat.md)
    + [Grunderna i taggning](accessibility-series/basics-tagging.md)
    + [Skannade dokument](accessibility-series/scanned-documents.md)
    + [Skapa tillgängliga formulär](accessibility-series/create-accessible-forms.md)
@@ -79,11 +80,11 @@ ht-degree: 4%
       + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
 + AI-driven {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Stilisera den här PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [Stilisera den här PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60 sekunder lång Acrobat {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [Redigera PDF med Acrobat på webben](60-second/edit.md)
@@ -150,5 +151,5 @@ ht-degree: 4%
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobilt {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=sv-SE)
+   + [Produktivitet var du än är](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Skanna till PDF](mobile/scan-mobile-app.md)

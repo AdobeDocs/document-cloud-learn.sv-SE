@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Grunderna i taggning
 
-Lär dig grunderna i hur du taggar en PDF-fil för att göra den åtkomlig. De ämnen som behandlas är: åtgärda listor, artefakter, lägga till alternativ text för bilder och enkla tabeller.
+Lär dig grunderna i hur du taggar en PDF-fil för att göra den åtkomlig. Ämnena som behandlas är: åtgärda listor, artefakter, lägga till alternativ text för bilder och enkla tabeller.
 
 >[!NOTE]
 >

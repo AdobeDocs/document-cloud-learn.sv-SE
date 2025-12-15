@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Läs allt om hur du skapar hjälpmedelsanpassade PDF-filer. Tutorials i serien s
 
 >[!BEGINTABS]
 
+>[!TAB Skapa en tillgänglig PDF i Acrobat]
+
+Lär dig skapa en [tillgänglig PDF från och med Acrobat](accessible-acrobat.md).
+
 >[!TAB Grunderna i taggning]
 
 Lär dig grunderna i att [tagga en PDF](basics-tagging.md)-fil för att göra den åtkomlig.
@@ -32,10 +36,6 @@ Lär dig tagga [komplexa listor](complex-lists.md) för tillgänglighet i Acroba
 >[!TAB Skannade dokument]
 
 Lär dig hur du gör ett [skannat dokument](scanned-documents.md) tillgängligt.
-
->[!TAB Konfigurera din arbetsyta]
-
-Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera tillgänglighetsfunktioner för PDF-filer.
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Skapa en tillgänglig PDF i Acrobat" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Skapa en tillgänglig PDF i Acrobat</strong></a>
+    </div>
+    <em>Lär dig hur du skapar en tillgänglig PDF med början i Acrobat</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="Grunderna i taggning" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera
     <em>Lär dig grunderna i att tagga en PDF-fil för att göra den åtkomlig</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="Skannade dokument" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera
     <em>Lär dig hur du gör formulär tillgängliga i Acrobat</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="Komplexa listor" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Läs om hur du [skapar en arbetsyta](set-up-workspace.md) för att effektivisera
     </div>
     <em>Lär dig hur du taggar komplexa listor för tillgänglighet i Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
