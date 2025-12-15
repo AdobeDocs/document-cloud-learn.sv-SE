@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ Läs allt om hur du skapar hjälpmedelsanpassade PDF-filer. Tutorials i serien s
 
 >[!BEGINTABS]
 
+>[!TAB Komplexa tabeller]
+
+Lär dig att [tagga tabeller](complex-tables.md) för tillgänglighet i Acrobat.
+
+>[!TAB Guidad åtgärd för att göra tillgänglig]
+
+Lär dig använda den guidade åtgärden [Gör tillgänglig](make-accessible-action.md).
+
 >[!TAB Skapa en tillgänglig PDF i Acrobat]
 
 Lär dig skapa en [tillgänglig PDF från och med Acrobat](accessible-acrobat.md).
@@ -28,14 +36,6 @@ Lär dig skapa en [tillgänglig PDF från och med Acrobat](accessible-acrobat.md
 >[!TAB Grunderna i taggning]
 
 Lär dig grunderna i att [tagga en PDF](basics-tagging.md)-fil för att göra den åtkomlig.
-
->[!TAB Komplexa listor]
-
-Lär dig tagga [komplexa listor](complex-lists.md) för tillgänglighet i Acrobat.
-
->[!TAB Skannade dokument]
-
-Lär dig hur du gör ett [skannat dokument](scanned-documents.md) tillgängligt.
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Lär dig hur du gör ett [skannat dokument](scanned-documents.md) tillgängligt.
     <em>Lär dig hur du taggar komplexa listor för tillgänglighet i Acrobat</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Komplexa tabeller" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Komplexa tabeller</strong></a>
+    </div>
+    <em>Lär dig tagga tabeller för tillgänglighet i Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Guidad åtgärd för tillgänglighet" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Guidad åtgärd för att göra tillgänglig</strong></a>
+    </div>
+    <em>Lär dig använda den guidade åtgärden Gör tillgänglig</em>
+    <br>
+  </td>
+   <td>
+        <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
