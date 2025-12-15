@@ -21,4 +21,4 @@ Lär dig grunderna i hur du taggar en PDF-fil för att göra den åtkomlig. Ämn
 >
 >Vissa funktioner i den här självstudiekursen är endast tillgängliga i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477886?captions=swe&quality=12&learn=on&hidetitle=true)
