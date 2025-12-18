@@ -2,11 +2,11 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/support/sign.html
+solution-hub-url: https://helpx.adobe.com/se/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/se/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/se/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
@@ -35,7 +35,7 @@ ht-degree: 14%
       + [Ändra ett dokument efter sändning](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersätta en signerare](sign-beginner-tutorials/replace-signer.md)
       + [Ange tidsgränser och påminnelser](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [Skapa en mall som kan återanvändas](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [Skapa en mall som kan återanvändas](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=sv-SE)
    + Signera {#getting-started-signing}
       + [Signera ett dokument elektroniskt](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Fylla i och signera ett dokument](sign-beginner-tutorials/fill-and-sign.md)
@@ -51,12 +51,12 @@ ht-degree: 14%
       + [Konfigurera signeringsordning](sign-advanced-users/setting-up-routing.md)
       + [Använda delegerarerollen](sign-advanced-users/delegate-signature.md)
       + [Använda godkännarrollen](sign-advanced-users/add-an-approver.md)
-      + [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Skapa ett anpassat arbetsflöde](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Massutskick](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=sv-SE)
+      + [Skapa ett webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=sv-SE)
+      + [Skapa ett anpassat arbetsflöde](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Ställ in onlinebetalningar](sign-advanced-users/set-up-online-payments.md)
       + [Autentiseringsmetoder i Acrobat Sign](sign-advanced-users/authentication-methods.md)
-      + [Acrobat Sign-texttaggning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign-texttaggning](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=sv-SE)
       + [Använda texttaggar i  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Hantera {#advanced-tasks-managing}
       + [Rapportering och transaktioner](sign-advanced-users/creating-a-report.md)
@@ -77,10 +77,10 @@ ht-degree: 14%
       + [Skapa och hantera grupper](admin/create-and-manage-groups.md)
       + [Upprätta ett externt arkiv](admin/set-up-your-external-archive.md)
       + [Skapa en återanvändbar mall](sign-advanced-users/create-a-template.md)
-      + [Rapporterings- och transaktionsanvändning](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Rapporterings- och transaktionsanvändning](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Rapportalternativ för användare](admin/report-options.md)
       + [Skapa ett webbformulär](sign-advanced-users/webform.md)
-      + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [Ändra ett befintligt webbformulär](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=sv-SE)
       + [Massutskick](sign-advanced-users/megasign.md)
       + [Skapa ett anpassat arbetsflöde](admin/building-a-custom-workflow.md)
       + [Granskningsrapporter](admin/audit-reports.md)

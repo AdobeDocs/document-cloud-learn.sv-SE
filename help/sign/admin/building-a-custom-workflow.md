@@ -20,10 +20,10 @@ Lär dig skapa och använda anpassade arbetsflöden för att påskynda processen
 
 [!BADGE Användningsfall]
 
-* [Anpassat arbetsflöde för utbildning, IEP-process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [Anpassat arbetsflöde för utbildning, IEP-process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=sv-SE)
 Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalisera en IEP-process (Individualized Education Program)
-* [Offentliga avtal och rekvisition för Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [Affärskontrakt och rekvisition på Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [Offentliga avtal och rekvisition för Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=sv-SE)
+* [Affärskontrakt och rekvisition på Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=sv-SE)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Lär dig hur Designer med ett anpassat arbetsflöde används för att digitalise
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Komma igång med Acrobat Sign för administratörer](https://experienceleague.adobe.com/sv/playlists/acrobat-sign-get-started-administrators) som är tillgänglig kostnadsfritt på Experience League!
