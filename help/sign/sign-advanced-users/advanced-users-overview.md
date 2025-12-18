@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,10 @@ Lär dig hur du skickar ut ett dokument för signering till 100-tals mottagare s
 ## Nyheter
 
 >[!BEGINTABS]
+
+>[!TAB Skapa ett anpassat arbetsflöde]
+
+
 
 >[!TAB Massutskick]
 
@@ -67,38 +71,6 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Autentiseringsmetoder i Acrobat Sign" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Autentiseringsmetoder i Acrobat Sign</strong></a>
-    </div>
-    <em>Läs mer om de olika metoderna för identitetsautentisering som är tillgängliga i Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="Hantera formulärdata" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>Hantera formulärdata</strong></a>
-      </div>
-      <em>Lär dig konsolidera formulärdata från dina dokument</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="Ställ in onlinebetalningar" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>Ställ in onlinebetalningar</strong></a>
-    </div>
-    <em>Lär dig ställa in och acceptera onlinebetalningar i dina dokument</em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="Massutskick" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
       <em>Samla hundratals signaturer samtidigt för alla dokument i några få korta steg</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="Skapa ett webbformulär" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
       <a href="webform.md"><strong>Skapa ett webbformulär</strong></a>
       </div>
       <em>Lär dig skapa ett dokument som kan signeras elektroniskt direkt på din webbplats</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="Skapa ett anpassat arbetsflöde" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>Skapa ett anpassat arbetsflöde</strong></a>
+      </div>
+      <em>Lär dig hur du skapar och använder anpassade arbetsflöden för att påskynda processen med att skapa och skicka ett avtal</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="Ställ in onlinebetalningar" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>Ställ in onlinebetalningar</strong></a>
+      </div>
+      <em>Lär dig ställa in och acceptera onlinebetalningar i dina dokument</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Autentiseringsmetoder i Acrobat Sign" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Autentiseringsmetoder i Acrobat Sign</strong></a>
+      </div>
+      <em>Läs mer om de olika metoderna för identitetsautentisering som är tillgängliga i Acrobat Sign</em>
       <br>
   </td>
 </tr>
@@ -159,7 +163,7 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Rapportering och transaktionsanvändning" src="../assets/reporting.png" />
+      <img alt="Rapportering och transaktioner" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="creating-a-report.md"><strong>Rapporterings- och transaktionsanvändning</strong></a>
@@ -197,5 +201,32 @@ Läs mer om de olika metoder som finns i Acrobat Sign för att [autentisera](aut
     <em>Lär dig spåra, hantera och exportera data från ett webbformulär</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="Hantera formulärdata" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>Hantera formulärdata</strong></a>
+      </div>
+      <em>Lär dig konsolidera formulärdata från dina dokument</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>

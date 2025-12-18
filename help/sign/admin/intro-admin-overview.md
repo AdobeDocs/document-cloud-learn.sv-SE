@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ Läs mer om hur du lägger till användare i ditt konto, konfigurerar grupper, d
 ## Nyheter
 
 >[!BEGINTABS]
+
+>[!TAB Skapa ett anpassat arbetsflöde]
+
+Lär dig hur du skapar och använder [anpassade arbetsflöden](building-a-custom-workflow.md) för att påskynda processen med att skapa och skicka ett avtal.
 
 >[!TAB Skapa en mall som kan återanvändas]
 
@@ -34,10 +38,6 @@ Lär dig hur du konfigurerar [regler för automatisk tilldelning](automatic-assi
 >[!TAB Migrera dokumentmallar]
 
 Lär dig hur du smidigt [migrerar dokumentmallar](docusign-templates.md) och arbetsflöden i tre enkla steg.
-
->[!TAB Lägg till en ny användare]
-
-Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-account.md).
 
 >[!ENDTABS]
 
@@ -151,7 +151,7 @@ Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-accou
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="Rapportering och transaktionsanvändning" src="../assets/reporting.png" />
+      <img alt="Rapportering och transaktioner" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Rapporterings- och transaktionsanvändning</strong></a>
@@ -203,12 +203,12 @@ Lär dig att [lägga till nya användare i Acrobat Sign](add-users-to-your-accou
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Konfigurera ett arbetsflöde" src="../assets/workflow.png" />
+      <img alt="Skapa ett anpassat arbetsflöde" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Konfigurera ett arbetsflöde</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Skapa ett anpassat arbetsflöde</strong></a>
     </div>
-    <em>Automatisera arbetsflöden för dokument för att snabbt få elektroniska signaturer och data</em>
+    <em>Lär dig hur du skapar och använder anpassade arbetsflöden för att påskynda processen med att skapa och skicka ett avtal</em>
     <br>
   </td>
 </tr>
