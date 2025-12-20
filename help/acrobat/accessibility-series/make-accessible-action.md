@@ -20,4 +20,4 @@ Lär dig använda den guidade åtgärden Gör tillgänglig för att göra PDF-fi
 >
 >Endast tillgängligt i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477967?captions=swe&quality=12&learn=on&hidetitle=true)
