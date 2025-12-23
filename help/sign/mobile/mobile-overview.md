@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 01929e1d724d398a25ef70eae22330a6bce1d1b4
+source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,16 @@ Lär dig använda [mobilanpassad vy](mobile-friendly.md) för att fylla i formul
     <br>
   </td>  
   <td>
+    <a href="create-mobile-friendly.md">
+      <img alt="Skapa mobilanpassad vy" src="../assets/create-mobile-friendly.png" />
+    </a>
+    <div>
+    <a href="create-mobile-friendly.md"><strong>Skapa mobilanpassad vy</strong></a>
+    </div>
+    <em>Skapa en mobilanpassad vy av dokumentet</em>
+    <br>
+  </td>
+   <td>
     <a href="liquidmode.md">
       <img alt="Liquid Mode i Acrobat Sign" src="../assets/liquid-mode.png" />
     </a>
@@ -61,7 +71,9 @@ Lär dig använda [mobilanpassad vy](mobile-friendly.md) för att fylla i formul
     <em>Läs mer om hur Liquid Mode förbättrar den mobila signeringsupplevelsen</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="Hämta Acrobat Sign-mobilappen för iOS" src="../assets/mobile-ios.png" />
     </a>
@@ -71,21 +83,14 @@ Lär dig använda [mobilanpassad vy](mobile-friendly.md) för att fylla i formul
     <em>Hämta Acrobat Sign-mobilappen från App Store</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Hämta Acrobat Sign-mobilappen för Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Hämta Acrobat Sign-mobilappen för Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Hämta Acrobat Sign-mobilappen för Android</strong></a>
     </div>
     <em>Hämta Acrobat Sign-mobilappen från Google Play</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Avgränsare" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
