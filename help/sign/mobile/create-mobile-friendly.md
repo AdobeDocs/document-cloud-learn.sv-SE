@@ -1,20 +1,20 @@
 ---
 title: Skapa mobilanpassad vy
-description: Lär dig skapa en mobilvänlig vy av dokumentet med läget Mobile Focus
+description: Lär dig hur du smidigt skapar ett mobilvänligt dokument utan utvecklarstöd
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Skapa mobilanpassad vy
 
-Lär dig skapa en mobilvänlig vy av dokumentet med läget Mobile Focus. Avsändare kan nu enkelt generera ett mobilanpassat formulär utan utvecklarstöd.
+Lär dig hur du smidigt skapar ett mobilvänligt dokument utan utvecklarstöd.
 
 Med Mobile Focus kan avsändare dra nytta av:
 
