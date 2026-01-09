@@ -22,4 +22,4 @@ Med Mobile View gör Acrobat Sign det enklare än någonsin för någon att fyll
 * Förbättrad noggrannhet: minskar antalet fel och ser till att all nödvändig information hämtas
 * Kontinuitet: Användarna kan börja och återgå till det mobilvänliga formuläret när som helst utan att förlora några framsteg
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478390?captions=swe&quality=12&learn=on&hidetitle=true)
