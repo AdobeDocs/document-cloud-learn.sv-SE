@@ -6,9 +6,10 @@ role: User
 level: Beginner
 topics: Accessibility, Workspace
 jira: KT-18727
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 168fe8fc-dbfd-4362-b060-4eb5f729275c
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 Lär dig hur du lägger alla hjälpmedelsverktyg nära till hands för att effektivisera tillgänglighetsfunktioner i PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471620?quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!
