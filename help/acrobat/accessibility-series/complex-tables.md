@@ -20,7 +20,7 @@ Lär dig tagga tabeller för tillgänglighet i Acrobat. De ämnen som behandlas 
 >
 >Endast tillgängligt i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477956?captions=swe&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

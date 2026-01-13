@@ -21,7 +21,7 @@ Lär dig hur du gör skannade dokument tillgängliga i Acrobat. Inläst PDF kan 
 >
 >Vissa funktioner i den här självstudiekursen är endast tillgängliga i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476238?captions=swe&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

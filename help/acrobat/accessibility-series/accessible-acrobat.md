@@ -21,7 +21,7 @@ Lär dig skapa ett tillgängligt PDF med början i Acrobat. De ämnen som behand
 >
 >Vissa funktioner i den här självstudiekursen är endast tillgängliga i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477929?captions=swe&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
