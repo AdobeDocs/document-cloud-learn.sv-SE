@@ -6,7 +6,7 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Fyll i och signera vilket formulär som helst på datorn eller mobilen
 
-Fyll i, signera och skicka formulär snabbt från din dator, webbläsare eller mobilapp. Adobe Sensei känner igen och sparar data som används ofta för användning i ett PDF-formulär. Skapa en signatur genom att rita, importera en skanning eller skriva ditt namn och sedan tillämpa det säkert på ett dokument.
+Fyll i, signera och skicka formulär snabbt från din dator, webbläsare eller mobilapp. Adobe AI känner igen och sparar data som används ofta för användning i ett PDF-formulär. Skapa en signatur genom att rita, importera en skanning eller skriva ditt namn och sedan tillämpa det säkert på ett dokument.
 
 I den här övningen ska du importera, fylla i, signera och skicka ett formulär med din mobila enhet.
 
