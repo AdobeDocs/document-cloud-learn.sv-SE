@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektivisera komplexa arbeten med Acrobat Studio - så att ditt team kan jobba snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces samt Adobe Express Premium. Dessa integrerade verktyg ökar teamets produktivitet genom att centralisera filer, möjliggöra AI-driven analys och stödja komplett innehållsskapande inom en enhetlig arbetsyta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475060?captions=swe&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Efter roll]
 

@@ -19,7 +19,7 @@ Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant. A
 
 AI Assistant är tillgänglig för användare som köper Acrobat Studio- eller AI Assistant-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445826?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Efter roll]
 
