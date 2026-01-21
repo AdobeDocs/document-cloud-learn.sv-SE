@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,24 +17,24 @@ ht-degree: 1%
 
 Lär dig använda Stilisera den här PDF för att förbättra utseendet på en PDF genom att tillämpa teckensnittsrekommendationer, färgteman, bilder och designelement med hjälp av verktyg i appen som drivs av Adobe Expressen [Adobe Express](https://express.adobe.com). I självstudiekursen får du också lära dig hur du förfinar layouter, lägger till Adobe Stock- eller AI-genererade bilder och anpassar textstilar för att skapa snygga, proffsiga dokument. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445545?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Efter roll]
 
 ## Hur stilisera den här PDF hjälper olika team
 
-* Juridik och efterlevnad
+* **Juridik och efterlevnad**
 
   Juridiska team använder Stilisera den här PDF för att tillämpa konsekvent formatering, typografi och bilder på policyer och vägledningsdokument så att de ser professionella och enkla ut medan de förblir kompatibla och oförändrade i betydelsen.
 
-* Personalavdelning
+* **Personalresurser**
 
   HR-teamen använder Stilisera denna PDF för att omvandla policydokument, introduktionsmaterial och utbildningsresurser till visuellt tydlig, tillgänglig PDF som förbättrar förståelsen och medarbetarnas engagemang.
 
-* Försäljning
+* **Försäljning**
 
   Säljteam använder Stilisera den här PDF för att snabbt finslipa förslag och presentationer genom att använda varumärkta fonter, färger och bilder, vilket hjälper till att leverera kundklara dokument utan att återgå till designverktygen.
 
-* Marknadsföring och kommunikation
+* **Marknadsföring och kommunikation**
 
   Marknadsföringsteam använder Stilisera den här PDF för att anpassa PDF till varumärkesstandarder genom att förfina layouter, tillämpa visuella teman och införliva bilder, vilket säkerställer att materialet är visuellt konsekvent i alla kampanjer.
