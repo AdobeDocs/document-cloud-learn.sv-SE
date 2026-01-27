@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Lär dig grunderna {#basics}
       + [Allmänt om arbetsytan](getting-started/workspace-basics.md)
       + [Ny Acrobat-upplevelse](getting-started/new-experience.md)
-      + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
+      + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
       + [Produktivitet i farten](getting-started/productivity.md)
       + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
@@ -141,12 +141,6 @@ ht-degree: 5%
          + [Tips #3 - Protect digitala dokument](industry/gov/protect-digital-documents.md)
          + [Tips #4 - Arbeta med formulär och signaturer](industry/gov/work-with-forms-and-signatures.md)
          + [Tips #5 - Skanna och redigera på mobilen](industry/gov/scan-and-edit-on-mobile.md)
-      + Tillgänglighet {#pdfs}
-         + [Göra PDF tillgängligt](industry/gov/making-pdfs-accessible.md)
-         + [#1 - FÖRSTÅ TILLGÄNGLIGHET](industry/gov/understanding-accessibility.md)
-         + [#2 - Redigera i Word](industry/gov/authoring-in-word.md)
-         + [#3 - Slutföra i Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Göra röstsedlar i PDF mer tillgängliga](industry/gov/making-pdf-ballots-accessible.md)
 + Framkalla {#develop}
    + [Overview](develop/develop-overview.md)
 + Driftsätta {#deploy}
