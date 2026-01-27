@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Redigera grafik i en PDF
 
-Lär dig använda redigeringsläget i Acrobat för att lägga till, ersätta, beskära, ändra storlek på, rotera och ordna foton direkt i en PDF på datorn och webben. Självstudien visar också hur du genererar och förfinar bilder från textmeddelanden med bildgeneratorn i appen som drivs av Adobe Express. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
+Lär dig använda redigeringsläget i Acrobat för att lägga till, ersätta, beskära, ändra storlek på, rotera och ordna foton direkt i en PDF på datorn och webben. Självstudien visar också hur du genererar och förfinar bilder från textmeddelanden med bildgeneratorn i appen som drivs av Adobe Express. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446933?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Efter roll]
 

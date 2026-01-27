@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
@@ -16,7 +16,7 @@ ht-degree: 10%
 
 # Ordna sidor
 
-För att kunna leverera de bästa kundupplevelserna måste innehållet skapas snabbare än någonsin tidigare. Lär dig hur du ordnar om sidor precis som du vill - allt på några sekunder. [Infoga](https://www.adobe.com/se/acrobat/online/add-pages-to-pdf.html){target="_blank"}, ersätt, [dela](https://www.adobe.com/se/acrobat/online/split-pdf.html){target="_blank"}, [ordna om](https://www.adobe.com/se/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotera](https://www.adobe.com/se/acrobat/online/rotate-pdf.html){target="_blank"} och till och med [extrahera utträngande sidor](https://www.adobe.com/se/acrobat/online/extract-pdf-pages.html){target="_blank"} för att skapa en proffsig PDF. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
+För att kunna leverera de bästa kundupplevelserna måste innehållet skapas snabbare än någonsin tidigare. Lär dig hur du ordnar om sidor precis som du vill - allt på några sekunder. [Infoga](https://www.adobe.com/se/acrobat/online/add-pages-to-pdf.html){target="_blank"}, ersätt, [dela](https://www.adobe.com/se/acrobat/online/split-pdf.html){target="_blank"}, [ordna om](https://www.adobe.com/se/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotera](https://www.adobe.com/se/acrobat/online/rotate-pdf.html){target="_blank"} och till och med [extrahera utträngande sidor](https://www.adobe.com/se/acrobat/online/extract-pdf-pages.html){target="_blank"} för att skapa en proffsig PDF. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
 >[!TIP]
 >

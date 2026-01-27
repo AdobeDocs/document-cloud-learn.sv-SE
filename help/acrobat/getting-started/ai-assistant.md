@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Upptäck PDF-insikter med AI Assistant
 
-Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant. AI Assistant analyserar en PDF för att generera sammanfattningar, besvara frågor och extrahera insikter med tydliga tillskrivningar till källinnehållet - vilket minskar behovet av att manuellt läsa långa dokument. AI-genererade svar verifieras genom att länka direkt tillbaka till de exakta platserna i dokumentet, vilket möjliggör snabbare och mer tillförlitligt beslutsfattande. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-workspace.md).
+Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant. AI Assistant analyserar en PDF för att generera sammanfattningar, besvara frågor och extrahera insikter med tydliga tillskrivningar till källinnehållet - vilket minskar behovet av att manuellt läsa långa dokument. AI-genererade svar verifieras genom att länka direkt tillbaka till de exakta platserna i dokumentet, vilket möjliggör snabbare och mer tillförlitligt beslutsfattande. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
 AI Assistant är tillgänglig för användare som köper Acrobat Studio- eller AI Assistant-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445826?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Efter roll]
 
