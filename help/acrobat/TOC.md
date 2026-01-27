@@ -22,7 +22,7 @@ ht-degree: 5%
    + Lär dig grunderna {#basics}
       + [Allmänt om arbetsytan](getting-started/workspace-basics.md)
       + [Ny Acrobat-upplevelse](getting-started/new-experience.md)
-      + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
       + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
       + [Produktivitet i farten](getting-started/productivity.md)
       + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
