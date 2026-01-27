@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Lär dig grunderna {#basics}
       + [Allmänt om arbetsytan](getting-started/workspace-basics.md)
       + [Ny Acrobat-upplevelse](getting-started/new-experience.md)
-      + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
+      + [Arbeta med [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
       + [Produktivitet i farten](getting-started/productivity.md)
       + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [Guidad åtgärd för tillgänglighet](accessibility-series/make-accessible-action.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
-   + [Lägga till bokmärken och hyperlänkar](advanced-tasks/bookmarks.md)
-   + [Optimera skannade dokument](advanced-tasks/optimizescan.md)
-   + [Anpassade kommandon och verktyg](advanced-tasks/custom.md)
-   + [Avancerade formulärfält](advanced-tasks/advancedforms.md)
-   + [Optimize PDF för SEO](advanced-tasks/optimizeseo.md)
-   + [Arbeta med formulärfält](advanced-tasks/workforms.md)
-   + [Förbättra din PDF](advanced-tasks/enhance.md)
-   + [Identifiera skillnader mellan två PDF](advanced-tasks/compare.md)
-   + [Guidade åtgärder](advanced-tasks/action.md)
-   + [Ta bort känslig information](advanced-tasks/redact.md)
-   + [Komprimera och optimera en PDF](advanced-tasks/reduce.md)
-   + [Arbeta med formulärdata](advanced-tasks/formdata.md)
-   + Acrobat-webbseminarier om tillgänglighet {#accessibility-series}
-      + [Overview](advanced-tasks/accessibility-series.md)
-      + [Introduktion till PDF-tillgänglighet](advanced-tasks/accessibilitysession1.md)
-      + [Åtgärda ett otillgängligt PDF](advanced-tasks/accessibilitysession2.md)
-      + [Komplexa tabeller](advanced-tasks/accessibilitysession3.md)
-      + [Skannade dokument och komplexa listor](advanced-tasks/accessibilitysession4.md)
-      + [Lägga till formulärfält i ett taggat PDF](advanced-tasks/accessibilitysession5.md)
-      + [Lägga till formulärfält i ett otaggat PDF](advanced-tasks/accessibilitysession6.md)
+   + Förbered och förbättra {#prepare}
+      + [Komprimera och optimera en PDF](advanced-tasks/reduce.md)
+      + [Optimera skannade dokument](advanced-tasks/optimizescan.md)
+      + [Optimize PDF för SEO](advanced-tasks/optimizeseo.md)
+      + [Lägga till bokmärken och hyperlänkar](advanced-tasks/bookmarks.md)
+      + [Identifiera skillnader mellan två PDF](advanced-tasks/compare.md)
+      + [Förbättra din PDF](advanced-tasks/enhance.md)
+   + Skapa och hantera formulär {#forms}
+      + [Arbeta med formulärfält](advanced-tasks/workforms.md)
+      + [Avancerade formulärfält](advanced-tasks/advancedforms.md)
+      + [Arbeta med formulärdata](advanced-tasks/formdata.md)
+   + Skydda {#protect}
+      + [Ta bort känslig information](advanced-tasks/redact.md)
+   + Automatisera och skala arbetsflöden {#automate}
+      + [Guidade åtgärder](advanced-tasks/action.md)
+      + [Anpassade kommandon och verktyg](advanced-tasks/custom.md)
 + AI-driven {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
    + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
