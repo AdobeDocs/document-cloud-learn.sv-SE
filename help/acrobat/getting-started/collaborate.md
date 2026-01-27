@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Med fjärrarbete överallt är det viktigt med sömlöst samarbete för att kunna leverera innehåll snabbt och skalbart. Utveckla dina projekt genom att samla kommentarer, samarbeta om svar och spåra framsteg i dina dokument i realtid, var som helst. Lär dig skapa en dokumentgranskningsprocess som inte bara förbättrar effektiviteten utan även höjer innehållskvaliteten. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439237?captions=swe&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

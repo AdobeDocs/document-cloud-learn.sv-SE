@@ -22,7 +22,7 @@ För att kunna leverera de bästa kundupplevelserna måste innehållet skapas sn
 >
 >Endast tillgängligt i Acrobat Pro, Premium eller Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444879?captions=swe&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
