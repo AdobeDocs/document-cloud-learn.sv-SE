@@ -1,21 +1,19 @@
 ---
-title: Adobe Acrobat Skill Builder-webbseminarier
-description: Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden i PDF till nästa nivå
+title: Adobe Acrobat-webbseminarium
+description: Utforska de här Adobe Acrobat-resurserna
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
 role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 71ce59aa12f402a2c5104c6f7acc6809a9ec9c19
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# Adobe Acrobat Skill Builder-webbseminarier
+# Resurser för Adobe Acrobat
 
-Adobe Acrobat Skill Builders är 30-minuterssessioner som tar dina arbetsflöden i PDF till nästa nivå. Varje månad markeras ett nytt ämne.
-
-Kolla in alla webbseminarier [här](https://www.adobe.com/acrobat/business/webinars.html).
+Utforska olika [resurser](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars) som webbseminarier, bloggar, rapporter, infografik och guider om du vill veta mer om Adobe Acrobat.

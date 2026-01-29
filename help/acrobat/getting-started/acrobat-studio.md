@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektivisera komplexa arbeten med Acrobat Studio - så att ditt team kan jobba snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces samt Adobe Express Premium. Dessa integrerade verktyg ökar teamets produktivitet genom att centralisera filer, möjliggöra AI-driven analys och stödja komplett innehållsskapande inom en enhetlig arbetsyta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475060?captions=swe&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE Efter roll]
+[!BADGE Teamspecifik]
 
 ## Hur Acrobat Studio hjälper olika team
 
