@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Använd Prepare Form-verktyget för att automatiskt lägga till formulärfält i
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448515?quality=12&learn=on&hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ Kombinationsegenskaper används för att sprida text jämnt över ett textfälts
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439896?hidetitle=true&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 

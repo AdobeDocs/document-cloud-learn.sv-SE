@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig använda redigeringsläget i Acrobat för att lägga till, ersätta, beskära, ändra storlek på, rotera och ordna foton direkt i en PDF på datorn och webben. Självstudien visar också hur du genererar och förfinar bilder från textmeddelanden med bildgeneratorn i appen som drivs av Adobe Express. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446933?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 
@@ -41,4 +41,4 @@ Lär dig använda redigeringsläget i Acrobat för att lägga till, ersätta, be
 
 * **Inköp**
 
-  Inköpsteamen kan använda redigeringsläget för att snabbt uppdatera leverantörstabeller, produktbilder och visuella detaljer i leverantörsförslag eller kontrakt, hålla källdokumenten korrekta och presentationsklara utan att behöva originalfilerna.
+  Inköpsteam kan använda redigeringsläget för att uppdatera leverantörstabeller, produktbilder och visuell information i leverantörsförslag eller kontrakt snabbt utan att behöva de ursprungliga filerna.

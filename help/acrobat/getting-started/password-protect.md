@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Lär dig hur du [lägger till ett lösenord till din PDF](https://www.adobe.com/
 
 >[!TIP]
 >
->Om du vill lösenordsskydda flera PDF-filer kan du prova att använda Actionen Wizard [&#128279;](../advanced-tasks/action.md).
+>Använd [Actionen Wizard](../advanced-tasks/action.md) för att lösenordsskydda flera PDF-filer.
 
 [!BADGE Teamspecifik]
 
@@ -30,11 +30,11 @@ Lär dig hur du [lägger till ett lösenord till din PDF](https://www.adobe.com/
 
 * **Juridisk**
 
-  Att skydda PDF säkerställer konfidentiella avtal, ärendefiler och kundkommunikation kan bara nås av auktoriserade parter, vilket minskar efterlevnads- och integritetsrisker.
+  Skydda PDF säkerställer att konfidentiella avtal, ärendefiler och kundkommunikation endast är tillgängliga för auktoriserade parter, vilket minskar efterlevnads- och integritetsrisker.
 
 * **Försäljning**
 
-  Genom att skydda förslag, prisblad och partneravtal kan konkurrenter eller obehöriga intressenter inte få tillgång till strategisk information.
+  Skydda förslag, prisblad och partneravtal säkerställer att konkurrenter eller obehöriga intressenter inte får tillgång till strategisk information.
 
 * **TIM**
 

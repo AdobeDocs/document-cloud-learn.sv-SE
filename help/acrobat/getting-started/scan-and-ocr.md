@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Papper till PDF
 
-Lär dig hur du skannar (eller tar en bild) av ett pappersdokument och förvandlar det till en sökbar och [redigerbar PDF-fil](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Genom att konvertera papper till PDF kan du snabbt hitta information och göra den tillgänglig för personer med funktionsnedsättning. I den här självstudiekursen visas [den nya Acrobat-upplevelsen](new-experience.md).
+Lär dig hur du skannar (eller tar en bild) av ett pappersdokument och förvandlar det till en sökbar och [redigerbar PDF-fil](https://www.adobe.com/se/acrobat/online/pdf-editor.html){target="_blank"}. Att konvertera papper till PDF gör det lättare att hitta information snabbt och göra den tillgänglig för personer med funktionsnedsättning. I den här självstudiekursen visas [den nya Acrobat-upplevelsen](new-experience.md).
 
 
 ## Så här gör du om papper till en PDF i Acrobat på en dator

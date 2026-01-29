@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Lär dig hur du komprimerar och optimerar storleken på en PDF-fil. Att komprime
 
    ![Optimera steg 2](../assets/Optimize_2.png)
 
-   Som standard är **Standard** valt på menyn **Inställningar**. Om du ändrar några inställningar i dialogrutan PDF-optimering växlar menyn **Inställningar** automatiskt till **Anpassad**. Om du vill förhindra att alla alternativ på en panel körs under optimeringen, avmarkerar du kryssrutan för den panelen.
+   Som standard är **Standard** valt på menyn **Inställningar**. Om du ändrar några inställningar i dialogrutan PDF-optimering växlar menyn **Inställningar** automatiskt till **Anpassad**. Om du vill förhindra att alla alternativ på en panel körs under optimeringen avmarkerar du kryssrutan för den panelen.
 
 1. (Valfritt) Om du vill spara de anpassade inställningarna väljer du **[!UICONTROL Spara]** och ger inställningarna ett namn. Om du vill ta bort en sparad inställning väljer du den i listrutan **Inställningar** och väljer **[!UICONTROL Ta bort]**.
 

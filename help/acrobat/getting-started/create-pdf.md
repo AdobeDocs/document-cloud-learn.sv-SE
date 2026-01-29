@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Skapa en PDF
 
-Lär dig hur du [skapar PDF från alla olika dokumenttyper](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats. Att omvandla innehåll till PDF är ett bekvämt och pålitligt sätt att dela, bevara och säkra dokument samtidigt som de behåller sin ursprungliga formatering. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
+Lär dig hur du [skapar PDF från alla olika dokumenttyper](https://www.adobe.com/se/acrobat/online/convert-pdf.html). Börja med en fil som skapats i Microsoft Office eller en Creative Cloud-app, eller använd en bild, en skanning eller till och med en webbplats. Att omvandla innehåll till PDF är ett bekvämt och pålitligt sätt att dela, bevara och säkra dokument samtidigt som de behåller sin ursprungliga formatering. Den här videosjälvstudiekursen använder [n-upplevelsen](new-experience.md).
 
 >[!TIP]
 >

@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
 # Ta bort känslig information
 
-Lär dig använda bortredigeringsverktyget för att permanent ta bort privat eller känslig information från en PDF och sanera sedan dokumentet för att ta bort information som inte syns i filen, t.ex. kommentarer, metadata eller dolda lager. Det är viktigt att du tar bort känsligt innehåll och dolda uppgifter permanent så att uppgifterna inte överförs när du publicerar PDF. Den här självstudiekursen använder [den nya Acrobat-upplevelsen](../getting-started/new-experience.md).
+Lär dig använda verktyget Redigera bort för att permanent ta bort privat eller känslig information från en PDF. I självstudiekursen får du även lära dig hur du animerar dokumentet för att ta bort information som inte syns i filen, till exempel kommentarer, metadata eller dolda lager. Det är viktigt att du tar bort känsligt innehåll och dolda uppgifter permanent så att uppgifterna inte överförs när du publicerar PDF. Den här självstudiekursen använder den [nya Acrobat-upplevelsen](../getting-started/new-experience.md).
 
 >[!NOTE]
 >

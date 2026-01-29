@@ -6,20 +6,20 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
 # Upptäck PDF-insikter med AI Assistant
 
-Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant. AI Assistant analyserar en PDF för att generera sammanfattningar, besvara frågor och extrahera insikter med tydliga tillskrivningar till källinnehållet - vilket minskar behovet av att manuellt läsa långa dokument. AI-genererade svar verifieras genom att länka direkt tillbaka till de exakta platserna i dokumentet, vilket möjliggör snabbare och mer tillförlitligt beslutsfattande. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
+Lär dig hur du får insikter från dina PDF-filer med hjälp av AI Assistant. AI Assistant analyserar en PDF för att generera sammanfattningar, besvara frågor och extrahera insikter med tydliga tillskrivningar till källinnehållet, vilket minskar behovet av att manuellt läsa långa dokument. AI-genererade svar verifieras genom att länka direkt tillbaka till de exakta platserna i dokumentet, vilket möjliggör snabbare och mer tillförlitligt beslutsfattande. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
 AI Assistant är tillgänglig för användare som köper Acrobat Studio- eller AI Assistant-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445826?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 
@@ -27,7 +27,7 @@ AI Assistant är tillgänglig för användare som köper Acrobat Studio- eller A
 
 * **Juridisk**
 
-  Juridiska team använder AI Assistant för att sammanfatta långa kontrakt, policyer och regeldokument, snabbt identifiera relevanta klausuler eller ändringar och verifiera insikter genom direkta citat till källtext. Detta påskyndar granskningen samtidigt som förtroende och spårbarhet upprätthålls.
+  Juridiska team använder AI Assistant för att sammanfatta långa kontrakt, policyer och regeldokument, snabbt identifiera relevanta klausuler eller ändringar och verifiera insikter genom direkta citat till källtext.
 
 * **Försäljning**
 

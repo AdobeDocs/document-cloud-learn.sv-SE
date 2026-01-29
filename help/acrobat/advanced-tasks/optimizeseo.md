@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Läs om hur du optimerar en PDF för förbättrad upptäckbarhet och rankning av
 
 ## &#x200B;1. Skapa unikt innehåll
 
-Skapa PDF-innehåll som skiljer sig från informationen på dina webbsidor.
+Skapa PDF-innehåll som skiljer sig från uppgifterna på dina webbsidor.
 
 +++Visa information om hur du skapar unikt innehåll
 
@@ -29,9 +29,9 @@ Innehållet i PDF bör vara unikt och strukturerat enligt följande:
 * Använda en enda huvudrubrik/titel som börjar med ett nyckelord
 * Använda nyckelordsunderrubriker ordnade i en hierarkisk struktur
 * Använda korta stycken som innehåller nyckelord och listor
-* Lägg till interna och externa hyperlänkar (innehåll på din webbplats eller andra webbplatser)
+* Lägg till internt och externt innehåll på din webbplats eller andra webbplatser med hyperlänkar
 * Lägga till en hyperlänkad innehållsförteckning för dokument som är längre än 25 sidor
-* Kör [textigenkänning](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=sv-SE) på alla skannade dokument
+* Kör [textigenkänning](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) på alla skannade dokument
 * Bygg PDF som är mobilvänliga
 Om du vill kontrollera mobilvisningsupplevelsen för PDF öppnar du filen i mobilappen [Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) och aktiverar Liquid Mode. Om det behövs kan du lägga till fler underrubriker för att förbättra navigeringen.
 
@@ -64,7 +64,7 @@ Prova att starta sammanfattningen med ett åtgärdsverb som Lär dig, Upptäck, 
 
 ## &#x200B;3. Tagga din PDF
 
-Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=sv-SE) för personer med funktionshinder, utan det förbättrar även SEO.
+Om du taggar innehåll i PDF blir filen [inte bara tillgänglig](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) för personer med funktionshinder, utan det förbättrar även SEO.
 
 +++Visa information om hur du taggar en PDF
 
@@ -88,7 +88,7 @@ Tagga en PDF på följande sätt:
 
 ## &#x200B;4. Förbered för webben
 
-Optimera interaktionen med PDF genom att förbereda den för webbvisning och [minska filstorleken för PDF](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimera PDF genom att förbereda det för webbvisning och [minska PDF-filens storlek](https://www.adobe.com/se/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Visa information om hur du förbereder din PDF för webben
 
@@ -141,4 +141,4 @@ Säkra PDF på följande sätt:
 
 +++
 
-Nu är din PDF redo att publiceras på webben - med optimala sökord rankning potential och slutanvändare interaktion.
+Nu är ditt PDF redo att publiceras på webben - med optimal nyckelordsklassificering och interaktion för slutanvändaren.

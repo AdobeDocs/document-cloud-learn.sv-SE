@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Läs mer om hur en intern juristgrupp använder PDF Spaces för att sammanföra 
 
 PDF Spaces är tillgängliga för användare som köper Acrobat Studio- eller AI Assistant-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475136?captions=swe&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 
@@ -27,20 +27,20 @@ PDF Spaces är tillgängliga för användare som köper Acrobat Studio- eller AI
 
 * **Juridisk**
 
-  Juridiska team använder PDF Spaces för att samla kontrakt, policyer och riktlinjer för regelefterlevnad i en enda arbetsyta, vilket gör det enklare att granska dokument tillsammans, identifiera ändringar och generera citerade sammanfattningar som stöder korrekt och granskningsbart beslutsfattande.
+  Juridiska team använder PDF Spaces för att centralisera kontrakt, policyer och vägledning, vilket gör det enklare att granska dokument tillsammans, spåra ändringar och generera korrekta, granskningsbara sammanfattningar.
 
 * **Försäljning**
 
-  Säljteamen använder PDF Spaces för att samla in förslag, RFP-dokument och stödmaterial på ett och samma ställe, så att de kan granska innehåll effektivt, extrahera viktiga punkter och förbereda kundklara svar snabbare.
+  Säljteamen använder PDF Spaces för att samla förslag, offertplaner och stödmaterial på ett och samma ställe, vilket hjälper dem att granska innehåll effektivt, extrahera viktiga punkter och förbereda kundklara svar snabbare.
 
 * **TIM**
 
-  HR-teamen använder PDF Spaces för att organisera policydokument, introduktionsmaterial och utbildningsresurser och snabbt generera tydliga sammanfattningar eller referensanteckningar som kan delas på ett enhetligt sätt i hela organisationen.
+  HR-teamen använder PDF Spaces för att organisera policyer, introduktionsmaterial och utbildningsresurser och snabbt generera tydliga sammanfattningar eller referensanteckningar för konsekvent delning i hela organisationen.
 
 * **Ekonomi**
 
-  Ekonomiteamen använder PDF Spaces för att granska rapporter, kalkylblad och stöddokumentation i sitt sammanhang, vilket gör det enklare att jämföra information, få nyckelinsikter om olika aspekter av IT-lösningar och stödja chefsrapportering.
+  Ekonomiteamen använder PDF Spaces för att granska rapporter, kalkylblad och stöddokument i sitt sammanhang, vilket gör det enklare att jämföra information, yteinsikter och supportchefsrapportering.
 
 * **Inköp**
 
-  Upphandlingsteam använder PDF Spaces för att centralisera alla leverantörsrelaterade dokument - såsom kontrakt, offerter, anbud, verksamhetsförklaringar, formulär för regelefterlevnad och förhandlingsanteckningar - till delade, organiserade arbetsytor. Detta hjälper till att effektivisera samarbetet med intressenter, spåra versioner och godkännanden, upprätthålla konsekvensen i alla källprocesser och säkerställa att alla dokument förblir säkra, tillgängliga och lätta att hitta under hela anskaffningslivscykeln.
+  De anskaffande teamen använder PDF Spaces för att samla alla leverantörsdokument på en arbetsyta, där AI automatiskt sammanfattar innehåll, belyser viktiga ändringar och tar fram viktiga insikter.

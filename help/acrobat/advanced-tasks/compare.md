@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Kostnadsbesparingar, organisatorisk effektivitet, tidsbesparingar, kvalitetssäk
 
 >[!TIP]
 >
->Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/sv/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon är en del av spellistan [Utför avancerade åtgärder i Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) som är tillgänglig kostnadsfritt på Experience League!
 
 >[!NOTE]
 >

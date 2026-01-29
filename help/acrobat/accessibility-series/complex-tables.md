@@ -5,22 +5,22 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Komplexa tabeller
 
-Lär dig tagga tabeller för tillgänglighet i Acrobat. De ämnen som behandlas är: ange alternativ för tabellredigerare, identifiera celltypen (TD eller TH), ange rubrikens omfattning och intervall, skapa en tabellsammanfattning, generera rubrikcell-ID:n, koppla dataceller till rubrikcell-ID:n och skapa en upprepande rubrikrad.
+Lär dig tagga tabeller för tillgänglighet i Acrobat. De ämnen som behandlas är bland annat inställning av alternativ för tabellredigerare, identifiering av celltypen (TD eller TH), inställning av rubrikens omfång och intervall och skapande av en tabellsammanfattning. I självstudiekursen behandlas även generering av rubrikcell-ID:n, koppling av dataceller med rubrikcell-ID:n och artefakter i en upprepande rubrikrad.
 
 >[!NOTE]
 >
 >Endast tillgängligt i Acrobat Pro, Premium och Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477956?captions=swe&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

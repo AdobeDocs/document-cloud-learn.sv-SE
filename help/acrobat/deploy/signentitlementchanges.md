@@ -1,15 +1,15 @@
 ---
 title: Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder
-description: Läs mer om viktiga ändringar av Acrobat DC-berättiganden som ingår i ETLA (Enterprise Term License Agreement) som erbjuds från och med augusti 2020 till och med den 20 november 2020
+description: Läs mer om viktiga ändringar av Acrobat DC-berättiganden som ingår i ETLA (Enterprise Term License Agreement) som inleds från augusti 2020 till och med den 20 november 2020
 feature: Deploy
 role: Admin
 level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Om du inte har uppdaterat Acrobat DC till den senaste versionen kan verktyget va
 
 ## Varför avetablerar vi detta?
 
-[I oktober 2018 släppte vi ett helt nytt Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Den senaste versionen innehåller nya verktyg och funktioner som gör att du kan arbeta med PDF på mobila enheter, webben och datorn, plus helt nya samarbetsverktyg. Om du prenumererar på Acrobat DC bör du redan ha tillgång till de här fantastiska funktionerna. En annan stor uppdatering som vi släppte gällde vår lösning för elektroniska signaturer, Adobe Sign.
+[I oktober 2018 släppte vi ett helt nytt Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Den senaste versionen innehåller nya verktyg och funktioner som gör att du kan arbeta med PDF på mobila enheter, webben och datorn, plus helt nya samarbetsverktyg. Om du prenumererar på Acrobat DC bör du redan ha tillgång till de här fantastiska funktionerna. En annan stor uppdatering som släpptes var till vår lösning för elektroniska signaturer Adobe Sign.
 
 Före oktober 2018-versionen har Acrobat DC-användare kunnat skicka dokument för e-signering med verktyg i Acrobat som är märkta &quot;Fill &amp; Sign&quot; (eller &quot;Adobe Sign&quot; eller &quot;Send for Signature&quot;) och som har tilldelats [!DNL Adobe Sign Individual]-behörighet.
 
@@ -57,7 +57,7 @@ Användare kan fortfarande komma åt alla avtal som skickas ut före den här å
 
 ## Acrobat DC-upplevelse utan [!DNL Sign Individual]-berättigande
 
-Användare som har Adobe Sign Enterprise-berättiganden kan skicka avtal inom Acrobat med antingen Adobe Sign- eller [!UICONTROL Fill &amp; Sign]-verktyget (Begär signaturer).
+Användare med Adobe Sign Enterprise-behörighet kan skicka avtal inom Acrobat med verktyget Adobe Sign eller [!UICONTROL Fill &amp; Sign] (Begär signaturer).
 Användare som inte har Adobe Sign Enterprise-berättiganden kan inte skicka ut nya avtal och får ett felmeddelande. Grafiken nedan visar möjliga resultat.
 
 ![Felmeddelande för Acrobat DC-upplevelsen](../assets/Deploy_SignEntitle2.png)
@@ -70,8 +70,8 @@ Användare kan logga in på https://documentcloud.adobe.com/ för att komma åt 
 
 ## Mer information finns på följande sidor:
 
-* [Logga in på Adobe Document Cloud](https://helpx.adobe.com/se/document-cloud/help/sign-in.html)
-* [Hantera filer (var är mina filer?)](https://helpx.adobe.com/se/document-cloud/help/manage-files.html)
+* [Logga in på Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [Hantera filer (var är mina filer?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [Använder [!UICONTROL Acrobat Customization Wizard] för konfiguration](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Översikt över [!UICONTROL Admin Console]](https://helpx.adobe.com/se/enterprise/using/admin-console.html)
 * [Hantera Adobe Sign på [!UICONTROL Admin Console]](https://helpx.adobe.com/se/enterprise/using/adobe-sign-for-enterprise.html)
