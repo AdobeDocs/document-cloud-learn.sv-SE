@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # Översikt över avancerade uppgifter
 
-Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Skapa funktionsmakron för att automatisera repetitiva uppgifter, ta bort känslig information, optimera stora filer, samla in formulärdata och producera lättillgänglig PDF. Kolla in den här expertkurerade [spellistan](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) om du vill utföra avancerade åtgärder i Acrobat.
+Gå bortom grunderna med dessa avancerade verktyg i Acrobat. Skapa funktionsmakron för att automatisera repetitiva uppgifter, ta bort känslig information, optimera stora filer, samla in formulärdata och producera lättillgänglig PDF. Kolla in den här expertkurerade [spellistan](https://experienceleague.adobe.com/sv/playlists/acrobat-peform-advanced-tasks) om du vill utföra avancerade åtgärder i Acrobat.
 
 ## Nyheter
 
@@ -44,8 +44,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" title="Komprimera och optimera en PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="Komprimera och optimera en PDF"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" title="Komprimera och optimera en PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="Komprimera och optimera en PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,11 +53,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" title="Komprimera och optimera en PDF">Komprimera och optimera en PDF</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" title="Komprimera och optimera en PDF">Komprimera och optimera en PDF</a>
                     </p>
                     <p class="is-size-6">Minska stora filer utan att kompromissa med kvaliteten</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läsa</span>
                 </a>
             </div>
@@ -67,8 +67,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" title="Optimera skannade dokument" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="Optimera skannade dokument"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" title="Optimera skannade dokument" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="Optimera skannade dokument"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,11 +76,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" title="Optimera skannade dokument">Optimera skannade dokument</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" title="Optimera skannade dokument">Optimera skannade dokument</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du förbättrar skannade dokument</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -90,8 +90,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" title="Optimize PDF för SEO (Search Engine Optimization)" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="Optimize PDF för SEO (Search Engine Optimization)"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" title="Optimize PDF för SEO (Search Engine Optimization)" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="Optimize PDF för SEO (Search Engine Optimization)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,11 +99,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" title="Optimize PDF för SEO (Search Engine Optimization)">Optimize PDF för SEO (sökmotoroptimering)</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" title="Optimize PDF för SEO (Search Engine Optimization)">Optimize PDF för SEO (sökmotoroptimering)</a>
                     </p>
                     <p class="is-size-6">Optimera en PDF för SEO (Search Engine-optimering)</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läsa</span>
                 </a>
             </div>
@@ -113,8 +113,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" title="Lägga till bokmärken och hyperlänkar" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="Lägga till bokmärken och hyperlänkar"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" title="Lägga till bokmärken och hyperlänkar" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="Lägga till bokmärken och hyperlänkar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,11 +122,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" title="Lägga till bokmärken och hyperlänkar">Lägga till bokmärken och hyperlänkar</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" title="Lägga till bokmärken och hyperlänkar">Lägga till bokmärken och hyperlänkar</a>
                     </p>
                     <p class="is-size-6">Lägga till bokmärken och hyperlänkar för bättre navigering</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -136,8 +136,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" title="Förbättra din PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="Förbättra din PDF"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" title="Förbättra din PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="Förbättra din PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,11 +145,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" title="Förbättra din PDF">Förbättra din PDF</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" title="Förbättra din PDF">Förbättra din PDF</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du gör om din PDF i den här praktiska självstudiekursen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Kom igång</span>
                 </a>
             </div>
@@ -159,8 +159,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" title="Identifiera skillnader mellan två PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="Identifiera skillnader mellan två PDF"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" title="Identifiera skillnader mellan två PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="Identifiera skillnader mellan två PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,11 +168,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" title="Identifiera skillnader mellan två PDF">Identifiera skillnader mellan två PDF</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" title="Identifiera skillnader mellan två PDF">Identifiera skillnader mellan två PDF</a>
                     </p>
                     <p class="is-size-6">Identifiera snabbt skillnaderna mellan två PDF-filer</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -189,8 +189,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" title="Arbeta med formulärfält" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="Arbeta med formulärfält"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" title="Arbeta med formulärfält" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="Arbeta med formulärfält"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,11 +198,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" title="Arbeta med formulärfält">Arbeta med formulärfält</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" title="Arbeta med formulärfält">Arbeta med formulärfält</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du lägger till olika typer av formulärfält och egenskaper i den här praktiska självstudiekursen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Kom igång</span>
                 </a>
             </div>
@@ -212,8 +212,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" title="Avancerade formulärfält" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="Avancerade formulärfält"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" title="Avancerade formulärfält" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="Avancerade formulärfält"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,11 +221,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" title="Avancerade formulärfält">Avancerade formulärfält</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" title="Avancerade formulärfält">Avancerade formulärfält</a>
                     </p>
                     <p class="is-size-6">Lär dig skapa avancerade formulärfält</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -235,8 +235,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" title="Arbeta med formulärdata" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="Arbeta med formulärdata"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" title="Arbeta med formulärdata" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="Arbeta med formulärdata"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,11 +244,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" title="Arbeta med formulärdata">Arbeta med formulärdata</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" title="Arbeta med formulärdata">Arbeta med formulärdata</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du kompilerar formulärdata till ett enda kalkylblad</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läsa</span>
                 </a>
             </div>
@@ -265,8 +265,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" title="Ta bort känslig information" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="Ta bort känslig information"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" title="Ta bort känslig information" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="Ta bort känslig information"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,11 +274,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" title="Ta bort känslig information">Ta bort känslig information</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" title="Ta bort känslig information">Ta bort känslig information</a>
                     </p>
                     <p class="is-size-6">Lär dig ta bort känslig information permanent</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läsa</span>
                 </a>
             </div>
@@ -295,8 +295,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" title="Guidade åtgärder" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="Guidade åtgärder"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" title="Guidade åtgärder" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="Guidade åtgärder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -304,11 +304,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" title="Guidade åtgärder">Guidade åtgärder</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" title="Guidade åtgärder">Guidade åtgärder</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du förbättrar effektiviteten med hjälp av guidade åtgärder</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -318,8 +318,8 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" title="Anpassade kommandon och verktyg" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="Anpassade kommandon och verktyg"
+                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" title="Anpassade kommandon och verktyg" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="Anpassade kommandon och verktyg"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -327,11 +327,11 @@ Lär dig hur du förbättrar effektiviteten med [guidade åtgärder](action.md).
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" title="Anpassade kommandon och verktyg">Anpassade kommandon och verktyg</a>
+                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" title="Anpassade kommandon och verktyg">Anpassade kommandon och verktyg</a>
                     </p>
                     <p class="is-size-6">Lär dig att förbättra arbetsflödets effektivitet</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>

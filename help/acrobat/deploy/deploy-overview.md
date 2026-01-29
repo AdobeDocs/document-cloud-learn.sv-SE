@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Artiklar om driftsättning och bästa praxis med värdefull insikt och kunskap som erhålls genom att arbeta med kunder.
 
-* Lär dig att [distribuera Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} om du använder Adobe® Creative Cloud™ for teams eller enterprise.
+* Lär dig att [distribuera Adobe Acrobat](https://helpx.adobe.com/se/enterprise/using/deploying-acrobat.html){target="_blank"} om du använder Adobe® Creative Cloud™ for teams eller enterprise.
 
 * Läs mer om [Enterprise Toolkit för Acrobat-produkter](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} för att distribuera anpassade produkter i hela organisationen, konfigurera virtualiserade installationer och skapa arbetsflöden för företag i PDF.
 

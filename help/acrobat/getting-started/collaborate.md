@@ -22,4 +22,4 @@ Med fjärrarbete överallt är det viktigt med sömlöst samarbete för att kunn
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [Kom igång med Adobe Acrobat](https://experienceleague.adobe.com/sv/playlists/acrobat-get-started-business-users) som är tillgänglig kostnadsfritt på Experience League!
