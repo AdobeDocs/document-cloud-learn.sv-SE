@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig använda Stilisera den här PDF för att förbättra utseendet på en PDF genom att tillämpa teckensnittsrekommendationer, färgteman, bilder och designelement med verktyg i appen som drivs av [Adobe Express](https://express.adobe.com). I självstudiekursen får du också lära dig hur du förfinar layouter, lägger till Adobe Stock- eller AI-genererade bilder och anpassar textstilar för att skapa snygga, proffsiga dokument. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445545?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 

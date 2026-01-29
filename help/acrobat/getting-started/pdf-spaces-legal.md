@@ -19,7 +19,7 @@ Läs mer om hur en intern juristgrupp använder PDF Spaces för att sammanföra 
 
 PDF Spaces är tillgängliga för användare som köper Acrobat Studio- eller AI Assistant-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475136?captions=swe&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig använda redigeringsläget i Acrobat för att lägga till, ersätta, beskära, ändra storlek på, rotera och ordna foton direkt i en PDF på datorn och webben. Självstudien visar också hur du genererar och förfinar bilder från textmeddelanden med bildgeneratorn i appen som drivs av Adobe Express. Den här videosjälvstudiekursen använder den [nya Acrobat-upplevelsen](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446933?captions=swe&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 
