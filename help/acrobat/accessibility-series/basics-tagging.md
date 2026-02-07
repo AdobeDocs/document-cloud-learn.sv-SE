@@ -25,4 +25,4 @@ Lär dig grunderna i hur du taggar en PDF-fil för att göra den åtkomlig. Ämn
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/sv/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!

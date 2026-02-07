@@ -22,4 +22,4 @@ Läs mer om vad en tillgänglig PDF-fil är och varför den är viktig.
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/sv/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!

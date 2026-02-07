@@ -25,4 +25,4 @@ Lär dig hur du gör skannade dokument tillgängliga i Acrobat. Inläst PDF kan 
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/sv/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!

@@ -22,4 +22,4 @@ Lär dig hur du lägger alla hjälpmedelsverktyg nära till hands för att effek
 
 >[!TIP]
 >
->Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!
+>Den här videon ingår i spellistan [PDF Accessibility series](https://experienceleague.adobe.com/sv/playlists/acrobat-pdf-accessibility) som är tillgänglig kostnadsfritt på Experience League!
