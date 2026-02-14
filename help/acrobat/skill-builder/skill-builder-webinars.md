@@ -16,4 +16,4 @@ ht-degree: 0%
 
 # Resurser för Adobe Acrobat
 
-Utforska olika [resurser](https://business.adobe.com/resources/acrobat.html?ch_Content-Type=Webinars) som webbseminarier, bloggar, rapporter, infografik och guider om du vill veta mer om Adobe Acrobat.
+Utforska olika [resurser](https://business.adobe.com/se/resources/acrobat.html?ch_Content-Type=Webinars) som webbseminarier, bloggar, rapporter, infografik och guider om du vill veta mer om Adobe Acrobat.
