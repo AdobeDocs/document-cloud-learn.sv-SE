@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur enkelt det är att delegera signeringen av ett dokument till någon annan.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3479526?captions=swe&quality=12&learn=on&hidetitle=true)
