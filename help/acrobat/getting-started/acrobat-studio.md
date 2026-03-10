@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
+source-git-commit: 3343ab883acf6e350814ccbf3eceb49eb33c6d5e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Vad är Acrobat Studio?
 
-Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektivisera komplexa arbeten med Acrobat Studio - så att ditt team kan jobba snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces samt Adobe Express Premium. Utforska de interaktiva alternativen *Prova nu* nedan och lär dig hur Acrobat Studio effektiviserar ditt teams arbete.
+Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektivisera komplexa arbeten med Acrobat Studio - så att ditt team kan jobba snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces samt Adobe Express Premium. Utforska de interaktiva alternativen **Prova nu** nedan och lär dig hur Acrobat Studio effektiviserar ditt teams arbete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475060?captions=swe&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 
@@ -41,4 +41,4 @@ Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektiviser
 
 * **Ekonomi**
 
-  Lär dig hur ekonomiteam kan arbeta snabbare med ekonomisk rapportering - utan att kompromissa med noggrannhet, förtroende eller kontroll. [Prova nu]https://w.adobedemo.com/s/31LpAI.
+  Lär dig hur ekonomiteam kan arbeta snabbare med ekonomisk rapportering - utan att kompromissa med noggrannhet, förtroende eller kontroll. [Prova nu](https://w.adobedemo.com/s/31LpAI.)
