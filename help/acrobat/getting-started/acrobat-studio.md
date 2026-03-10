@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: daca53a7b806bcac06d6c7ac9e1e75c2e6555447
+source-git-commit: cbd35489e8b5736ef7461ea60d357bf4df1f5fd9
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektivisera komplexa arbeten med Acrobat Studio - så att ditt team kan jobba snabbare. Acrobat Studio är en allt-i-ett-lösning som innehåller Acrobat Pro, AI Assistant, PDF Spaces samt Adobe Express Premium. Utforska de interaktiva alternativen **Prova nu** nedan och lär dig hur Acrobat Studio effektiviserar ditt teams arbete.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475060?captions=swe&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspecifik]
 
@@ -25,15 +25,15 @@ Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektiviser
 
 * **Juridik och efterlevnad**
 
-  Centralisera policyer, avtal och regelvägledning i en arbetsyta och använd sedan AI Assistant för att ta fram förändringar, identifiera risker och generera kompatibla uppdateringar med verifierbara citat. **[Prova nu](https://w.adobedemo.com/s/ujZN1y).**
+  Centralisera policyer, avtal och regelvägledning i en arbetsyta och använd sedan AI Assistant för att ta fram förändringar, identifiera risker och generera kompatibla uppdateringar med verifierbara citat. **[Prova nu](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
 
 * **Personalresurser**
 
-  Omvandla komplexa policydokument till tydliga sammanfattningar, vanliga frågor och svar och material som är klart för anställda, samtidigt som budskapen förblir konsekventa och kompatibla. **[Prova nu](https://w.adobedemo.com/s/NvvfVm).**
+  Omvandla komplexa policydokument till tydliga sammanfattningar, vanliga frågor och svar och material som är klart för anställda, samtidigt som budskapen förblir konsekventa och kompatibla. **[Prova nu](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
 
 * **Försäljning**
 
-  Samla snabbt ihop förslag och svar på anbudsförfrågningar genom att hämta godkänt innehåll från befintliga dokument och omvandla det till proffsiga, kundklara filer. **[Prova nu](https://w.adobedemo.com/s/HEEljN).**
+  Samla snabbt ihop förslag och svar på anbudsförfrågningar genom att hämta godkänt innehåll från befintliga dokument och omvandla det till proffsiga, kundklara filer. **[Prova nu](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
 
 * **Marknadsföring och kommunikation**
 
@@ -41,4 +41,4 @@ Lär dig skapa varumärkessäkert innehåll, extrahera insikter och effektiviser
 
 * **Ekonomi**
 
-  Lär dig hur ekonomiteam kan arbeta snabbare med ekonomisk rapportering - utan att kompromissa med noggrannhet, förtroende eller kontroll. **[Prova nu](https://w.adobedemo.com/s/31LpAI.)**
+  Lär dig hur ekonomiteam kan arbeta snabbare med ekonomisk rapportering - utan att kompromissa med noggrannhet, förtroende eller kontroll. **[Prova nu](https://w.adobedemo.com/s/31LpAI.){target="_blank"}**
