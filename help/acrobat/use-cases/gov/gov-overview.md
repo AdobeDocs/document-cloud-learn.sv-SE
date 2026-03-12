@@ -1,24 +1,24 @@
 ---
 title: Acrobat för myndigheter
-description: Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för myndigheter på det federala, statliga och lokala planet
+description: Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statliga och lokala myndigheter
 feature: Accessibility, Collaboration, Workspace, Mobile, Security
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: e36b88249f86014c21f869b0ed274c9570ef4b40
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
 
 # Acrobat för myndigheter
 
-Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för myndigheter på olika nivåer.
+Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statliga och lokala myndigheter.
 
-## 5 tips för att arbeta var som helst med Acrobat
+## Fem tips för att arbeta var som helst med Acrobat
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -26,8 +26,8 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/5-tips-for-working-anywhere-with-acrobat-dc-for-government" title="5 tips för att arbeta var som helst med Acrobat (15:12)" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="5 tips för att arbeta var som helst med Acrobat (15:12)"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government" title="Fem tips för att arbeta var som helst med Acrobat (komplett 15:12)" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="Fem tips för att arbeta var som helst med Acrobat (komplett 15:12)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -35,12 +35,12 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" title="5 tips för att arbeta var som helst med Acrobat (15:12)">5 tips för att arbeta var som helst med Acrobat (15:12)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" title="Fem tips för att arbeta var som helst med Acrobat (komplett 15:12)">5 tips om hur du kan arbeta var som helst med Acrobat (komplett 15:12)</a>
                     </p>
-                    <p class="is-size-6">Lär dig hur du får och använder verktygen i Acrobat och dess tillhörande mobilappar för att arbeta var du än är</p>
+                    <p class="is-size-6">Lär dig hur du får och använder verktygen i Acrobat och dess tillhörande mobilappar för att arbeta var som helst</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
         </div>
@@ -49,8 +49,8 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/get-your-tools" title="Tips 1 - Få dina verktyg" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="Tips 1 - Få dina verktyg"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/get-your-tools" title="Tips #1 - Få dina verktyg" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="Tips #1 - Få dina verktyg"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,12 +58,12 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/get-your-tools" target="_self" rel="referrer" title="Tips 1 - Få dina verktyg">Tips nr 1 - Få dina verktyg</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/get-your-tools" target="_self" rel="referrer" title="Tips #1 - Få dina verktyg">Tips #1 - skaffa dina verktyg</a>
                     </p>
-                    <p class="is-size-6">Det första steget mot att börja arbeta var du än är är att få tillgång till dina Acrobat-verktyg och tillhörande mobilappar</p>
+                    <p class="is-size-6">Det första steget för att börja arbeta var du än är att skaffa dina Acrobat-verktyg och tillhörande mobilappar</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/get-your-tools" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/get-your-tools" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
         </div>
@@ -72,8 +72,8 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/collaborate-on-documents" title="Tips 2 - Samarbeta om dokument" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="Tips #2 - Samarbeta om dokument"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/collaborate-on-documents" title="Tips #2 - Samarbeta om dokument" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="Tips #2 - Samarbeta om dokument"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,11 +81,11 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/collaborate-on-documents" target="_self" rel="referrer" title="Tips #2 - Samarbeta om dokument">Tips #2 - Samarbeta om dokument</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/collaborate-on-documents" target="_self" rel="referrer" title="Tips #2 - Samarbeta om dokument">Tips #2 - Samarbeta om dokument</a>
                     </p>
                     <p class="is-size-6">Skapa enkla och smidiga arbetsflöden för samarbete i dokument</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/collaborate-on-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/collaborate-on-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -95,8 +95,8 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/protect-digital-documents" title="Tips #3 - Protect digitala dokument" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="Tips #3 - Protect digitala dokument"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/protect-digital-documents" title="Tips #3 - Protect digitala dokument" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="Tips #3 - Protect digitala dokument"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,11 +104,11 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/protect-digital-documents" target="_self" rel="referrer" title="Tips #3 - Protect digitala dokument">#3 - Protect digitala dokument</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/protect-digital-documents" target="_self" rel="referrer" title="Tips #3 - Protect digitala dokument">#3 - Protect digitala dokument</a>
                     </p>
                     <p class="is-size-6">Lägg till ett lösenord till din PDF för att förhindra kopiering, redigering eller utskrift</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/protect-digital-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/protect-digital-documents" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -118,8 +118,8 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/work-with-forms-and-signatures" title="Tips #4 - Arbeta med formulär och signaturer" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="Tips #4 - Arbeta med formulär och signaturer"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/work-with-forms-and-signatures" title="Tips #4 - Arbeta med formulär och signaturer" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="Tips #4 - Arbeta med formulär och signaturer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,11 +127,11 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/work-with-forms-and-signatures" target="_self" rel="referrer" title="Tips #4 - Arbeta med formulär och signaturer">Tips #4 - Arbeta med formulär och signaturer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/work-with-forms-and-signatures" target="_self" rel="referrer" title="Tips #4 - Arbeta med formulär och signaturer">Tips #4 - Arbeta med formulär och signaturer</a>
                     </p>
                     <p class="is-size-6">Lär dig hur du håller dig digital när du fyller i formulär</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/work-with-forms-and-signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/work-with-forms-and-signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
@@ -141,8 +141,8 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/scan-and-edit-on-mobile" title="Tips nr 5 - Skanna och redigera på mobilen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="Tips nr 5 - Skanna och redigera på mobilen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/scan-and-edit-on-mobile" title="Tips #5 - Skanna och redigera på mobilen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="Tips #5 - Skanna och redigera på mobilen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,12 +150,12 @@ Utforska våra självstudiekurser från Acrobat som tagits fram speciellt för m
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/scan-and-edit-on-mobile" target="_self" rel="referrer" title="Tips nr 5 - Skanna och redigera på mobilen">Tips nr 5 - Skanna och redigera på mobilen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/scan-and-edit-on-mobile" target="_self" rel="referrer" title="Tips #5 - Skanna och redigera på mobilen">Tips #5 Skanna och redigera på mobilen</a>
                     </p>
-                    <p class="is-size-6">Lär dig hur du arbetar med Adobe Scan och Acrobat Reader mobilappar för att få jobbet gjort var du än är</p>
+                    <p class="is-size-6">Lär dig arbeta med Adobe Scan- och Acrobat Reader-mobilappar för att få jobbet gjort var som helst</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview/scan-and-edit-on-mobile" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/scan-and-edit-on-mobile" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Titta</span>
                 </a>
             </div>
         </div>
