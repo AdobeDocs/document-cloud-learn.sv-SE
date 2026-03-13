@@ -1,22 +1,56 @@
 ---
-title: Användningsexempel
-description: Se hur ni kan omvandla kundupplevelsen och medarbetarnas upplevelser genom att utforska olika användningsfall
+title: Översikt över användningsfall
+description: Utforska olika användningsexempel och lär dig hur Acrobat kan förändra ditt material
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Användningsexempel
+# Översikt över användningsfall
 
-Lär dig hur du kan använda Acrobat för att öka produktiviteten och omvandla information till åtgärdbara insikter för ditt team.
+Läs om hur ni kan använda Acrobat för att öka produktiviteten och omvandla information till åtgärdbara insikter för ert team och er bransch.
+
+## Affärsområde
+
+Upptäck hur team inom olika verksamhetsområden använder Acrobat för att hantera vardagliga dokumentutmaningar, effektivisera arbetsflöden och stödja affärskritiskt arbete.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="Användningsexempel" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>Ekonomisk användning</strong></a>
+    </div>
+    <em>Lär dig hur ekonometeam använder Acrobat för att skapa, hantera, analysera och skydda finansiella dokument</em>
+    <br>
+  </td>
+  <td>
+        <img alt="Avstånd" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Avstånd" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Avstånd" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## Bransch
 
@@ -27,7 +61,7 @@ Lär dig hur du kan använda Acrobat för att öka produktiviteten och omvandla 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat för myndigheter" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat för myndigheter"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat för myndigheter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
