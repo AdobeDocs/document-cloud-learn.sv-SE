@@ -1,37 +1,37 @@
 ---
-title: Förbereda verksamhetsklara finansiella dokument från insikt till leverans
-description: Lär dig hur ekonomiteamen använder Acrobat Studio för att gå från analys till leverans
+title: Förbered exekutiva dokument från Insight till Delivery
+description: Läs om hur man inom finanssektorn använder Acrobat Studio för att gå från analys till leverans
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
+source-git-commit: 57155812d67c812370d0b5d93f03211b5e1c25f7
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
-# Förbereda verksamhetsklara finansiella dokument från insikt till leverans
+# Förbered exekutiva dokument från insikt till leverans
 
-Lär dig hur ekonomiteamen använder Acrobat Studio för att gå från analys till leverans genom att konsolidera finansiella dokument, samarbeta säkert med intressenter och skapa rapporter och presentationer som är redo för chefer. Det här kompletta arbetsflödet visar hur du får insikter, hanterar granskningar, använder varumärkeskonsekvent design och levererar säkra, revisionsklara ekonomiska material för ledarskap och styrelserapportering. Detta användningsfall är utformat för att slutföras i följd. Varje video bygger på det föregående steget i arbetsflödet.
+Läs om hur olika finansteam använder Acrobat Studio för att gå från analys till leverans genom att konsolidera finansiella dokument, samarbeta säkert med intressenter och skapa rapporter och presentationer som är klara för ledningen. Det kompletta arbetsflödet visar hur man kan få insikter, hantera granskningar, tillämpa enhetlig design och leverera säkert, revisionsfärdigt material för ledarskap och styrelserapporter. Det här användningsfallet är utformat för att slutföras i sekvens. Varje video bygger på föregående steg i arbetsflödet.
 
-## Förstå det ekonomiska resultatet
+## &#x200B;1. Förstärk det finansiella resultatet
 
-Börja med att konsolidera finansiella dokument och ta fram viktiga insikter för att förbereda information för chefsgranskning.
+Börja med att konsolidera finansiella dokument och få viktiga insikter för att förbereda information för granskning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## Samarbeta om ekonomiska rapporter
+## &#x200B;2. Samarbeta om ekonomiska rapporter
 
-Samla intressenter för att granska ekonomiskt material, dela feedback och förfina insikter på en säker arbetsyta.
+Samla intressenter för att granska ekonomiskt material, dela feedback och förfina insikter i en säker arbetsyta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## Skapa presentationer redo för företagsledare
+## &#x200B;3. Skapa färdiga presentationer
 
-Förvandla validerade insikter till proffsiga presentationer i eget varumärke och säkra finansiella produkter för ledarskap.
+Förvandla validerade insikter till prydliga varumärkesanpassade presentationer och säkra ekonomiska resultat för ledarskap.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
