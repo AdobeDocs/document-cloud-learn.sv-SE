@@ -1,57 +1,58 @@
 ---
 title: Översikt över användningsfall för Acrobat Finance
-description: Läs om hur olika finansteam använder Acrobat för att skapa, hantera, analysera och skydda finansiella dokument
+description: Lär dig hur ekonomiteam använder Acrobat för att skapa, hantera, analysera och säkra affärsdokument
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
 
-# Översikt över användningsfall för Acrobat
+# Översikt över användningsfall för Acrobat-finansiering
 
-Utforska finansspecifika arbetsflöden som visar hur Acrobat kan hantera dokumentframtagning, dataanalys, godkännanden, säkerhet och regelefterlevnad vid rapportering, budgetering och revision.
+Utforska finansspecifika arbetsflöden som visar hur Acrobat stöder dokumentgenerering, dataanalys, godkännanden, säkerhet och regelefterlevnad i rapporterings-, budget- och granskningsprocesser.
 
 ## Nyheter
 
 >[!BEGINTABS]
 
->[!TAB Förvandla ekonomiska rapporter till chefsklara insikter]
+>[!TAB Förvandla ekonomiska rapporter till insikter redo för verkställande]
 
-Lär dig hur finansiella team kan konsolidera ekonomisk information för att snabbt få överblick över nyckelresultatet [insight](finance-insights.md).
+Lär dig hur ekonomiteam kan konsolidera ekonomisk information för att snabbt få fram viktiga resultat [insikter](finance-insights.md).
 
 >[!ENDTABS]
 
-## Självstudiekurser för användningsfall inom finanssektorn
+## Självstudiekurser om ekonomiska användningsfall
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="Förvandla ekonomiska rapporter till chefsklara insikter" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="Förbereda verksamhetsklara finansiella dokument från insikt till leverans" src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong>Förvandla ekonomiska rapporter till chefsklara insikter</strong></a>
+    <a href="finance-insights.md"><strong>Förbered verksamhetsklara finansiella dokument från insikt till leverans</strong></a>
     </div>
-    <em>Lär dig hur finansiella team kan sammanställa finansiell information för att snabbt få fram viktiga resultatinsikter</em>
+    <em>Lär dig hur ekonomiteamen använder Acrobat Studio för att gå från analys till leverans</em>
     <br>
   </td>
   <td>
-        <img alt="Avstånd" src="../../../assets/Whitespacer.png" />
+        <img alt="Avgränsare" src="../../../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-        <img alt="Avstånd" src="../../../assets/Whitespacer.png" />
+        <img alt="Avgränsare" src="../../../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-        <img alt="Avstånd" src="../../../assets/Whitespacer.png" />
+        <img alt="Avgränsare" src="../../../assets/Whitespacer.png" />
         <div>
         <br>
   </td>

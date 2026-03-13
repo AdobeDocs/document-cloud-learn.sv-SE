@@ -1,20 +1,20 @@
 ---
-user-guide-title: Acrobat självstudiekurser
+user-guide-title: Acrobat Tutorials
 solution: Acrobat
-breadcrumb-title: Acrobat självstudiekurser
+breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6bfbb75a89221e4ac63e3922f8763326f85bdca
+source-git-commit: 8c7b6e8e80f89e5f2c5f6a1d957657096bccd9c2
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '648'
 ht-degree: 4%
 
 ---
 
 
-# Acrobat självstudiekurser {#acrobat-learning}
+# Acrobat Tutorials {#acrobat-learning}
 
 + [Översikt](overview.md)
 + Komma igång {#get-started}
@@ -22,17 +22,17 @@ ht-degree: 4%
    + Lär dig grunderna {#basics}
       + [Allmänt om arbetsytan](getting-started/workspace-basics.md)
       + [Ny Acrobat-upplevelse](getting-started/new-experience.md)
-      + [Arbeta med  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
-      + [Arbeta var som helst med Acrobat webben](getting-started/acrobatweb.md)
+      + [Arbeta med  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
       + [Produktivitet i farten](getting-started/productivity.md)
-      + [Varifrån kommer PDF-filer?](getting-started/where-do-pdfs-come-from.md)
+      + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
    + Arbeta smartare med AI {#ai}
-      + [Upptäck PDF insikter med AI Assistant](getting-started/ai-assistant.md)
+      + [Upptäck PDF-insikter med AI Assistant](getting-started/ai-assistant.md)
       + [Öka teamets effektivitet med PDF Spaces](getting-started/pdf-spaces-legal.md)
       + [Vad är Acrobat Studio?](getting-started/acrobat-studio.md)
-   + Skapa och ordna {#create}
+   + Skapa och organisera {#create}
       + [Skapa en PDF](getting-started/create-pdf.md)
-      + [Kombinera filer till en enda PDF](getting-started/combine-to-pdf.md)
+      + [Kombinera filer till en PDF](getting-started/combine-to-pdf.md)
       + [Ordna sidor](getting-started/organize.md)
       + [Designa en ny sida](getting-started/add-custom-page.md)
       + [Papper till PDF](getting-started/scan-and-ocr.md)
@@ -40,35 +40,35 @@ ht-degree: 4%
       + [Redigera text i en PDF](getting-started/edit-pdf.md)
       + [Redigera grafik i en PDF](getting-started/edit-graphics.md)
       + [Stilisera denna PDF](getting-started/stylize-this-pdf.md)
-      + [Justera layout automatiskt](getting-started/auto-adjust-layout.md)
+      + [Automatisk justering av layout](getting-started/auto-adjust-layout.md)
       + [Konvertera PDF till olika filformat](getting-started/export-pdf.md)
    + Samarbeta och granska {#collaborate}
       + [Samarbeta i realtid](getting-started/collaborate.md)
       + [Kommentera en PDF](getting-started/comment-on-pdf-files.md)
    + Forms, signaturer och skydd {#tools}
-      + [Skapa ifyllbara formulär](getting-started/create-fillable-forms.md)
-      + [Fyll i och signera PDF forms](getting-started/fill-and-sign.md)
-      + [Skydda en PDF-fil med ett lösenord](getting-started/password-protect.md)
+      + [Skapa ifyllningsbara formulär](getting-started/create-fillable-forms.md)
+      + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+      + [Protect en PDF-fil med ett lösenord](getting-started/password-protect.md)
       + [Hämta signaturer](getting-started/signatures.md)
       + [Spåra dina dokument](getting-started/track.md)
 + Tillgänglighetsserie {#accessibility-tutorials}
    + [Översikt](accessibility-series/accessibility-overview.md)
-   + [Vilka och varför hjälpmedelsanpassade PDF-filer ska öppnas](accessibility-series/what-why-accessible-pdf.md)
-   + [Konfigurera arbetsytan](accessibility-series/set-up-workspace.md)
+   + [Vad och varför tillgängliga PDF-filer](accessibility-series/what-why-accessible-pdf.md)
+   + [Konfigurera din arbetsyta](accessibility-series/set-up-workspace.md)
    + [Skapa en tillgänglig PDF från Word](accessibility-series/create-accessible-from-word.md)
    + [Skapa en tillgänglig PDF i Acrobat](accessibility-series/accessible-acrobat.md)
    + [Grunderna i taggning](accessibility-series/basics-tagging.md)
-   + [Inskannade dokument](accessibility-series/scanned-documents.md)
-   + [Skapa hjälpmedelsförberedda formulär](accessibility-series/create-accessible-forms.md)
-   + [Komplex lista](accessibility-series/complex-lists.md)
+   + [Skannade dokument](accessibility-series/scanned-documents.md)
+   + [Skapa tillgängliga formulär](accessibility-series/create-accessible-forms.md)
+   + [Komplexa listor](accessibility-series/complex-lists.md)
    + [Komplexa tabeller](accessibility-series/complex-tables.md)
-   + [Guiden Gör tillgänglig](accessibility-series/make-accessible-action.md)
+   + [Guidad åtgärd för tillgänglighet](accessibility-series/make-accessible-action.md)
 + Avancerade uppgifter {#advanced-tasks}
    + [Översikt](advanced-tasks/advanced-tasks-overview.md)
    + Förbered och förbättra {#prepare}
       + [Komprimera och optimera en PDF](advanced-tasks/reduce.md)
       + [Optimera skannade dokument](advanced-tasks/optimizescan.md)
-      + [Optimera PDF:er för SEO](advanced-tasks/optimizeseo.md)
+      + [Optimize PDF för SEO](advanced-tasks/optimizeseo.md)
       + [Lägga till bokmärken och hyperlänkar](advanced-tasks/bookmarks.md)
       + [Identifiera skillnader mellan två PDF](advanced-tasks/compare.md)
       + [Förbättra din PDF](advanced-tasks/enhance.md)
@@ -83,17 +83,17 @@ ht-degree: 4%
       + [Anpassade kommandon och verktyg](advanced-tasks/custom.md)
 + AI-driven {#ai-powered}
    + [Översikt](ai-powered/ai-overview.md)
-   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Stilisera denna PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Stilisera denna PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Användningsfall {#use-cases}
    + [Översikt](use-cases/use-cases-overview.md)
    + Affärsområde {#lob}
       + [Översikt](use-cases/lob/finance/finance-overview.md)
       + Ekonomi {#finance}
-         + [Gör ekonomiska rapporter till verksamhetsklara insikter](use-cases/lob/finance/finance-insights.md)
+         + [Förbereda verksamhetsklara finansiella dokument från insikt till leverans](use-cases/lob/finance/finance-insights.md)
    + Offentlig myndighet {#gov}
       + [Översikt](use-cases/gov/gov-overview.md)
       + Fem tips för att arbeta var som helst med Acrobat {#tips}
@@ -124,33 +124,33 @@ ht-degree: 4%
    + [Signera ett pappersdokument elektroniskt](60-second/sign.md)
    + [Protect dina PDF-filer med ett lösenord](60-second/protect.md)
    + [Bortredigering: rätt sätt](60-second/redaction.md)
-   + [Dela för kommentarer](60-second/share-comment.md)
-   + [Dela och kommentera PDF-filer i team](60-second/share-comment-teams.md)
-   + [Wrangling PDF comments with Summary](60-second/summarize-comments.md)
-   + [Läs in PDF kommentarer i InDesign](60-second/indesign.md)
-   + [Låt Acrobat hjälpa dig att skapa tillgängliga PDF:er](60-second/accessible.md)
+   + [Dela för att få kommentarer](60-second/share-comment.md)
+   + [Dela och kommentera PDF-filer i Teams](60-second/share-comment-teams.md)
+   + [Wrangling PDF kommentarer med Sammanfatta](60-second/summarize-comments.md)
+   + [Läs in PDF-kommentarer i InDesign](60-second/indesign.md)
+   + [Låt Acrobat hjälpa dig att göra tillgängligt PDF](60-second/accessible.md)
    + [Anpassa en PDF till ett standardformat](60-second/conform.md)
-   + [Upptäck skillnaderna med PDF Compare](60-second/compare.md)
-   + [Sök i flera PDF-filer samtidigt](60-second/search.md)
-+ Kunskapsbyggare {#skill-builders}
+   + [Se skillnaderna med PDF Jämför](60-second/compare.md)
+   + [Söka efter flera PDF-filer samtidigt](60-second/search.md)
++ Kompetensbyggare {#skill-builders}
    + [Webbinarier](skill-builder/skill-builder-webinars.md)
 + Integreringar {#integrations}
    + [Översikt](integrate/integrate-overview.md)
-   + [Skapa PDF från [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Skapa PDF-filer i [!DNL Office] för webben](integrate/createofficeweb.md)
-   + [PDF i  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Skapa PDF från  [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [Skapa PDF i [!DNL Office] för webben](integrate/createofficeweb.md)
+   + [PDF-samarbete i  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Arbeta med dina [!DNL SharePoint] filer](integrate/acrobatandsp.md)
-   + [Konvertera e-postmeddelanden och bilagor till PDF i  [!DNL Outlook]](integrate/outlook.md)
-   + [Skapa PDF-innehåll när du bläddrar med  [!DNL Microsoft Edge]](integrate/edge.md)
-   + [Skydda PDF-filer med  [!DNL Microsoft Purview Information] känslighetsetiketter](integrate/microsoftsensitivitylabels.md)
+   + [Konvertera e-postmeddelanden och bilagor till PDF om  [!DNL Outlook]](integrate/outlook.md)
+   + [Skapa PDF-innehåll när du surfar med  [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF med  [!DNL Microsoft Purview Information] känslighetsetiketter](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat för  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [Arbeta med filer från [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ Utveckla {#develop}
+   + [Arbeta med filer från  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
++ Framkalla {#develop}
    + [Översikt](develop/develop-overview.md)
 + Driftsätta {#deploy}
    + [Översikt](deploy/deploy-overview.md)
-   + [Viktiga Acrobat DC-produktuppdateringar för ETLA-kunder](deploy/signentitlementchanges.md)
+   + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobilt {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + [Produktivitet i farten](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
-   + [Skanna vad som helst till PDF](mobile/scan-mobile-app.md)
+   + [Produktivitet i farten](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Skanna till PDF](mobile/scan-mobile-app.md)

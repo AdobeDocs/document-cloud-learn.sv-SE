@@ -1,19 +1,37 @@
 ---
-title: Gör finansiella rapporter till verksamhetsklara insikter
-description: Lär dig hur ekonomiteam kan konsolidera ekonomisk information för att snabbt få viktiga prestandainsikter
+title: Förbereda verksamhetsklara finansiella dokument från insikt till leverans
+description: Lär dig hur ekonomiteamen använder Acrobat Studio för att gå från analys till leverans
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Gör ekonomiska rapporter till verksamhetsklara insikter
+# Förbereda verksamhetsklara finansiella dokument från insikt till leverans
 
-Lär dig hur ekonomiteam kan konsolidera ekonomiska rapporter, kalkylblad och stödmaterial i ett enda PDF-utrymme för att snabbt få viktiga prestandainsikter med Acrobat Studio. Använd Acrobat AI Assistant för att analysera trender, validera resultat med spårbara citat och skapa chefsklara sammanfattningar för ledarskaps- och styrelserapporter.
+Lär dig hur ekonomiteamen använder Acrobat Studio för att gå från analys till leverans genom att konsolidera finansiella dokument, samarbeta säkert med intressenter och skapa rapporter och presentationer som är redo för chefer. Det här kompletta arbetsflödet visar hur du får insikter, hanterar granskningar, använder varumärkeskonsekvent design och levererar säkra, revisionsklara ekonomiska material för ledarskap och styrelserapportering. Detta användningsfall är utformat för att slutföras i följd. Varje video bygger på det föregående steget i arbetsflödet.
+
+## Förstå det ekonomiska resultatet
+
+Börja med att konsolidera finansiella dokument och ta fram viktiga insikter för att förbereda information för chefsgranskning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+
+## Samarbeta om ekonomiska rapporter
+
+Samla intressenter för att granska ekonomiskt material, dela feedback och förfina insikter på en säker arbetsyta.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+
+## Skapa presentationer redo för företagsledare
+
+Förvandla validerade insikter till proffsiga presentationer i eget varumärke och säkra finansiella produkter för ledarskap.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
