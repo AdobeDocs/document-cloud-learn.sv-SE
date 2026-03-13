@@ -22,7 +22,7 @@ ht-degree: 4%
    + Lär dig grunderna {#basics}
       + [Allmänt om arbetsytan](getting-started/workspace-basics.md)
       + [Ny Acrobat-upplevelse](getting-started/new-experience.md)
-      + [Arbeta med  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Arbeta med  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=sv-SE#microsoft)
       + [Arbeta överallt med Acrobat web](getting-started/acrobatweb.md)
       + [Produktivitet i farten](getting-started/productivity.md)
       + [Var kommer PDF ifrån?](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 4%
       + [Anpassade kommandon och verktyg](advanced-tasks/custom.md)
 + AI-driven {#ai-powered}
    + [Översikt](ai-powered/ai-overview.md)
-   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Stilisera denna PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Upptäck PDF-insikter med AI Assistant](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Öka teamets effektivitet med PDF Spaces](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Vad är Acrobat Studio?](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Redigera grafik i en PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Stilisera denna PDF](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Användningsfall {#use-cases}
    + [Översikt](use-cases/use-cases-overview.md)
    + Affärsområde {#lob}
@@ -152,5 +152,5 @@ ht-degree: 4%
    + [Viktiga produktuppdateringar för Acrobat DC för ETLA-kunder](deploy/signentitlementchanges.md)
 + Mobilt {#mobile}
    + [Översikt](mobile/mobile-overview.md)
-   + [Produktivitet i farten](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Produktivitet i farten](https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Skanna till PDF](mobile/scan-mobile-app.md)
