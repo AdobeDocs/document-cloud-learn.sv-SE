@@ -1,22 +1,23 @@
 ---
-title: Från insikt till effekt - Effektivisera HR-arbetsflöden
+title: Från insikt till effekt - effektivisera introduktionsarbetsflöden
 description: Upptäck hur HR-team använder Acrobat Studio för att effektivisera medarbetarnas introduktion från början till slut
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# Från insikt till effekt: Effektivisera HR-arbetsflöden
+# Från insikt till påverkan: Effektivisera introduktionsarbetsflöden
 
 Upptäck hur HR-team använder Acrobat Studio för att effektivisera medarbetarnas introduktion från början till slut. Lär dig hur du förvandlar komplexa introduktionsdokument till tydliga insikter, samarbetar med intressenter i PDF Spaces och skapar snyggt varumärkesinnehåll som är redo att delas med nyanställda - snabbare, mer konsekvent och med tillförsikt. Detta användningsfall är utformat för att slutföras i följd, med varje video byggnad på föregående steg.
 
-**Bäst för:** HR-ledare, HR-verksamhet och affärspartners, onboarding- och Employee Experience-team och alla som ansvarar för att granska, samarbeta om eller skapa HR-material som vänder sig till de anställda.
+**Bäst för:** HR-ledare, HR-verksamhet och affärspartners, onboarding- och Employee Experience-team och alla som förbereder HR-material för anställda eller ledare.
 
 ## Steg 1. Omvandla registreringsdokument till tydliga insikter
 
@@ -37,4 +38,3 @@ Feedbacken är klar och innehållet är redo att levereras. Se hur Acrobat Studi
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Du har nu en upprepningsbar process för att analysera, granska och leverera medarbetarförberedda dokument med Acrobat Studio.
-
