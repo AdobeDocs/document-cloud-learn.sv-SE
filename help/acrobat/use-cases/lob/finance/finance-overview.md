@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20533
 exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
-source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
+source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Utforska finansspecifika arbetsflöden som visar hur Acrobat stöder dokumentgen
 
 >[!TAB Förvandla ekonomiska rapporter till insikter redo för verkställande]
 
-Lär dig hur ekonomiteam kan konsolidera ekonomisk information för att snabbt få fram viktiga resultat [insikter](finance-insights.md).
+Lär dig hur ekonomiteam kan konsolidera ekonomisk information för att snabbt få fram viktiga resultat [och presentationer som är redo för verkställande.](finance-insights.md)
 
 >[!ENDTABS]
 
