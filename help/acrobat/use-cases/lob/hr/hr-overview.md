@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20534
 exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Utforska hur HR-teamen använder Acrobat för att hantera dokument och arbetsfl�
 
 >[!BEGINTABS]
 
->[!TAB Från insikt till effekt: Effektivisera HR-arbetsflöden]
+>[!TAB Från insikt till påverkan: Effektivisera introduktionsarbetsflöden]
 
 Upptäck hur HR-team använder Acrobat Studio för att effektivisera medarbetarnas introduktionsinnehåll från [insikt, samarbete till varumärkesanpassad leverans](hr-insights.md).
 

@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Insikter är nu klara för teamets granskning. Läs mer om hur PDF Spaces ordnar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Steg 3. Skapa presentationer redo för företagsledare
+## Steg 3. Skapa engagerande introduktionsinnehåll för nyanställda
 
 Feedbacken är klar och innehållet är redo att levereras. Se hur Acrobat Studio använder AI- och varumärkta mallar för att snabbt skapa presentationer och material som är klara för anställda och som är enkla att dela och uppdatera.
 
