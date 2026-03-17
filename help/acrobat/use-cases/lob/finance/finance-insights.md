@@ -23,7 +23,7 @@ Se hur ekonomiteamen använder Acrobat för att hantera ekonomiska dokument frå
 
 Börja med att konsolidera finansiella dokument och ta fram viktiga insikter för att förbereda information för chefsgranskning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481427?captions=swe&quality=12&learn=on&hidetitle=true)
 
 ## Steg 2. Samarbeta om ekonomiska rapporter
 
