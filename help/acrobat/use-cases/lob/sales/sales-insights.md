@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 2%
 
 Lär dig hur säljteam kan samla kundinsikter, samarbeta i en delad arbetsyta och omvandla validerad information till presentationer och förslag som passar varumärket - snabbare och med större förtroende. Detta användningsfall är utformat för att slutföras i följd, med varje video byggnad på föregående steg.
 
-**Bäst för:** Bäst för: HR-ledare, HR-verksamhet och affärspartners, onboarding- och Employee Experience-team och alla som förbereder HR-material för anställda eller ledare.
+**Bäst för:** Kontoansvariga, säljchefer, säljteam och alla som förbereder kundinriktat säljmaterial för möten, presentationer eller offerter.
 
-## Steg 1. Omvandla registreringsdokument till tydliga insikter
+## Steg 1. Förstå dina kunder med AI-baserade insikter
 
 Börja med att lära dig samla in kunddokument, analysera nyckelinformation och använda AI-drivna sammanfattningar och insikter för att förstå kundernas behov och förbereda dig för mer effektiva säljkonversationer.
 
@@ -36,4 +36,4 @@ Feedbacken är klar och innehållet är redo att levereras. Lär dig hur du för
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-Nu har du en upprepningsbar process för att förstå kunder, samarbeta med intressenter och leverera säljklara presentationer och förslag med Acrobat Studio.Y
+Nu har du en upprepningsbar process för att förstå kunder, samarbeta med intressenter och leverera säljklara presentationer och förslag med Acrobat Studio.
