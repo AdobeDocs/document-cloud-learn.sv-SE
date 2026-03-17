@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,14 @@ Upptäck hur team inom olika verksamhetsområden använder Acrobat för att hant
     <br>
   </td>
   <td>
-        <img alt="Avgränsare" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="lob/sales/sales-overview.md">
+      <img alt="Försäljningsanvändningsfall" src="../assets/use-case-sales.png" />
+    </a>
+    <div>
+    <a href="lob/sales/sales-overview.md"><strong>Försäljningsanvändningsfall</strong></a>
+    </div>
+    <em>Lär dig hur säljteam går från insikt till påverkan genom smartare samarbete och snabbare skapande av innehåll.</em>
+    <br>
   </td>
   <td>
         <img alt="Avgränsare" src="../assets/Whitespacer.png" />
@@ -65,8 +70,8 @@ Upptäck hur team inom olika verksamhetsområden använder Acrobat för att hant
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat för myndigheter" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat för myndigheter"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat för myndigheter" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat för myndigheter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,11 +79,11 @@ Upptäck hur team inom olika verksamhetsområden använder Acrobat för att hant
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat för myndigheter">Acrobat för myndigheter</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat för myndigheter">Acrobat för myndigheter</a>
                     </p>
                     <p class="is-size-6">Utforska våra Acrobat-självstudiekurser som är särskilt utformade för statliga och lokala myndigheter</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/sv/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Utforska självstudiekurser</span>
                 </a>
             </div>
