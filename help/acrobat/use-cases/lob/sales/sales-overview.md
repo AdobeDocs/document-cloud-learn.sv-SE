@@ -1,11 +1,12 @@
 ---
 title: Översikt över användningsfall för Acrobat Sales
-description: Lär dig hur säljteam går från insikt till påverkan genom smartare samarbete och snabbare skapande av innehåll.
+description: Lär dig hur säljteam går från insikt till påverkan genom smartare samarbete och snabbare innehållsskapande
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
+source-git-commit: 9f20c7f0dc345eba6b9deb22e2b365d1f7911b04
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -26,7 +27,7 @@ Lär dig hur säljteam kan samla [kundinsikter, samarbeta och generera presentat
 
 >[!ENDTABS]
 
-## Självstudiekurser om HR-användningsfall
+## Självstudiekurser om försäljningsanvändningsfall
 
 <table style="table-layout:fixed">
 <tr>
