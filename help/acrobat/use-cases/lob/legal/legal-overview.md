@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Översikt över juridiska användningsfall i Acrobat
 
-Lär dig effektivisera juridiska granskningar genom att sammanföra dokumentanalys, samarbete och innehållsskapande i ett säkert, styrt arbetsflöde.
+Gör det möjligt för juridiska team att gå snabbare fram, minska riskerna och bibehålla kontrollen över varje steg av dokumentgranskning och -leverans.
 
 ## Nyheter
 
