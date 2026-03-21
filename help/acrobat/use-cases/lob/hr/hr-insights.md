@@ -23,18 +23,18 @@ Upptäck hur HR-team använder Acrobat Studio för att effektivisera medarbetarn
 
 Börja med att lära dig hur AI-drivna introduktionsinsikter kan lyfta fram viktig information, ta nästa steg och hjälpa nya anställda att få rätt information vid rätt tidpunkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481488?captions=swe&quality=12&learn=on&hidetitle=true)
 
 ## Steg 2. Granska och anpassa introduktionsmaterial
 
 Insikter är nu klara för teamets granskning. Läs mer om hur PDF Spaces ordnar feedback, kommentarer och uppdateringar så att intressenter kan hålla sig uppdaterade och så att introduktionen går vidare utan e-postkedjor eller versionförväxling.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481525?captions=swe&quality=12&learn=on&hidetitle=true)
 
 ## Steg 3. Skapa engagerande introduktionsinnehåll för nyanställda
 
 Feedbacken är klar och innehållet är redo att levereras. Se hur Acrobat Studio använder AI- och varumärkta mallar för att snabbt skapa presentationer och material som är klara för anställda och som är enkla att dela och uppdatera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481536?captions=swe&quality=12&learn=on&hidetitle=true)
 
 Du har nu en upprepningsbar process för att analysera, granska och leverera medarbetarförberedda dokument med Acrobat Studio.

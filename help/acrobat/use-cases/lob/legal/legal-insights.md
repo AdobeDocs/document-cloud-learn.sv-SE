@@ -22,19 +22,19 @@ Lär dig hur juridiska team använder Acrobat Studio för att analysera komplexa
 
 Börja med att analysera komplexa juridiska dokument, ta fram viktiga ändringar och identifiera risker med AI-drivna insikter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481638?captions=swe&quality=12&learn=on&hidetitle=true)
 
 ## Steg 2. Samarbeta säkert med juridisk granskning
 
 Insikter är nu klara för teamets granskning. Upptäck hur du kan minska e-postkaoset, bibehålla versionskontrollen och samarbeta säkert vid komplexa juridiska granskningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481651?captions=swe&quality=12&learn=on&hidetitle=true)
 
 ## Steg 3. Gör juridiska insikter till verksamhetsklart innehåll
 
 Feedbacken är klar och innehållet är redo att levereras. Lär dig hur juridiska team snabbt utformar riktlinjer, använder varumärkesgodkännande och levererar säkra, tillgängliga PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481662?captions=swe&quality=12&learn=on&hidetitle=true)
 
 Nu har du en upprepningsbar process för att förstå juridiska dokument, samarbeta säkert och skapa tydlig verksamhetsklar vägledning.
 
