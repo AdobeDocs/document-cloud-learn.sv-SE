@@ -1,40 +1,40 @@
 ---
 cloud: Document Cloud
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/se/support/document-cloud.html
+solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/se/acrobat/get-started.html
+getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/se/acrobat/tutorials.html
+tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/document-cloud-learn.sv-SE
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
 index: true
 type: Tutorial
-source-git-commit: 95764e25c3d393b751f52eea5c475add8528ac38
+source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
-# Metadata för intern användning
+# Metadata för internt bruk
 
-Filen metadata.md innehåller metadata på rapportnivå som skickas till användarhandbokens TOC.md-filer i rapporten. Om du vill ändra innehåll i metadata.md för en användarhandbok gör du det i en TOC.md-fil.
+Filen metadata.md innehåller metadata på reponivå som skickas till användarhandbokens TOC.md-filer i repo. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
 
 | metadata | vad den gör |
 |--- |--- |
 | solution-title | Används i artikelrubriken som länk |
-| solution-hub-url | Öppnar helpx-navsidan |
-| solution-icon | Visar lösningsikonen bredvid lösningsrubriken. Inte implementerat ännu |
+| solution-hub-url | Öppnar hubbsida för helpx |
+| solution-icon | Visar lösningsikon bredvid lösningsrubrik. Inte implementerat ännu |
 | getting-started-url | Länk till sidan Komma igång för helpx |
-| tutorials-url | Länk till självstudiekurser på video - antingen helpx- eller KT-självstudiekurser |
-| mini-toc-levels | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
-| git-repo | Anger platsen för huvudrapporten för intern användning |
+| tutorials-url | Länk till videosjälvstudiekurser - antingen helpx-självstudiekurser eller KT-självstudiekurser |
+| mini-toc-levels | Fastställer antalet rubriknivåer som visas i den högra listen. standard är 2 |
+| git-repo | Anger platsen för huvudlagringsplatsen för intern användning |
 
 I filen TOC.md
 
 | metadata | vad den gör |
 |--- |--- |
 | user-guide-title | Används i artikelrubriken som länk |
-| user-guide-url | Öppnar helpx-navsidan |
+| user-guide-url | Öppnar hubbsida för helpx |
