@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # ARKIVERAT
 
-Den här rapporten har migrerats till <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en>.
+Den här rapporten har migrerats till <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.sv-SE>.
